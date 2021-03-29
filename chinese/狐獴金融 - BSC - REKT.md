@@ -1,5 +1,5 @@
 ---
-title:狐獴金融 - BSC - REKT
+title: 狐獴金融 - BSC - REKT
 date: 2021年3月4日
 tags:
   - BSC
