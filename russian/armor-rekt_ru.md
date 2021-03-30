@@ -5,46 +5,45 @@ tags:
   - Armor
   - Azeem
   - rekt
-excerpt: Sometimes armour is not enough. A protocol that offered protection has stabbed its users in the back. Armor is not to be trusted. The team decided to throw away their reputation and put their greed on public display when they refused to pay one of their policyholders after last week's Yearn arb attack.
+excerpt: Иногда брони недостаточно. Протокол, предлагавший защиту, ударил своих пользователей в спину. Armor не заслуживает доверия. Команда решила выбросить свою репутацию на помойку и выставить на всеобщее обозрение свою жадность, когда отказалась платить одному из своих страхователей после арбитражной атаки на Yearn на прошлой неделе.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/header-armor.png
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/header-armor.png)
 
-**Sometimes armour is not enough.**
+**Иногда брони недостаточно.**
 
-A protocol that offered protection has stabbed its users in the back.
+Протокол, предлагавший защиту, ударил своих пользователей в спину.
 
-This is a story of centralised corruption and personal greed interfering with what should be the binary decision making of insurance policy.
+Эта история - о централизованной коррупции и единоличной жадности, одолевших бинарное решение по страховому полису. 
 
-The Armor team decided to throw away their reputation and put their greed on public display when they [refused](https://twitter.com/kferretcrypto/status/1358248078931730432?s=20) to pay one of their policyholders after last week's [Yearn arb attack](https://rekt.eth.link/yearn-rekt/).
+Команда проекта Armor решила выбросить свою репутацию на помойку и выставить на всеобщее обозрение свою жадность, когда [отказалась](https://twitter.com/kferretcrypto/status/1358248078931730432?s=20) платить одному из своих страхователей после [арбитражной атаки на Yearn](https://rekt.eth.link/yearn-rekt/) на прошлой неделе.
 
-**Constant contradiction by team members and ambiguous statements in the official documentation make Armor appear to be either totally incompetent, or an intentional scam, as they try their hardest to avoid a $1.6 million payout.**
+**Из постоянных противоречивых заявлений со стороны команды и двусмысленностей в официальной документации складывается впечатление, что Armor либо полностью некомпетентны, либо это спланированная афера, так как они из кожи вон лезут, лишь бы избежать выплаты $1.6 миллионов.**
 
-While the CEO of Armor; Azeem claimed that staked arNFTs would continue to provide the staker with insurance against hacks, the fine print seems to say otherwise, as one user had the unpleasant surprise of finding out.
+Azeem, генеральный директор Armor, утверждал, что arNFT и в стакинге будут все так же защищать стакующего страховкой от хакерских атак. Однако, каков был неприятный сюрприз одного из пользователей, когда он обнаружил обратное, написанное мелким шрифтом.
 
-**In addition to the lies and deception detailed below, there is [on-chain evidence](https://twitter.com/Luciano_vPEPO/status/1358276206693670913?s=20) that Armor stole the insurance NFT from kferrret before restaking it using their own contracts and submitting the claim for themselves.**
+**В дополнение к лжи и обману, подробно описанным ниже, [в сети есть доказательства](https://twitter.com/Luciano_vPEPO/status/1358276206693670913?s=20) того, что Armor украла страховой NFT у kferrret. А затем повторно отправили его в стакинг, используя свои собственные контракты и подавая заявку на выплату себе.**
 
 ---
 
-**In September 2020, the user [@kferretcrypto](https://twitter.com/kferretcrypto/status/1358248078931730432?s=20) purchased cover #1804 from Nexus Mutual.**
+**В сентябре 2020 пользователь [@kferretcrypto](https://twitter.com/kferretcrypto/status/1358248078931730432?s=20) приобрел страховку #1804 у Nexus Mutual.**
 
-Following [the advice](https://twitter.com/kferretcrypto/status/1358255724594253824?s=20) of Armor CEO Azeem, kferret staked the token representing #1804 in Armor, believing that if needed, the token could be unstaked and used to claim the insurance payout.
+kferret отправил в стакинг токен страховки №1804 в Armor, следуя [совету](https://twitter.com/kferretcrypto/status/1358255724594253824?s=20) генерального директора Armor - Azeem. Он был уверен, что в случае необходимости токен можно будет вернуть из стакинга и использовать для запроса выплаты по страховке.
 
-When the Yearn v1 DAI vault was compromised and 11M DAI was lost, this policy gained a value of 1,000 ETH.
+Когда хранилище с v1 DAI проекта Yearn было взломано и 11M DAI были потеряны, эта страховка стала стоить 1000 ETH.
 
-**Azeem and the Armor team then stated that as the policy token was staked, kferret was not able to claim the 1,000 ETH payout, and that the funds would instead go to the “Armor Treasury Reserve”.**
+**Azeem и Armor тогда заявили, что раз страховой токен был в стакинге, то kferret не мог требовать выплаты 1,000 ETH. Вместо этого средства пойдут в резерв “Armor Treasury Reserve”.**
 
-Armor have released an [official response](https://docs.google.com/document/d/1LS8UpYgZrbgkBXho39pCW4mB-MEpzA2q7z8A-gcrWQc/edit) to kferret (named as x7044).
-We asked kferret if they were happy with the official response.
+Armor опубликовал [официальный ответ](https://docs.google.com/document/d/1LS8UpYgZrbgkBXho39pCW4mB-MEpzA2q7z8A-gcrWQc/edit) пользователю kferret (под названием x7044). Мы спросили у kferret, доволен ли он официальным ответом.
 
-> "I am certainly not happy with how Armor has handled the situation. I think it is totally unacceptable that the CEO of Armor would make statements in order to induce people to stake valuable assets, promising us that we get to keep the benefits of the cover NFTs and could withdraw and claim at any time during this phase of the project. I deposited my cover NFTs relying on this information. All of a sudden after my cover NFT became very valuable, they suddenly decided that the CEO's words don't have any effect.
+> "Мне конечно же не нравится, как Armor повели себя в этой ситуации. Я считаю абсолютно неприемлемым то, что генеральный директор Armor делает заявления, побуждающие людей отправлять ценные активы в стакинг. Что они обещают нам, что мы сохраним преимущество страховых NFT и сможем вывести и подать заявку на выплату в любой момент на этом этапе проекта. Я вложил свои NFT, опираясь на эту информацию. И вдруг, когда мои страховые NFT поднялись в цене, они решили, что слова гендиректора больше не имеют силы.   
 
-> If the CEO's words don't have any effect, and they can secretly upgrade the staking contract to allow the admin to transfer my NFT out to his personal wallet (this actually happened), and the documentation doesn't reflect the working system but they decide they will selectively enforce a few phrases in their favor that are never presented during the staking process… Well, I don't know how you could describe this as anything other than a scam.
+> Если слова генерального директора ничего не стоят и они втайне обновляют стакинговый контракт, чтобы админ мог перевести мои NFT на свой личный кошелек (так и было в действительности), документация не отражает работу системы и они выборочно меняют несколько предложений в свою пользу и об этом ни слова не говорится во время стакинга… Ну, кроме как мошенничеством я не знаю, как это назвать.
 
-> _They stole $1.6 million belonging to me."_
+> _Они украли принадлежащие мне $1.6 миллионов."_
 
-**The following screenshots are taken from the private chats between kferret and the Armor team.**
+**Следующие скриншоты взяты из личной переписки kferret с командой Armor.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/armor1.PNG)
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/armor2.PNG)
@@ -55,79 +54,75 @@ We asked kferret if they were happy with the official response.
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/armor7.PNG)
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/armor8.PNG)
 
-The following response from umadbruhh can be found [here](https://pastebin.com/dW5ZG2Kd) with comments from kferret.
+Последовавший ответ от umadbruhh с комментариями от kferret можно прочитать [здесь](https://pastebin.com/dW5ZG2Kd).
 
-Following that discussion, Armor issued an official response in which it seems the team backtracked on their initial stance, pictured above. We asked kferret to comment on the official response.
+После этой дискуссии Armor опубликовал официальный ответ в котором команда, похоже, отступила от своей первоначальной позиции. Мы попросили kferret прокомментировать его.
 
-The text in **bold** is taken from Armor's [official response](https://pastebin.com/dW5ZG2Kd).
+**Жирным шрифтом** обозначен текст из [официального ответа](https://pastebin.com/dW5ZG2Kd).
 
-**_"If successful, what do we plan to do with the funds?
-Just last week, Armor launched an industry first Coverage for Coverage Providers, collateralized by the Armor Treasury Reserve. This provides an added layer of protection to the users of the arNXM yield vault to secure it against losses from successful claims at no additional cost."_**
+**_“Что мы планируем делать со средствами, если все получится? Не далее как на прошлой неделе Armor запустил первое в индустрии Покрытие для Страховых провайдеров, обеспеченное резервом Armor Treasury Reserve. Это дает пользователям хранилища доходности arNFM уровень защиты без дополнительных затрат при успешном выводе средств.”_**
 
-**kferret:** _"I have never even heard of this. This is an example of how Armor, without the consent of stakers, decided to change the rules about what they can do with our funds. At no point was I ever informed during the staking flow that I would have a risk of loss of benefits during this phase or that the benefits would be used to provide protection to users of another yield vault. Azeem explicitly stated that since arCore Protect is not active yet, if we need to claim we can claim as normal and the benefits still belong to us."_
+**kferret:** _“Ни разу об этом не слышал. Вот пример того, как Armor принял решение изменить правила обработки средств стакеров без их согласия. Во время стакинга меня вообще не проинформировали о том, что на этом этапе есть риск потерять прибыль, или что прибыль будет использоваться для защиты пользователей другого хранилища доходности. Azeem четко заявил, что, пока arCore Protect неактивен, мы можем выводить средства как обычно в случае необходимости, и прибыль нам по-прежнему причитается.”_
 
-**_"The 1,000 ETH received will flow into the treasury reserve where they will be used to acquire NXM to replenish the burnt stakes in the arNXM yield vault to fully compensate the stakers of the vault. This will replenish any impacts to arNXM:wNXM ratio"_**
+**_“Полученные 1,000 ETH поступят в резерв. С их помощью мы приобретем NXM, чтобы восполнить сгоревшие стаки в хранилище доходности arNXm и полностью возместить всё стакерам хранилища. Это компенсирует любые колебания соотношения arNXM:wNXM.”_**
 
-**kferret:** _I originally offered to set aside a contribution of $100,000 for the purpose of reimbursing some of the losses in this vault. I think this is quite generous. Azeem agreed to this and seemed quite satisfied, directing his co-founder Robert to start the transfer of the NFT back to me. This never happened. Hours later, “Umadbruhh” delivered the letter to me basically saying nothing the CEO says is binding. When is it acceptable that the CEO can just make a deal, and later on decide that nothing he said applies?_
+**kferret:** _Я изначально предлагал отложить сумму $100,000, чтобы была возможность возместить возможные потери в этом хранилище. Я думаю, это достаточно щедро. Azeem согласился, его это вроде как вполне устроило, потому как он поручил своему соучредителю Роберту начать обратный трансфер NFT мне. Этого так и не случилось. Через несколько часов “Umadbruhh” прислал мне письмо, в котором по большому счету говорилось, что слова генерального директора ни к чему его не обязывают. Разве допустимо такое, чтобы генеральный директор заключил сделку, а потом решил отказаться от своих слов?_
 
-> The following is taken from the official letter delivered to kferret from Armor team member “Umadbruhh”
+> Далее следует выдержка из официального письма, отправленного kferret членом команды Armor “Umadbruhh”
 
-**_"Dear x7044, I’m Umadbruhh, co-founder of Armor and responsible for maintaining protocol health. Having discussed this with the team and following the rules as described in our technical documentation, we offer the following resolution."_**
+**_“Уважаемый х7044, меня зовут Umadbruhh, я сооснователь Armor и ответственный за поддержание работоспособности протокола. После коллективного обсуждения и основываясь на правилах, описанных в нашей технической документации, мы предлагаем вам следующее решение.”_**
 
-**kferret:** _"It is important to note that the technical documentation does not reflect the current state of the product. Many, if not most, of the documentation pages at the time contained information that did not reflect the actual working product. Given the complete mismatch, it would be hard to rely on any of the information there. Therefore, I think any reasonable person would expect to be able to rely on the CEO’s statements about how the system is presently working especially if the documentation is largely inaccurate."_
+**kferret:** _“Важно отметить, что техническая документация не отражает текущее состояние продукта. Информация на многие страницах, если не на всех, на тот момент не соответствовала действительности. Учитывая полное несоответствие, было бы сложно полагаться на какую-либо данную там информацию. Поэтому я думаю, что любой разумный человек мог бы ожидать, что сможет положиться на заявления генерального директора о том, как в настоящее время работает система. Особенно если документация в значительной степени неточна.”_
 
-**_"The informal yet caveated conversation you have had with az does not represent the final decision of Armor as it must be subject to the agreement of the team during the governance grace period or the DAO under normal circumstances. Furthermore, the official technical documentation supersedes any informal discussions or statements that may or may not have been misconstrued."_**
+**_“Связаться с az было предусмотрительно с вашей стороны, однако этот неформальный разговор не представляет собой окончательное решение со стороны Armor. Команда должна обсудить это во время льготного периода управления или ДАО при нормальных обстоятельствах. Кроме того, официальная техническая документация превалирует над любыми неформальными обсуждениями или утверждениями, которые могли быть неправильно истолкованы.”_**
 
-**kferret:** _"This is just another way to say that we can’t rely on anything they say, everything they say can be false or invalidated whenever they feel like it. Does that sound like the practices of an organization you really want to trust with staking your assets or buying coverage?"_
+**kferret:** _“Это еще один способ сказать, что на их слова нельзя положиться. Все, что они говорят, может оказаться недействительным или ложным, если им это понадобится. Разве так ведут себя организации, которым хочется доверять свои активы для стакинга или покупать у них страховку?”_
 
-**_"You are fully aware that the way the system works is that users like yourself acquire and stake arNFTs with Armor as suppliers. Once staked, the arNFT does NOT provide coverage to the user as it is now leased to the system in return for compensation in the form of token rewards and/or revshare. (ref - https://armorfi.gitbook.io/armor/products/arnft-coverage-pool/staking-into-arcore)
-“Note: Staked arNFTs do not provide coverage to the user who staked them.”
-Azeem unequivocally clarified that during this stage of the product, while cover brokerage is not active, this is not true and stakers retain coverage and can claim. He confirmed this multiple times."_**
+**_“Вы полностью отдаете себе отчет, что работа системы состоит в том, что пользователи, подобные вам, приобретают arNFT отдают их в стакинг в Armor в качестве поставщиков. Находясь в стакинге, arNFT НЕ обеспечивают страховку пользователю, так как они теперь сданы в аренду системе в обмен на компенсацию в виде токенов и / или распределения доходов. (ссылка - https://armorfi.gitbook.io/armor/products/arnft-coverage-pool/staking-into-arcore)
+“Внимание: arNFT в стакинге не дают право страховки пользователю, отправившему их в стакинг.” Azeem недвусмысленно пояснил, что на данном этапе проекта, пока брокерское покрытие не активно, это недействительно. Стакеры сохраняют страховку и могут выводить средства.”_**
 
-**kferret:** _"This part of the product isn’t launched, they are selectively extracting text related to unlaunched parts of the product and adding arbitrary terms and conditions to justify them doing whatever they want at my expense. No one has bought coverage from Armor. It is also unclear if anything resembling a DAO exists at all at this point."_
+**kferret:** _“Эта часть продукта еще не запущена. Они выбирают отрывки текста о незапущенных продуктах и добавляют условия по своему усмотрению, чтобы оправдать свои произвольные действия за мой счет. Никто не покупал страховку у Armor. К тому же непонятно, существует ли что-то, похожее на ДАО на данном этапе.”_
 
-**_"Armor is the sole stakeholder in this decision because:
-Armor retains all rights to the arNFT when staked, so all claim submission rights and payouts belong to Armor during the period the arNFT is being staked. This includes the 7 day cooldown period after the unstake request has been triggered, which was included to address instances similar to this and to allow Armor DAO to determine the appropriate course of action.
-If the arNFT is allowed to be withdrawn, Armor DAO stands to lose a significant amount of its stake on the yearn contract which will be paid to someone who did not own the rights to this claim. You will appreciate that this is neither ethical nor payable in the circumstances."_**
+**_“Armor является единственным стакхолдером в данном решении, потому что Armor принадлежат все права на arNFT в стакинге. Поэтому, пока arNFT находятся в стакинге, все права на вывод и выплаты принадлежат Armor. Сюда же входит 7-дневный период восстановления после подачи заявки на отмену стакинга. Этот период был добавлен для предупреждения подобных ситуаций и чтобы дать Armor возможность предпринять соответствующие меры. Если будет дано разрешение на вывод arNFT, ДАО Armor потеряет значительную часть своей доли в контракте на прибыль. Доля будет выплачена кому-то, не обладающему правами на вывод средств. Как вы можете предположить, это неэтично и неприемлемо в данных обстоятельствах."_**
 
-**kferret:** _"Just remember, the next time Armor is going to make a decision about your assets, this is going to be their mantra: “Armor is the sole stakeholder”. Armor only looks after Armor. They have clearly demonstrated that now."_
+**kferret:** _“Помните, что в следующий раз, когда Armor соберется принимать решение касательно ваших активов, они будут повторять эту мантру: “Armor является единственным стакхолдером”. Armor заботится только об Armor. Они это ясно дали понять.”_
 
-**_"The normal course of action would have been the claim is made and paid out to the Armor treasury. But since we realise that no material loss has resulted to users of arCore Protect in this hack or anyone covered by this specific arNFT, it is imperative for Armor to determine the best decision for the protocol and community that is fair and justified. Therefore, Armor will claim the payout and use it to provide coverage to stakers in the arNXM yield vault._"**
+**_“При нормальном развитии событий случилось бы следующее. Подана заявка на вывод и средства выплачены казне Armor. Однако мы констатируем, что в результате этой хакерской атаки на arCore Protect пользователи не понесли материальных потерь. Armor обязан принять оптимальное и справедливое решение для протокола и сообщества. Поэтому Armor подаст заявку на выплату и использует ее в качестве страховки для стакеров хранилища доходности arNXM.”**
 
-**_"At the same time however, we would like to come to an amicable understanding with all parties. You are a supporter of Armor for which we are grateful and honored. This is simply one of the reasons we feel you will agree that any decision must be made transparently and should not be made unilaterally or without the existence of any duty, in order to benefit any one specific user at the expense to and indeed of the community."_**
+**_“В то же время нам хотелось бы прийти к дружескому соглашению со всеми сторонами. Вы являетесь сторонником Armor, за что мы вам благодарны. По этой простой причине вы согласитесь с тем, что любое решение должно приниматься прозрачно, не должно приниматься в одностороннем порядке и без каких-либо обязательств с целью принести пользу какому-либо пользователю за счет сообщества.”_**
 
-**kferret:** _"Armor’s definition of coming to an amicable understanding with all parties must mean agreeing to a deal, then totally reneging, then informing me all of the final terms of a completely different new deal in which only Armor got to select all of the terms and I had no say at all. Yes, this certainly sounds like it’s not “made unilaterally”. This is full of meaningless words from “Umadbruhh” that almost seem like taunts given how far from the truth they are."_
+**kferret:** _kferret: “По определению Armor, прийти к дружескому соглашению со всеми сторонами должно означать согласие на сделку, затем полный отказ от нее, а затем информирование меня обо всех окончательных условиях совершенно другой новой сделки, в которой только Armor должен был выбрать все условия, а у меня вообще не было права голоса. Да, это определенно звучит так, будто это не "сделано в одностороннем порядке”. Это бессмысленный набор слов от “Umadbruhh”, который выглядит как насмешка, настолько они далеки от истины.”_
 
 ---
 
-Armor and Azeem came back later with a [tweetstorm](https://twitter.com/AzeemFi/status/1358864601375531008?s=20) that emphasized Armor's right to retain staked arNFTs, and announced that 500,000 ARMOR was offered to kferret in order to mitigate what is claimed to be a misunderstanding.
+Armor и Azeem ответили [шквалом из твитов](https://twitter.com/AzeemFi/status/1358864601375531008?s=20), доказывающих право Armor удерживать arNFT в стакинге. Они объявили, что выплатят kferret 500,000 ARMOR, чтобы смягчить то, что они назвали недоразумением.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/armor9.PNG)
 
-**rekt can confirm that this offer has not been accepted by kferret, who told us the following**
+**rekt может подтвердить, что kferret не принял это предложение. Вот что он нам сказал.**
 
-> kferret: "I have not been in direct conversation with them since that negotiation one when it escalated to a dispute and they delivered to me that letter saying they have the final say on everything. I connected then with my attorney when they started sending me the legalese."
+> kferret: “Я не разговаривал с ними лично после той дискуссии, переросшей в спор. Они тогда прислали мне письмо, в котором говорилось, что последнее слово по всем вопросам остается за ними. Когда они начали присылать мне юридические документы, я связался со своим адвокатом."
 
-> "If they have sent me anything directly since I connected them with my attorney, I haven’t looked at it or responded to it since once they started using legal language against me I didn’t feel comfortable negotiating directly with them anymore. I believe they also banned me from their Discord so if they announced something about me on there I haven’t seen it since then."
+> "“Даже если они и посылали мне лично что-то после того, как я передал дело адвокату, я не смотрел и не отвечал. После того, как они стали обращаться ко мне на официальном языке, мне больше не было комфортно разговаривать с ними напрямую. Я думаю, они забанили меня в своем чате в Discord, поэтому если они что-то и объявляли относительно меня, то я этого не видел."
 
-> "I don’t know if “Umadbruhh” is a lawyer but I am certainly not a lawyer, and that letter they sent me had language that sounded like lawyer speak to me, so I think it’s better to let the lawyers talk to the lawyers."
+> Я не знаю, юрист ли “Umadbruhh”, но я точно не юрист. В том письме, что они мне прислали, мне показалось, что со мной говорит юрист. Поэтому я считаю, что пусть юристы общаются между собой.”
 
-**Offering to return less than a third of what you stole before banning the person from your community is not a "generous offer of goodwill".**
+**Предложить вернуть меньше трети из того, что ты украл, а потом забанил человека в своем сообществе - это не “щедрое предложение доброй воли”.**
 
-Decisions on insurance policies cannot be subject to personal desire, and this is a clear case of the Armor team trying to avoid a payout.
+Решения по страховым полисам не могут зависеть от личного желания, и это явный случай, когда команда Armor пытается избежать выплаты.
 
-This story has shown a centralised entity misleading users about the fate of their funds, while taking unilateral decisions to misappropriate them.
+Эта история показала, как централизованная организация вводит пользователей в заблуждение относительно судьбы их средств, одновременно принимая односторонние решения по их незаконному присвоению.
 
-**Neither Azeem nor Armor can be trusted.**
+**Ни Azeem, ни Armor не заслуживают доверия.**
 
 ---
 
-Armor have a lot of work to regain the trust from their stakeholders.
+Armor придется потрудиться, чтобы вернуть доверие стакхолдеров.
 
-Do the words of a CEO hold no value? When trying to build a community, this is problematic.
+Разве слова генерального директора ничего не стоят? Когда пытаешься построить сообщество, это проблема.
 
-"Don’t trust, verify" must be applied when it comes to working with either Armor or Azeem.
+“Не доверяй, проверяй”, если довелось работать с Armor или с Azeem.
 
-We are not far from the old world where one should always make sure to read the fine print before taking out an insurance policy...
+Недалеко мы ушли от старого мира, где всегда нужно обязательно прочитать мелкий шрифт, прежде чем оформлять страховой полис…
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/armor-bottom.PNG)
