@@ -67,7 +67,7 @@ Reef追踪这笔交易，这显然会激怒另一方。但是，他们这样做�
 
 **[Vance Spencer](https://twitter.com/pythianism/status/1371547131014639616?s=20)（风投资本家）说：**
 
-“如果您想筹集风投本，请从10年持有期并有明确激励措施的风投资本家那里筹集，支持柜台交易只是拉低了风投。”
+> _“如果您想筹集风投本，请从10年持有期并有明确激励措施的风投资本家那里筹集，支持柜台或对冲基金只是拉低了风投。”_
 
 也许他是对的。也许Reef应该更好地了解，而不是期望来自[最](https://cointelegraph.com/news/defi-traders-blame-yfi-price-collapse-on-shorting-by-alameda-research)[野蛮](https://rekt.eth.link/whale-hunt-sbf-blue-kirby/)的交易平台的长期投资 。
 
