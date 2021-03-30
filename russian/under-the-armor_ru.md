@@ -1,247 +1,231 @@
 ---
-title: Under the Armor
-date: 13 Feb 2021
+title: Под броней
+date: 13 февраля 2021
 tags:
   - Armor
   - Azeem
   - kferret
-excerpt:  We live and we learn. Perhaps we were too harsh on Armor. Where there is no regulation, reputation is key, and we were too quick to judge the events based on previous stories involving certain characters. 
+excerpt:  Мы живем и мы учимся. Возможно, мы были слишком суровы с Armor. Там, где нет правил, репутация это всё. Мы слишком быстро вынесли вердикт событиям, развернувшимся в предыдущих историях с участием некоторых персонажей. 
+ 
 banner: https://github.com/RektHQ/Assets/blob/main/images/2021/02/header-under-armor.png?raw=true
 ---
 
 ![](https://github.com/RektHQ/Assets/blob/main/images/2021/02/header-under-armor.png?raw=true)
 
-**We live and we learn.** 
+**Мы живем и мы учимся.** 
 
-Perhaps we were too harsh on Armor.
+Возможно, мы были слишком суровы с Armor.
 
-**Where there is no regulation, reputation is key, and we were too quick to judge the events based on previous stories involving certain characters.** 
+**Там, где нет правил, репутация это всё. Мы слишком быстро вынесли вердикт событиям, развернувшимся в предыдущих историях с участием некоторых персонажей.** 
 
-Our last post left readers without the full story, as we did not provide both versions of the events.
+Наша последняя статья не раскрыла читателям всей истории, потому что мы не рассмотрели версии обеих сторон.
 
-Following our previous article, Azeem from Armor asked to present his arguments against what kferret told us. 
+После публикации нашей предыдущей статьи Azeem из Armor попросил нас представить его аргументы против слов kferret.
 
-**Anyone who has something important to say has a place here on rekt, providing they can evidence their claims.** 
+**rekt предоставит слово каждому, кто хочет сказать что-то важное, при условии, что у вас есть доказательства.** 
 
-We spoke to Azeem to hear his side of the story:
+Azeem рассказал нам о своей версии случившегося:
 
 ---
 
 **rekt:**
 
-_Hi Azeem,
-Lets try and clear things up, we'd like to hear your side of the story.
-Why do you think this case gained so much attention?_
+_Привет, Azeem. 
+Давай попробуем разобраться. Расскажи нам твою версию событий. 
+Почему этот случай привлек столько внимания, на твой взгляд?_
 
 **Azeem:**
 
-How is this unbiased and agnostic? [Link to our article on Twitter](https://twitter.com/RektHQ/status/1359925936880316424?s=19)
+Разве эти статьи можно назвать беспристрастными и агностическими? [Ссылка на нашу статью в Твиттере.]
+(https://twitter.com/RektHQ/status/1359925936880316424?s=19)
 
-Have you read this thread?
+Вы читали эту дискуссию? 
 
 https://twitter.com/RobertMCForster/status/1359226692582010880?s=20
 
 **rekt:**
 
-_It's not (unbiased and agnostic), that's why we're trying to get your side of the story._ 
+_Нет (они не беспристрастные и не агностические), вот почему мы хотим услышать твою версию._ 
 
 **Azeem:**
 
 ![](https://github.com/RektHQ/Assets/blob/main/images/2021/02/notgospel.png?raw=true)
 
-Did the lying ferret ever share this part of the convo with you?
+Лживый хорек показал вам эту чать чата?
 
-I'm not a dictator.
+Я не диктатор.
 
-Ultimately we discovered what he claimed did not match up with on chain data and had to follow correct process or risk deviating from protocol to appease one manipulative whale VC.
-
-**rekt:**
-
-_No he didn't._
-
-_Why is he a liar?_
-
-**Azeem:**
-
-He claimed to rely on my ambiguous (and definitely not meaning what he wants it to mean) messages in discord, when in fact he staked a day before the messages he claimed to rely on. Completely discredits his claims.
-
-We have stood firm against a social media storm that would have taken weaker people down. Surely that shows character and should instill confidence in the team behind Armor.
+В конечном итоге мы обнаружили, что его заявка на вывод не соответствовала данным в цепочке. Нам пришлось выбирать между следовать процедуре по правилам или рисковать отклониться от протокола, чтобы успокоить одного венчурного кита-манипулятора.
 
 **rekt:**
 
-_Do you think your reputation had an impact on how the community perceived this case?_
+_Нет, не показал._
+
+_Почему он лжец?_
 
 **Azeem:**
 
-You ask an interesting question. Here's what someone said about [this](https://twitter.com/Nesh_S/status/1359235843399974912?s=19).
+Он сказал, что руководствовался двусмысленными (и уж точно не значащими то, что ему хотелось бы) сообщениями в discord. Хотя на деле от сделал стакинг накануне публикации этих сообщений. Полностью дискредитирует свои утверждения.
+
+Мы устояли перед бурей в соцсетях, которая кого-то послабее сломала бы. Несомненно, это демонстрирует характер и должно вселить уверенность публики в команде Armor.
 
 **rekt:**
 
-_We'd like to hear what you have to say about it._
+_Ты считаешь, ваша репутация пострадала от того, как сообщество восприняло этот случай?_
 
 **Azeem:**
 
-Yes, however I'd like to refrain from further adding opinions
-Instead of dwelling on it we will focus on building and proving the effectiveness of the products being built thru real adoption.
-
-[This](https://twitter.com/ArmorFi/status/1359961712649240583?s=19) is in the last few days.
+Это интересный вопрос. Вот что об [этом](https://twitter.com/Nesh_S/status/1359235843399974912?s=19)говорят.
 
 **rekt:**
 
-_It seems much of your narrative was based on kferret being greedy because he was not affected by the hack and that Armor was acting in the interest of their users, however, in traditional markets, people can buy credit default swaps and profit without being affected by a default._
-
-_Is it the place of an insurance provider to speak out about the morality of how policyholders choose to use their products?_
+_Нам бы хотелось услышать, что ты хочешь сказать по этому поводу._
 
 **Azeem:**
 
-It's not about morality. The system is designed specifically to prevent his kind of actions and he knows it, so he tried to create a social media storm to pressure us into breaking protocol.
-You are missing a key point.
-He claims to have relied on ambiguous statements before he staked, when in fact he staked a day before the statements.
-This discredits his entire argument as he did not in fact rely on those statements at all for staking.
-When staked the coverage is assigned to Armor. This is made clear in the documentation.
-If you want to retain coverage then don't stake.
-There are several other NFTs who were not staked and successfully claimed with no issue.
+Да, однако я хотел бы воздержаться от дальнейшего обмена мнениями. Мы не будем останавливаться на этом, а вместо этого сосредоточимся на разработке и доказательстве эффективности создаваемых продуктов через реальное внедрение.
 
-You keep asking me for opinions and I am giving you facts.
+[Это](https://twitter.com/ArmorFi/status/1359961712649240583?s=19) данные за последние несколько дней.
 
 **rekt:**
 
-_In a public Telegram group you wrote:_ 
+_Кажется, большая часть твоего повествования основана на том, что kferret пожадничал, потому что взлом не затронул его, и Armor встал на сторону своих пользователей. Однако, на традиционных рынках люди могут покупать кредитные дефолтные свопы и получать прибыль, не подвергаясь влиянию дефолта._
 
-_"The rights to the arNFT belong to Armor when staked. That's what it means to stake, across DeFi."_
-
-_Is that a fact or an opinion?_
+_Может ли страховая компания говорить о морали и том, как страхователи предпочитают использовать свои продукты?_
 
 **Azeem:**
 
-Azeem sends us a [guide to staking](https://www.exodus.com/blog/what-is-staking/#head2)
+Здесь речь не о морали. Система создана для того, чтобы не допустить подобные действия, и он это знает. Поэтому он попытался создать бурю в соцсетях, чтобы заставить нас нарушить протокол. Вы упускаете ключевой момент. Он говорит, что опирался на двусмысленные положения до того, как делать стакинг. А на самом деле он сделал стакинг за день до наших заявлений. Это полностью дискредитирует его аргументы, потому что он вообще не опирался на наши положения о стакинге. Страховка в стакинге причитается Armor. Это ясно описано в документации. Хочешь сохранить страховку - не делай стакинг. Есть несколько других NFT, которые не были в стакинге, и их без проблем отозвали.
 
-Azeem sends us [another guide to staking](https://academy.binance.com/en/articles/what-is-staking)
-
-These are in reference to PoS.
-However the key concept of staking is to lock into an agreement for rewards.
-
-Azeem sends us a [third guide to staking](https://www.bitcoinsuisse.com/fundamentals/what-is-staking)
+Вы задаете мне вопросы о точке зрения, я даю вам факты.
 
 **rekt:**
 
-_"The rights to the arNFT belong to Armor when staked. That's what it means to stake, across DeFi."
-Who does staked Ethereum belong to?_
+_В открытой группе в Телеграм ты написал:_ 
+
+_“Во время стакинга права на arNFT принадлежат Armor. Это и есть стакинг, во всех DeFi.”_
+
+_Это факт или мнение?_
 
 **Azeem:**
 
-Azeem sends us a screenshot from [one of his guides](https://www.bitcoinsuisse.com/fundamentals/what-is-staking) to staking.
+Azeem посылает нам [руководство по стакингу](https://www.exodus.com/blog/what-is-staking/#head2).
+
+Azeem посылает нам еще одно [руководство по стакингу](https://academy.binance.com/en/articles/what-is-staking).
+
+Это относится к PoS. 
+Хотя основная идея стакинга состоит в отдаче под залог в обмен на вознаграждение.
+
+Azeem посылает нам третье [руководство по стакингу](https://www.bitcoinsuisse.com/fundamentals/what-is-staking).
 
 **rekt:**
 
-_Do you consider Armor to be a decentralised protocol?_
+_“Во время стакинга права на arNFT принадлежат Armor. Это и есть стакинг, во всех DeFi.” Кому принадлежит Эфириум в стакинге?_
 
 **Azeem:**
 
-If it was centralized then I would have had the authority and dictatorial power to direct others.
-However I did not and do not.
-
-Hence the disclaimer which ferret did not deem convenient to his social pressure campaign to disclose.
-One individual can not unilaterally dictate a response superseded by a protocol with rules which ferret was aware of considering he staked a day prior to ambiguous statements he claimed to rely on, and he continued to leave other NFTs staked after claiming he wouldn't have had he known
-Straight up lies
-While I am providing you real evidence completely discrediting his claims.
+Azeem посылает нам скриншот [одного из своих руководств по стакингу](https://www.bitcoinsuisse.com/fundamentals/what-is-staking).
 
 **rekt:**
 
-_How did a decentralised protocol decide to take the NFT from kferret, as evidenced in the transactions uncovered by [Luciano](https://twitter.com/Luciano_vPEPO/status/1358276206693670913?s=20)?_
+_Ты позиционируешь Armor как децентрализованный протокол?_
 
 **Azeem:**
 
-Do you know how to read on chain data.
-I'll clarify with Luciano actually because he didn't read it correctly either.
+Если бы он был централизованным, у меня было бы право и диктаторская власть управлять другими. 
+Однако, я этого не  делал и не делаю.
+
+Отсюда и заявление об отказе от ответственности, которое хорёк посчитал неудобным раскрывать для своей кампании социального давления. Один человек не может в одностороннем порядке диктовать ответ, когда есть протокол с правилами. Хорёк знал о них, учитывая, что он сделал стакинг за день до двусмысленных заявлений, на которые он якобы полагался. И он продолжал держать другие NFT в стакинге после вывода, чего бы он не сделал в противном случае. Наглая ложь. А я предоставляю вам прямые доказательства, которые полностью дискредитируют его заявления. 
 
 **rekt:**
 
-_Can you clarify with our readers._
+_Почему децентрализованный протокол принял решение забрать NFT у kferret, о чем свидетельствуют транзакции, обнаруженные [Luciano](https://twitter.com/Luciano_vPEPO/status/1358276206693670913?s=20)?_
 
 **Azeem:**
 
-It was never restaked, there was some initial confusion regarding the above and it was sent back, not staked, as best action was deemed to be according to protocol design
-Ferret continued to receive rewards as per design also.
+Вы умеете читать данные в цепи? 
+Я выясню это с Luciano, потому что он тоже неправильно прочитал.
+
+**rekt:**
+
+_Можешь пояснить для наших читателей._
+
+**Azeem:**
+
+Он так и не был снова отправлен в стакинг. Возникла путаница и его отправили назад, а не в стакинг. Мы сочли, что так будет лучше всего для соблюдения устройства протокола. 
+По этой же причине Ferret продолжил получать вознаграждение.
 
 https://twitter.com/ArmorFi/status/1358864172990287877?s=20
 
-This initially intended EOA submission to prevent other ineligible NFTs from being spammed to Nexus by anyone after timestamp submission didn't seem right therefore it was returned in order to execute correct actions as per protocol.
-Any misunderstandings are down to being overly careful and seeking to do the right thing.
-And as reminder (sends links to [RobertMCForster thread](https://twitter.com/RobertMCForster/status/1359226703906623489?s=20) stating that Armor stands to profit a total of $0 from their decisions on this matter).
+Изначально мы предполагали предоставлять ЕОА, чтобы другие неподходящие NFT никто не спамил в Nexus после временной отметки, но это было неправильно. Поэтому его вернули, чтобы сделать все в соответствии с протоколом. Любые недоразумения возникают из-за чрезмерной осторожности и стремления поступать правильно. Напоминаю (дает ссылку на твиты [RobertMCForster](https://twitter.com/RobertMCForster/status/1359226703906623489?s=20), в которых говорится, что Armor получил прибыль $0 после своих решений по этому делу.)
 
 **rekt:**
 
-_If you could go back to the start of this incident, what would you do differently?_
+_Если бы ты мог вернуться назад в начало этого происшествия, что бы ты сделал иначе?_
 
 **Azeem:**
 
-Protocol design is complete however not all fully automated as the complete system is fairly complex and this is why we are in the first couple weeks of a rolling phased launch_
-The misunderstandings are based on human elements.
-What I would do differently, is to have sought to have done absolutely nothing and let the system be executed as designed, which is what was followed in the end
-It's just because of misunderstandings potentially affecting due process that any of this drama happened at all.
+Разработка протокола завершена, хоть он пока и не полностью автоматизирован. Вся система достаточно сложная, поэтому мы проводим скользящий поэтапный запуск в течение первых недель. Причина недоразумений в человеческом факторе. Что я бы сделал иначе, так это попытался бы ничего не делать и позволить системе работать так, как задумано, что и было сделано в итоге. Эта драма вообще произошла только из-за недопонимания. Только это могло повлиять на надлежащую правовую процедуру.
 
-While I understand your readers want to hear what I have to say, this is again, not about who said what. Strongly recommend you review those links as they provide important details to the information shared in this discussion.
-I'm not trying to share my opinion with you, sharing with you the facts.
-Also thanks for asking what would have been done differently, good question.
+Я понимаю, ваши читатели хотят услышать, что я скажу. Но опять же, дело не в том, кто что сказал. Очень рекомендую вам пройтись по ссылкам, потому что они добавляют важные детали к информации в этой дискуссии. Я хочу с вами поделиться не моей точкой зрения, а фактами. Кстати, спасибо что спросили, что бы я сделал по-другому, хороший вопрос.
 
 **rekt:**
 
-_This interview is about "who said what" though. Your comments were used against you by kferret._
+_Тем не менее, в этом интервью мы разбираем “кто что сказал”. kferret использовал твои слова против тебя._
 
-_We'll provide the links, but this is your opportunity to speak directly to kferret and to those who judged you (perhaps too quickly) based on your previous misunderstandings which have led to similar drama._
+_Мы дадим ссылки, но это твоя возможность напрямую обратиться к kferret и к тем, кто осудил тебя (возможно, слишком быстро), основываясь на прошлых недоразумениях, которые привели к такой драме._
 
 **Azeem:**
 
-I disagree with your position of this interview being about who said what.
-It's about one person said X and here's YZ evidence disproving it.
+Не согласен с вашей позицией, что это интервью о том, кто что сказал. 
+Тут скорее “один сказал Х”, и YZ опровержение этого.
 
 **rekt:**
 
-_OK. We want to apologise to you for the way we covered the story._
+_ОК. Приносим тебе наши извинения за то, как мы осветили этот случай._
 
 **Azeem:**
 
-Thank you bud, I do appreciate the apology.
+Спасибо, бро, приятно слышать. 
 
 **rekt:**
 
-_We based our opinion on a preconception and allowed that to interfere with our investigation_
+_Мы взяли за основу предвзятое мнение и позволили ему помешать нашему расследованию._
 
-_Do you have any final message for our readers?_
+_Хочешь сказать что-то напоследок нашим читателям?_
 
 **Azeem:**
 
-I am confident that having seen all the evidence, it will be obvious to the community the grift that kferret has tried to pull with his social media FUD campaign. Based on the overwhelming support we have received, the community realizes and respects the fact that Armor will always follow protocol and stand with our users even in the face of immense pressure from a whale VC. arNFTs are tokenized Nexus Mutual coverage. Holding these arNFTs gives the user the right to claim a payout in the case of a hack. There have already been 3 other successful arNFT claims for the yearn hack by people who did not stake and kept the arNFT for coverage, 10E, 15E, and 100E - the system is actually being used successfully as intended by our users. 
+Я уверен, что, рассмотрев все доказательства, сообществу станет очевиден развод, который kferret пытался устроить с помощью своей кампании страха, неуверенности и сомнений в соцсетях. Мы получили огромную поддержку, а значит, сообщество понимает и уважает политику Armor всегда следовать протоколу и быть на стороне наших пользователей даже перед лицом огромного давления со стороны венчурного кита. arNFT представляют собой токенизированную страховку Nexus Mutual. Пользователь, у которого есть arNFT, может претендовать на выплату компенсации в случае хакерской атаки. Уже было 3 успешных заявки на arNFT после атаки на Yearn, 10Е, 15Е и 100Е. Эти люди не делали стакинг и сохранили arNFT в качестве страховки. Система действительно успешно используется, как и предполагалось.
 
-When arNFTs are staked with Armor, they do NOT provide coverage to the user who staked them as is made absolutely clear in the documentation and there is no doubt that kferret would have been aware of this. He had staked the arNFT with Armor in return for rewards. The user claims my statement led him to believe his arNFT could be unstaked if there was a claim. However, the statement being referred to was not made in response to kferret, or in reference to his specific situation. It also seems the user did not deem it convenient to his FUD campaign to disclose screenshots of messages where I specifically disclaimed my comments directly to him as subject to team approval. The Armor protocol is an independent entity of which I am not a dictator and I cannot make unilateral decisions superseding it. In addition, on-chain data shows I made those statements after the user had already staked. He staked the arNFT knowing the rules. He also claims he would not have staked if he had known better; which he does now, so why is he still staking 2 other arNFTs with Armor? Why does he continue to earn rewards on all 3?
+Когда arNFT находятся в стакинге в Armor, они НЕ обеспечивают покрытие пользователю, который их отправил в стакинг. Об этом совершенно ясно сказано в документации, и kferret несомненно об этом знал. Он отдал свои arNFT в стакинг в Armor в обмен на вознаграждение. Пользователь утверждает, что мои слова заставили его поверить в то, что arNFT можно было забрать из стакинга в случае заявки на вывод. Однако, эти слова не были адресованы kferret и не имели отношения к его ситуации. Похоже также, что пользователь не посчитал нужным обнародовать в своей кампании из страха, сомнений и неуверенности  скриншоты сообщений, в которых я четко выразил отказ от ответственности за свои слова, так как это нужно было решать в команде. Протокол Armor - это независимый субъект. Я в нем не диктатор и не могу принимать односторонние решения в обход него. К тому же, данные в цепи показывают, что те заявления я сделал уже после того, как пользователь сделал стакинг. Он отправил arNFT в стакинг, зная правила. Он говорит, что не стал бы делать стакинг, если бы он лучше разбирался. Ну теперь он в курсе, так почему же у него до сих пор в стакинге в Armor 2 других arNFT? Почему он он продолжает получать вознаграждение со всех 3?
 
-Armor protocol focuses on creating innovative solutions to provide better coverage to all DeFi. Currently, we are in the process of launching the Armor V1 suite. We have already achieved $548m in active coverage, and we have already begun work on the next iteration of Armor which will streamline UX and add a myriad of new features and products.
+Протокол Armor сосредоточен на разработке инновационных решений, чтобы дать лучшую защиту всем DeFi. В настоящее время мы находимся в процессе запуска пакета Armor V1. Мы уже достигли отметки в $548m в активном покрытии, и мы уже начали работу над следующей версией Armor, которая оптимизирует пользовательский интерфейс и добавит множество новых функций и продуктов.  
 
 **rekt:**
 
-_Thank you for your time_
+_Спасибо, что уделил нам время._
 
 ---
 
 ![](https://github.com/RektHQ/Assets/blob/main/images/2021/02/linebreak.png?raw=true)
 
-**Now that we have heard both sides of the story, the outcome is not so clear.** 
+**Теперь, когда мы услышали версии обеих сторон, результат не так уж очевиден.** 
 
-Is kferret a deceptive whale who used the community’s preconception in his favour, or are we being tricked by Armor, who claim to be decentralised yet rule with a human hand?
+Является ли kferret китом, который всех обманул, использовав предвзятое мнение сообщества в своих интересах? Или же нас пытается обмануть Armor, выдающий себя за децентрализованный протокол, а на деле управляется человеческой рукой?
 
-Nobody has come out of this fight unharmed.
+В этой истории все пострадали.
 
-**All parties trusted, yet did not verify, and everyone lost as a result.**
+**Все стороны доверяли, но не проверяли, и в итоге все проиграли.**
 
-Now that all our words are immortalised online, they can easily come back to haunt us. 
+Теперь, когда все наши слова увековечены в сети, они могут запросто снова нас преследовать.
 
-When “who said what” defines who gets what, then even lies are as good as gold. Keen eyed actors use words as weapons, and can build a convincing case that might not tell the whole tale. Creators of decentralised protocols find themselves in a dangerous position of power and influence over funds held in code which is supposed to be self-governed. 
+Когда “кто что сказал” определяет, кто что получит, тогда даже ложь стоит золота. Внимательные актеры используют слова как оружие и могут придумать убедительный рассказ, не раскрывающий всю историю полностью. Создатели децентрализованных протоколов оказываются в опасном положении владения и влияния фондами в коде, который вообще-то задумывался как самоуправляемый.
 
-**As the reader, it is down to you to make your decision on the “right and wrong” of all our stories, which leads us to our final point.**
+**Вам решать, уважаемые читатели, кто “прав” и кто “виноват” во всей этой истории, а мы пришли к следующему заключению.**
 
->In our initial coverage of these events, we let our preconceptions cloud our judgement, which meant we didn’t provide you with both sides of the story. This goes against what we aim to do at rekt, and we apologise if you feel misled by our coverage.
+>В изначальном варианте освещения этих событий мы позволили предвзятости повлиять на наши суждения. Это значит, что мы не предоставили вам версии обеих сторон. Это идет вразрез с тем, что мы делаем в rekt, поэтому приносим вам наши извинения, если наше расследование завело вас в тупик.
 
-By openly admitting our mistakes, we are learning in public, and forcing ourselves to do better.
+Открыто признавая наши ошибки, мы учимся на ходу и заставляем себя становиться лучше.
 
-If you feel you can help us to improve our service, please contact us via [Twitter](https://twitter.com/RektHQ) or [Telegram](https://t.me/Rekt_HQ). 
+Если вы чувствуете, что можете помочь нам улучшить наш сервис, свяжитесь с нами через [Twitter](https://twitter.com/RektHQ) или [Telegram](https://t.me/Rekt_HQ). 
