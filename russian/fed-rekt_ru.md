@@ -1,73 +1,73 @@
 ---
-title: FED - REKT
-date: 25 Feb 2021
+title: ФРС - REKT
+date: 25 февраля 2021
 tags:
   - FED
   - rekt
-  - decentralisation
-excerpt: The US government payment system “Fedwire” got rekt yesterday, preventing them from processing some of the $3 trillion dollars that is supposed to go through their system each day. Decentralise the central bank. Give us a CBDC and we'll decide if we use it or not. 
+  - децентрализация
+excerpt: Американская правительственная платежная система “Fedwire” подверглась rekt вчера. Из-за этого они не смогли обработать что-то около $3 триллионов, обычно ежедневно проходящих через их систему. 
+Децентрализовать центральный банк! Пусть выпустят свой BCDC, а мы решим, использовать его или нет. 
 
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed-rekt-header.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed-rekt-header.png)
 
-**A decentralised digital dollar must seem even more appealing now.**
+**Децентрализованный цифровой доллар теперь должен показаться еще более привлекательным.**
 
-The US government payment system “Fedwire” got rekt yesterday, preventing them from processing some of the $3 trillion dollars that is supposed to go through their system each day.
+Американская правительственная платежная система “Fedwire” подверглась rekt вчера. Из-за этого они не смогли обработать что-то около $3 триллионов, обычно ежедневно проходящих через их систему. 
 
-As well as the Fed automated clearing house service, other systems impacted included Check 21, FedCash, Fedwire and the national settlement service.
+Вместе с основной системой безналичных расчетов Fed пострадали Check 21, FedCash, Fedwire и национальная расчетная служба. 
 
-The FED said that the disruption was due to an [“operational error”](https://apnews.com/article/financial-services-charlotte-f53f2e7289fd21cd9b60be53b09a2359), not an external attack, and were keen to point out that they restored the service within hours. 
+FED заявила, что сбой случился по причине [“технической ошибки”,](https://apnews.com/article/financial-services-charlotte-f53f2e7289fd21cd9b60be53b09a2359), а не внешней атаки, и очень настаивали на том, что работа системы была восстановлена за считанные часы. 
 
-The outage impacted a range of traditional and crypto based financial services, such as [Gemini](https://status.gemini.com/incidents/z2171r1hd8y8), [Kraken](https://status.kraken.com/incidents/2c8706yyj7fg) and [Coinbase](https://status.coinbase.com/incidents/9r8yyy1xr6yn), who were forced to wait for the legacy system to catch up in order to process their fiat transactions.
+Отключение затронуло целый ряд обычных и криптовалютных финансовых сервисов, таких как [Gemini](https://status.gemini.com/incidents/z2171r1hd8y8), [Kraken](https://status.kraken.com/incidents/2c8706yyj7fg) и [Coinbase](https://status.coinbase.com/incidents/9r8yyy1xr6yn). Они вынуждены были ждать, пока устаревшая система восстановится, чтобы обработать свои фиатные транзакции.
 
-The incident was first reported on the [Federal Reserve Services](https://frbservices.org) website. The words below were taken from their status update which has since been removed from the site.
+Сначала об инциденте сообщили на сайте [Службы Федерального Резерва].(https://frbservices.org) Нижеследующие слова были взяты из их статуса, который затем удалили.
 
-**February 24, 2021 12:43 PM Eastern Time**
+**24 февраля 2021, 12:43 по восточному времени**
 
-The Federal Reserve Bank staff is currently investigating a possible issue or disruption to multiple services. We will provide updates as soon as they are available.
+В настоящее время сотрудники Федерального Резервного Банка выясняют возможную проблему или нарушение в работе нескольких служб. Мы будем обновлять информацию по мере её поступления.
 
-**February 24, 2021 1:18 PM Eastern Time**
+**24 февраля 2021, 13:18 по восточному времени**
 
-The Federal Reserve Bank staff is currently investigating a disruption to multiple services. We will continue to provide updates as soon as they are available.
+В настоящее время сотрудники Федерального Резервного Банка выявляют нарушение в работе нескольких служб. Мы будем обновлять информацию по мере её поступления.
 
-**February 24, 2021 2:14 PM Eastern Time**
+**24 февраля 2021, 14:14 по восточному времени**
 
-Beginning around 11:15 a.m. ET, Federal Reserve Bank staff became aware of a disruption for all services.  Our technical teams have determined that the cause is a Federal Reserve operational error.  We will provide updates via service status as more information becomes available.  We acknowledge that payment deadlines are impacted and will communicate remediation efforts to our customers when available.  Thank you for your patience while we work to resolve the issue. 
+В 11:15 ET персонал Федерального Резервного Банка выявил сбой в работе всех служб. Служба технической поддержки определила, что причиной стала техническая ошибка Федерального Резерва. Мы будем обновлять рабочий статус по мере поступления информации. Мы осознаем, что это повлияет на сроки оплаты, и сообщим нашим клиентам о мерах по исправлению ситуации, когда они будут доступны. Мы просим вас проявить терпение на время решения проблемы.
 
-**February 24, 2021 2:17 PM Eastern Time**
+**24 февраля 2021, 14:17 по восточному времени**
 
-The issue impacting Central Bank applications has been resolved and users may resume normal access.
+Сбой в работе приложений Центрального Банка устранен и пользователи могут продолжить работу в нормальном режиме.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed1-big-jpow.png)
 
-**We love big [J Pow](https://www.youtube.com/watch?v=jk1eU_zlf3s) when he comes outta nowhere with the money printer, but we’re not used to this kind of shitshow, even in the antiquated TradFi system.** 
+**Мы любим, когда [J Pow](https://www.youtube.com/watch?v=jk1eU_zlf3s) выскакивает из ниоткуда с печатным станком для денег, но мы не привыкли к такому говношоу, даже в исполнении устаревшей системы TradiFi.** 
 
-All this happened in the same week  that Mr Powell spoke to Capitol Hill about the progress they have made towards a central bank digital currency, but meanwhile, the corporate digital dollar USDT continues to grow stronger. 
+Все это случилось на той же неделе, когда мистер Пауэл рассказывал на Капитолийском холме об их прогрессе в создании цифровой валюты центрального банка. Тем временем, однако, корпоративный цифровой доллар USDT продолжает крепчать.
 
-The currency competition is about to begin. Hypocrisy and desperation can be seen from the politicians who feel that prohibition and heavy handed legislation are the way to solve the “problem” of decentralised currency.
+Соревнование валют вот-вот начнется. От политиков веет лицемерием и безнадежностью, потому что они чуют, что запрет и жесткое законодательство  - вот путь к решению “проблемы” децентрализованной валюты.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed2-inefficient-tweet.png)
 
-**How can the FED compete with Tether, USDC and all the other stablecoins that already exist? Will they attack with brute force, or sneak up and choke them out?**
+**Как может FED конкурировать с Tether, USDC и всеми остальными уже существующими стейблкоинами? Они будут атаковать грубой силой или подкрадутся и задушат?**
 
-An uncertain intensity is growing on both sides. We all know that the days are numbered for the legacy system, but nobody knows how they will deal with the ghostly threat of decentralised currencies. 
-Swinging federal fists into the ether won’t harm us at all, but governments hate humiliation, and this outage has come at a very bad time for the system we want to replace.
+С обеих сторон нарастает неопределенность и напряжение. Мы все знаем, что дни устаревшей системы сочтены, но никто не знает, как они поведут себя перед лицом призрачной опасности децентрализованных валют. Размахивание федеральными кулаками в эфире нас вообще никак не заденет. Но правительства ненавидят унижение, и этот сбой произошел в очень плохой момент для системы, которую мы хотим заменить. 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed3-jpowmeme3.png)
 
-**In a world where traditional finance is so opaque, it is easy to hide these kinds of hiccups.** 
+**В мире традиционных финансов, где все так непрозрачно, подобные заминки легко скрыть.** 
 
-This particular case impacted millions of people and millions of dollars, and unusually it was not hidden from sight. We can only imagine what goes on behind the closed doors of the federal bank. 
+В этом конкретном случае пострадали миллионы людей и миллионы долларов. Но, вопреки правилу, никто не стал этого скрывать. Можем только представить, что же на самом деле происходит за закрытыми дверями федерального банка.
 
-**Decentralise the central bank!**  
+**Децентрализовать центральный банк!**  
 
-This single point of failure is old fashioned, inefficient, and breeds corruption. 
+Один только этот недочет  - старомодный, неэффективный и порождает коррупцию.
 
-**Let them release their CBDC and we’ll decide if we use it or not.**  They’re too late to stop what we’ve started, so they’re going to have to bring something special if they are to make up for lost time.
+**Пусть выпустят свой BCDC, а мы решим, использовать его или нет.**  Уже слишком поздно пытаться остановить то, что мы начали. Поэтому им придется придумать что-то особенное, если они хотят наверстать упущенное время.
 
-The FED got rekt, and not for the first time. No funds were lost, only delayed, but time is money and the clock ticks quicker when your competitors are so far ahead. 
+FED rektнулся, и не в первый раз. Деньги не потеряли, только задержали. Но время - деньги, и часики тикают быстрее, когда твои соперники уже так далеко. 
 
-**Traditional finance has a lot of catching up to do.** 
+**Традиционным финансам придется много нагонять.** 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed4-yellen.png)
