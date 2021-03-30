@@ -18,7 +18,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/fed-
 
 Вместе с основной системой безналичных расчетов Fed пострадали Check 21, FedCash, Fedwire и национальная расчетная служба. 
 
-FED заявила, что сбой случился по причине [“технической ошибки”,](https://apnews.com/article/financial-services-charlotte-f53f2e7289fd21cd9b60be53b09a2359), а не внешней атаки, и очень настаивали на том, что работа системы была восстановлена за считанные часы. 
+FED заявила, что сбой случился по причине [“технической ошибки”,](https://apnews.com/article/financial-services-charlotte-f53f2e7289fd21cd9b60be53b09a2359) а не внешней атаки, и очень настаивали на том, что работа системы была восстановлена за считанные часы. 
 
 Отключение затронуло целый ряд обычных и криптовалютных финансовых сервисов, таких как [Gemini](https://status.gemini.com/incidents/z2171r1hd8y8), [Kraken](https://status.kraken.com/incidents/2c8706yyj7fg) и [Coinbase](https://status.coinbase.com/incidents/9r8yyy1xr6yn). Они вынуждены были ждать, пока устаревшая система восстановится, чтобы обработать свои фиатные транзакции.
 
