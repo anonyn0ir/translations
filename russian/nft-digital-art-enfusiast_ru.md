@@ -4,7 +4,7 @@ date: 19 февраля 2021
 tags:
   - NFT
   - Цифровое искусство
-excerpt: С фермы в галерею. rekt проводит расследование причин ажиотажа вокруг NFT, пробивается через шум и сразу переходит к сути дела в этом специальном выпуске включающем интервью с cryptocobain и cryptopathic.
+excerpt: С фермы в галерею. rekt проводит расследование причин ажиотажа вокруг NFT, пробивается через шум и сразу переходит к сути дела в этом специальном выпуске, включающем интервью с cryptocobain и cryptopathic.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/header-NFT.png
 ---
 
@@ -15,258 +15,260 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/head
 
 Оставь свои говно-монеты пастись на пастбище, глуши мотор в тракторе, теперь ты - художник.
 
-**Современный Дегенерат не хочет ехать в поле и выращивать фудкоины, как его предок. ** 
+**Современный Дегенерат не хочет ехать в поле и выращивать фудкоины, как его предок.** 
 
-He has no interest in 10,000% APY on his bacon tokens, for he is now (_actually_ he always has been) a **Digital Art Enthusiast.**
+Его не волнуют 10,000% годовой процентной доходности с его беконовых токенов. Он теперь (и вообще-то, всегда им был) **Поклонник Цифрового Искусства.** 
 
-Who wants to be seen farming food coins when you can join Soulja Boy, [Lindsay Lohan](https://twitter.com/lindsaylohan/status/1361385743566921734?s=20), and Lil Yachty in the infinitely more respectable Digital Art Industry?
+Кому охота батрачить на фудкоины, когда можно стать вместе с Солджа Бой (Soulja Boy), Лидсей Лохан [Lindsay Lohan](https://twitter.com/lindsaylohan/status/1361385743566921734?s=20), и Лил Яхти (Lil Yachty) частью безмерно более уважаемой Индустрии Цифрового Искусства? 
 
-**For some of these projects, provably scarce is not scarce enough.** 
+**Очевидно, для некоторых из этих проектов редкость - это еще не все.** 
 
-Fools will fish for greater fools, and in this market they won’t wait long. The permissionless nature of crypto means anyone can make a [Pollock](https://www.thoughtco.com/jackson-pollock-biography-4141240) out of themselves creating and trading digital art, but just because you can doesn’t mean you should.
+Дураки будут охотиться на тех, кто еще тупее, и долго ждать на этом рынке не придется. В криптомире можно всё, а это значит, что каждый может сделать из себя [Поллока,](https://www.thoughtco.com/jackson-pollock-biography-4141240) создавая и продавая цифровое искусство. Но то, что ты просто можешь это сделать еще не значит, что ты должен.
 
-In financial economics, the efficient-market hypothesis (EMH) states that asset prices reflect all available information. That means that [this gif](https://opensea.io/assets/0xf4680c917a873e2dd6ead72f9f433e74eb9c623c/7) of a twerking cartoon dog is worth seven thousand four hundred dollars (not investment advice).
+В финансовой экономике есть гипотеза эффективного рынка (ЕМН), суть которой в том, что ценность актива отражает всю доступную информацию. Это значит, что вот [этот гиф](https://opensea.io/assets/0xf4680c917a873e2dd6ead72f9f433e74eb9c623c/7) с изображением тверкающей мультяшной собаки стоит семь тысяч четыреста долларов (не является советом для инвестиций).
 
-In the past twelve months, Ethereum has gone up in value by 714%, Bitcoin has gone up by 459%, and the fundamental value proposition of why we should pay $200 to mint the word [“Nonce”](https://unipangram.io/) onto the blockchain has never been more apparent. 
+За последние двенадцать месяцев Эфир вырос в цене на 714%, а Биткоин - на 459%. Фундаментальное ценностное предложение заплатить $200, чтобы вчеканить слово [“Nonce”](https://unipangram.io/) в блокчейн никогда не было более очевидным. 
 
-**We are living in the golden age of money laundering.** 
+**Мы живем в золотом веке отмывания денег.** 
 
-NFTs finally allow people to **prove** they liked something before it was cool. 
+NFT наконец-то дали людям возможность **показать**, что им что-то понравилось до того, как это стало модным.  
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/interlude1-NFT.png)
 
-**When Gary Vee tweets [“Nft”](https://twitter.com/garyvee/status/1360427375796908032?s=20), then it must be time to buy.** 
+**Если Гари Ви (Gary Vee) пишет в Твиттере [“Nft”](https://twitter.com/garyvee/status/1360427375796908032?s=20), то пора покупать.** 
 
-When headlines tell us:
+Когда пишут в заголовках:
 
-**“Lil Yachty Collectible Fetches $16K in String of High-Profile NFT Auctions”** 
+**“Коллекционные вещи Лила Яхти собрали $16K на череде высокопрофильных аукционов NFT”** 
 
-Perhaps the time has come to ask ourselves - _just how long is a piece of string?_ 
+Может, пришло время спросить себя - _а сколько веревочке-то виться?_
 
-There’s no doubting that this technology will revolutionise content creation, and it makes sense that an increasingly online world would begin to assign more value to digital assets, however, the current level of hype plus the vapid celebrity endorsements is at least tiring if not reminiscent of a market top…
+Никто не сомневается, что эта технология революционирует создание искусства. Для мира, все больше переходящего в онлайн, логично придавать больше ценности цифровым активам. Но такая шумиха и банальная поддержка знаменитостями как минимум утомляют, а как максимум предзнаменуют пик рынка…
 
-**The tech is here to stay, but Lindsay Lohan is not.** 
+**Технология останется, а Линдсей Лохан - нет.** 
 
-How do we filter the signal from the noise and assess the worth of new NFT projects?
+Как отличить пустой звук от стоящего актива в новых NFT-проектах?
 
-As the value of art is so subjective, it is much harder to predict how these digital assets will be received. Hashmasks was an instant success, yet Cryptopunks were not received with anywhere near the same amount of hype when they were released in June 2017. The market conditions were similar, but perhaps people weren’t yet ready to understand the importance, or the utility, of digital assets.
+Ценность искусства очень субъективна, поэтому намного труднее предугадать, какой прием окажут этим цифровым активам. Hashmasks мгновенно стали популярными, а Cryptopunks во время релиза в 2017 году даже близко не повторили их успех. Условия на рынке были такими же. Но, возможно, люди еще не были готовы понять важность, ну или полезность цифровых активов. 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/punk4156.png)
 
-In the current market, Cryptopunks such as Punk 4156 shown above sell for up to 650 ETH (($1,245,633.99 USD), and [Hashmasks](https://www.rekt.news/hype-and-hashmasks/) have quickly established a solid price floor, with the 90 day average sale price at a respectable [2.3203 ETH](https://opensea.io/activity/hashmasks), ($6359 at publish) and the [NFTX Mask index price](https://www.coingecko.com/en/coins/nftx-hashmasks-index) developing a strong technical support line at ~$3000 USD.
+Сейчас на рынке Cryptopunks, такой как вот этот Punk 4156 на изображении выше, продается за 650 ETH ($1,245,633.99 USD). [Hashmasks](https://www.rekt.news/hype-and-hashmasks/) быстро установили стабильную минимальную цену, продержавшуюся 90 дней в среднем при продаже на достойном уровне [2.3203 ETH](https://opensea.io/activity/hashmasks), ($6359 в момент публикации). [NFTX Mask index price](https://www.coingecko.com/en/coins/nftx-hashmasks-index) развил сильную линию технической поддержки на уровне ~$3000 USD.
 
-The launch of Hashmasks introduced new concepts to the industry. Their Name Changing Token, [NCT](https://www.coingecko.com/en/coins/name-changing-token) has a market cap of over $4.5 million, yet around the time of their launch on Feb 4th, [research](https://medium.com/flipsidecrypto/hashmasks-nct-token-is-straying-away-from-its-intended-purpose-bd130a741825) showed that 30% of newly minted NCT was owned by addresses that didn’t even own a Hashmask. The ease of trading and their close proximity to financial focus crypto assets means NFT art seems to attract even more speculators than the traditional art industry.
+Запуск Hashmasks ввёл новые понятия в индустрию. Рыночная капитализация их токена [NCT](https://www.coingecko.com/en/coins/name-changing-token), Name Changing Token, составляет $4.5М. Однако, в момент их запуска 4 февраля [исследование](https://medium.com/flipsidecrypto/hashmasks-nct-token-is-straying-away-from-its-intended-purpose-bd130a741825) показало, что 30% новых отчеканенных NCT принадлежали адресу, не имевшему отношения к Hashmasks. Это значит, что легкостью торговли и своей близостью к крипто-активам в центре финансового внимания NFT привлекают еще больше спекулянтов, чем традиционная индустрия искусства.
 
-**NFTs bridge the gap between the on and off-chain worlds.** With the arrival of projects such as [Tinlake](https://centrifuge.io/products/tinlake/), it’s not just gamers and creators who will benefit, but diversified financial investors, as decentralised asset financing will allow them to use their rarest Pepe to help finance the construction of [family homes](https://tinlake.centrifuge.io/pool/0x53b2d22d07E069a3b132BfeaaD275b10273d381E/new-silver-2).
+**NFT прокладывают мост над пропастью между мирами он-чейн и офф-чейн.** Появление таких проектов как [Tinlake](https://centrifuge.io/products/tinlake/) сулит прибыль не только геймерам и артистам, но и всевозможным финансовым инвесторам. Децентрализованное финансирование активов даст им возможность использовать их редчайшие Pepe, чтобы помочь финансировать постройку [домов](https://tinlake.centrifuge.io/pool/0x53b2d22d07E069a3b132BfeaaD275b10273d381E/new-silver-2).
 
-**Actively managed NFT hedge funds such as Blackpool Finance** _(part of the rekt news family)_ are able to not only hold the NFTs but also maximise their returns by using them in-game with dedicated managers: from farming SLPs in Axie Infinity to participating in SO5 fantasy leagues on Sorare.
+**Хеджевые фонды с активным управлением, такие как Blackpool Finance** _(часть семьи rekt news)_ могут не только держать NFT, но и давать максимальный оборот с них, используя их в игре на специальных менеджерах. Это может быть фарминг SLP на Axie Infinity или участие в фантастических лигах S05 на Sorare.
 
-When you can earn yield by lending your character skins or use your legendary weapons as collateral to purchase different game assets, then the scope for interoperability and monetisation of gaming will explode.
+Когда появится возможность зарабатывать, сдавая в аренду скины героев или отдавать свое легендарное оружие под залог при покупке игровых атрибутов, тогда возможности взаимодействия и монетизации гейминга взорвутся. 
 
-**However, not all NFT use cases will be so wholesome...**
+**Не все варианты использования NFT будут полезными...**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/google-result-NFT.png)
 
-**That won’t take long to change.**
+**Это скоро изменится.**
 
-The nefarious use cases of NFTs are quickly becoming apparent. Accusations of money laundering, wash trading, and even [terrorist financing](https://www.issworldtraining.com/ISS_WEBINARS/2020SepTerroristFundraising.htm) have been pointed at all of DeFi and at NFTs in particular.
+Гнусные варианты применения NFT быстро становятся очевидными. DeFi и особенно NFT обвиняют в отмывании денег, фальсификации и даже [финансировании терроризма](https://www.issworldtraining.com/ISS_WEBINARS/2020SepTerroristFundraising.htm).
 
-We tracked down a real life [terrie](http://youtube.com/watch?v=eiWIOKKuyGE) and asked him how he laundered his money.
+Мы выследили настоящего [террорюгу](http://youtube.com/watch?v=eiWIOKKuyGE) и спросили у него, как он отмывал свои деньги.
 
->What we found was shocking. 
+>То, что мы узнали, шокировало нас. 
 
-**“NFT sales are useful to transfer wealth in plain sight, here’s how we do it”**
+**“На первый взгляд, с помощью NTF удобно переводить деньги. Вот как мы это делаем.”**
 
-- **Step 1:** 0x0000 has crypto assets that they cannot bring back in the traditional system for whatever reason, e.g. an address with tainted ETH acquired in a hack.
+- **Шаг 1:** У 0х0000 есть крипто активы, которые он не может перевести назад в традиционную систему по-каким-либо причинам. Например, это адрес с испорченными ETH, полученный в результате хакерской атаки.
 
-- **Step 2:** 0x1111 purchases premium NFTs on a different address and then tries to resell them on an NFT marketplace at a higher price. 
+- **Шаг 2:** 0х1111 покупает NFT высокого качества на другой адрес и пробует продать их по более высокой цене на рынке NFT. 
 
-- **Step 3:** 0x0000 (with dirty funds) bids for NFTs sold by 0x1111 and wins the auction.
+- **Шаг 3:** 0х0000 (использует грязные деньги) подает заявку на NFT, которые продает 0х1111, и выигрывает аукцион.
 
-- **Outcome:** Dirty ETH were cleaned, as 0x1111 cannot be responsible for where the ETH is coming from in a decentralised, permissionless marketplace. 0x1111 has realised a profit, taxable with capital gains.
+- **Итог:** грязные ETH очищены, потому что 0х1111 не несет ответственности за то, откуда берутся EHT на децентрализованном рынке, где всё можно. 0х1111 получил прибыль, облагаемую налогом на прирост капитала.
 
-- **Bonus:** 0x0000  would probably bid on multiple NFTs which don’t all belong to him to reduce chances of getting caught, so there will be real volume as well (which is good for NFTs).
+- **Бонус:** есть вероятность, что 0х0000 подаст заявку на несколько не принадлежащих ему NFT, чтобы снизить риск быть пойманным. Это создаст реальный объем (а это хорошо для NFT).
 
-- **Bonus 2:** If there are significant funds to launder, multiple dirty addresses are used to bid against themselves to fake real interest in the auction. Who knows … you could end up with faking a market and actually selling your NFT to a legit person at an absurd price.
+- **Бонус 2:** Если нужно отмыть много денег, используется много грязных адресов, чтобы подавать заявки на самих себя и таким образом создавать видимость интереса к аукциону. Кто знает… вы можете подделывать рынок и в итоге продать ваши NFT законному лицу по абсурдной цене.
 
-- _**Note:** of course this also happens with traditional art!_ 
+- _**Внимание:** конечно же такое случается и в традиционным искусстве!_ 
 
-**So, as you can see, NFTs don’t just benefit the moral investor,** they’re also a great tool for the tax evader, which could go some way towards explaining some of the sky high valuations we see for these pixelated pieces. 
+**Как видите, не только порядочный инвестор извлекает выгоду из NFT.** Это замечательный инструмент и для тех, кто не платит налоги, что могло бы в некоторой степени объяснить заоблачные расценки этих пиксельных произведений. 
 
-To further our investigation we wanted to talk to some of the more well known faces in the industry, so we tracked down two of the most notorious characters on crypto Twitter…
+Чтобы продолжить наше расследование, мы хотели побеседовать в более известными лицами в индустрии. Мы разыскали двух самых известных персонажей в криптографическом Твиттере…
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/interlude2-NFT.png)
 
 **rekt:** 
 
-_Let's get straight into it - right now the NFT industry is exploding, some projects look set to stay and others definitely don't._
+_Давай сразу к делу - индустрия NFT сейчас на пике, некоторые проекты, похоже, останутся, а другие - нет._
 
-_What's the best and the worst of the NFT space?_
+_Что в мире NFT лучше всего и что хуже всего?_
 
 **Cryptocobain:**
 
-In my opinion the best is a lot of the actually good digital art that is being sold. It seems there is a platform for digital artists to be rewarded for their work, and we're seeing traditional artists enter crypto.
+На мой взгляд, лучшее - это то, что по-настоящему хорошее цифровое искусство продается. Кажется, есть платформа, где цифровые артисты могут получать вознаграждение за свою работу, и традиционные артисты приходят в крипто-мир.
 
-I'm a big fuckrender fan and like spending a lot of time looking at cool digital stuff.
+Я большой поклонник Fvckrender, мне нравится проводить много времени за просмотром классных цифровых вещей.
 
-I also think a lot of the older collectible projects are pretty cool — the obvious eg. Punks. But also Axie and Urbit etc.
+Я также считаю, что многие старые коллекционные проекты довольно круты - очевидные, например. Панки. Но также Axie, Urbit и так далее.
 
-The worst is the rent-seeking Hashmask copycats that are basically alternatives to ICOs. People are buying the "first tier" sale just to flip them. All that shit is going to zero IMO.
+Худшее - это подражатели Hashmask, гоняющиеся за наживой. В основном они представляют собой альтернативу ICO. Люди покупают их на распродажах “первого уровня” только для того, чтобы скинуть. Мне кажется, все это дерьмо стремится к нулю.
 
 **rekt:** 
 
-_These market conditions plus the hype around NFTs in particular means we're seeing a ton of low quality projects emerging._
+_Условия рынка в сумме с хайпом, особенно вокруг NFT, значат, что мы увидим тонны низкокачественных проектов._
 
-_How do you assess the value of early stage NFT projects?_
+_Как ты оцениваешь молодые проекты NFT?_
 
 **Cryptocobain:**
 
-I am a bit of an NFT noob honestly, so my due diligence process has a non-trivial reliance on asking Cryptopathic if this seems good. That dude has like millions of dollars of CSGO skins and Pokemon cards so he's the collectibles authority in my life.
+Честно говоря, я немного нуб в NFT. Поэтому я всегда осмотрителен и считаю очень важным мнение Cryptopathic, спрашиваю, нравится ли ему. У этого чувака скинов CSGO и карт Покемонов на миллионы, наверное. Поэтому он авторитет в вопросах коллекционирования в моей жизни.
 
-Outside of that: Do I like the art? Do I like the creator? Is there a big audience for this kinda thing, even if I don't personally like it (eg NBA Topshot)? 
+В остальном: Нравится ли мне это произведение? Нравится ли мне автор? Большая ли аудитория у этого типа вещей, даже если мне лично она не нравится (например, NBA Topshot)?
 
-If it's more of a "project" like Punks/Hashmasks, then how do the ponzi economics stack up?
+Если это больше “проект”, как Punks / Hashmasks, то как обстоят дела с экономикой Понци?
 
 **rekt:** 
 
-_Yeah that's a lot of skins... We'll make sure to speak to Cryptopathic._
+_Да, скинов немало… Мы постараемся побеседовать с Cryptopathic._
 
-_How seriously do you take NFTs as an investment?   What percentage of your portfolio do they represent and do you see yourself increasing or decreasing that number in the short term?_
+_Насколько серьезной инвестицией сы считаешь NFT? Какой процент в таоем портфолио они составляют? В ближайшем будущем ты бы скорее увеличил или уменьшил это количество?_
 
 **Cryptocobain:**
 
-For me it is definitely more "fringe". It's a tiny percent of my portfolio (but more than physical art/collectibles!) and it will probably increase.
+Для меня это точно больше “довесок”. В моем портфолио это крошечный процент (но больше, чем материальное искусство или предметы коллекционирования!) и он, возможно, увеличится.
 
-I like to have exposure to NFT as an asset class (eg. NFTX, Muse) rather than picking NFTs from a money/investment side.
+Мне нравится иметь NFT как класс активов (например, NFTX, Muse), а не с выбирать их с точки зрения денег / инвестиций.
 
-But buying/selling NFTs has been way more fun than Uniswap trading. So it's a hobby rather than a job.
+Но покупать-продавать NFT было намного интереснее, чем трейдить на Uniswap. Так что это скорее хобби, чем работа.
 
 **rekt:** 
 
-_What do you think the future holds for NFTs? Any far out predictions?_
+_Как ты думаешь, что ждет NFT в будущем? Какие-нибудь долгосрочные прогнозы?_
 
 **Cryptocobain:**
 
-Huge divide between epic shit being like finding real diamonds and the trash all going to zero.
+Огромный разрыв между эпическим дерьмом, сродни находке настоящего алмаза, а весь мусор сведется к нулю.
 
-Probably a lot more NFT's linked to real world items too — eg. own a physical painting digitally with an open market for it, NFT redeemable.
+Возможно также, что будет еще больше NFT, привязанных к реальным произведениям. Например, владеть физической картиной в цифровом виде на открытом рынке, и иметь возможность выкупить NFT.
 
-Oh also lots more real-artists joining. Banksy NFTs soon.
+Да, и еще присоединятся больше реальных артистов. Скоро появятся Бэнкси-NFT.
 
 **rekt:** 
 
-_Nice talking to you Cobain. Oh, and just one more thing... What's the secret to a great shitpost?_
+_Было здорово с тобой пообщаться, Cobain. О, и еще кое-что… В чем секрет хорошего говно-поста?_
 
 **Cryptocobain:**
 
-All good jokes contain true shit.
+Во всех хороших шутках есть настоящее говнецо.
 
 **rekt:** 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/alphabreak.png)
 
-Any final message for our readers before we track down Cryptopathic?
+_Что-нибудь напоследок для наших читателей, прежде чем мы разыщем Cryptopathic?_
 
 **Cryptocobain:**
 
-You are not going to make it.
+Вы этого не сделаете. 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/interlude3-NFT.png)
 
 **rekt:** 
 
-_Hey Cryptopathic, our friend Cobain over here says you're big on NFTs, is that so?_
+_Привет, Cryptopathic, тут наш друг Cobain говорит, ты хорошо разбираешься в NFT, это правда?_
 
 **Cryptopathic:**
 
-Hey, yeah I've been buying a lot lately :)
+Привет, да, я в последнее время много покупаю :)
 
 **rekt:** 
 
-_He says he comes to you with questions on NFTs.. What’s he been asking you about recently?_
+_Он говорит, что обращается к тебе с вопросами об NFT. О чем он спрашивал недавно?_
 
 **Cryptopathic:**
 
-I've filled him in on what exchanges and communities are big for NFTs (Niftygateway, Opensea) and just general info on what new projects pop up. 
+Я рассказал ему о том, какие биржи и сообщества важны для NFT (Niftygateway, Opensea). И кратко о том, какие новые проекты появляются.
 
-I told him about Hashmasks and it seemed to spread like wildfire after he talked about it on Twitter. 
+Я рассказал ему о Hashmasks, он написал об этом в Твиттере и после этого новости разошлись как лесной пожар.
 
 **rekt:** 
 
-_How important do you think that promotion was to the success of Hashmasks?_
+_Hасколько важным было продвижение для успеха Hashmasks?_
 
 **Cryptopathic:**
 
-I think the sale would have gone on for at least a few more days - the awareness of Hashmasks only spread by word of mouth and the rate they were selling really took off after he talked about it. 
+Я думаю, продажи заняли бы еще несколько дней. Информация о Hashmasks передавалась только из уст в уста. Цена, по которой они продавали, реально взлетела после того, как он о них написал.
 
-A lot of people look to him for trading advice so when they saw he was getting in on it, it was a good opportunity to make money. 
+Многие люди обращаются к нему за советом по трейдингу. Поэтому, когда они увидели, что он участвует в этом, это была хорошая возможность заработать.
 
 **rekt:** 
 
-OK, enough about him! 
+_Ну все, хватит о нем!_
 
-_You're one of the most respected voices in the NFT space right now._
+_Ты сейчас один из самых уважаемых критиков NFT._
 
-_With so much hype, plus the added subjectivity when valuing art-based products, how do you go about assessing the value of early stage NFT projects?_
+_При таком количестве ажиотажа плюс добавочной субъективности в оценке произведений искусства, как ты рассматриваешь молодые проекты NFT?_
 
 **Cryptopathic:**
 
-So the branding and community around something is the most important thing, that or the reputation of the artist, but in early stage projects this may not exist. I heard about masks, for example, from a friend who has been deep into NFTs for a while and had made some good investments, so that gave me some confidence that it would do well. But beyond that, Hashmasks had a very complex system of rarities and a sense of mystery to the whole project, something that hadn't really been done with collectible art NFTs. Not knowing what mask you would get and having all these secrets to be discovered made it really exciting, and also meant as a trader that you could make money by doing research and gaining an information advantage over other people in order to snipe sales of rare masks that may not be so obvious at first glance.
+Самое важное в каком-то деле - это брэндинг и сообщество, ну или репутация артиста. Но в молодых проектах этого может и не быть. Например, о масках мне рассказал друг, который уже давно подробно изучал NFT и сделал несколько хороших вложений. Он убедил меня в том, что из этого может быть толк. Но помимо этого, у Hashmasks была очень сложная система редкостей, и весь проект был покрыт загадкой. Это то, чего не было у NFT коллекционного искусства. Все это было очень интересно: разгадывать все эти секреты и не знать, какую маску получишь. Для трейдера это значило, что вы могли зарабатывать деньги, проводя исследования и получая информационное преимущество, чтобы охотиться за продажами редких масок. А это не так просто, как кажется.
 
-I think even if there isn't some grand puzzle behind Hashmasks then it's still a winner because the community behind it is huge and it has inspired a lot of people to be interested in NFTs or make their own. That's a "story" behind an artwork or collectible, and that's what's really valuable!
+Думаю, даже если за Hashmasks не стоит какая-то большая тайна, они все равно лучшие. У них огромное сообщество и они вдохновили множество людей заинтересоваться NFT или создать свои собственные. Это «история» в основе произведения искусства или предмета коллекционирования, и вот что действительно ценно!
 
-There's going to be a lot of similar projects that pop up, I imagine, but from here on success of new projects will probably depend on if they have an existing franchise behind them. Hashmasks and Cryptopunks have communities that exist around them because they were firsts in some aspects, and it's very easy to copy them, so most copycats will not be able to stick around as the market gets saturated.
+Появится еще много похожих проектов, мне кажется. Но теперь их успех будет зависеть от того, стоит ли за ними реальная франшиза. Вокруг Hashmasks и Cryptopunks существуют сообщества, потому что они были первыми в некоторых аспектах. Их очень легко скопировать, но многие копии не смогут ошиваться поблизости, потому что рынок будет пресыщаться.
 
-NBA Topshot is doing exceptionally well as one of the only projects with an official brand behind them, and as you have probably heard there are a lot of celebrities jumping in too. Niftygateway have seen some incredible returns on big brand NFTs, with beeple's up 50x or more in many cases. I think you should only buy an NFT if you really like the idea of it, because a lot of them will end up worthless or illiquid, but it will certainly be safer to jump on things that have an existing strong brand behind them.
+Дела у NBA Topshot идут исключительно хорошо, потому что они единственный проект с реальным брендом за спиной. К тому же, вы наверное слышали, туда вступают многие знаменитости. На Niftygateway было зафиксировано несколько невероятных отдач от NFT больших брендов. Много раз цена на Beeple’s вырастала в 50 раз и более. Я думаю, стоит покупать произведение NFT только в том случае, если вам эта идея действительно нравится. Многие из них в итоге окажутся бесполезными или неликвидными. Ну и конечно же, безопаснее брать вещи, за которыми стоит реальный сильный бренд.     
 
 **rekt:** 
 
-_Alright alright alright, so you're bullish on NFTs we can see that. How do you see the adoption of this technology playing out?_
+_Хорошо, хорошо, хорошо. Ты настроен оптимистично по поводу NFT, это понятно. Каким ты видишь развитие этой технологии?_
 
 **Cryptopathic:**
 
-NBA Topshot for example is a great gateway as people can get in without having to use crypto (and the high fees that come with it!) and they are building their own ecosystem around it, which is really important. It's going to let people use their moments in a mobile app, so they really become luxury goods that people can show off. Stuff like that is really going to make it click for a lot of people. I have been paying attention to NFTs for years but only recently got in for more money as I wasn't confident communities could value them, but the Cryptopunk rise really set this all in motion. Niftygateway is also amazing - while it's centralized, like Topshot, it allows people to buy using credit cards and also has a service to help famous artists make their own NFTs without having to worry about the technicals. It's going to be the Coinbase of NFTs.
+Например, NBA Topshot - отличный шлюз, так как люди могут войти, не используя криптовалюту (отсюда и высокие сборы, естественно!). Они строят вокруг него свою собственную экосистему, что действительно важно. Это позволит людям использовать моменты матчей в мобильном приложении. Так они станут предметом роскоши, и люди смогут ими хвастаться. Подобные вещи действительно послужат толчком для многих людей. Я годами наблюдал за NFT, и только недавно купил немного, потому что я не был уверен, что сообщества смогут их оценить. Но с появлением Cryptopunk все это действительно пришло в движение.
+
+Niftygateway тоже поразительный проект. Пока он децентрализован, как и Topshot, люди могут делать покупки с помощью кредитной карты. Еще там есть служба поддержки для артистов, чтобы создавать свои собственные NFT, не беспокоясь о технической составляющей. Это будет Coinbase для NFT.  
 
 **rekt:** 
 
-_What about the darker side to NFTs?_
+_А что насчет темной стороны NFT?_
 
-_There have been accusations of money laundering, tax evasion and even terrorist financing. You wouldn't happen to know anything about that would you?_
+_Были обвинения в отмывании денег, уклонении от уплаты налогов и даже в финансировании терроризма. Ты случайно ничего об этом не знаешь?_
 
 **Cryptopathic:**
 
-LMAO
+Капец как смешно.
 
 **rekt:** 
 
-_What's so funny? We want to know if you're using your rare pepes to bankroll ISIS._
+_Что тут смешного? Мы хотим знать, используешь ли ты твои редкие pepe для финансирования ИГ (запрещена в РФ)._
 
 **Cryptopathic:**
 
-OK OK, you got me.
-Money laundering and so on can be done through random altcoins just as well as NFTs, I don't think there is going to be a problem here any more than there is with traditional art.
+Окей, окей, подловили меня. 
+Для отмывания денег и тому подобного могут быть использованы любые альткоины с таким же успехом, как и NFT. Я не думаю, что проблем здесь будет больше, чем в традиционном искусстве.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/pepebreak.png)
 
 **rekt:** 
 
-_We'll see you around Cryptopathic - any last message for our readers?_
+_Еще увидимся, Cryptopathic. Скажешь что-нибудь напоследок нашим читателям?_
 
 **Cryptopathic:**
 
-Up only.
+Только вперед.
 
 **rekt:** 
 
-_Get rekt._
+_Получи, распишись._
 
 ---
 
-**Despite all the froth and regardless of where the market takes us, the potential for NFTs is huge.** They serve as the perfect medium for tokens which can be art, collectibles, or tools with a defined function. 
+**Несмотря на всю эту пену и независимо от того, куда нас приведет рынок, у NFT огромный потенциал.** Они служат идеальным носителем для жетонов, которые могут быть произведениями искусства, предметами коллекционирования или инструментами с определенной функцией.
 
-Their arrival and inevitable mass adoption will open up unprecedented levels of gamification across multiple industries, benefitting all parties, including the nefarious ones, and considering this isn’t even their final form, the future looks bright for the non-fungible token.
+Их появление и неизбежное массовое внедрение откроют беспрецедентный уровень геймификации во многих отраслях. Пользу от этого получат все стороны, в том числе и темные. Учитывая, что это даже не окончательная их форма, будущее не взаимозаменяемых токенов выглядит радужным.
 
-It’s down to you to find the best way to profit from this emerging asset class, but even if you don’t invest, it will surely be entertaining to watch. 
+Вам решать, как лучше всего получить прибыль с этого развивающегося класса активов. Но даже если вы не собираетесь инвестировать, за ними будет интересно наблюдать.
 
->Will the on-chain art industry be different from the traditional, or will we end up forking their corruption as well?
+>Будет ли он-чейн арт-индустрия отличаться от традиционной, или мы в конечном итоге унаследуем её коррумпированность?
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/conc-NFT.png)
