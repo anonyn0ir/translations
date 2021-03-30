@@ -4,108 +4,108 @@ date: 02 февраля 2021
 tags:
   - hashmasks
   - NFT
-excerpt: Hashmasks has taken the community by storm after it’s recent launch, selling 16,384 unique cards for approximately 7,300 ETH. However, where there is hype there are scammers...
+excerpt: Hashmasks взяли сообщество штурмом после недавнего их запуска, на котором они продали 16,384 уникальные карты, приблизительно стоившие 7,300 ETH. Однако, там где хайп - там и мошенники...
 banner: https://lh6.googleusercontent.com/yskFIbDnaQOWnJmhd2UAxu9dI1NqSasTfLVz8HIlJuoQQMmiq_o2sd30tt8CKrARNMmV_e4xsq119gN8rbZkUTeIkuUOOx2oEz3PsqVq8kZ2DjIEGiwfF6fINGUO45T8NCa0Zge6
 ---
 
 ![](https://lh6.googleusercontent.com/yskFIbDnaQOWnJmhd2UAxu9dI1NqSasTfLVz8HIlJuoQQMmiq_o2sd30tt8CKrARNMmV_e4xsq119gN8rbZkUTeIkuUOOx2oEz3PsqVq8kZ2DjIEGiwfF6fINGUO45T8NCa0Zge6)
 
-> Man is least himself when he talks in his own person.
+> Человек меньше всего верен себе, когда говорит от первого лица.
 
-> Give him a [mask](https://en.wikipedia.org/wiki/The_Critic_as_Artist), and he will tell you the truth.
+> Дайте ему [маску](https://en.wikipedia.org/wiki/The_Critic_as_Artist), и он скажет вам правду.
 
 ---
 
-**Parts of our industry seem to grow inwards rather than out.**
+**Некоторые части нашей индустрии растут вглубь, а не вширь.**
 
-New projects emerge, niche within niche, new ideas irrelevant to the outside world, but prized by community members who either see a bigger picture, or have been deafened by the echo chamber.
+Появляются новые проекты, ниша в нише. Новые идеи, не имеющие отношения ко внешнему миру, но восхваляемые членами сообщества. Либо они способны видеть больше, чем все остальные, либо их оглушило эхо.
 
-Promoted projects are launched by influential avatars who drive the hype train at full speed into the community, creating billowing plumes of FOMO which cloud the vision and reduce investors' inhibitions.
+Промо-проекты запускаются влиятельными аватарами. Они ведут хайпо-поезд на полной скорости в гущу сообщества, вызывая страх упустить возможность, от которого встают волосы дыбом, затуманивается взгляд и тают сдерживающие факторы инвестирования. 
 
-**Even the most minimally viable product can attract huge amounts of capital and attention when it’s carried along by the greed fuelled hype train.**
+**Даже самый нежизнеспособный продукт может привлечь огромное количество капитала и внимания, когда его тянет за собой инерция хайпо-поезда, приводимого в движение жадностью.**
 
-**However, where there is hype there are scammers,** and the recent Hashmask project is no exception.
+**Однако, там где хайп, там и мошенники,** и недавний проект Hashmasks не стал исключением.
 
-**Hashmasks has taken the community by storm after it’s recent launch, selling 16,384 unique cards for approximately 7,300 ETH (~$10M at time of writing).**
+**Hashmasks взяли сообщество штурмом после недавнего их запуска, на котором они продали 16,384 уникальные карты, приблизительно стоившие 7,300 ETH (~$10M в момент написания статьи).**   
 
-Each card has five varying properties - mask, character, eye colour, skin colour, and object, all of which have different levels of rarity.
+У каждой карты пять различный особенностей: маска, персонаж, цвет глаз, цвет кожи и предмет. Каждая особенность имеет определенную степень редкости.
 
-**To give an example of their popularity, individual cards which were initially sold for 0.1 ETH were resold three days later for 97 ETH. Although the website suggests the cards are gamified, [no](https://twitter.com/teo_leibowitz/status/1356406615751163904?s=20) current game exists.**
+**Чтобы дать наглядный пример их популярности уточним, что отдельные карты, которые первоначально продавались за 0.1 ETH, были перепроданы через три дня за 97 ETH. На веб сайте сказано, что карты геймифицированные, но на самом деле на данный момент никакой игры [не](https://twitter.com/teo_leibowitz/status/1356406615751163904?s=20) существует.**
 
-As with most current crypto art projects, Hashmasks arguably drew more attention from profit seekers than it did from art fans. As we found out, not all of these profit-seekers were of good faith.
+Как и многие криптовалютные арт-проекты сегодня, Hashmasks привлекли больше внимания со стороны искателей выгоды, чем со стороны любителей искусства. Как мы выяснили, не у всех искателей выгоды были  добрые намерения.
 
-**[Mariano, (@nanexcool)](https://twitter.com/nanexcool) alerted the community to a [fake Hashmask token](https://twitter.com/nanexcool/status/1356501530262839298?s=20) after seeing it be used in a real-time rug pull.**
+**[Mariano, (@nanexcool)](https://twitter.com/nanexcool) предупредил сообщество о существовании [фальшивого токена Hashmask](https://twitter.com/nanexcool/status/1356501530262839298?s=20) после того, как стал свидетелем его использования в махинации рагпуллинга.**
 
-We spoke to him to find out more…
+Мы поговорили с ним и узнали кое-что еще…
 
 ![](https://lh4.googleusercontent.com/-xXmJtMSYeNRFEyJqswf9YWjLH0mejty2362T0sMbS1IGq2EMIbjVG7jmpS_vBA7_eKBQHOd_52J36T3rgQGJam2wOxb8fT_EcmWr3F01_QqQ3FioCMen3cSmphmBUQ82qdf7DYi)
 
 **rekt:**
 
-_Hi Mariano_
+_Привет, Мариано_
 
 **Mariano:**
 
-Hey! What's up rekt frog!!!
+Привет! Чё как жизнь, лягушка rekt!!!
 
 **rekt:**
 
-_We're looking at the fake Hashmask scam you mentioned earlier, could you give us your thoughts? It seems the scammer didn't make much profit... Some are saying only 16 ETH?_
+_Мы изучаем аферу фальшивого Hashmask, о которой ты рассказал, можешь поделиться своими мыслями? Похоже, мошенник не особо нажился… Кто-то говорит, всего 16 ETH?_
 
 **Mariano:**
 
-Yeah, it was very little profit in the end... It was 4am for me and I was tweeting fast. After the tweets I noticed most of the liquidity had been provided by the scammer themselves.
+Ага, в итоге он совсем мало заработал… У меня было 4 часа утра и я быстро писал в Твиттере. После твитов я заметил, что большую часть ликвидности мошенники предоставили сами.
 
-I got excited because I was looking at 0xb1's address and noticed someone had sent HM tokens to them, but the address was different, so I traced it back to the scammer and just as I opened Etherscan it had a transaction pending, which was to remove liquidity.
+Меня это зацепило, потому что я следил за адресом 0хb1 и заметил, что кто-то послал им токены HM, но адрес был другой. Я понял, что это был мошенник, и как только я открыл Etherscan, статус транзакции поменялся на “обрабатывается”, а значит, они вывели ликвидность. 
 
-But in the end it was just a regular fake token scam…
+Но в итоге это оказалась просто обычная махинация с фальшивым токеном…
 
 **rekt:**
 
-_What's your opinion on the Hashmask hype?_
+_Что ты думаешь о хайпе вокруг Hashmasks?_
 
 **Mariano:**
 
-It's an interesting experiment, I expect more and more of these to emerge. This one at least was original enough. It's all game theory and ape taxes in the end. You see people buying Hashmasks for 0.1 ETH so you do it because you don't want to be the one paying 0.3 ETH or 0.5 ETH. Although you might want to be the one to pay 100 ETH, that's bragging rights. You think, "who knows? Could be the next cryptopunks".
+Интересный эксперимент. Я думаю, что еще много таких появятся. Этот по крайней мере был достаточно оригинальным. Все это в итоге сводится к теории игр и обезьяньему налогу. Ты видишь, как люди покупают хэшмасок на 0.1 ETH и ты тоже покупаешь, потому что не хочешь потом быть тем, кто их покупает за 0.3 ETH или 0.5 ETH. А может, ты хочешь быть тем, кто покупает по 100 ETH, чтобы потом иметь право хвастаться. Ты думаешь: “кто знает? Может быть, это следующие криптопанки”.
 
 **rekt:**
 
-_Do you think more people will eventually purchase digital art for it's artistic properties, or do you think the speculation / investment opportunities will always be more of a focus?_
+_Считаешь ли ты, что люди будут покупать цифровое искусство из-за его артистических качеств, или же всегда будет преследоваться цель спекуляции / инвестирования?_
 
 **Mariano:**
 
-Given the permissionless nature of Ethereum and the high risk/reward of being the first to own something that could be valuable, my guess is for now digital art and speculation are inextricably linked.
+Учитывая открытость Эфириума и высокое соотношение риска и награды за то, чтобы первым заполучить что-то, что может получить ценность, я предполагаю, что пока что цифровое искусство и спекуляция неразрывно связаны.   
 
 **rekt:**
 
-_Thanks Mariano, any message for our readers?_
+_Спасибо, Мариано. Скажешь что-нибудь нашим читателям?_
 
 **Mariano:**
 
-**Ask yourself when you are aping into the next new thing if you're doing it because you love digital art or just want to speculate and make a quick buck. There are no right answers, whatever you choose do it with conviction and please do your research. Stay safe!**
+**Когда будете подражать очередной новой фишке, задайте себе вопрос, вы это делаете потому, что любите цифровое искусство или просто хотите поспекулировать и быстренько срубить деньжат. Правильного ответа нет, но что бы вы не выбрали, делайте это с душой и пожалуйста, делайте ваше собственное исследование. Удачи!**
 
 ![](https://lh3.googleusercontent.com/fxk1TAkHlYhKcbNeQHyZNl-dPBuM-Z9nG-507EUPSLoiQ4SCx5R622lG0-DX0uWgrNnGLSCezcsP2tvwAzAVJNqU2avpBhzZA-LthhucXBv4Wo3ZjbkzH7bxgUe3Tt8Pfk6CxW4b)
 
-**The rising tide of crypto currency is lifting the NFT market along with it.**
+**Поднимающаяся волна криптовалюты тянет за собой рынок NFT.**
 
-The total potential created by digital scarcity is still beyond our comprehension; we are witnessing the birth of an entirely new type of asset.
+Мы еще не полностью осознаем потенциал, создаваемый малочисленностью цифровых технологий. На наших глазах зарождается совершенно новый тип активов.
 
-**Many of the current NFT projects will not survive, and we will look back on some of the valuations with incredulity.** Those that do stand the test of time may well grow their perceived value even further, as they position themselves as the first of their kind.
+**Многие сегодняшние проекты NFT не выживут, и мы будем с удивлением вспоминать размеры котировок.** Те, что выдержат проверку временем, могут еще больше вырасти в цене, если зарекомендуют себя как первые в своем роде.
 
-**Whether they’re used for tax evasion or just speculation, the NFT market is on the rise.**
+**Неважно, служит ли он для уклонения от налогов или просто для спекуляции, но рынок NFT на подъеме.**
 
-What were once considered gimmicks are becoming more accepted; soon to be desired even by outsiders. The current use cases will soon seem basic and dull compared to what is yet to come.
+Сейчас лучше воспринимается то, что раньше считалось какими-то уловками. Скоро их даже захотят покупать аутсайдеры. Нынешние варианты использования скоро покажутся простыми и скучными по сравнению с тем, что еще грядет. 
 
-Pioneering investors and creators are building upon their vision of a tokenised world, soon digital assets will start to make sense to even the most traditional investor.
+Инвесторы-новаторы и артисты действуют в соответствии со своим видением токенизированного мира. Скоро цифровые активы начнут казаться стоящими даже самым консервативным инвесторам.
 
-**The technopoly is fast approaching as we [surrender culture](https://www.amazon.co.uk/Technopoly-Vintage-Neil-Postman/dp/0679745408) to technology, and see that there is more to possession than just the physical.**
+**Эра технополии быстро приближается, судя по тому, что мы [переводим культуру](https://www.amazon.co.uk/Technopoly-Vintage-Neil-Postman/dp/0679745408) в технологию и видим, что владение может быть не только на физическом уровне.**
 
-The criminal mind is equally as creative as the law-abiding, and scams always progress at the same rate as technology.
+Криминальный разум такой же творческий, как и законопослушный, а мошенничество всегда развивается с той же скоростью, что и технологии.
 
-We are already seeing new types of scam emerge around the Hashmasks project.
+Вокруг проекта Hashmasks уже появляются новые виды мошенничества.
 
 ![](https://lh6.googleusercontent.com/8fDuKpaFM-VEo5y8Cy5N1rdAEZEabHT51TJl5DOrTlVen6-lTaP1rcgvyMiGOmwzdNkkI1L5rgJrYWdbyXCtqicWZ2Fa7ZDp9tnoYxUrX7f8noccEBaZiYDSxb29JQJXbGGG2kgZ)
 
-[source](https://twitter.com/stronghodl/status/1356624501660868614?s=20)
+[Источник](https://twitter.com/stronghodl/status/1356624501660868614?s=20)
 
-**Will future crypto crime rates fall with improved security, or rise with increased adoption?**
+**Будущее покажет, будет ли снижаться уровень криптографической преступности из-за улучшения мер безопасности, или же расти вместе с количеством пользователей.**
