@@ -46,21 +46,21 @@ BT Finance был обречен на провал, потому что, есл�
 
 [@r0bster97](https://twitter.com/r0bster97/status/1358858462579539968?s=20) описал атаку.
 
-[**Первая транзакция:**](https://etherscan.io/tx/0x97373e454e0d5bc7b552de8075c33ea257f570bea519dc2c6220658257b304b5):
+[**Первая транзакция:**](https://etherscan.io/tx/0x97373e454e0d5bc7b552de8075c33ea257f570bea519dc2c6220658257b304b5)
 
 Обмен 0.001 [$ETH](https://twitter.com/search?q=%24ETH&src=cashtag_click) на ~0.0148 [$GRO](https://twitter.com/search?q=%24GRO&src=cashtag_click)
 
-[**Вторая транзакция:**](https://etherscan.io/tx/0x97373e454e0d5bc7b552de8075c33ea257f570bea519dc2c6220658257b304b5):
+[**Вторая транзакция:**](https://etherscan.io/tx/0x97373e454e0d5bc7b552de8075c33ea257f570bea519dc2c6220658257b304b5)
 
 Поставка ~0.0148 [$GRO](https://twitter.com/search?q=%24GRO&src=cashtag_click) и 100,000,000,000 [$AXXZ](https://twitter.com/search?q=%24AXZ&src=cashtag_click) ликвидности на Uniswap
 
-[**Третья транзакция:**](https://etherscan.io/tx/0x2152214a6be27a904af5a25e77fdca92ae60c6a9d7d298a41f88558649a41a23):
+[**Третья транзакция:**](https://etherscan.io/tx/0x2152214a6be27a904af5a25e77fdca92ae60c6a9d7d298a41f88558649a41a23)
 
 Вывести ~27,516 [$GRO](https://twitter.com/search?q=%24GRO&src=cashtag_click) и ~1,218 [$rAAVE](https://twitter.com/search?q=%24rAAVE&src=cashtag_click) ликвидности с Uniswap.
 
 “В коде смарт-контракта отсутствует условие if”
 
-[**Четвертая транзакция:**](https://etherscan.io/tx/0xffef18b38096c96c1f6be784ea0ebb07964137858e38f3d65858a79e6a96797f):
+[**Четвертая транзакция:**](https://etherscan.io/tx/0xffef18b38096c96c1f6be784ea0ebb07964137858e38f3d65858a79e6a96797f)
 
 Обмен ~27,516 [$GRO](https://twitter.com/search?q=%24GRO&src=cashtag_click) на ~597 [$ETH](https://twitter.com/search?q=%24ETH&src=cashtag_click) на Uniswap.
 
