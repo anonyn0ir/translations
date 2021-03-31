@@ -1,71 +1,72 @@
 ---
 title: Ledger - REKT
-date: 21 Dec 2020
+date: 21 декабря 2020
 tags:
   - ledger
-  - gdpr
+  - ОРЗД
   - Rekt
-excerpt: Vote with your wallet. Ledger has lost the trust of their users. The customer information that was taken in July has long been available to those who were willing to pay the price, but now it's free of charge.
+excerpt: Голосуйте кошельком. Ledger потерял доверие своих пользователей. Украденная в июле информация о клиентах долгое время была доступна тем, кто готов был заплатить указанную цену, но теперь и платить уже не надо.
+
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-3.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-3.jpg)
-**Vote with your wallet.**
+**Голосуйте кошельком.**
 
-Ledger has lost the trust of their users.
+Ledger потерял доверие своих пользователей.
 
-The customer information that was taken in July has long been available to those who were willing to pay the price, but now it’s free of charge.
+Украденная в июле информация о клиентах долгое время была доступна тем, кто готов был заплатить указанную цену, но теперь и платить уже не надо.
 
-**The [list](https://pastebin.com/pBED4Pe5) of 272,853 customers and 1,075,382 email subscribers was posted last night on [raidforums](https://raidforums.com/Thread-LEDGER-com-Full-1KK-Emails-272k-Full-Info-Orders)**to the dismay of some forum users, who [complained](https://twitter.com/cryptonator1337/status/1340917978766991363?s=20) that the OP had ruined its financial value.
+**[Список](https://pastebin.com/pBED4Pe5) имен 272,853 клиентов и 1,075,382 электронных адресов подписчиков вчера ночью был выложен на [рейдерских форумах](https://raidforums.com/Thread-LEDGER-com-Full-1KK-Emails-272k-Full-Info-Orders),** вызвав отчаяние у некоторых пользователей форума, которые [пожаловались](https://twitter.com/cryptonator1337/status/1340917978766991363?s=20) что автор поста уничтожил тем самым его финансовую ценность.
 
-In July 2020 a researcher had been taking part in the Ledger [Bug Bounty](https://donjon.ledger.com/bounty/) program when they found a potential attack vector. It later emerged that this vector had already been exploited.
+В июле 2020 года в программе [Bug Bounty](https://donjon.ledger.com/bounty/) проекта Ledger принимал участие исследователь, и он обнаружил потенциальный вектор атаки. Позже выяснилось, что этот вектор уже подвергся эксплоиту.
 
-Ledger then [announced](https://www.ledger.com/addressing-the-july-2020-e-commerce-and-marketing-data-breach) that their website had been exploited, and that an _“unauthorized third party had gained access to a portion of our e-commerce and marketing database through an API Key”_.
+Тогда Ledger [объявил](https://www.ledger.com/addressing-the-july-2020-e-commerce-and-marketing-data-breach), что их веб-сайт был взломан, и что _«неавторизованная третья сторона получила доступ к части нашей коммерческой и маркетинговой базы данных с помощью ключа API»._
 
-The information contained in this data leak was reportedly being sold for nearly six figures. This proves the value of this personal information; whoever was paying those prices will have expected to profit from their purchase.
+Сообщалось, что информация из этой утечки была продана за шестизначную сумму. Это доказывает ценность этой информации о персональных данных; тот, кто заплатил за нее такую сумму, собирался извлечь выгоду из своей покупки.
 
-**Since the information has become free to access, users have been [reporting ](https://twitter.com/thecryptomonk/status/1340973317461860352?s=20)an [increase ](https://twitter.com/JimmyMcShill/status/1340935239959535618?s=20)in [phishing ](https://twitter.com/bneiluj/status/1340787535128260615?s=20)attempts. This behaviour will continue to grow over the coming months, and it would not be surprising to hear of a physical [attack ](https://twitter.com/rikuraisanen/status/1340970430920843265?s=20)due to this data breach. **
+**После того, как информация попала в свободный доступ, пользователи начали [сообщать](https://twitter.com/thecryptomonk/status/1340973317461860352?s=20)бо [увеличившемся](https://twitter.com/JimmyMcShill/status/1340935239959535618?s=20) количестве попыток [фишинга](https://twitter.com/bneiluj/status/1340787535128260615?s=20). В течение следующих месяцев такие инциденты будут учащаться, и не стоит удивляться, если мы услышим и о физических [нападениях](https://twitter.com/rikuraisanen/status/1340970430920843265?s=20) из-за кражи данных.**
 
-The best case scenario is that Ledger has provided a target list for SIM swappers and phishing campaigns. The worst case scenario could be physical attacks or burglary due to the personal information that has been leaked.
+В лучшем случае Ledger предоставил список мишеней для фишинговых кампаний и мошенников, взламывающих SIM-карты.   В худшем случае стоит опасаться физических нападений и ограблений из-за утечки личной информации. 
 
-At first we were [told](https://support.ledger.com/hc/en-us/articles/360015559320-E-commerce-and-Marketing-data-breach-FAQ) by Ledger that a group of 9500 customers had their data exposed, including first and last name, postal address, and phone number. Now we find out that this number was closer to 227,000.
+Поначалу Ledger [сообщил](https://support.ledger.com/hc/en-us/articles/360015559320-E-commerce-and-Marketing-data-breach-FAQ), что были похищены данные 9500 клиентов, включая имена, фамилии, почтовые адреса и номера телефонов.  Теперь выяснилось, что эта цифра ближе к 227,000.
 
-**Were Ledger deliberately obscuring the [severity](https://twitter.com/0xdev0/status/1340948447784931328?s=20) of the incident?**
+**В Ledger намеренно скрывали [серьезность](https://twitter.com/0xdev0/status/1340948447784931328?s=20) случившегося?**
 
-We spoke to a representative from Ledger, who provided the following statement;
+Мы поговорили с представителем Ledger, который сказал нам следующее:
 
-> _We’re still investigating this ongoing issue, but the dumped content may be Ledger’s e-commerce database that was exposed during the data breach in June 2020. This database may be used by scammers for phishing attacks through emailing and text message campaigns._
+> _В настоящий момент инцидент и его расследование продолжаются. Утечка может касаться базы данных электронной коммерции, которую взломали в июне 2020 года. Эти данные могут быть использованы мошенниками для фишинговых атак посредством рассылки электронных писем или текстовых сообщений._
 
-> _Our Customer Support team has been working to notify our users via Twitter and responding to questions while also reporting all tweets and Reddit posts that contain a link to the database. We urge all of our users to never share their 24-word phrase, and remember that no one from our team will ever request that private information. _
+> _Наша служба поддержки проводит работу по информированию клиентов в Твиттере, отвечает на вопросы, а также подает жалобы на все твиты и статьи в Reddit, в которых содержится ссылка на базу данных. Мы убедительно рекомендуем нашим пользователям никогда не делиться секретной фразой из 24 слов и помнить и том, что ни один наш сотрудник никогда не попросит поделиться этой личной информацией._
 
-> _Since we discovered the data breach in June 2020, we worked with an external security organization to conduct a forensic review. The review confirmed that only 9,500 individuals were impacted, all of whom were personally contacted by Ledger Support. Since the phishing attacks started to occur, we anticipated more information could have leaked and continued to notify all users via Twitter and email._
+> _Мы проводили криминалистическую экспертизу совместно со сторонней охранной организацией с того момента, как обнаружили утечку информации в июне 2020 года.  Экспертиза подтвердила, что это затронуло только 9,500 человек, Со всеми ними лично связалась служба поддержки Ledger. Когда начались фишинговые атаки, мы предположили, что утечка могла касаться большего количества данных и продолжили информировать всех пользователей в Твиттере и по электронной почте._
 
-> _We are doing everything in our power to cease these attacks and avoid situations like this in the future. Ledger has a set of measures in place to protect our users from falling victims to phishing attacks. We have set up a webpage sharing the anatomy of phishing attacks so users can avoid falling for them and report any new attacks: https://www.ledger.com/phishing-campaigns-status _
+> _Мы делаем все, что в наших силах, чтобы остановить атаки и избежать подобных ситуаций в будущем. Ledger принял ряд мер по защите наших пользователей от фишинговых атак. Мы создали веб-страницу, на которой делимся информацией об анатомии атак, чтобы пользователи могли избежать их и сообщить о новых атаках: https://www.ledger.com/phishing-campaigns-status_
 
-> _We sincerely regret this situation, and our team is working diligently to stop the scammers and restore faith within the community. We have been open and transparent about this issue from the onset and will continue to respond to any new developments as the information becomes available. We are continuing analysis of this data and will continue to provide updates._
+> _Мы искренне сожалеем о случившемся, наша команда прилагает огромные усилия, чтобы остановить мошенников и восстановить доверие сообщества. С самого начала мы действовали открыто и прозрачно и мы продолжим реагировать на любые новые события по мере поступления информации.  Мы продолжаем анализировать данные и будем сообщать об обновлениях._
 
 ---
 
-**This situation shows the problem of dependence on third parties to store our information safely.**
+**Эта ситуация показала, что мы зависим от сторонних организаций в вопросах безопасного хранения информации.**
 
-As Web 3.0 grows, the problems with Web 2.0 become ever more apparent. The forced compliance of offline companies slows our progress and puts our information at risk.
+По мере развития Web 3.0 проблемы Web 2.0 становятся все более очевидными. Вынужденное сотрудничество с предприятиями вне сети замедляет наш прогресс и ставит под угрозу нашу безопасность.
 
-We are forced to entrust these companies with our data, despite the known risks of centralised storage. Companies such as Ledger are torn between the old world and the new, unable or unwilling to implement technology such as zk-proofs which would secure their database.
+Мы вынуждены доверять этим компаниям наши данные, несмотря на известный риск централизованного хранения.  Такие компании как Ledger разрываются между старым миром и новым, не имея возможности или желания внедрять технологии, как например доказательство с нулевым разглашением, которые могли бы обезопасить их базы данных. 
 
-**It won’t just be the criminal world who are keen to view this information.** In Europe there have already been cases where the data of Swiss bank customers has been [bought ](https://www.theguardian.com/business/2010/feb/01/angela-merkel-swiss-data-tax-evaders)by officials to help their investigations into tax fraud.
+**Не только преступный мир заинтересован в получении этой информации.** В Европе уже были случаи, когда данные клиентов Швейцарских банков [покупались](https://www.theguardian.com/business/2010/feb/01/angela-merkel-swiss-data-tax-evaders) государственными организациями для расследования налоговых нарушений.
 
-The strict framework of GDPR has been obliterated by this data breach. Customers who requested that their data be[ deleted](https://twitter.com/NoomDynamite/status/1340756626916204544?s=20) were seemingly ignored or even lied to.
+Эта кража данных показала, что строгие рамки ОРЗД стерты. Клиентов, которые запросили [удаление](https://twitter.com/NoomDynamite/status/1340756626916204544?s=20) своих данных, просто проигнорировали, или даже обманули.
 
-One such customer told us;
+Один из таких клиентов сказал нам:
 
-> _I sent them an email in May 2020 and asked them to delete any data they have about me from multiple orders. I referenced GDPR in the message. They replied :" Thank you for contacting us. It will be done as soon as possible. "_
+> _Я написал им электронное письмо в мае 2020 и попросил удалить всю информацию обо мне, которую они получили в результате многочисленных заказов. В письме я сослался на ОРЗД.  Они ответили: “Спасибо, что связались с нами. Мы выполним вашу просьбу в кратчайшие сроки.”_
 
-> _With the leaks I cross checked and realized that I am in the big data dump (email, address, phone...)_
+> _Когда обнаружилась утечка, я перепроверил, и обнаружил себя в большой партии слитых данных (электронный адрес, почтовый адрес, номер телефона...)_
 
-**Ledger should have made sure that this personal data was deleted automatically after a set period of time.**
+**Ledger должен был удостовериться, что эти личные данные автоматически удаляются по истечении определенного промежутка времени.**
 
-Was it incompetency or dishonesty that made Ledger ignore these requests?
+Некомпетентность или нечестность побудили Ledger проигнорировать эти запросы?
 
-It doesn’t matter now - there’s no changing what happened.
+Теперь уже не  важно - нельзя изменить того, что случилось.
 
-There is no cure for a data breach, the only solution is prevention.
+Утечку данных невозможно исправить, можно только предотвратить.
