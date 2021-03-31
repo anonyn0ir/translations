@@ -1,110 +1,118 @@
 ---
 title: Pickle Finance - REKT
 slug: pickle-finance-rekt
-date: 22 Nov 2020
+date: 22 ноября 2020
 rekt: 
-  amount: 19700000
-  audit: MixBytes, Haechi
-  date: 22 Nov 2020
+  количество: 19700000
+  аудит: MixBytes, Haechi
+  дата: 22 ноября 2020
 tags:
   - pickle finance
   - Rekt
-excerpt: The fermentation of finance continues. Even pickles have a shelf life. Pickle Finance has become the latest victim of the hack epidemic. However, this time, something is different...
+excerpt: Брожение в финансах продолжается. Даже у соленых огурцов есть срок годности. Pickle Finance стал новой жертвой эпидемии хакерских атак. Но в этот раз все было не как обычно...
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/rr.jpeg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/rr.jpeg)
-**The fermentation of finance continues. Even pickles have a shelf life.**
 
-The Pickle Finance [cDAI](https://github.com/pickle-finance/contracts#pickle-jars-pjars) jar was [hacked ](https://bloxy.info/tx/0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0)for 19.7 million DAI via a vulnerability involving fake “Pickle Jars”.
+**Брожение в финансах продолжается. Даже у соленых огурцов есть срок годности.**
 
-Pickle Finance has become the latest victim of the[ hack epidemic.](/hack-epidemic/)
+Хранилище, в котором хранились токены [cDAI](https://github.com/pickle-finance/contracts#pickle-jars-pjars) протокола Pickle Finance подверглось [хакерской атаке](https://bloxy.info/tx/0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0) через уязвимость с использованием фальшивых «Pickle Jars» (банок с огурцами - прим. переводчика). Было украдено 19.7 миллионов DAI.
 
-**However, this time, something is different...**
+Pickle Finance стал новой жертвой [эпидемии хакерских атак.](/hack-epidemic/)
 
-As Twitter tried to come to terms with yet another financial fatality, Rekt started to investigate.
+**Но в этот раз все было не как обычно...**
 
-We contacted the Stake Capital team, who looked at the code and warned us that other jars could be at risk.
+Пока в Твиттере пытались смириться с очередной финансовой катастрофой, Rekt начал проводить расследование.
 
-We then quickly contacted the Pickle Finance team and set up a war room between members of Stake Capital (@[bneiluj](https://twitter.com/bneiluj), [@vasa_develop](https://twitter.com/vasa_develop))  Yearn ([@bantg](https://twitter.com/bantg)) [Pickle Finance](https://twitter.com/picklefinance) and experienced developers @[samczsun](https://twitter.com/samczsun), [@emilianobonassi](https://twitter.com/emilianobonassi).
+Мы связались с командой Stake Capital, они просмотрели код и предупредили, что и другие банки могли оказаться под угрозой.
 
-As we worked, it became clear we were looking at something very different to the recent DeFi lego style hacks of recent weeks.
+Тогда мы быстро связались с командой Pickle Finance и организовали командный пункт с участниками Stake Capital (@[bneiluj](https://twitter.com/bneiluj), [@vasa_develop](https://twitter.com/vasa_develop))  Yearn ([@bantg](https://twitter.com/bantg)) [Pickle Finance](https://twitter.com/picklefinance) и опытными разработчиками @[samczsun](https://twitter.com/samczsun), [@emilianobonassi](https://twitter.com/emilianobonassi).
 
-**This was not an arb.**
+В ходе работы стало ясно, что перед нами было что-то совершенно отличающееся от DeFi-атак в стиле лего, происходивших последние недели.
 
-The attacker had excellent knowledge of Solidity and EVM, and had likely been paying close attention to the Yearn code for some time, as the vulnerability was similar to one which was [discovered ](https://github.com/iearn-finance/yearn-security/blob/master/disclosures/2020-10-10.md)in the Yearn code a month earlier.
+**Это была не арбитражная атака.**
 
-Pickle Jars are essentially a fork of Yearn’s yVaults. These Jars are controlled by a contract called the Controller, which has a function that allows users to swap their assets between Jars.
+Атакующий обладал отличным знанием Solidify и EVM и, похоже, какое-то время очень пристально наблюдал за кодом Yearn, потому что уязвимость была похожа на ту, что была [обнаружена](https://github.com/iearn-finance/yearn-security/blob/master/disclosures/2020-10-10.md) в коде Yearn месяцем ранее.
 
-Unfortunately, there is no whitelist for which Jars are allowed to use this swapping function.
+Pickle Jars это по сути своей форки yVault протокола Yearn. Jars контролируются контрактом под названием Controller. У него есть функция, которая позволяет пользователям обменивать активы между Jars.
 
-The hacker had created a fake Pickle Jar and swapped the funds from the original jar. This was possible because the [swapExactJarForJar ](https://twitter.com/emilianobonassi/status/1330239233538318339?s=20)didn’t check for "whitelisted" jars.
+К сожалению, нет белого списка Jars, у которых есть разрешение на использование этой функции обмена.
 
-The Pickle Finance team knew they needed help, and were more than willing to work with the others to prevent any further damage.
+Хакер создал фальшивый Pickle Jar и обменял фонды с оригинальной банкой. Это стало возможным, потому что [swapExactJarForJar](https://twitter.com/emilianobonassi/status/1330239233538318339?s=20) не проверил, была ли эта "банка" в «белом списке».
 
-Pickle had tried to call “withdrawAll”, but the transaction [failed](https://etherscan.io/tx/0xb108205dc90466104f10d3e465593825ea88420cd8db6df29afd57e62df5cba6).
+Команда Pickle Finance знала, что им нужна помощь, поэтому они с радостью согласились принять помощь со стороны, чтобы избежать еще больших повреждений.
 
-The withdrawal request had to pass through the Governance DAO which had a 12 hour timelock.
+Pickle попробовали вызвать “withdrawAll”, но транзакция [не прошла](https://etherscan.io/tx/0xb108205dc90466104f10d3e465593825ea88420cd8db6df29afd57e62df5cba6).
 
-Only one member of the Pickle multisig had the ability to bypass the timelock, and they were asleep.
+Запрос на вывод должен был пройти через ДАО Управления, на которой был установлен 12-часовой таймер.
 
-This meant admins couldn’t empty the Pickle Jars, but it didn’t protect them from another hack.
+Только один из членов мультисига Pickle мог обойти таймер, но он спал.
 
-[Pickle Finance](https://twitter.com/picklefinance/status/1330256787002564610?s=20) and [Curve ](https://twitter.com/bneiluj/status/1330255575339438088?s=20)sent out warnings telling users to withdraw their funds from Pickle immediately, however, $50 million remained in the potentially vulnerable pickle jars, while the white hat team investigated the exploit and checked the safety of remaining funds.
+Это значило, что админы не могли опустошить Pickle Jars, но это не защитило их от атаки с другой стороны.
 
-The rescue team either had to wake the sleeping admin, or drain the jars themselves.
+[Pickle Finance](https://twitter.com/picklefinance/status/1330256787002564610?s=20) и [Curve](https://twitter.com/bneiluj/status/1330255575339438088?s=20) послали пользователям предупреждения о том, что им нужно было немедленно вывести фонды из Pickle. Но все же $50 миллионов еще оставались в потенциально уязвимых pickle jars, пока команда белых шляп расследовала эксплоит и проверяла, в безопасности ли оставшиеся фонды.
+
+Спасательному отряду нужно было либо разбудить спящего админа, либо самим слить банки.
 
 ![](https://lh5.googleusercontent.com/iBloOUNiyzcS6t7vuiT8Ric31fzGktin3XSZ53MAGk0eJiylu53vsQJ_BdPOHba_7yH81037JWZX_H48bzbwH5AoNMn3jFz8Q_YplF9Xk8sm47IHRK07RnTIB8I8Ebeba4vJCCJp)
-**The team had to overcome five major challenges.**
 
-1. To get the Pickle Finance team together across several time zones to start rescuing the funds by pushing transactions into 12h timelock (via 3 out of 6 multisig) to withdraw funds.
+**Команде пришлось преодолеть пять главных трудностей.**
 
-2. To get thousands of investors to withdraw their funds (and discourage them from redepositing once the pool TVL dropped and the APY inflated to 1000+% APY)
+1. Собрать вместе всю команду Pickle Finance, учитывая, что они находятся в разных часовых поясах. Начать спасать фонды, отправляя транзакции в 12-часовой таймер (через 3 из 6 мультисигов), чтобы вывести все фонды.  
 
-3. Performing safety checks on the other jars to see if there is a possibility of more attacks.
+2. Заставить тысячи инвесторов вывести свои фонды (и уговорить их не вкладывать снова, когда TLV хранилища упадет и APY раздуется до 1000+% годовых)
 
-4. Duplicating the attack and whitehacking before anyone can hack the jars again.
+3. Провести проверку безопасности в других банках, чтобы выявить возможность новых атак.
 
-5. Avoiding getting front-runned when trying to rescue the remaining 50k
+4. Продублировать атаку в превентивных целях до того, как кто-то сможет снова взломать банки.
 
-**How long can we continue to rely on pseudo anonymous white hat hackers for help?**
+5. Избежать фронтраннинг во время попытки спасти оставшиеся 50К.
 
-The incentives are clearly more aligned for attackers than protectors; why would they co-ordinate such a gruelling counter attack?
+**Как долго еще мы можем полагаться на помощь псевдо-анонимных этичных хакеров?**
 
-The glory goes to whitehacks, yet the money goes to hackers. **That’s not sustainable.**
+Стимулы явно больше ориентированы на злоумышленников, чем на защитников; зачем им координировать такую изнурительную контратаку?
 
-How long until the temptation turns these white hats black?
+Слава достается этичным контратакам, а деньги идут хакерам. **Так не может долго продолжаться.** 
 
-**Analysis**
+Сколько еще осталось ждать, когда искушение покрасит белые шляпы в черный цвет?
 
-By releasing this technical information we are aware that we could be triggering new hacks. We discussed the potential consequences with Pickle Finance and other developers, and confirmed that we do not know of any operational forks of Pickle that could be affected by copycat attacks.
+**Анализ**
 
-Selective disclosure would introduce an aspect of liability, so we decided to release this information freely. If any protocols are running a fork of Pickle’s code, they should already be aware of the unfolding events and be taking preventative action against copycat hacks.
+Публикуя эту информацию технического содержания мы осознаем, что это может спровоцировать новые хакерские атаки. Мы обсудили возможные последствия с Pickle Finance и другими разработчиками и пришли к выводу, что нам неизвестно о каких-либо других действующих форках Pickle, которые могли бы подвергнуться копипастным атакам.
 
-The following chart was created by [@vasa_develop](https://twitter.com/vasa_develop).
+Выборочное раскрытие информации означало бы взять на себя определенную степень ответственности, поэтому мы предпочли свободную публикацию. Если какой-либо протокол использует форк кода Pickle, то они уже скорее всего в курсе разворачивающихся событий и принимают предупредительные меры против копипастных атак.
+
+Следующую схему создал [@vasa_develop](https://twitter.com/vasa_develop).
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/Pickle-Exploit-Overview.png)
-The original file can be found [here](https://lucid.app/lucidspark/invitations/accept/8f291e25-bf50-4a77-913d-31ddfb62754b).
 
-**For further details see the teams full post-mortem [here.](https://github.com/banteg/evil-jar/blob/master/readme.md)**
+Оригинальный файл можно найти [здесь](https://lucid.app/lucidspark/invitations/accept/8f291e25-bf50-4a77-913d-31ddfb62754b).
 
-It will be interesting to see how the relatively new insurance primitive “[Cover Protocol](https://twitter.com/CoverProtocol/status/1330238732558098437?s=20)” handles this incident; a large amount for their first claim. The snapshot vote for the insurance claim can be found [here.](https://snapshot.page/#/cover/proposal/QmPSkV68ihhP8EAZbNoQVsTpUh82wiX18ckyEwiUbChRjQ)
+**Подробное описание можно найти в полном постмортеме, сделанном командой, [здесь](https://github.com/banteg/evil-jar/blob/master/readme.md).**
+
+Интересно будет посмотреть, как относительно новый страховой примитив “[Cover Protocol](https://twitter.com/CoverProtocol/status/1330238732558098437?s=20)” справится с инцидентом; речь идет о немалой сумме денег для первого запроса компенсации. Обзор голосования по заявке на страховое возмещение можно найти [здесь.](https://snapshot.page/#/cover/proposal/QmPSkV68ihhP8EAZbNoQVsTpUh82wiX18ckyEwiUbChRjQ)
+
 ![](https://lh5.googleusercontent.com/HcyTLZyj6aAciaM5wFLPJl04zSx8n_iqwYnnetTg_ATBVappkijm1K2TtSjkbAAwsDNFcJCaiz1uibep5WAC4-56uyMRDn8p5jk-iLHk53qklgC1Jc_4JiOZrLkr3jZ-ictipp2N)
-**Pickling is a slow process.**
 
-For decades, agile development evangelists have told developers to move fast, fail quickly and release the minimum viable product.
-These ideas don’t fit the bill when building in a hostile environment.
+**Маринование это долгий процесс.**
 
-**Failing quickly in DeFi comes at great expense.**
+Десятилетиями пропагандисты гибкой разработки подгоняли разработчиков, чтобы те быстро провалились и выпустили продукт с минимальной жизнеспособностью. Эти идеи не совсем подходят разработке, которая ведется в условиях враждебной среды.
 
-We don’t simply need another methodology. We need a paradigm shift allowing for rapid iteration while reducing the likelihood of getting rekt at the same time.
+**В DeFi быстро провалиться стоит очень дорого.**
 
-Let’s eliminate the idea that an audit is a guarantee for safety. It is – most of the time – a snapshot of checklist-style security measures applied to moving targets that have often evolved into something else shortly after a project hits mainnet.
+Нам не просто нужна новая методология. Нам нужна смена парадигмы, которая позволит проводить быструю итерацию и одновременно снизит вероятность попадания под rekt.  
 
-The audits from MixBytes (October 3rd) and Haechi (October 20th) were completed before the addition of ControllerV4 (October 23rd), which was one of the key attack vectors.
+Давайте избавимся от мысли, что аудит может гарантировать безопасность. В большинстве случаев это обзор по пунктам мер безопасности, которые применяются к движущимся целям, и которые часто вырастают во что-то другое спустя небольшой промежуток времени после выхода проекта в главную сеть.
 
-**The greatest teams in the future of finance will be those capable of handling the trade-offs between shipping fast and shipping safely**, continuously auditing and rigorously testing their composable money robots on a regular basis.
+Аудиты, выполненные MixBytes (3 октября) и Haechi (20 октября) были завершены до добавления ControllerV4 (23 октября), который стал одним из ключевых векторов атаки.
 
-Audits should be a regular and continuous process, not a box to be ticked before launch. New DeFi protocols are subject to constant change and adaptation, and safety audits should reflect this.
+**В будущем финансов самыми лучшими станут те команды, которые смогут находить компромисс между необходимостью выпустить продукт быстро и выпустить его безопасно.** Для этого им придется постоянно проводить аудиты и тщательно тестировать свои сборные денежные роботы на постоянной основе.
 
-**Pickles only stay fresh when they’re inside the jar...**
-![](https://lh6.googleusercontent.com/Bx_HYNlFKOcaH6XtCcUCcE5TlykgAkp3vka10Tq1KkOV_bK4YxOtjJTcUt73XhYoauO3_I9SQeu55sTKkjAj0brsKfis-lPGuRpPth03tGxuxEF46oU5lJm_mgvkIL1ro_AYZh6F)photo @[martinkrung ](https://twitter.com/martinkrung)
+Аудит должен быть регулярным и постоянным процессом, а не клеточкой, в которой нужно поставить галочку перед запуском. Новые DeFi-протоколы постоянно меняются и приспосабливаются, и аудиты по безопасности должны это отражать.
+
+**Огурцы остаются свежими только тогда, когда они хранятся в банке...**
+
+![](https://lh6.googleusercontent.com/Bx_HYNlFKOcaH6XtCcUCcE5TlykgAkp3vka10Tq1KkOV_bK4YxOtjJTcUt73XhYoauO3_I9SQeu55sTKkjAj0brsKfis-lPGuRpPth03tGxuxEF46oU5lJm_mgvkIL1ro_AYZh6F)
+
+Фото @[martinkrung ](https://twitter.com/martinkrung)
