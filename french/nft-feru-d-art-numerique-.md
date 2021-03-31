@@ -1,13 +1,12 @@
 ---
-title: NFT - Digital Art Enthusiast
+title: NFT - Féru d'art numérique
 date: 19 Feb 2021
 tags:
   - NFT
   - Digital Art
-excerpt: De la ferme aux galeries d’art. rekt investigates the current NFT hype, cuts through the noise and gets straight to the signal in a special edition featuring interviews with cryptocobain and cryptopathic.
+excerpt: De la ferme aux galeries d’art. rekt enquête sur la hype NFT actuelle, pour livrer une édition spéciale comprenant des entretiens avec cryptocobain et cryptopathic.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/header-NFT.png
 ---
-
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/header-NFT.png)
 
