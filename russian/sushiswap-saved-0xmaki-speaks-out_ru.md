@@ -1,5 +1,5 @@
 ---
-title: Спасение SushiSwap - 0xMaki даёт показания
+title: dСпасение SushiSwap - 0xMaki даёт показания
 date: 29 ноября 2020
 tags:
   - sushiswap
@@ -25,7 +25,7 @@ Rekt обратился к 0xMaki за его версией событий.
 
 ![](https://lh5.googleusercontent.com/bLAbz--dDRJoIQjlauDxi08j9x-pObms6J3_LmI2hhMGNs5kCYYxs-Dz13TsdF6IRgQ36NlQ-CiJpWUCZ9IVZaYGMju15bhw3vwVmG6WzAigF_sPkGojiOPjj6Ve3vdCiUJEOBZN)
 
-**0xMaki: **После публикации отчета [Nansen ](https://research.nansen.ai/sushiswap-farming/) я сам управлялся в Sushibar, чтобы снизить возможности арбитража. Я видел парочку странных небольших транзакций. Но я решил, что ничего страшного в этом не было, потому что бар работал прекрасно.
+**0xMaki:** После публикации отчета [Nansen ](https://research.nansen.ai/sushiswap-farming/) я сам управлялся в Sushibar, чтобы снизить возможности арбитража. Я видел парочку странных небольших транзакций. Но я решил, что ничего страшного в этом не было, потому что бар работал прекрасно.
 
 Первая микро-транзакция произошла дня 2-3 назад, но вчера она стала автоматической, я бы даже сказал «промышленного уровня».
 
