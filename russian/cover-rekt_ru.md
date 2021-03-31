@@ -84,15 +84,15 @@ banner: https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h
 
 28–Дек-2020 11:58:04 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[вывел](https://etherscan.io/tx/0x88ce99fc1cb695db82d83ce5fe587396744841d3a123687f95b18df6a3106818) свои 15,255.552810089260015361 BPT** (пул DAI/Basis), оставив лишь 1 wei на своем счету в фарминговом контракте Blacksmith.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)  [вывел](https://etherscan.io/tx/0x88ce99fc1cb695db82d83ce5fe587396744841d3a123687f95b18df6a3106818) свои 15,255.552810089260015361 BPT** (пул DAI/Basis), оставив лишь 1 wei на своем счету в фарминговом контракте Blacksmith.
 
 28–Дек-2020 11:58:56 +UTC
 
-- **[Другой пользователь](https://etherscan.io/address/0xdf1aefb979d180b4d67cca9abb4c5108c89dc8a4)[вывел](https://etherscan.io/tx/0xa27fb73caddb1cf24aa7a5afe84eed13db2f0a889a6ee0f3d5e6226a76c0fd9c) большую часть всего своего баланса (1,007.599009946121991627 BPT)** из Blacksmith. Теперь Grap Finance принадлежит вся ликвидность пула DAI/Basis в контракте Shield Mining Blacksmith, а именно 1 wei.
+- **[Другой пользователь](https://etherscan.io/address/0xdf1aefb979d180b4d67cca9abb4c5108c89dc8a4) [вывел](https://etherscan.io/tx/0xa27fb73caddb1cf24aa7a5afe84eed13db2f0a889a6ee0f3d5e6226a76c0fd9c) большую часть всего своего баланса (1,007.599009946121991627 BPT)** из Blacksmith. Теперь Grap Finance принадлежит вся ликвидность пула DAI/Basis в контракте Shield Mining Blacksmith, а именно 1 wei.
 
 28–Дек-2020 12:00:21 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) [вернул](https://etherscan.io/tx/0xbd1fcda7006ddd58b18cb3bfbd01ef2d1a979be596e1c73be1d7d65fd7eb8215) 15,255.552810089260015361 BPT** (пул DAI/Basis) в фарминговый контракт Blacksmith.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)  [вернул](https://etherscan.io/tx/0xbd1fcda7006ddd58b18cb3bfbd01ef2d1a979be596e1c73be1d7d65fd7eb8215) 15,255.552810089260015361 BPT** (пул DAI/Basis) в фарминговый контракт Blacksmith.
 
 28–Дек-2020 12:02:04 +UTC
 
