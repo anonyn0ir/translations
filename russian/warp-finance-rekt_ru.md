@@ -1,103 +1,107 @@
 ---
 title: Warp Finance - REKT
-date: 18 Dec 2020
+date: 18 декабря 2020
 rekt: 
-  amount: 7800000
-  audit: Hacken
-  date: 18 Dec 2020
+  количество: 7800000
+  аудит: Hacken
+  дата: 18 декабря 2020
 tags:
   - warp finance
   - Rekt
-excerpt: All human beings, as we meet them, are commingled out of good and evil. As Jekyll was to Hyde, so white hat is to black. The developers we trust in daylight could be different in the night.  A potion of knowledge with irresistible results - who could resist when the punishment is zero?
+excerpt: В каждом человеке, которого мы встречаем на своем пути, объединяется добро и зло. Черная шляпа - это темная сторона личности этичного хакера, как и мистер Хайд - это тот же доктор Джекилл. Разработчики, которым мы доверяем днем, ночью могут быть совершенно другими людьми. Зелье для получения знаний с умопомрачительным эффектом - кто из нас смог бы устоять перед перед такой наградой, особенно если наказания не последует?
 banner: https://lh6.googleusercontent.com/cu47l8eTpNnHgVR_A2gq2boptXZBIIFHI0yO9ptnxWEDwjkAjVTH4vKPdrbsAe2nQZQNtz2YLiEfEb-UpPVg2-Mqk1kh3U-mxquiJZTn8TD1DsjtBVAdSPDvu0rB08TjRGmdycBP
 ---
 
 ![](https://lh6.googleusercontent.com/cu47l8eTpNnHgVR_A2gq2boptXZBIIFHI0yO9ptnxWEDwjkAjVTH4vKPdrbsAe2nQZQNtz2YLiEfEb-UpPVg2-Mqk1kh3U-mxquiJZTn8TD1DsjtBVAdSPDvu0rB08TjRGmdycBP)
-**Each man you meet upon the street is not one man but two...**
+**В каждом человеке, которого вы встречаете на улице, на самом деле скрыта не одна личность, а две...**
 
-All human beings, as we meet them, are commingled out of good and evil: two faces and two personas that share a set of hidden goals.
+В каждом человеке объединяется добро и зло: два лица и две личности, объединенные общими целями.
 
-**As Jekyll was to Hyde, so white hat is to black.** The developers we trust in daylight could be different in the night.
+**Черная шляпа - это темная сторона личности этичного хакера, как и мистер Хайд - это тот же доктор Джекилл.** Разработчики, которым мы доверяем днем, ночью могут быть совершенно другими людьми.
 
-A potion of knowledge with irresistible results - who among us could resist such prizes when the punishment is zero?
+Зелье для получения знаний с умопомрачительным эффектом - кто из нас смог бы устоять перед перед такой наградой, особенно если наказания не последует? 
 
-As there are so few [developers](https://twitter.com/warpfinance/status/1339751978977685507?s=20) with these particular capabilities, we are faced with the probability that they give with one hand whilst they take with the other.  
+Так как [разработчиков](https://twitter.com/warpfinance/status/1339751978977685507?s=20) с такими особенными способностями крайне мало, то велика вероятность, что они одной рукой дают, а другой забирают.
+
 ![](https://lh4.googleusercontent.com/yCI9vRUEqPRtw70zfTEfCnYowW-jMvvCppKOPyd5zUqbEHbw1JSxd6Y4y8QcMZyTBkx0xJ4RSNz0Wm-Z7FQH2q91pQtT3D22yYXLt8CEVsXs5DCan0KRcxFViCGBwTBDHsH-QTCm)
-**Warp Finance is the latest victim of an increasingly unremarkable hack epidemic.  **
 
-An [account ](https://ethtx.info/mainnet/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090)which had been funded with only one ETH via Tornado cash executed a contract which flash swapped $180m from Uniswap and flash borrowed $51m from dYdX.
+**Warp Finance стал последней жертвой в распространяющейся эпидемии хакерских атак, которая никого особенно не волнует.**
 
-Using this technique, the attacker was able to remove $7.8m of DAI, aided by the fact that Warp.finance relied on vulnerable Uniswap LP token prices. This allowed them to borrow more than their collateral, and resulted in a loss of stablecoin lender funds.
+[Учетная запись](https://ethtx.info/mainnet/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090), на которую перевели всего один ETH через Tornado Cash, выполнил контракт, который мгновенно обменял $180M на Uniswap и мгновенно занял $51M на dYdX.
 
-The wallets involved are listed below
+Используя эту технику, атакующий смог вывести $7.8M DAI. Ему помогло то, что Warp.finance полагался на уязвимые цены токенов LP на Uniswap. Это позволило ему взять в долг больше, чем составлял размер его залога. В результате были потеряны кредитные средства в стейблкоинах.
 
-**Attacker SC **[**0xdf8bee861227ffc5eea819c332a1c170ae3dbacb**](https://etherscan.io/address/0xdf8bee861227ffc5eea819c332a1c170ae3dbacb)
+Ниже перечислены задействованные кошельки
 
-Warp Oracle [0x4A224CD0517f08B26608a2f73bF390b01a6618c8](https://etherscan.io/address/0x4A224CD0517f08B26608a2f73bF390b01a6618c8)
+**Атакующий SC** [**0xdf8bee861227ffc5eea819c332a1c170ae3dbacb**](https://etherscan.io/address/0xdf8bee861227ffc5eea819c332a1c170ae3dbacb)
 
-Warp Control [0xBa539B9a5C2d412Cb10e5770435f362094f9541c](https://etherscan.io/address/0xBa539B9a5C2d412Cb10e5770435f362094f9541c)
+Оракул Warp [0x4A224CD0517f08B26608a2f73bF390b01a6618c8](https://etherscan.io/address/0x4A224CD0517f08B26608a2f73bF390b01a6618c8)
 
-wBTC-wETH LP Vault [0x3c37f97F7d8f705cc230f97a0668f77a0e05D0aA](https://etherscan.io/address/0x3c37f97F7d8f705cc230f97a0668f77a0e05D0aA)
+Контроль Warp [0xBa539B9a5C2d412Cb10e5770435f362094f9541c](https://etherscan.io/address/0xBa539B9a5C2d412Cb10e5770435f362094f9541c)
 
-**WETH-DAI LP Vault **[**0x13db1CB418573f4c3A2ea36486F0E421bC0D2427 **](https://etherscan.io/address/0x13db1CB418573f4c3A2ea36486F0E421bC0D2427)**(Affected vault)**
+Хранилище провайдеров ликвидности wBTC-wETH [0x3c37f97F7d8f705cc230f97a0668f77a0e05D0aA](https://etherscan.io/address/0x3c37f97F7d8f705cc230f97a0668f77a0e05D0aA)
 
-USDT-WETH LP Vault [0xCDb97F4C32F065b8e93cF16BB1E5d198bcF8cA0d](https://etherscan.io/address/0xCDb97F4C32F065b8e93cF16BB1E5d198bcF8cA0d)
+**Хранилище провайдеров ликвидности WETH-DAI** [**0x13db1CB418573f4c3A2ea36486F0E421bC0D2427 **](https://etherscan.io/address/0x13db1CB418573f4c3A2ea36486F0E421bC0D2427) **(Пострадавшее хранилище**
 
-USDC-WETH LP Vault [0xb64dfae5122D70Fa932f563c53921FE33967B3E0](https://etherscan.io/address/0xb64dfae5122D70Fa932f563c53921FE33967B3E0)
+Хранилище  USDT-WETH LP [0xCDb97F4C32F065b8e93cF16BB1E5d198bcF8cA0d](https://etherscan.io/address/0xCDb97F4C32F065b8e93cF16BB1E5d198bcF8cA0d)
 
-DAI Vault [0x6046c3Ab74e6cE761d218B9117d5c63200f4b406](https://etherscan.io/address/0x6046c3Ab74e6cE761d218B9117d5c63200f4b406)
+Хранилище USDC-WETH LP [0xb64dfae5122D70Fa932f563c53921FE33967B3E0](https://etherscan.io/address/0xb64dfae5122D70Fa932f563c53921FE33967B3E0)
 
-USDT Vault [0xDadd9bA311192d360Df13395E137f1E673C91deB](https://etherscan.io/address/0xDadd9bA311192d360Df13395E137f1E673C91deB)
+Хранилище DAI [0x6046c3Ab74e6cE761d218B9117d5c63200f4b406](https://etherscan.io/address/0x6046c3Ab74e6cE761d218B9117d5c63200f4b406)
 
-USDC Vault [0xae465FD39B519602eE28F062037F7B9c41FDc8cF](https://etherscan.io/address/0xae465FD39B519602eE28F062037F7B9c41FDc8cF)
+Хранилище USDT [0xDadd9bA311192d360Df13395E137f1E673C91deB](https://etherscan.io/address/0xDadd9bA311192d360Df13395E137f1E673C91deB)
 
-**rekt OPSEC provided us with the following summary**
+Хранилище USDC [0xae465FD39B519602eE28F062037F7B9c41FDc8cF](https://etherscan.io/address/0xae465FD39B519602eE28F062037F7B9c41FDc8cF)
 
-- WarpFinance was exploited and drained ~$7.8 million of DAI/USDC from its vault (WarpVaultSC).
-- The attack was initiated at 10:24:41 PM +UTC, Dec. 17, 2020 ([Transaction](https://ethtx.info/mainnet/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090)),
-- The root cause of this incident was the use of AMM-based oracle (Uniswap), which allowed the attacker to manipulate the price of UniswapV2 pair (WETH-DAI) LP token.
-- This flash loan induced price manipulation on Uniswap lead the attacker to borrow more (approximately double) amount of USDC and DAI from the WarpFinance lending platform than it should.
-- An interesting point to note is that the attacker does not profit from this immediately.
-- The LP tokens deposited by the attacker are held as collateral and are locked in WarpFinance due to an under-water borrow position.
+**Отдел Безопасности rekt подготовил для нас следующее резюме**
 
-**Transaction Walkthrough:**
+- WarpFinance подвергся эксплоиту, из его хранилища (WarpVaultSC) выкачали ~$7.8 миллионов DAI/USDC. 
+- Атака началась в 22:24:41 +UTC 17 декабря 2020 года ([Транзакция](https://ethtx.info/mainnet/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090)),
+- Корневой причиной инцидента стало использование оракула Uniswap на основе автоматического управления памятью (AMM). Это позволило хакеру манипулировать ценой токена LP пары WETH-DAI на UniswapV2.
+- Этот флэш-займ вызвал манипуляцию цены на Uniswap,которая позволила хакеру взять в долг большее (примерно в два раза) количество USDC и DAI на платформе займов WarpFinance, чем при обычных условиях.
+- Что интересно, хакер не воспользовался этим сразу же.
+- LP токены хакера в депозите используются как залог, они заблокированы в WarpFinance из-за невыгодной займовой позиции.
 
-- Take four different flashloans of 2.9M DAI + 344.8K WETH from dYdX and UniswapV2; WETH-WBTC 90k WETH WETH-USDC 82k WETH WETH-USDT 96k WETH dYdX 76k WETH dYdX 2.9m DAI
-- Deposit the dYdX flashloan (of 2.9M DAI + 76K WETH) to UniswapV2 pair (WETH-DAI) and mint in return 94.349K LP tokens.
+**Пошаговые транзакции:**
+
+- Взято четыре разных флэш-кредита в размере 2.9M DAI + 344.8K WETH на dYdX и UniswapV2; WETH-WBTC 90k WETH WETH-USDC 82k WETH WETH-USDT 96k WETH dYdX 76k WETH dYdX 2.9m DAI
+- Депозит флэш-кредита dYdX (of 2.9M DAI + 76K WETH) в пару (WETH-DAI) на UniswapV2 и чеканка взамен 94.349K LP-токенов.
 
 ![](https://lh6.googleusercontent.com/D0Q0LzrWP7qJncRlvHLcnvIa-K8Kb1EY4Y92q92DYz9AIGLah2JcK4z6Qi04otZ4jxFxoPonvXi_WEIaa0jb8L6rUa4iojgNmgYZJd78KkM0b_K2WAPiR0WdnwJls47UjFZeRbGF)
 
-- The minted tokens are then transferred to WarpVaultLP as collateral to the credit of the attacker; (current price of UniswapV2 pair WETH-DAI LP token is 58,815,427)
-- Swap 341K WETH for 47.6M DAI via UniswapV2 so that DAI becomes very expensive, which cascadingly at least doubles the LP token price to 135,470,392;
-- With the higher LP token price and the higher computed collateral value, the attacker is able to borrow 3.86M DAI and 3.9M USDC from WarpFinance (valued about $~7.8 million)
+- Отчеканенные токены затем пересылаются в хранилище WarpVaultLP в качестве залога по кредиту атакующего; (текущая цена токена пары WETH-DAI LP на UniswapV2 составляет 58,815,427)
+- Обмен 341K WETH на 47.6M DAI через UniswapV2, в результате чего DAI очень сильно дорожает, это влечет за собой как минимум удвоение цены токена LP: 135,470,392;
+- Так как цена токена LP стала выше и ценность залога соответственно, атакующий может взять в долг 3.86M DAI и 3.9M USDC на WarpFinance (оцениваются в $~7.8 миллионов)
 
 ![](https://lh3.googleusercontent.com/FjOa_KgUH2BZFUxv8Azyh_S78EXf7xp-olHSuxbJh01qwZsMnF3LUF0wV9KarNpD_MHnYRYHKZXJiTb5NphmKhjh94eJyG-iUDjjNUZYSBS1V80108K35p0U9qKaO8rL8e8cnrAz)
 
-- Return the flashloans in Step 1 back to dYdX and UniswapV2.
-- The attacker lost most of the gains in the transaction fees.
-- Though this incident leads to ~$7.8 million loss, the attacker does not immediately benefit from it. Specifically, the attacker currently has an under-water borrow position in WarpFinance, which still locks the 94.349K LP tokens. In the meantime, we are actively monitoring the attackers wallet for any movement.
+- Возмещение флэш-кредита dYdX и UniswapV2 из Шага 1
+- Атакующий потерял большую часть прибыли при уплате комиссии за транзакции.
+- Несмотря на то, что этот инцидент привел к потере ~$7.8 миллионов, атакующий не получает прибыль сразу. Конкретно, сейчас у хакера есть невыгодная займовая позиция на WarpFinance, в которой до сих пор заблокировано 94.349K токенов LP. Мы активно наблюдаем за кошельком атакующего на предмет любых движений.
 
 ![](https://lh3.googleusercontent.com/TL9LpgYGa--08j2t5KRVvWfLi_PtVpV68f_qFni86PIM4WHuKEhl33Tz56_XiwevCYzfHcd2s7Ih0xdYoXSut2_m6_nGY1KnELgiONcDVQ5Kd_3z-Cnn8w3pg7odfJgKkfuNFMEN)
-Pie chart credit - [@n2ckchong](https://twitter.com/n2ckchong/status/1339727569436901378?s=20)
+Источник графика - [@n2ckchong](https://twitter.com/n2ckchong/status/1339727569436901378?s=20)
+
 ![](https://lh4.googleusercontent.com/OvaHZqCaAJMaoW7BBHoXtkmw8zPc4ZuYeeMcGpk5OeFJoZc5IDqi7HWIsclDhvs_281kepFEmKQjsbt2ZVkB7O6LwVtRfqrKNNswRznJAZmj9YOkRGNmVFwgn17UlOtUwVZ_mIZQ)
 
-> _There comes an end to all things; the most capacious measure is filled at last; and this brief condescension to evil finally destroyed the balance of my soul._
+> _Все когда-нибудь заканчивается; самый емкий сосуд в конце концов переполняется; и это краткое обращение ко злу все же разрушило мое душевное равновесие._
 
-**How long until the attackers have had their fill? **
+**Как долго еще ждать, пока хакеры это тоже поймут?**
 
-Just one of these heists provides enough money that the recipient would never need to work again, so the continuation suggests that these actors seek power, not riches. Or perhaps money is of little interest to the technical mind, who plays with their victims like a cat with a mouse.
+Одного такого ограбления достаточно, чтобы тому, кто получил всю прибыль больше никогда не пришлось работать. Раз они продолжают, значит, что им нужна власть, а не деньги.  Или, может быть, техническому разуму не интересны деньги. Он играет со своими жертвами, как кошка с мышкой.
 
-**It shows the immaturity of the industry when these attacks draw so little attention.** Outside of cryptocurrency, a seven million dollar heist would create international headlines, yet to DeFi natives, this latest exploit appears somewhat dull, a basic repetition of a known attack vector.
+**Когда такие атаки привлекают так мало внимания, незрелость индустрии говорит сама за себя.** За пределами криптовалютного мира кража семи миллионов долларов попала бы в мировые заголовки. Обитателям DeFi этот эксплоит кажется чем-то скучным, как обычное повторение известного вектора атаки. 
 
-As the majority of funds are held, and can be recovered via liquidation with a new controller from the vault, the attacker has created a sizable bounty.
+Так как большая часть средств сохранена и может быть обналичена посредством ликвидации с новым конроллером хранилища, атакующий сорвал неплохой куш.
 
-Perhaps in the future, an altruistic attacker will use this method to provide users with a chance to redeem their funds instead of just taking them. **Attackers could hold funds at ransom and request a payment for their return; forcing the protocol to pay or further ruin their reputation.**
+Возможно в будущем хакер-альтруист воспользуется этим методом, чтобы дать пользователям шанс вернуть их деньги, а не забрать. **Атакующий может держать фонды в заложниках и потребовать деньги за их возвращение; вынудить протокол заплатить или дальше разрушать их репутацию.**
 
-Dr Jekyll did not create a potion to remove the evil parts of his nature. He made a potion that allowed him to express his urges without feeling guilty and without any consequences to his reputation.
+Доктор Джекилл не создавал зелье, чтобы избавиться от темных сторон своей натуры. Он создал зелье, которое давало ему возможность предаваться своим порывам без чувства вины и последствий для своей репутации. 
 
-**DeFi is a world of pseudonyms and plotting, where anonymity gives power and white hats turn to grey.**
+DeFi - это мир псевдонимов и заговоров, где анонимность дает силу, а белые шляпы становятся серыми.
 
-When warp.finance used Twitter to thank their white hat developers, there was a conspicuous familiarity to the [names ](https://twitter.com/warpfinance/status/1339751978977685507?s=20)they mentioned.
+Когда warp.finance выражал благодарность своим этичным хакерам в Твиттере, [имена](https://twitter.com/warpfinance/status/1339751978977685507?s=20) которые они упоминали, казались очень знакомыми.
 
-**We all break bread with these familiar faces, but do they drink our milkshake when our backs are turned?**
+**Мы все преломляем хлеб с этими знакомыми лицами, но пьют ли они наш молочный коктейль, когда мы стоим к ним спиной?**
+
 ![](https://lh6.googleusercontent.com/G8QlXjqEUXZq0bbcMpE2TDey6BmRdSY49EEHs1z1vEjA-Lg0_aAl-CVI-KGXXIsHAf3RjyLfKyFWyb69Bf-E_HOx2a_Jz_V5EuSDN0YEQ5euqOEdNANHHDb_Q5Mq6la5bGn_xI76)
