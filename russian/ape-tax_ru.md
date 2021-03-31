@@ -1,104 +1,104 @@
 ---
-title: Ape Tax
-date: 04 Dec 2020
+title: Обезьяний налог
+date: 04 декабря 2020
 tags:
-  - ape tax
+  - обезьяний налог
   - defi
-excerpt: Throughout history, man has sought to distance himself from the ape.  Four billion years have passed since we first emerged from the primordial soup, and now a new evolution has begun.
+excerpt: На протяжении всей истории человек старался отдалиться от обезьяны. Прошло четыре миллиарда лет с тех пор, как мы вышли из первичного бульона, и вот теперь начался новый виток эволюции.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/bwparliament.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/bwparliament.jpg)
 
-> **_“Now don’t try to kid me man cub, I made a deal with you.”_**
+> **_«Не вздумай хитрить, детеныш, нето я буду строг.»_**
 
-Throughout history, man has sought to distance himself from the ape.
+На протяжении всей истории человек старался отдалиться от обезьяны.
 
-Four billion years have passed since we first emerged from the primordial soup, and now a new evolution has begun.
+Прошло четыре миллиарда лет с тех пор, как мы вышли из первичного бульона, и вот теперь начался новый виток эволюции.
 
-However, with progress comes problems; we now see that some of our peers are not quite as evolved as we previously thought.
+Однако, прогресс несет за собой и проблемы тоже; теперь мы видим, что некоторые наши сверстники не такие развитые, как мы раньше думали.
 
 ---
 
-**Ape season is here.**
+**Настал обезьяний сезон.**
 
-All time highs and a relentlessly bullish market have validated the reckless gambling of over-leveraged traders and impatient yield farmers.
+Исторические максимумы и неустанно растущий рынок развязали руки трейдерам с чрезмерным левереджем и нетерпеливым сборщикам доходности инвестиций, которые ведут теперь безрассудную игру. 
 
-But not every move is as profitable as they would have you believe. The macho culture of financial trading is magnified by online anonymity and a desire for entertainment.
+Но не каждое их действие приносит столько выгоды, как они стараются нам внушить. В финансовом трейдинге царит культура мачо, подогреваемая онлайн-анонимностью и тягой к развлечениям.
 
-Ape tax has always been paid by the gambler with unrealistic expectations. However, in these markets, greed can make a monkey out of all of us.
+Обезьяний налог всегда приходился на долю игрока с нереалистичными ожиданиями.  Однако, на этом рынке жадность может превратить в обезьяну любого из нас.
 
-**All eyes on the all time highs. “All in” is not enough; even those who *are *in, fear missing out.**
+**Все следят за историческими максимумами. Играть «ва-банк»  уже недостаточно; даже те, кто _уже в игре, боятся упустить возможность._
 
-Traders usually need an unknown ratio of luck and skill to conquer the markets, but now the climate has changed.
+Обычно трейдерам нужно какое-то соотношение удачи и умения, чтобы покорить рынки, но сейчас ветер дует в другую сторону. 
 
-Monkey business pays well in Ape Season, when even the lowest IQ can make the highest percent gains. Gamified shitcoins and anonymous yield farms are good food for the modern trader who has given in to his primal instincts.
+Во время Обезьяньего Сезона на шурах-мурах можно хорошо заработать . Даже человек с самым низким IQ может сделать огромную прибыль. Для современного трейдера, давшего волю своим первичным инстинктам геймифицированные говномонеты и анонимный фарминг доходности инвестиций - это хорошая добыча.
 
-With no ape-tite for strategy or security, Apes deposit now and regret later.
+Обезьянам лень брать пример с тех, кто утруждается со стратегиями и безопасностью, поэтому они вкладывают сейчас и сожалеют потом. 
+
 ![](https://lh4.googleusercontent.com/oXG8yK46vupWq3fECYUiRTK7kIU-lXzE8mDlykc9gU1pHC9Uw3kCzXIaURVwjmiKOsufrzRvn9aYTFn-ycNKaIpbi9uDKPGjyYYkuI3HvF8teTrC-e-3YyKNOP3__YxA87MiiG30)
-**[Studies](https://www.sciencedaily.com/releases/2018/09/180920161036.htm) of gambling monkeys have helped scientists identify brain areas which are linked to high-risk behaviours.
-**
 
-Two monkeys were trained to gamble against a computer in order to win drinks of water.
+**[Изучение](https://www.sciencedaily.com/releases/2018/09/180920161036.htm) поведения обезьян в азартных играх помогло ученым определить, какие участки мозга отвечают за опасное поведение.**
 
-> _Even when they were no longer thirsty, the monkeys still went for risky bets because they just seemed to like the excitement of a win._
+Двух обезьян научили играть против компьютера. Если они выигрывали, то получали напитки или воду.
 
-We often assume our risk attitude is always the same, but behaviour researchers have found this isn't true - an ape can be risk-averse for some things but inclined to risk in others, like apes who use a hardware wallet to send their money into unaudited +100,000% APY smart contracts.
+> _Даже когда они больше не испытывали жажду, обезьяны продолжали делать рискованные ставки. Им, похоже, просто нравилось чувствовать возбуждение от выигрыша._
 
-Is survival of the fittest an accurate description, or will they soon be receiving a [Darwin award](https://darwinawards.com/)?\*\*
-\*\*
+Нам часто кажется, что мы ведем себя одинаково в рискованных ситуациях. Но исследователи поведения выяснили, что это не так - обезьяна может избегать риска в одних ситуациях, но стремиться к нему в других. Как например те обезьяны, которые используют свой аппаратный кошелек, чтобы перевести деньги в непроаудированный смарт-контракт, обещающий +100,000% годовой доходности.
+
+Срабатывает ли принцип выживания сильнейшего, или им скоро присудят [Премию Дарвина?](https://darwinawards.com/)?\*\*
 
 ---
 
-**Meanwhile, away from the noise, undistracted by the violence of the charts, developers continue to work.**
+**Тем временем, вдали от шума и не отвлекаясь на стремительные скачки графиков, разработчики продолжают работать.**
 
-New financial primitives are being born; the origin of their species.
+Рождаются новые финансовые примитивы; первые в своем роде.
 
-Cladistic cousins to their traditional counterparts, they stand on the shoulders of giants. However, soon they will walk a different route.
+Кладистические братья своих традиционных аналогов, они стоят на плечах гигантов.  Но скоро они пойдут другим путем.
 
-Although creation can take months or years, once born, crypto nature allows no time for nurture. New protocols are born directly onto the market, where bulls and bears decide their fate.
+На создание могут уходить месяцы и даже годы. Но после рождения криптовалютная природа не оставляет времени на воспитание.  Новорожденные протоколы сразу же попадают на рынок, а там уже быки и медведи вершат их судьбу.
 
-This digital darwinism takes place over blocks rather than millennia.
+Этот цифровой дарвинизм царит над блоками, а не над тысячелетиями.
 
 ---
 
 ![](https://lh5.googleusercontent.com/OF64_mUYLjjiTqso5ykrEg8vql6FfBvjsAC0HEGBtOXR-nRIvivn_VDeEREinscPMZcBpv6pSgQ9G_YG9LbyHy74eCkrhcpPyPm7_sOqIFQ8vlDxaGp_3Srk6BWzNOc1DEPPTvbl)
-**Two things in life are certain: [death ](/deathbed-confessions-c3pr/)and taxes.**
+**В жизни две вещи неизменны: [смерть](/deathbed-confessions-c3pr/) и налоги.**
 
-The early ape catches the APY, but those who follow are worm food when the waiting gorillas dump their tokens.
+Первой обезьяне удается поймать APY. Но все остальные становятся кормом для альфа-самцов, сливающих их токены.
 
-**Gamified yield farming is the purest representation of the “greater fool” theory.**
+**Геймифицированный фарминг дохода представляет собой ничто иное как [«теорию большего дурака».](https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%B3%D0%BE_%D0%B4%D1%83%D1%80%D0%B0%D0%BA%D0%B0)** 
 
-Buy the token - get more token, sell it to the fools who haven’t yet started.
+Купи токены - получи еще больше токенов, продай их дуракам, которые еще не начали.
 
-Smoking kills, drinking is bad, yield farming is risky - the warnings are useless, the drug is too strong.
+Курение убивает, пить - плохо, фарминг доходности рискованный - предупреждения бесполезны, наркотик слишком сильный.
 
-**Apes can’t stop.**
+**Обезьяны не могут остановиться.**
 
-Once they get rekt their addiction increases as they try to win back their money.
+Когда их rekt, их зависимость только растет, потому что они пытаются отыграться.
 
-If others can do it, why not them?
+Если у других получается, то почему у них должно не получиться?
 
-They go all in, the money’s just there; farm, dump, farm, dump...
+Они идут ва-банк, деньги же вот они; доход, слив, доход, слив...
 
-**[what](/deathbed-confessions-c3pr/)**
+**[что](/deathbed-confessions-c3pr/)**
 
-**[could ](/value-defi-rekt/)**
+**[могло ](/value-defi-rekt/)**
 
-**[go](/pickle-finance-rekt/)**
+**[пойти](/pickle-finance-rekt/)**
 
-**[wrong?](/harvest-finance-rekt/)**
+**[не так?](/harvest-finance-rekt/)**
 
-Our niche section of the crypto community generally agrees that tokens such as HEX are a scam; mere association harms your reputation. It’s strange that we're fine with partaking in similar schemes when they come with a food token and are labelled as yield farming.
+Специалисты нашей ниши крипто-сообщества согласны с тем, что такие токены как HEX - это мошенничество; простая ассоциация с ними может повредить вашей репутации. Странно, что мы считаем нормальным принимать участие в аналогичных проектах, если там есть фуд-токены и предлагается фарминг доходности.
 
-When you win, someone loses.
+Если ты выиграл, значит кто-то проиграл.
 
-Every shill has a purpose, every “moonshot” has its bagholders.
+У любой рекламы есть своя цель, у каждого «полета на луну» есть тот, кто держит кассу. 
 
-**Don't ape into coins people openly promote online.**
+**Не ведитесь на монеты, которые люди открыто продвигают в интернете.**
 
-You're either getting dumped on, or you won't be prepared to dump when others do.
+Либо вас сольют, либо вы не будете готовы, когда сливать начнут другие.
 
-> **_You see it’s true, an ape like me, can learn to be like someone like you_**
+> **_Ты только посмотри, такая обезьяна как я, но могу стать таким, как ты._**
 
-If you enjoy our work, please consider donating to our [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis)
+Если вам нравится то, что мы делаем, вы можете сделать пожертвование в наш [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis).
