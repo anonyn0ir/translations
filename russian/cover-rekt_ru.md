@@ -54,11 +54,11 @@ banner: https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h
 
 28–Дек-2020 08:08:12 +UTC
 
-- **Атакующий [выполняет ](https://etherscan.io/tx/0xd721b0ef2886f14b75548b70d2d1fd82bea085ca24f5de29b833a64cfd8f7a50)первый депозит в контракт**  в размере 1,326,880 токенов BPT
+- **Атакующий [выполняет](https://etherscan.io/tx/0xd721b0ef2886f14b75548b70d2d1fd82bea085ca24f5de29b833a64cfd8f7a50) первый депозит в контракт** в размере 1,326,880 токенов BPT
 
 28–Дек-2020 08:11:16 +UTC
 
-- **Следом тот же атакующий затем [выполняет ](https://etherscan.io/tx/0xadf27f5dd052482d46fdf69a5208a27cc7352522c7c19bbde5aee18f6ea4373b)вывод(),** извлекая из контракта ~703.64 $COVER и выводит 1,326,878.99 BPT
+- **Следом тот же атакующий затем [выполняет](https://etherscan.io/tx/0xadf27f5dd052482d46fdf69a5208a27cc7352522c7c19bbde5aee18f6ea4373b) вывод(),** извлекая из контракта ~703.64 $COVER и выводит 1,326,878.99 BPT
 
 28–Дек-2020 08:47:15 +UTC
 
@@ -74,17 +74,17 @@ banner: https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h
 
 ---
 
-**По классике жанра DeFi, хакер, который все это затеял, привлек не так много внимания по сравнению в Grap Finance, которые воспользовались случаем и выдали себя за этичных хакеров.**
+**По классике жанра DeFi хакер, который все это затеял, привлек не так много внимания по сравнению в Grap Finance, которые воспользовались случаем и выдали себя за этичных хакеров.**
 
 **Хронология Grap Finance**
 
 28–Дек-2020 11:54:47 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) (Внешняя учетная запись) [сделал депозит](https://etherscan.io/tx/0x77490baee41a9b35a6e87d49453c7329c7517c10ce6ce26b4c142692a2877e65) 15,255.552810089260015362 BPT (пул DAI/Basis)** в фарминговый контракт Blacksmith.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) (внешняя учетная запись) [сделал депозит](https://etherscan.io/tx/0x77490baee41a9b35a6e87d49453c7329c7517c10ce6ce26b4c142692a2877e65) 15,255.552810089260015362 BPT (пул DAI/Basis)** в фарминговый контракт Blacksmith.
 
 28–Дек-2020 11:58:04 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[вывел](https://etherscan.io/tx/0x88ce99fc1cb695db82d83ce5fe587396744841d3a123687f95b18df6a3106818) свои 15,255.552810089260015361 BPT**(пул DAI/Basis), оставив лишь 1 wei на своем счету в фарминговом контракте Blacksmith.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[вывел](https://etherscan.io/tx/0x88ce99fc1cb695db82d83ce5fe587396744841d3a123687f95b18df6a3106818) свои 15,255.552810089260015361 BPT** (пул DAI/Basis), оставив лишь 1 wei на своем счету в фарминговом контракте Blacksmith.
 
 28–Дек-2020 11:58:56 +UTC
 
@@ -92,19 +92,19 @@ banner: https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h
 
 28–Дек-2020 12:00:21 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[вернул](https://etherscan.io/tx/0xbd1fcda7006ddd58b18cb3bfbd01ef2d1a979be596e1c73be1d7d65fd7eb8215) 15,255.552810089260015361 BPT** (пул DAI/Basis) в фарминговый контракт Blacksmith.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) [вернул](https://etherscan.io/tx/0xbd1fcda7006ddd58b18cb3bfbd01ef2d1a979be596e1c73be1d7d65fd7eb8215) 15,255.552810089260015361 BPT** (пул DAI/Basis) в фарминговый контракт Blacksmith.
 
 28–Дек-2020 12:02:04 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[сделал запрос](https://etherscan.io/tx/0xca135d1c4268d6354a019b66946d4fbe4de6f7ddf0ff56389a5cc2ba695b035f) вознаграждения**, и, по той причине, что на счету остался только 1 wei, в комбинации с ошибкой хранилище/память это привело к чеканке 40,796,131,214,802,500,000.212114436030863813 монет $COVER.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[сделал запрос](https://etherscan.io/tx/0xca135d1c4268d6354a019b66946d4fbe4de6f7ddf0ff56389a5cc2ba695b035f) вознаграждения** и, по той причине, что на счету остался только 1 wei, в комбинации с ошибкой хранилище/память это привело к чеканке 40,796,131,214,802,500,000.212114436030863813 монет $COVER.
 
 28–Дек-2020 12:29:03 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) начал [продавать](https://etherscan.io/tx/0xaf94d9b537a13819e873b37160594af2b1cc70b420d0b160a02e341566866a6b) [столько](https://etherscan.io/tx/0x01b3517845ed9c6b7b40d57bd71ac1a89fec080c5b8988f764d8226ac5caa959) сколько было возможно** через 1inch.exchange через множетсво транзакций.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) начал [продавать](https://etherscan.io/tx/0xaf94d9b537a13819e873b37160594af2b1cc70b420d0b160a02e341566866a6b) [столько](https://etherscan.io/tx/0x01b3517845ed9c6b7b40d57bd71ac1a89fec080c5b8988f764d8226ac5caa959), сколько было возможно** через 1inch.exchange через множетсво транзакций.
 
 Dec-28–2020 12:59:27 PM +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[сжег](https://etherscan.io/tx/0xe6c068ca3605228b2435a414f2b372057340f77d3fe9f1d3967eb1ad128cb5d2) начеканенные монеты.**
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) [сжег](https://etherscan.io/tx/0xe6c068ca3605228b2435a414f2b372057340f77d3fe9f1d3967eb1ad128cb5d2) начеканенные монеты.**
 
 28–Дек-2020 13:41:01 +UTC
 
