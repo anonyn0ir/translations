@@ -1,5 +1,5 @@
 ---
-title: Schrödinger's Stolen NFT
+title: Le vol du token de Schrödinger
 date: 05 Jan 2021
 tags:
   - $meme
