@@ -1,55 +1,55 @@
 ---
-title: CeFi - REKT
+title: Централизованные финансы - REKT
 date: 14 Dec 2020
 tags:
-  - fed
+  - ФРС
   - cefi
   - Rekt
-excerpt: They play the same games as we do. The stakes are higher but the rules are the same. Nobody calls a hack an exploit when it’s nation versus nation, instead it’s a “huge cyber espionage campaign”, by “highly sophisticated threat actors”. The U.S got rekt like anybody else.
+excerpt: Они играют в ту же игру, что и мы. Ставки выше, но правила те же.Никто не называет взлом эксплоитом, когда противники - это нации. Вместо этого они говорят о «крупномасштабной кампании кибершпионажа» в исполнении «высокоорганизованных злоумышленников». США rektнули, так же, как и всех остальных.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-1.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/header-1.jpg)
-**We’re not so different after all.**
+**Если подумать, мы не такие уж разные.**
 
-They play the same games as we do. The stakes are higher but the rules are the same.
+Они играют в ту же игру, что и мы. Ставки выше, но правила те же.
 
-Nobody calls a hack an exploit when it’s nation versus nation.
+Никто не называет взлом эксплоитом, когда противники - это нации.
 
-Instead it’s a _“huge cyber espionage campaign”_, by _“highly sophisticated threat actors”._
+Вместо этого они говорят о _«крупномасштабной кампании кибершпионажа»_ в исполнении _«высокоорганизованных злоумышленников»._
 
-**The U.S got rekt like anybody else.**
+**США rektнули, так же, как и всех остальных.**
 
-An ongoing series of attacks has led us to find out that an external actor has been spying on U.S. Treasury emails for several weeks. The attacker gained access to the US government's internal Microsoft Office 365 platform via software updates from the IT company SolarWinds.
+Серия атак вывела нас на след внешнего игрока, который шпионил за электронной почтой Казначейства США в течение нескольких недель. Атакующий получил доступ ко внутренней платформе Microsoft Office 365 правительства США через обновления программного обеспечения IT-компании SolarWinds.
 
-During this time the cybersecurity firm [FireEye ](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)has also been targeted, leading them to release the following statement.
+В это же время фирма [FireEye ](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html), занимающаяся кибербезопасностью тоже стала мишенью, из-за чего они опубликовали следующее заявление.
 
-> _Consistent with a nation-state cyber-espionage effort, the attacker primarily sought information related to certain government customers. While the attacker was able to access some of our internal systems, at this point in our investigation, we have seen no evidence that the attacker exfiltrated data from our primary systems that store customer information from our incident response or consulting engagements, or the metadata collected by our products in our dynamic threat intelligence systems._
+> _Как и следовало ожидать от кибершпионажа государства-нации, атаковавший прежде всего искал информацию о некоторых государственных клиентах.  Атаковавший смог получить доступ к некоторым нашим внутренним системам. Но на данном этапе расследования мы не нашли доказательств того, что ему удалось извлечь данные из наших основных систем, в которых содержится информация о клиентах, полученная в ходе реагирования на инциденты, консалтинговых услуг; или метаданные, собираемые нашими продуктами в динамических системах анализа угроз._
 
-The US blames Russia, who [denied ](https://www.facebook.com/RusEmbUSA/posts/1488755328001519)the accusations, using social media to state that “[Russia does not conduct offensive operations in the cyber domain](https://en.wikipedia.org/wiki/Cyberwarfare_by_Russia).”
+США обвиняют Россию, а Россия в свою очередь отклонила  эти обвинения, заявив с помощью социальных сетей, что [«Россия не проводит наступательных операций в кибер-сфере.»](https://en.wikipedia.org/wiki/Cyberwarfare_by_Russia)
 
-**It’s handbags at dawn between the two world powers. A generational feud that despite its severity, leaves both parties open to satire as they set their dignity aside and join the international dick swinging competition.**
+**Две мировые державы в ярости трясут кулаками, но не пускаются в драку. Свара между поколениями, в которой нации оставляют место для сатиры, отставив в сторону свое достоинство, несмотря на кажущуюся серьезность, и присоединяются к международному конкурсу у кого длиннее.**
 
 ---
 
-This series of hacks is symptomatic of the erosion of power that governments and institutions currently face.
+Эта серия атак стала симптомом эрозии власти, с которой столкнулись правительства и учреждения. 
 
-Technology is levelling the playing field, and absolute force is no longer the most efficient way to destabilise your opponent. Small groups of hackers can attack large organisations and cause collateral damage to an entire economy.
+Технологии уравнивают силы на поле, и абсолютная власть уже не является самым эффективным способом, чтобы вывести противника из равновесия. Небольшие группы хакеров могут атаковать большие организации и причинить побочный ущерб экономике всей страны.
 
-Never ending wars are now fought online, where countries are in permanent defence mode against an intangible enemy.
+Бесконечные войны теперь проводятся онлайн, а страны в них постоянно обороняются против неосязаемого противника.
 
-**Negative APY**
+**APY в минусе.**
 
-Year by year the taxpayer who funds our national cybersecurity gets less for his money, and the facade of security fades away.
+Год за годом налогоплательщик, который финансирует нашу национальную кибербезопасность, получает все меньше за свои деньги, а видимость безопасности тает. 
 
-As with governments, the aging organisations of centralised finance are also subject to “cyberattacks”, anyone who has visited a darknet market will have seen the ease of which one can purchase FULLZ - stolen credit card details and identity documents.
+Как и правительства, стареющие централизованные финансовые учреждения тоже подвергаются «кибератакам». Любой, кто бывал в даркнете видел, как легко можно купить FULLZ - данные с украденных кредитных карт и документов, удостоверяющих личность.
 
-These are the tools of the tradfi scammer, who makes his living in the 1 -2 % margin of accepted loss that all banks account for.
+Этим пользуется мошенник в традиционных финансах. Он зарабатывает на жизнь на 1-2% доле от допускаемых убытков, которую используют все банки. 
 
-**[SWIFT](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack), The [Federal ](https://www.theguardian.com/business/2016/jun/01/federal-reserve-hackings-cybersecurity-espionage)Reserve, The [Bangladesh ](https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery)Bank robbery; it’s not just decentralised finance that falls victim to hacks. **
+**[SWIFT](https://en.wikipedia.org/wiki/2015%E2%80%932016_SWIFT_banking_hack), [ Федеральный Резерв](https://www.theguardian.com/business/2016/jun/01/federal-reserve-hackings-cybersecurity-espionage), ограбление банка [Бангладеша](https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery); не только децентрализованные финансы становятся жертвой хакеров.**
 
-Where traditional institutions can hide their faults, their DeFi counterparts have no option but to face their mistakes and work for redemption. This accelerates the cycle of progress, as nothing is hidden, and we learn in public.
+Там, где традиционные учреждения могут скрыть свои ошибки, у их аналогов в DeFi нет другого выбора, кроме как признавать их и работать над их исправлением.  Это ускоряет цикличность прогресса, потому что ничего не спрячешь, и мы учимся у всех на глазах.
 
-The coming decades will see repeated “cyberattacks” on both governments and financial corporations, eroding the trust we have placed in them for so long. Megacorporations will continue to exist, but their remit will dwindle, as the global consumer reconsiders his options.
+В течение следующих десятилетий «кибер атаки» на правительства и финансовые корпорации будут повторяться и разъедать доверие, которое так долго мы им оказывали.  Мегакорпорации продолжат свое существование, но круг их полномочий уменьшится, потому что глобальный потребитель пересмотрит свои опции.
 
-**TradFi, DeFi or the FED, if you leave a backdoor open, you’re going to get rekt.**
+**TradFi ли, DeFi ли, или FED - не важно, если вы оставляете заднюю дверь открытой, не сомневайтесь, вас rektнут.**
