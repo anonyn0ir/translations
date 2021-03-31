@@ -94,7 +94,7 @@ _Слева плакат с анти-пропагандой ядерного о�
 
 ![](https://lh6.googleusercontent.com/3NDRvDXQyKMx7QH_4iiJs6BwoganIn8R0YE0fqk1z0MH8cRljLJwu8hUBaj_HYldnAuLBU1cP9yw6mEOuWfesjjBnhzs4UVDbZ3QjI9EWV7RdifLXikt3fy5jsB2IOoNy2dZNd9D)
 
-**Даже крупные игроки робеют перед мощью рагпулов. Вот этот 5лидер группы](https://twitter.com/defiyield_info) потерял $1,000,000 и создал свою собственную [группу](https://t.me/compounderopsec) для расследования (686 участников) в попытке возмездия.**
+**Даже крупные игроки робеют перед мощью рагпулов. Вот этот [лидер группы](https://twitter.com/defiyield_info) потерял $1,000,000 и создал свою собственную [группу](https://t.me/compounderopsec) для расследования (686 участников) в попытке возмездия.**
 
 ![](https://lh4.googleusercontent.com/NymcDlq36Hf0ZJWBbN4BDjIlBI4rHhOTYmDMYGgvSNYjFLYG_Y6VWgubCqj9FTl7_AjBfx3uji0gstUdJkec4jTgzNPZT6lqT88cEj11ZchK9X8yPaNP7YTNmmif0D2ps8pkyR8T)
 
