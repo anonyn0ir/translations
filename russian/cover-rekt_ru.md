@@ -158,8 +158,11 @@ SAFE - SAFE2 - COVER - _$RECOVER?_
 Говорят, что это был неудавшийся инсайдерский эксплоит.
 
 Возможно, атакующего раскрыли, он не смог сохранить деньги, поэтому вернул их и вместо этого воспользовался рекламой.
+
 ![](https://lh5.googleusercontent.com/8DTMgDPJE8_EL2ldg9LTM8_A4JtUw1oAbAIxFcZj3MOISWVwa5Do7EivF7R5SrcInzstS7lLnHYlA3Sug4uqC95aE_EAZdNOwIeD_QQvB5F9ckPTFrotVFZ2I02JaPT-Gb_J6MwY)
+
 **Мы не утверждаем, что у этих слухов есть основание, но трудно не заметить, как много таких идей появляется, когда случившееся приводит к [таким](https://support.mxc-exchange.com/hc/en-001/articles/360054776091) заявлениям.**
+
 ![](https://lh3.googleusercontent.com/LJ9XZzZF2hn1qinb-EP8NlGS3vK2QdGWllXXAgmYbHxVCGKF-B07NHSyXREHg7smGNDfyITiFgf7txfb0Eejrn-AVycPUzhnjTFV0dv7hD0Sqmfk_gHEUlonGnnc7J_qGLuzGhce)
 
 **О случайном совпадении не может быть и речи,** это либо грязная игра, либо акт отчаяния. Должно быть, дела у MXC идут совсем плохо, если они делают листинг токенов, основываясь на слухах.
