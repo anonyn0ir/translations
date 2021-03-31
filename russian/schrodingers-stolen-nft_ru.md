@@ -41,7 +41,7 @@ banner: https://lh6.googleusercontent.com/L_TQB_QKt7Y-ZlozG9ibvtgNv0omI_4YW57BMc
 
 **12 не взаимозаменяемых токенов (NFT) были проданы на аукционе за $65К (оплата произведена в $MEME). Цена колебалась от $4080 до $8400 за штуку, что в сравнении с ценой BTC на тот момент (~$18,450) составило маржу в ~250%.**
 
-| № NFT  | [$MEME](https://www.coingecko.com/en/coins/meme) paid | ВЛАДЕЛЕЦ                                                                                                                 |
+| № NFT  | [$MEME](https://www.coingecko.com/en/coins/meme) заплачено | ВЛАДЕЛЕЦ                                                                                                                 |
 | :----- | :---------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- |
 | NFT 70 | 21.50                                                 | [0x196A3Dc8446920Cef0f0d1f6Bf7Ba5b40702C79f](https://etherscan.io/address/0x196A3Dc8446920Cef0f0d1f6Bf7Ba5b40702C79f) |
 | NFT 71 | 23.12                                                 | [0xca768c37ba6EC3d67bE7B47bbE1F1C94CA216f46](https://etherscan.io/address/0xca768c37ba6EC3d67bE7B47bbE1F1C94CA216f46) |
