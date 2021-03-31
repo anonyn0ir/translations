@@ -16,102 +16,102 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/head
 
 Ажиотаж вокруг GME поставили на паузу, когда розничные торговые площадки [заблокировали доступ](https://www.marketwatch.com/story/robinhood-blocks-new-purchases-of-gamestop-stock-11611846335) к “мемовым акциям”. Однако, по финансовым графикам не понятно, как это событие повлияло на общество.
 
-**Retail has risen up, and financial institutions now face the final boss.**
+**Общественность восстала, и финансовым учреждениям предстоит встреча с главным боссом.**
 
-With easy access to investment tools and social media mass communication, organised short squeezes on traditional markets are just the first tools of the coming revolution.
+На фоне легкого доступа к инвестиционным инструментам и средствам массовой коммуникации принудительная ликвидация на традиционных рынках выглядит лишь первым признаком надвигающейся революции. 
 
-**More than half of all Robinhood users now own some GameStop stock**, so the recent move by the Citadel affiliated retail platform to bar users from trading GME is certain to result in more anger.
+**Акции GameStop теперь есть у большинства пользователей приложения Robinhood.** Поэтому логично, что недавнее решение Citadel запретить пользователям торговать на GME вызовет еще больше недовольства. 
 
-> How can they justify this blatant hypocrisy?
+> Чем можно оправдать это вопиющее лицемерие?
 
-This trading activity is nothing new to Wall St. Insider trading has been banned for over 100 years, but now it seems outsider trading is also “unacceptable”.
+На Уолл Стрит знакомы с таким видом трейдинга. Инсайдерские торги были под запретом 100 лет. А сейчас, видимо, и аутсайдерская торговля “неприемлема”. 
 
-Pumping a stock with no fundamental reason is questionable behaviour regardless of who’s doing it, but to go to the extent of shutting down trading in order to protect institutions from the public is a clear attack on the masses by the people in power.
+Накачивать акцию без веской причины - это сомнительное поведение для кого бы то ни было. Но дойти до  закрытия торгов, чтобы защитить финансовые учреждения от народа - это явное нападение людей у власти на массы.
 
-Short squeezes are nothing new. When Ackman went up against Icahn in a public pursuit of profit, Icahn manipulated the market to create a shortsqueeze, yet there was no retribution, no temporary regulation, and both parties were allowed to continue their behaviour.
+В принудительных ликвидациях нет ничего нового. Когда Ackman выступил против Icahn в неприкрытой погоне за прибылью, Icahn манипулировал рынком, чтобы вызвать краткосрочную ликвидацию. Не последовало никакого возмездия, не было временного регулирования, и обеим сторонам было разрешено продолжать в том же духе.
 
-**It’s one rule for them, and an infinite number of constantly changing rules for us.**
+**Для них одно правило, а для нас бесконечное количество постоянно меняющихся правил.**
 
-The global financial system has never been interested in equal opportunity.
+Мировую финансовую систему никогда не интересовали равные возможности.
 
-IPOs are only offered to institutions. Only the rich can invest in start-ups.
+Первичное размещение акций достается только финансовым учреждениям. Только богатые могут инвестировать в стартапы.
 
-**All these rules to “protect” the retail investor, but there’s no regulation at the roulette wheel.**
+**Столько правил, чтобы “защитить” розничного инвестора, но в рулетке-то никаких правил нет.**
 
 ---
 
-**The generational aspect of this event cannot be understated.** Traditional hedge funds have been mowed down by a faceless organisation, surely +10 years their junior, entirely self-organised via social media.
+**Нельзя пренебрегать возрастным аспектом этого происшествия.** Традиционные хедж-фонды скосила безликая организация, полностью самоучредившаяся с помощью соцсетей, и основанная скорее всего людьми на 10, а то и больше лет моложе их.
 
-GME short sellers now face losses of over $5B; an amount which is to be distributed among the retail investors and opportunist hedge funds who gladly took the opposite side of their bet.
+Игроки на понижение с биржи GME несут убытки, уже превысившие $5 миллиардов. Эта сумма должна быть распределена между розничными инвесторами и меркантильными хедж-фондами, с радостью поменявшими свои ставки на противоположные.
 
-**Markets are brutal, and these results could easily switch, but holding back the retail investor is not the answer.**
+**Игра на рынках идет очень жесткая, и эти результаты могут легко поменяться. Но сдерживать розничного инвестора - не выход.**
 
-This behaviour is a direct response to the rampant money printing of 2020, when approximately 20% of all US dollars were [created](https://www.cityam.com/almost-a-fifth-of-all-us-dollars-were-created-this-year/#:~:text=About%2020%20per%20cent%20of,and%20helped%20asset%20prices%20soar.). Both sides will eventually suffer the fall out of this extreme monetary policy, and we can expect to see more online activism against traditional finance in the coming years.
+Такое поведение является прямым ответом на безудержное печатание денег в 2020 году. Тогда было [выпущено](https://www.cityam.com/almost-a-fifth-of-all-us-dollars-were-created-this-year/#:~:text=About%2020%20per%20cent%20of,and%20helped%20asset%20prices%20soar.) примерно 20% объема всех долларов США. Очевидно, что обе стороны пострадают от последствий этой экстремальной денежной политики. В ближайшие годы мы увидим, как будет расти онлайн-активизм против традиционных финансов. 
 
-In times of extreme volatility, it becomes clear who is holding hands under the table.
+Во времена крайней волатильности становится ясно, кто дергает за ниточки.
 
-**Citadel Securities is an investor in both Robinhood and Melvin Capital.**
+**Citadel Securities имеет долю и в приложении Robinhood и в Melvin Capital.**
 
-The following paragraph from their website shows that they have a clear interest in and capability to cease this kind of trading activity.
+Ниже следует цитата с их сайта, из которой понятно, что они очевидно заинтересованы в прекращении этой трейдинговой активности.
 
-_Citadel Securities is a leading market maker to the world's institutions and broker-dealer firms. Our automated equities platform trades approximately 22% of U.S. equities volume1 across more than 8,000 U.S.-listed securities and trades over 16,000 OTC securities._
+_Citadel Securities является ведущим мировым маркет-мейкером среди компаний и брокерско-дилерских фирм. Наша автоматизированная платформа для торговли акциями обрабатывает примерно 22% американских акций среди более чем 8000 котировок в США и торгует более чем 16,000 внебиржевых ценных бумаг._
 
-Can we assume that the next time a hedge fund makes what is deemed to be excess profit by short selling a business, that they will be de-platformed and prevented from trading?
+Можем ли мы предположить, что в следующий раз, когда хедж-фонд получит то, что засчитается как сверхприбыль за счет продажи бизнеса с молотка, ему запретят доступ к платформе  и он не сможет торговать?
 
-As per [SEC](https://twitter.com/RevShark/status/1354838035007987714?s=20) order, on top of freezing trading activity, Robinhood is now seizing capital from accounts that they suspect of market manipulation.
+По указанию [SEC](https://twitter.com/RevShark/status/1354838035007987714?s=20) и помимо замораживания трейдинга, Robinhood арестовывает счета, которые они подозревают в рыночной манипуляции.
 
-> [“Let the people trade”](https://www.msn.com/en-us/news/other/robinhoods-let-the-people-trade-tweet-resurfaces-after-platform-halts-gamestop-trading/ar-BB1dbgN4)
+> [“Разрешите людям торговать”](https://www.msn.com/en-us/news/other/robinhoods-let-the-people-trade-tweet-resurfaces-after-platform-halts-gamestop-trading/ar-BB1dbgN4)
 
-**Robinhood’s own words echo back to them following their cowardly capitulation to the greedy voices of their overlords.**
+**Слова Robinhood возвращаются к ним бумерангом после их трусливой капитуляции перед приказами их алчных хозяев.**
 
-_"We're committed to helping our customers navigate this uncertainty. We fundamentally believe that everyone should have access to financial markets."_
+_Мы обязуемся помогать нашим клиентам в это время неопределенности. Мы свято верим, что доступ к финансовым рынкам может иметь каждый._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/maxresdefault--1-.jpg)
 
-**Both sides know it’s bullshit, so how much longer will it be tolerated?**
+**Все знают, что это вранье, так сколько же еще придется это терпеть?**
 
 ---
 
-In 2016, Brexit and the election of Donald Trump proved that people were unhappy with the current system. Both events were presented as a way for those who felt unhappy or unlistened to, to make their voices heard.
+В 2016 году Брексит и выборы Дональда Трампа стали доказательством того, что люди недовольны нынешней системой. Оба события позволили недовольным или проигнорированным заставить услышать свой голос. 
 
-The following five years of political unrest further polarised western society, and it could well be those who rallied against the political system who are now turning their attention to traditional finance, and the extreme unbalance that it represents.
+Следующие пять лет политической нестабильности еще больше поляризовали западное сообщество.  И может быть, внимание к традиционным финансам с их крайней несправедливостью притягивают те же люди, которые объединились против политической системы.
 
-**This is the turning point. From here all roads lead to DeFi.**
+**Это поворотный момент. Теперь все дороги ведут к DeFi.**
 
-The current system has been exposed as fragile and unfair. Risks are hidden or over exaggerated according to what suits the regulator best.
+Действующая система показала себя хрупкой и несправедливой. Риски скрывают или излишне преувеличивают, в зависимости от того, что выгоднее регулятору.
 
-**The more they try to keep control, the more people will turn them down.**
+**Чем больше они будут пытаться удержать контроль, тем больше люди им будут сопротивляться.**
 
-When the [WSB](https://www.reddit.com/r/wallstreetbets/) community inevitably turns to crypto, it will be exclusion rather than manipulation that causes Wall Street to suffer, as the retail investor sees that the same products are available without the middleman.
+Когда сообщество [WSB](https://www.reddit.com/r/wallstreetbets/) неизбежно перейдет на криптовалюту, Уолл Стрит пострадает скорее от изолированности, чем от манипуляций, потому что розничные инвесторы знают, что те же продукты доступны и без посредников.
 
-The old guard is losing their grip, and multiple forms of decentralisation are taking their place.
+Старая гвардия теряет хватку, а их место занимают всевозможные формы децентрализации.
 
-We have the infrastructure, we’re ready for what comes next.
+У нас есть инфраструктура, мы готовы к следующему шагу.
 
-Once we reach our common goal, there will be no middleman to freeze your trades, no app will define your permissions and the SEC won’t have the final say.
+Когда мы достигнем нашей общей цели, посредники не смогут заморозить наши сделки, приложения не будут решать, что нам можно, а что нельзя, и последнее слово не будет за SEC.
 
-**The revolution will not be centralised.**
-
----
-
-The following is taken from an unverified source on [/r/ClassActionRobinHood](https://www.reddit.com/r/ClassActionRobinHood/comments/l723kf/robinhood_insider_information/).
-
-_I work for Robinhood. Don't kill me._
-
-_Low-level, technical shit, comp sciences major, not finance side._
-
-_Guess what we overhead today?_
-
-_Vladimir, yes founder Vladimir, and the C-Suite, received calls from Sequoia Capital and the White House that pressured into closing trading on GME etc. I guarantee you the same took place at E-Trade and the others who closed trading._
-
-_File reports on the SEC page. If I wasn't scared to be out of work in a pandemic I'd quit. I'm disgusted. We all need to rise up, this is as bad as it gets when we talk about how the rich get one set of rules, and the rest of us get screwed 🪛 over, and over, and over again left to bail them out and pick up the tab for their trillion dollar tax breaks. We need to pile pressure on every government and financial institution involved in this travesty of justice._
-
-_I'm taking a massive career risk even posting here but **fuck these motherfuckers**._
+**Революция не будет централизованной.**
 
 ---
 
-\*\*rekt 2.0 is coming soon.
+Следующий текст взят из непроверенного источника на [/r/ClassActionRobinHood](https://www.reddit.com/r/ClassActionRobinHood/comments/l723kf/robinhood_insider_information/).
 
-Total encryption and decentralisation is our goal.
+_Я работаю на Robinhood. Не убивайте меня._
 
-We will always protect any whistleblower who comes to us with insider information.\*\*
+_Служащий низшего звена, техническая фигня, в основном информатика, не финансовая часть._
+
+_Угадайте, что сегодня произошло?_
+
+_Владимиру, да-да, Владимиру-основателю, и всей руководящей верхушке позвонили из Sequoia Capital и Белого Дома и надавили, чтобы они закрыли торги на GME и т.д. Я вам гарантирую, что то же самое произошло с E-Trade и со всеми остальными, кто закрыл торги._
+
+_Отчеты на странице SEC. Если бы я не боялся остаться без работы во время пандемии, я бы ушел. Это отвратительно. Нам всем надо подняться. Это настолько плохо, насколько это может быть, когда мы говорим о том, что богатые получают один набор правил, а всех нас облапошивают 🪛 снова и снова. И снова предоставляют нам выручать их и платить за их триллион долларов налоговых льгот. Нам надо надавить на каждое правительство и финансовое учреждение, вовлеченное в эту пародию на правосудие._
+
+_Я иду на огромный карьерный риск, даже размещая здесь пост, но **к черту этих ублюдков.**_
+
+---
+
+\*\*rekt 2.0 скоро в доступе.
+
+Наша цель - полное шифрование и децентрализация.
+
+Мы всегда защитим любого разоблачителя, который придет к нам с инсайдерской информацией.\*\*
