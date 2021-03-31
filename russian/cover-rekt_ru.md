@@ -1,195 +1,195 @@
 ---
 title: Cover - REKT
-date: 29 Dec 2020
+date: 29 декабря 2020
 rekt: 
-  amount: 9400000
-  audit: Arcadia Group
-  date: 29 Dec 2020
+  количество: 9400000
+  аудит: Arcadia Group
+  дата: 29 декабря 2020
 tags:
   - cover
   - Rekt
-excerpt: Next time, take care of your own shit. Infinite mint but it’s no Willy Wonka - this is a Hollywood classic insurance themed noir. The black and white outcomes of insurance policies lend themselves well to Hollywood storylines.
+excerpt: В следующий раз не лезь не в свое дело. Гора монет растет, но Вилли Вонка ни при чем - это классический голливудский нуар со страховым сюжетом. Черно-белые доходы со страховых полисов очень хорошо ложатся на сюжетные линии Голливуда.
 banner: https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h7YZ_6NTRmWbF3p7rNREX-4BcKiTRH9FygNeZXSOzLCe2PqmVZ2NrWz5fb6ZKpPREHc4x3zsCoF8RcQvhj9Sx5XlBDiM04p1Xnh
 ---
 
 ![](https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h7YZ_6NTRmWbF3p7rNREX-4BcKiTRH9FygNeZXSOzLCe2PqmVZ2NrWz5fb6ZKpPREHc4x3zsCoF8RcQvhj9Sx5XlBDiM04p1Xnh)
-**Next time, take care of your own shit.**
+**В следующий раз не лезь не в свое дело.**
 
-Infinite mint but it’s no Willy Wonka - this is a Hollywood classic insurance themed noir.
+Гора монет растет, но Вилли Вонка ни при чем - это классический голливудский нуар со страховым сюжетом. 
 
-The black and white outcomes of insurance policies lend themselves well to Hollywood storylines.
+Черно-белые доходы со страховых полисов очень хорошо ложатся на сюжетные линии Голливуда.
 
-**In [Double Indemnity](https://www.youtube.com/watch?v=yKrrAa2o9Eg) (1944), insurance is the motivating force for both good and evil.**
+**В фильме [Двойная страховка](https://www.youtube.com/watch?v=yKrrAa2o9Eg) (1944), страховая премия стала движущей силой добра и зла.**
 
-The film takes its name from a life insurance clause that offers double payouts if the death of the policyholder is accidental.
+Название фильма воспроизводит пункт из страхового полиса, гарантирующий двойные выплаты, если застрахованный умирает из-за несчастного случая.
 
-This results in a twisting plot as an insurance salesman is roped into a murderous scheme by his lover, who wants him to murder her husband and frame it as an accident in order to profit from the payout.
+История выливается в закрученный сюжет, в котором страховой агент оказывается втянут в преступную схему своей любовницей. Она хочет, чтобы он убил ее мужа и выдал убийство за несчастный случай, чтобы получить выплату по страховке.
 
-**Never take anything at face value.** DeFi plot lines are rarely straightforward. Anonymity and composability are the perfect breeding ground for conspiracy; there are multiple ways one can profit from a single incident, meaning smart players don’t always take the most obvious reward.
+**Никогда ничего не принимайте за чистую монету.** Сюжетные линии в DeFi редко бывают прямыми. Анонимность и компонуемость создают идеальную почву для конспираций; есть много способов воспользоваться одним и тем же инцидентом, а это значит, что умные игроки не всегда получают самую очевидную награду. 
 
-**$9.4m taken, $3.2m recovered and $6.2m lost.**
+**$9.4М украдено, $3.2М удалось вернуть и $6.2М потеряны.**
 
-**COVER (formerly known as SAFE) fell ~[90%](https://www.coingecko.com/en/coins/cover-protocol) when an infinite mint loophole was uncovered and exploited,** causing the total supply of tokens to increase by 48 quadrillion percent, from 84,477 to 40,796,131,214,802,600,000.
+**COVER (ранее известный под названием SAFE) обвалился на ~[90%](https://www.coingecko.com/en/coins/cover-protocol) когда уязвимость, позволяющая чеканить до бесконечности была обнаружена и подверглась эксплоиту.** В результате общий запас токенов вырос на 48 квадриллионов процентов, с 84,477 до 40,796,131,214,802,600,000.
 
-Six different addresses minted COVER via this loophole before it was closed. **Some kept the money, others did not.**
+Шесть разных адресов чеканили монеты COVER через эту дыру, пока ее не закрыли. **Кому-то удалось сохранить деньги, остальным - нет.**
 
-Of the six addresses to use the loophole, the previously [unknown](https://medium.com/@grap.finance)[Grap Finance](https://etherscan.io/token/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB) gained the most attention, as they took the opportunity to present themselves as a “White hat” by selling minted COVER for ETH and returning it with a sassy message.
+Из этих шести адресов, воспользовавшихся лазейкой, наибольшее внимание привлек ранее [неизвестный](https://medium.com/@grap.finance)[Grap Finance](https://etherscan.io/token/0xC8D2AB2a6FdEbC25432E54941cb85b55b9f152dB). Они не упустили шанс назваться “Белыми шляпами”, продавая отчеканенные COVER за ETH и возмещая их с дерзкими приписками.
 
-**Code is law, but loopholes remain** - we can rely on attackers to take advantage, but we know things are rarely as simple as they seem.
+**Код есть закон, но уязвимости никуда не деваются** - можно не беспокоиться, хакеры ими воспользуются. Но мы знаем, что все всегда не так просто, как кажется.
 
-Who had cover on their $COVER? We went undercover to find out.
+У кого страховка покрывала $COVER? Мы воспользовались прикрытием, чтобы выяснить это.
 ![](https://lh3.googleusercontent.com/StXzSYZ9O3fWgBSfhG1AUgJwfNlHvh20UIr03MSxmDW94rKhJfr9VJnyjxUyRAhgxAmGY7yeVnqokpMW3rk6ZzpZOB0bQuDCTxMzRAlParXEr6lNlN_WkI_xHSo6hxk5ul1n9D5y)
 
-**Rekt OPSEC**
+**Отдел Безопасности REKT**
 
-The original attack had [four steps](https://twitter.com/vasa_develop/status/1343571127331737600?s=20) and one attacker, but the story became more complicated once the loophole was made [public](https://twitter.com/Luciano_vPEPO/status/1343509612583145472?s=20), and other wallets replicated the process.
+В оригинале атака состояла из [четырех шагов](https://twitter.com/vasa_develop/status/1343571127331737600?s=20) и одного атакующего, но все усложнилось, когда уязвимость [обнародовали](https://twitter.com/Luciano_vPEPO/status/1343509612583145472?s=20), и другие кошельки скопировали процесс.
 
-The following timelines are taken from the official [Cover Post-Mortem](https://coverprotocol.medium.com/12-28-post-mortem-34c5f9f718d4), for a more detailed analysis, please see the [step by step](https://www.notion.so/Cover-Infinite-Mint-Exploit-0a234cc279484982ae559bb5ab54532a#6359c6970a1b414499b76241a7e7b967) from [@vasa_dev](https://twitter.com/vasa_develop).
+Следующая хронология взята из официального [постмортема Cover](https://coverprotocol.medium.com/12-28-post-mortem-34c5f9f718d4). Мы предлагаем вам подробный [пошаговый](https://www.notion.so/Cover-Infinite-Mint-Exploit-0a234cc279484982ae559bb5ab54532a#6359c6970a1b414499b76241a7e7b967) анализ от [@vasa_dev](https://twitter.com/vasa_develop).
 
-**Timeline for Exploiter 1**
+**Хронология эксплоитера №1**
 
-Dec-28–2020 04:09:27 AM +UTC
+28–Дек-2020 04:09:27 +UTC
 
-- **A new [Balancer pool](https://etherscan.io/address/0x59686e01aa841f622a43688153062c2f24f8fded) was added to the Blacksmith contract** from the team’s multisig via [a transaction](https://etherscan.io/tx/0xe5173fffaed3342b53d41319dc538e7923e287e962df2d27f5e425c633db45d4) for the new coverage expirations.
+- **Новый пул [Balancer](https://etherscan.io/address/0x59686e01aa841f622a43688153062c2f24f8fded) был добавлен в контракт Blacksmith** через мультисиг команды, используя [транзакцию](https://etherscan.io/tx/0xe5173fffaed3342b53d41319dc538e7923e287e962df2d27f5e425c633db45d4), связанную с новыми сроками истечения действия страховки.
 
-Dec-28–2020 08:08:12 AM +UTC
+28–Дек-2020 08:08:12 +UTC
 
-- **An attacker [executes ](https://etherscan.io/tx/0xd721b0ef2886f14b75548b70d2d1fd82bea085ca24f5de29b833a64cfd8f7a50)the first deposit to the contract**, depositing 1,326,880 BPT tokens
+- **Атакующий [выполняет ](https://etherscan.io/tx/0xd721b0ef2886f14b75548b70d2d1fd82bea085ca24f5de29b833a64cfd8f7a50)первый депозит в контракт**  в размере 1,326,880 токенов BPT
 
-Dec-28–2020 at 08:11:16 AM +UTC
+28–Дек-2020 08:11:16 +UTC
 
-- **The same attacker then [called ](https://etherscan.io/tx/0xadf27f5dd052482d46fdf69a5208a27cc7352522c7c19bbde5aee18f6ea4373b)withdraw(),** exploiting the contract for ~703.64 $COVER and withdrawing 1,326,878.99 BPT
+- **Следом тот же атакующий затем [выполняет ](https://etherscan.io/tx/0xadf27f5dd052482d46fdf69a5208a27cc7352522c7c19bbde5aee18f6ea4373b)вывод(),** извлекая из контракта ~703.64 $COVER и выводит 1,326,878.99 BPT
 
-Dec-28–2020 08:47:15 AM +UTC
+28–Дек-2020 08:47:15 +UTC
 
-- **The first sell of the exploited $COVER tokens can be found [here](https://etherscan.io/tx/0x66128a1685605b1798c852e14db0b0232a56e3bebf7f3f35b168642801754beb).** During this time there were multiple accounts abusing the exploit, and selling their $COVER on market.
+- **Первую продажу $COVER из эксплоита можно найти [здесь](https://etherscan.io/tx/0x66128a1685605b1798c852e14db0b0232a56e3bebf7f3f35b168642801754beb).** В течение всего этого времени множество аккаунтов использовали эксплоит и продавали свои $COVER на рынке.
 
-Dec-28–2020 09:18:28 AM +UTC
+28–Дек-2020 09:18:28 +UTC
 
-- **The attacker [continues minting](https://etherscan.io/tx/0xf81fb72ee096e0d7afe4b99a55b723110604fb26ec82846043cfc396e1fa79da)** while the attack vector is still present.
+- **Атакующий [продолжает чеканить](https://etherscan.io/tx/0xf81fb72ee096e0d7afe4b99a55b723110604fb26ec82846043cfc396e1fa79da),** пока вектор атаки все еще доступен.
 
-**In total, Exploiter 1 stole around $4.4 million of user funds and transferred it to this [address](https://etherscan.io/address/0x85abf036ca922e56fed670f4d3ce53fc4ea52b95#tokentxns).**
+**В сумме, эксплоитер №1 украл примерно $4.4 миллионов пользовательских денег и перевел их на этот [адрес](https://etherscan.io/address/0x85abf036ca922e56fed670f4d3ce53fc4ea52b95#tokentxns).**
 
-It seems the loophole was discovered accidentally at first, as exploiter 1 had poor OPSEC, a normal wallet funded by an exchange with KYC, trading for 3 years. Some claim to know the identity of this exploiter, and [suggest](https://twitter.com/0xRevert/status/1343743516544028672?s=20) that they return the funds.
+Похоже, что поначалу уязвимость обнаружили случайно. У эксплоитера №1 оказалась плохая служба безопасности, обычный кошелек, снабжаемый через обменник с KYC и с 3-летней трейдинговой историей. Кто-то заявил, что знает эксплоитера, и предложил ему [вернуть](https://twitter.com/0xRevert/status/1343743516544028672?s=20) деньги.
 
 ---
 
-**In a classic DeFi plot twist, the original attacker attracted little attention compared to Grap Finance, who seized the opportunity to play the role of “White Hat”.**
+**По классике жанра DeFi, хакер, который все это затеял, привлек не так много внимания по сравнению в Grap Finance, которые воспользовались случаем и выдали себя за этичных хакеров.**
 
-**Timeline for Grap Finance**
+**Хронология Grap Finance**
 
-Dec-28–2020 11:54:47 AM +UTC
+28–Дек-2020 11:54:47 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) (Externally owned account) [deposited](https://etherscan.io/tx/0x77490baee41a9b35a6e87d49453c7329c7517c10ce6ce26b4c142692a2877e65) 15,255.552810089260015362 BPT (DAI/Basis pool)** into the Blacksmith farming contract.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) (Внешняя учетная запись) [сделал депозит](https://etherscan.io/tx/0x77490baee41a9b35a6e87d49453c7329c7517c10ce6ce26b4c142692a2877e65) 15,255.552810089260015362 BPT (пул DAI/Basis)** в фарминговый контракт Blacksmith.
 
-Dec-28–2020 11:58:04 AM +UTC
+28–Дек-2020 11:58:04 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[withdraws](https://etherscan.io/tx/0x88ce99fc1cb695db82d83ce5fe587396744841d3a123687f95b18df6a3106818) their 15,255.552810089260015361 BPT**(DAI/Basis pool), leaving just 1 wei in their balance in the Blacksmith farming contract.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[вывел](https://etherscan.io/tx/0x88ce99fc1cb695db82d83ce5fe587396744841d3a123687f95b18df6a3106818) свои 15,255.552810089260015361 BPT**(пул DAI/Basis), оставив лишь 1 wei на своем счету в фарминговом контракте Blacksmith.
 
-Dec-28–2020 11:58:56 AM +UTC
+28–Дек-2020 11:58:56 +UTC
 
-- **[Another user](https://etherscan.io/address/0xdf1aefb979d180b4d67cca9abb4c5108c89dc8a4)[withdraws](https://etherscan.io/tx/0xa27fb73caddb1cf24aa7a5afe84eed13db2f0a889a6ee0f3d5e6226a76c0fd9c) most of his full balance** (1,007.599009946121991627 BPT) from the Blacksmith. Now Grap Finance alone has all liquidity for the DAI/Basis pool on the shield mining Blacksmith contract, exactly 1 wei.
+- **[Другой пользователь](https://etherscan.io/address/0xdf1aefb979d180b4d67cca9abb4c5108c89dc8a4)[вывел](https://etherscan.io/tx/0xa27fb73caddb1cf24aa7a5afe84eed13db2f0a889a6ee0f3d5e6226a76c0fd9c) большую часть всего своего баланса (1,007.599009946121991627 BPT)** из Blacksmith. Теперь Grap Finance принадлежит вся ликвидность пула DAI/Basis в контракте Shield Mining Blacksmith, а именно 1 wei.
 
-Dec-28–2020 12:00:21 PM +UTC
+28–Дек-2020 12:00:21 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[deposited](https://etherscan.io/tx/0xbd1fcda7006ddd58b18cb3bfbd01ef2d1a979be596e1c73be1d7d65fd7eb8215) back 15,255.552810089260015361 BPT** (DAI/Basis pool) on the Blacksmith farming contract..
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[вернул](https://etherscan.io/tx/0xbd1fcda7006ddd58b18cb3bfbd01ef2d1a979be596e1c73be1d7d65fd7eb8215) 15,255.552810089260015361 BPT** (пул DAI/Basis) в фарминговый контракт Blacksmith.
 
-Dec-28–2020 12:02:04 PM +UTC
+28–Дек-2020 12:02:04 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[claimed](https://etherscan.io/tx/0xca135d1c4268d6354a019b66946d4fbe4de6f7ddf0ff56389a5cc2ba695b035f) the rewards**, and because of only 1 wei of balance combined with the storage/memory issue this led to the minting of 40,796,131,214,802,500,000.212114436030863813 $COVER.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[сделал запрос](https://etherscan.io/tx/0xca135d1c4268d6354a019b66946d4fbe4de6f7ddf0ff56389a5cc2ba695b035f) вознаграждения**, и, по той причине, что на счету остался только 1 wei, в комбинации с ошибкой хранилище/память это привело к чеканке 40,796,131,214,802,500,000.212114436030863813 монет $COVER.
 
-Dec-28–2020 12:29:03 PM +UTC
+28–Дек-2020 12:29:03 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) starts to [sell](https://etherscan.io/tx/0xaf94d9b537a13819e873b37160594af2b1cc70b420d0b160a02e341566866a6b) as [many](https://etherscan.io/tx/0x01b3517845ed9c6b7b40d57bd71ac1a89fec080c5b8988f764d8226ac5caa959) tokens as possible** through 1inch.exchange in multiple transactions.
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) начал [продавать](https://etherscan.io/tx/0xaf94d9b537a13819e873b37160594af2b1cc70b420d0b160a02e341566866a6b) [столько](https://etherscan.io/tx/0x01b3517845ed9c6b7b40d57bd71ac1a89fec080c5b8988f764d8226ac5caa959) сколько было возможно** через 1inch.exchange через множетсво транзакций.
 
 Dec-28–2020 12:59:27 PM +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[burns](https://etherscan.io/tx/0xe6c068ca3605228b2435a414f2b372057340f77d3fe9f1d3967eb1ad128cb5d2) minted tokens**
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd)[сжег](https://etherscan.io/tx/0xe6c068ca3605228b2435a414f2b372057340f77d3fe9f1d3967eb1ad128cb5d2) начеканенные монеты.**
 
-Dec-28–2020 at 01:41:01 PM +UTC
+28–Дек-2020 13:41:01 +UTC
 
-- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) sends the 4351 ([1](https://etherscan.io/tx/0x23cb9bdf14eed955a84da3f3cfcf296356c0f897dec0b99e85151a7f084a3051) + [4350](https://etherscan.io/tx/0xc2fd5094c1e108f83222a86bd46b35fc0da35616385d681964b22003643f982e)) ETH they have extracted by selling $COVER to the deployer account**, which accounts for 34% of the total exploit damage ($9.4 million)
+- **[Grap Finance: Deployer](https://etherscan.io/address/0x00007569643bc1709561ec2e86f385df3759e5dd) посылает 4351 ([1](https://etherscan.io/tx/0x23cb9bdf14eed955a84da3f3cfcf296356c0f897dec0b99e85151a7f084a3051) + [4350](https://etherscan.io/tx/0xc2fd5094c1e108f83222a86bd46b35fc0da35616385d681964b22003643f982e)) ETH, полученных от продажи $COVER на счет deployer**, на который пришлось 34% всего ущерба от эксплоита ($9.4 миллионов).
 
 ---
 
-**Coverage from Cover**
+**Покрытие от Cover**
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/image-4.png)
-**It took six hours for Cover Protocol to publicly acknowledge the attack.**
+**Протоколу Cover понадобилось шесть часов для того, чтобы публично признать атаку.**
 
-_The team is still investigating the current incident. The exploit is no longer possible._
+_Команда до сих пор расследует этот инцидент. Возможность для эксплоита закрыта._
 
-_Please do NOT buy_[$COVER\_](https://twitter.com/search?q=%24COVER&src=cashtag_click) _tokens, and remove your liquidity from the COVER/ETH pool on sushiswap._
+_Пожалуйста, НЕ покупайте токены_[$COVER\_](https://twitter.com/search?q=%24COVER&src=cashtag_click) _и выведите вашу ликвидность из пула COVER/ETH на sushiswap._
 
-_CLAIM/NOCLAIM balancer pools are unaffected_
+_Пулы CLAIM/NOCLAIM на balancer не были затронуты_
 
-**Eight hours after the attack, Cover protocol** [**announced **](https://twitter.com/CoverProtocol/status/1343581331448586245?s=20)\*\* **their plan to refund affected users.**
+**Спустя восемь часов после атаки, протокол** [**объявил**](https://twitter.com/CoverProtocol/status/1343581331448586245?s=20)\*\***что планирует возместить ущерб пострадавшим пользователям.**
 
-_Hello everyone, we are exploring providing a NEW_[_ $COVER_](https://twitter.com/search?q=%24COVER&src=cashtag_click) _token through a snapshot before the minting exploit was abused. The 4350 ETH that has been returned by the attacker will also be handled through a snapshot to the LP token holders.We are still investigating. Do NOT buy COVER_
+_Приветствуем вас, мы собираемся ввести НОВЫЙ токен_[_ $COVER_](https://twitter.com/search?q=%24COVER&src=cashtag_click) _через снэпшот, предшествующий моменту эксплоита чеканки. 4350 EHT, которые были возвращены хакером, также будут переданы через снэпшот провайдерам ликвидности и держателям токенов. Мы продолжаем расследование. НЕ покупайте COVER_
 
-**“What is dead may never die” appears never more true than in DeFi**. A fourth iteration of the Cover Protocol token will be issued to refund the affected users.
+**«То, что мертво, не может умереть» нигде так не актуально, как в DeFi.** Для возмещения средств пострадавшим пользователям будет выпущена четвертая итерация протокола Cover.
 
 SAFE - SAFE2 - COVER - _$RECOVER?_
 
-**Persistence is admirable up to a certain extent, but when is enough enough?**
+**Настойчивость хороша до определенного момента, но когда слишком - это уже слишком?**
 
-Some readers will remember the full history of Cover Protocol, who [rebranded ](https://coverprotocol.medium.com/cover-protocol-e202808aa4ef)from SAFE after both @azeemfi and @chefcoverage made poor decisions. They then launched SAFE2, which was migrated to the COVER which we know today.
+Некоторые читатели вспомнят полную историю протокола Cover, который стал [ребрендингом](https://coverprotocol.medium.com/cover-protocol-e202808aa4ef) протокола SAFE после того, как @azeemfi и @chefcoverage приняли неправильное решение. Онии тогда запустили SAFE2, который мигрировал в COVER, который нам известен сегодня.
 
-Is the community is willing to give them a FOURTH opportunity?
+Захочет ли сообщество дать им ЧЕТВЁРТЫЙ шанс?
 
 ---
 
 ![](https://lh5.googleusercontent.com/Ogj1lycooZFZrO1GfU4lgsis5tJ2j76L2BHPQ50TC3KuG7mTx_CQ-FcD90AfAQtSQqdc0ERGK95wczwmRdoznGUR9c00f381m3DAhRZp7Ego0j6U4WrxohU-RCMNtE0Sq0c4f55u)
-**[Grap Finance](https://medium.com/@grap.finance) is a fork of YAM** - who having failed to ship anything noteworthy during DeFi summer, jumped at the opportunity to gain attention by presenting themselves as a White Hat, which gained them thousands of followers in just one day.
+**[Grap Finance](https://medium.com/@grap.finance) это форк проекта YAM** Они не смогли написать ничего стоящего за лето DeFi, и воспользовались возможностью привлечь внимание, выдав себя за Белые Шляпы. Это принесло им тысячи подписчиков всего за один день.
 
-What they will do with this new found following remains to be seen.
+Что они будут делать с этой новой возможностью, время покажет. 
 
-**Grap Finance**’s unusual activity puts them within the top five balance changes for COVER within the last 7 days.
+Благодаря такой неожиданной активности **Grap Finance** вошли в пятерку Dapps, изменивших состояние счета Cover за последние 7 дней.
 ![](https://lh3.googleusercontent.com/FMvU_UZhki6SB0ery4HcON4MEfMbBSPmrah0QDGPCqgwePElvreCDCKdVct9Mo2-B2sqqgUqx8y4MQOpJIPMtn-VqI4tm3ND37FW_Kyz0sDVWKDvdmyBZpe555KyeVqpQd2hO6by)
 
-They say there’s no such thing as bad publicity, and this seems to be confirmed by the next chart - unique addresses for COVER increased on the day of the attack by 1,778, as opportunist traders tried to catch a falling knife.
+Говорят, что плохая реклама не существует, и это, кажется, подтверждается нижеследующим графиком. 1778 новых уникальных адресов подключились к COVER в день атаки. Трейдеры-оппортунисты попытались перехватить занесенный нож.
 ![](https://lh5.googleusercontent.com/n3eflB7D7s60xY-dZg_755bKnUbm-8XEpryBbapuAY1UhlCirnheGGcmDL8hX6Bv8im6TzNFOBryHjcrGL9bUPcMShVRB-wepJfTxod4M71KiL-15n9qdBhjJPRPCzuqe62ixMFZ)
-Here we see Binance shown in green, a huge increase in COVER deposits as the community tried to jump ship before they eventually paused trading for the token.
+На этом графике видно, что Binance в зеленом секторе из-за огромного притока депозитов COVER, так как сообщество пыталось покинуть тонущий корабль до того, как трейдинг токена остановили.
 ![](https://lh4.googleusercontent.com/ISdelPif5XcLBEWb4fNDHyOanmb9rPv5Ny47vHbshuH0bevewfDrt6Agt28yYWRiSgxUFSC_NPPX_Vp5oJOWFkCeXByfFP9pO07HniqwKcBtNeBgwCrJNKyepBp22XVFgxQeFyQB)
-Responsible behaviour may not offer much reward, but wages of sin are always paid in full.
+Ответственное поведение не приносит много денег, но за грехи мы всегда платим сполна.
 
-Some say this was an insider job gone wrong.
+Говорят, что это был неудавшийся инсайдерский эксплоит.
 
-Perhaps the attackers got doxxed, couldn’t keep the funds, so sent them back and profited from promo instead.
+Возможно, атакующего раскрыли, он не смог сохранить деньги, поэтому вернул их и вместо этого воспользовался рекламой.
 ![](https://lh5.googleusercontent.com/8DTMgDPJE8_EL2ldg9LTM8_A4JtUw1oAbAIxFcZj3MOISWVwa5Do7EivF7R5SrcInzstS7lLnHYlA3Sug4uqC95aE_EAZdNOwIeD_QQvB5F9ckPTFrotVFZ2I02JaPT-Gb_J6MwY)
-**We don’t claim that these rumours are based in fact, **but it’s easy to see how such ideas arise when the day's events lead to announcements such as [this](https://support.mxc-exchange.com/hc/en-001/articles/360054776091).
+**Мы не утверждаем, что у этих слухов есть основание, но трудно не заметить, как много таких идей появляется, когда случившееся приводит к [таким](https://support.mxc-exchange.com/hc/en-001/articles/360054776091) заявлениям.**
 ![](https://lh3.googleusercontent.com/LJ9XZzZF2hn1qinb-EP8NlGS3vK2QdGWllXXAgmYbHxVCGKF-B07NHSyXREHg7smGNDfyITiFgf7txfb0Eejrn-AVycPUzhnjTFV0dv7hD0Sqmfk_gHEUlonGnnc7J_qGLuzGhce)
 
-**Pure coincidence is out of the question**, this is foul play or desperation. MXC must have fallen on hard times if they’re listing tokens based on gossip.
+**О случайном совпадении не может быть и речи,** это либо грязная игра, либо акт отчаяния. Должно быть, дела у MXC идут совсем плохо, если они делают листинг токенов, основываясь на слухах.
 
-Crypto Twitter has proven that their risk appetite remains strong by pumping the price of their “rescuers” [token](https://www.coingecko.com/en/coins/grap-finance) by several thousand percent, increasing its 24hr trading volume from $236 to $5,458,084 at the time of writing.
-
----
-
-**Emiliano Bonassi provided the following quote:**
-
-_Setting a side the technical issue, this event showed again how this ecosystem is cohesive and supportive._
-
-_We are antifragile._
-
-_I am pretty sure that after this event not only a new Cover will emerge but more importantly a collective to guarantee safety and prompt reaction in the ecosystem - maybe The WhiteHack Group_
+Крипто-тусовка Твиттера доказала, что аппетит на риск у нее по-прежнему высокий, накачав цену [токена](https://www.coingecko.com/en/coins/grap-finance) своего «спасителя»  на несколько тысяч процентов, что увеличило объем его суточной торговли с $236 до $5,458,084 в то время, как мы пишем эту статью.
 
 ---
 
-**Blood is a big expense. The DeFi insurance market is in a sorry state.**
+**Emiliano Bonassi сказал следующее:**
 
-First [NXM](/nxm-hugh-speaks-out/) and now Cover. It doesn’t matter if the protocol is unaffected, if we have to write an article about you, then the user's confidence in your project has already gone.
+_Если не брать в расчет техническую проблему, этот случай снова показал, насколько эта экосистема  сплоченная и солидарная._
 
-**DeFi insurance must be fully comprehensive.** Acts of god don’t happen here.
+_Мы антихрупкие._
 
-Insecure protocols pay high premiums, while others work hard to build their no claims bonus.
+_Я уверен, что после этого события появится не только новый Cover. Что более важно, появится новый супер-реактивный коллектив, который будет гарантировать безопасность экосистемы. Возможно, Команда Этичных Хакеров._
 
-[COVER](https://twitter.com/search?q=%24COVER&src=cashtag_click) went down 40x in 4 hours while[ $GRAP](https://twitter.com/search?q=%24GRAP&src=cashtag_click) went up 40x.
+---
 
-**[“No gains”](https://twitter.com/GrapFinance/status/1343555258316804101?s=20) say Grap team from behind their screen**, a tall tale that tells half the truth.
+**Кровь дорого обходится. Страховой рынок DeFi находится в плачевном состоянии.**
 
-**Black hats painted white don’t last under a shower of allegations.**
+Сначала [NXM](/nxm-hugh-speaks-out/) и вот теперь Cover. Не важно, пострадал ли протокол. Если мы пишем о вас статью, значит, доверие пользователей к вашему проекту уже улетучилось.
 
-The investigation continues...
+**Страхование в DeFi должно быть полностью прозрачным.** Божьему промыслу нет места в этом мире.
+
+Небезопасные протоколы выплачивают большие премии, в то время как остальные изо всех сил стараются, чтобы вознаграждение шло за отсутствие страховых случаев.
+
+За 4 часа цена [COVER](https://twitter.com/search?q=%24COVER&src=cashtag_click) упала в 40 раз, тогда как цена [ $GRAP](https://twitter.com/search?q=%24GRAP&src=cashtag_click) выросла в 40 раз.
+
+**[“Прибыли не было”](https://twitter.com/GrapFinance/status/1343555258316804101?s=20) говорит команда Grap, прячась за своими экранами.**. Красивая сказка, чтобы скрыть правду.
+
+**Белая краска быстро смывается с черных шляп под дождем обвинений.**
+
+Расследование продолжается...
 
 ---
 
