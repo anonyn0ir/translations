@@ -1,124 +1,128 @@
 ---
-title: Deepfake - A Scam so Surreal
+title: Deepfake - очень сюрреалистическая афера
 slug: deepfake
-date: 17 Dec 2020
+date: 17 декабря 2020
 tags:
   - deepfake
   - rugpull
-excerpt: Fake news is old news, but now it looks different. Deepfake technology is the most surreal form of media manipulation we’ve ever seen, one which threatens the trust we place in our own perception.  When we have reason to doubt our own senses, verification becomes near impossible.
+excerpt: Фейковые новости стары, как мир, но теперь они выглядят иначе. Технология дипфейк - это самая сюрреалистическая форма манипуляции средствами массовой информации, которую мы когда-либо видели. Она угрожает подорвать доверие нашему собственному восприятию. Когда есть основания сомневаться в наших собственных ощущениях, проверить что-либо становится практически невозможно.
+
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/headerEYE.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/headerEYE.jpg)
-**“Those who do not want to imitate anything, produce nothing”**
+**«Те, кто не хотят никого имитировать, ничего не создают»**
 
-> Fake news is old news, but now it looks different.
+> Фейковые новости стары, как мир, но теперь они выглядят иначе.
 
-It’s hard to think of moral uses for technology built to deceive.
+Сложно представить себе, как можно этично использовать технологию, которая создавалась для обмана.
 
-Deepfake technology is the most surreal form of media manipulation we’ve ever seen, one which threatens the trust we place in our own perception.
+Технология дипфейк - это самая сюрреалистическая форма манипуляции средствами массовой информации, которую мы когда-либо видели. Она угрожает подорвать доверие нашему собственному восприятию. 
 
-**When we have reason to doubt our own senses, verification becomes near impossible.**
+**Когда есть основания сомневаться в наших собственных ощущениях, проверить что-либо становится практически невозможно.**
 
-The absence of trust can be equally as damaging as that which is misplaced, making a polarised society take sides on which is which.
+Отсутствие доверия может быть так же разрушительно, как и доверие, оказанное по ошибке, заставляя людей в поляризованном обществе восставать друг против друга.
 
-The information era brought psychological warfare into our homes. Disinformation, or the mere possibility of it, means we now fight to filter truth from lies and advertisements.
+Информационная эра привела психологическую войну к нам в дом. Дезинформация, или сам факт того, что она существует значит, что мы сейчас боремся, чтобы отделить правду от лжи и рекламы. 
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/image-2.png)
 
 ---
 
-**One of the recent scams highlighted this growing issue of digital trust and identity.**
+**Одна из недавних афер пролила свет на растущую проблему доверия и цифровой подлинности.**  
 
-[DeTrade Fund](https://www.techtelegraph.co.uk/detrade-fund-new-cryptocurrency-fund-threatening-current-market-leaders/) presented themselves as a community driven project that would provide users with access to their CEX arbitrage bots, providing they owned enough of the native token [DTF](https://etherscan.io/token/0x746adfded7d3996ad83b5ed5a68eea0993b541ee).
+[DeTrade Fund](https://www.techtelegraph.co.uk/detrade-fund-new-cryptocurrency-fund-threatening-current-market-leaders/) представились общественным проектом, который предоставит пользователям доступ к арбитражным ботам на централизованных обменниках при условии, что у них будет достаточное количество токенов проекта - [DTF](https://etherscan.io/token/0x746adfded7d3996ad83b5ed5a68eea0993b541ee).
 
-**DTF was sold in a private sale which raised 1,438 ETH before the company subsequently vanished with the funds.**
+**DFT продавался на закрытой продаже, которая собрала 1,438 ETH, прежде чем компания испарилась с деньгами.**
 
-To build trust from their users, this scam focused on building a fake identity with both on and offline presence. They registered a business with [Companies House](https://find-and-update.company-information.service.gov.uk/company/13063844) and arranged [news ](https://www.globenewswire.com/news-release/2020/12/09/2142436/0/en/DeTrade-Fund-New-Cryptocurrency-Fund-Threatening-Current-Market-Leaders.html)releases on [several ](https://uk.finance.yahoo.com/news/detrade-fund-cryptocurrency-fund-threatening-152100994.html)platforms where they would repeatedly show the face and name of their CEO “Mark Jensen”.
+To build trust from their users, this scam focused on building a fake identity with both on and offline presence. They registered a business with [Companies House](https://find-and-update.company-information.service.gov.uk/company/13063844) и подстроили выпуски [новостей](https://www.globenewswire.com/news-release/2020/12/09/2142436/0/en/DeTrade-Fund-New-Cryptocurrency-Fund-Threatening-Current-Market-Leaders.html) на [нескольких](https://uk.finance.yahoo.com/news/detrade-fund-cryptocurrency-fund-threatening-152100994.html) платформах, многократно показывая лицо и имя генерального директора «Mark Jensen».
 
-**In a market full of anonymous online only projects, DeTrade stood out with their “real world” identity.** The scammer capitalised on the [trust ](https://www.sciencedaily.com/releases/2013/04/130402101249.htm)that we place in the human face.
+**На рынке, заполненном анонимными, полностью онлайн проектами DeTrade выделялись своей «реальной» индивидуальностью.** Мошенники нажились на [доверии](https://www.sciencedaily.com/releases/2013/04/130402101249.htm), которое вызывает у нас человеческое лицо.
 
-After users found that the private sale had sold nothing but lies, attention turned to the promotional videos that DeTrade had published across social media.
+Когда пользователи узнали, что на закрытой продаже не продавалось ничего, кроме лжи, внимание переключилось на промо-ролики, которые DeTrade публиковали в соцсетях.
 
-**An unusual performance by the supposed CEO of DeTrade attracted attention when a user suggested that he was in fact AI generated.**
+**Необычное поведение предполагаемого генерального директора DeTrade обратило на себя внимание, когда один из пользователей предположил, что он был на самом деле сгенерирован искусственным интеллектом.**
 
-The full Twitter thread can be found [here.](https://twitter.com/DefiZeus/status/1337538434542563334)
+Полная ветка твитов находится [здесь.](https://twitter.com/DefiZeus/status/1337538434542563334)
+
 ![](https://lh4.googleusercontent.com/Z72rC7eqt_fJ0DXX-ikX44fwKixNgBKu4q6ba_60aIXvdDCIUHFyjo7HR-eIdzqLS_yHMHi7cNItv8mE4mf1YJUDcYi66YklpEzSwcLKsUsUvFgzUbuIofVvixvSOTXLd-QLjVuo)
 
-> **Rekt reached out to an industry expert (IE) for their opinion.**
+> **Rekt связался с экспертом в этой области (IE), чтобы узнать, что он об этом думает.**
 
 ---
 
 **IE:**
 
-My name is REDACTED, I am the CEO of REDACTED. We develop proprietary machine learning based technologies to automate the creation and distribution of adult entertainment content, or in layman's terms we are building AIs to create porn. A large part of that involves working with deepfake technologies, and specifically how to insert AI generated people into videos in a photorealistic fashion through deepfakes.
+Меня зовут REDACTED, я генеральный директор REDACTED. Мы разрабатываем частные технологии на базе машинного обучения, чтобы автоматизировать создание и распространение развлекательного контента для взрослых. С точки зрения непрофессионала, мы разрабатываем ИИ, чтобы с его помощью создавать порно. В этой работе широко используются технологии дипфейк. А именно, мы изучаем, как с помощью дипфейков фотореалистично вставить в видео людей, сгенерированных ИИ. 
 
 **rekt:**
 
-_Can you tell us about your work in AI before you merged it with crypto?_
+_Расскажите нам о вашей работе в ИИ до того, как вы связали это с криптовалютами._
 
 **IE:**
 
-Our team has over a decade’s experience in machine learning and computer vision working across all industries but primarily developing solutions for large scale agriculture and pharmaceuticals.
+У нашей команды есть более чем десятилетний опыт в машинном обучении и компьютерном зрении, который мы применяли во всех отраслях. Но в основном мы разрабатывали решения для крупномасштабного сельского хозяйства и фармацевтики. 
 
 **rekt:**
 
-_Regarding the DeTrade video - what were your thoughts when you watched it for the first time?_
+_Что вы подумали, когда впервые посмотрели видео DeTrade?_
 
 **IE:**
 
-There was a lot of speculation that it is “AI generated” or a deepfake, or both. I’ve looked it over a few times now and while it’s possible it is a deepfake of a real person, **the person in the video is almost certainly not AI generated**. I think it’s important to understand the difference between these two technologies.
+Было много разговоров о том, что оно «сгенерировано ИИ» или что это дипфейк, или и то, и другое. Просмотрел его несколько раз. Есть вероятность, что это действительно дипфейк реального человека, но я почти уверен, что человек на видео не был сгенерирован ИИ. Я думаю, важно понять, в чем разница между этими двумя технологиями.
 
-We at REDACTED have trained a GAN to generate our own people who do not exist. That is something fundamentally different from a “deepfake”.
+Мы в REDACTED натренировали генеративно-состязательную сеть (Generative adversarial network, GAN) для того, чтобы генерировать наших собственных людей, которые в реальности не существуют. Это в корне отличается от дипфейка.
 
 **rekt:**
 
-_Please can you explain the difference between AI generated and deepfake?_
+_Не могли бы вы объяснить, в чем разница между человеком, сгенерированным ИИ и дипфейком?_
 
 **IE:**
 
-Well to be clear, deepfake technologies do use AI. However deepfakes as a technology do not involve training an AI to create a new persona. Instead deepfakes take an already existing set of data of a person's face, and overlay it on top of another person's face in an already existing video. If done right what you should get is a photorealistic and convincing "faceswap" where you have a video of a person doing something they did not in fact do. So in sum, **deepfakes do not create a new person at all, but rather involve overlaying an already existing face into another video.**
+Давайте сразу уясним, что технологии дипфейк используют искусственный интеллект. Но в технологии дипфейков ИИ не используется для того, чтобы создавать новый персонаж.   Вместо этого дипфейк берет уже существующий набор данных о лице человека, и накладывает его на лицо другого человека в уже готовом видео. Если все сделано правильно, то у вас должна получиться фотореалистичная и очень убедительная «замена лица». Видео, в котором человек делает что-то, чего он на самом деле не делал. В итоге, **дипфейки вообще не создают новую личность, а скорее используют накладывание уже существующего лица на другое видео.**  
 
-On the other hand an "AI generated person" whether that person is represented as a video or a still image, involves an entirely separate kind of machine learning in which a large amount of data showing photos of different people are given to an AI (usually a Generative Adversarial Network or 'GAN') so that the AI begins to understand what a 'person' or a 'body' is. Once it has enough of this data, the AI can generate new iterations of people based on the data that it has already been shown. So this kind of AI is the exact opposite of deepfakes in terms of our current conversation, it cannot be used to insert a person into video but it can create new people out of thin air.
+С другой стороны, за «человеком, созданным ИИ», на видео или на неподвижной картинке стоит отдельный вид машинного обучения. Там ИИ дается большое количество данных в виде фотографий разных людей (обычно это генеративно-состязательная сеть или «GAN»), чтобы ИИ начал понимать, что такое «человек» или «тело». Когда ИИ получает достаточно таких данных, он может генерировать новые итерации людей на основании тех данных, которые ему показывали.  Этот вид ИИ является полной противоположностью дипфейков с точки зрения нашей сегодняшней беседы. Его нельзя использовать, чтобы вставить человека в видео, но он может создавать новых людей из воздуха.
 
-**What I saw regarding DeTrade were accusations that the person in the video was AI generated, and possibly also deepfaked over an existing video of another person. I want to be clear that this is almost certainly not the case.**
+**То, что я слышал касательно DeTrade, было обвинениями в том, что человек на видео был сгенерирован ИИ, и возможно еще и дипфейком, наложенным на реальное видео другого человека. Я хочу прояснить, что это почти наверняка не так.** 
 
 **rekt:**
 
-_What makes you so sure?_
+_Почему вы в этом так уверены?_
 
 **IE:**
 
-It's a matter of capabilities.** There are maybe 5 or so companies in the world who can generate a new photo realistic person from nothing with an AI and then can also insert that person into an existing video like the one we saw**, to that degree of realism. I should know, we are one of those 5 companies. The others are all multi-billion dollar tech companies like Nvidia, or highly reputable AI startups with tens of millions of dollars in funding. The likelihood that c-suite execs at Nvidia are taking time out of their schedules to scam the DeFi community for a few million bucks seems very slim to me.
+Дело в способностях. **Во всем мире есть, наверное, 5 компаний, которые могут генерировать фотореалистичного человека из ничего с помощью ИИ, а затем еще и вставить этого человека в  существующее видео, как то, что мы видели**, и сделать это настолько правдоподобно. Насколько я знаю, мы - одна из этих 5 компаний. Все остальные - многомиллиардные технологические компании типа Nvidia, или стартапы с очень хорошей репутацией, работающие с ИИ и с финансированием в десятки миллионов долларов. Мне кажется очень маловероятным, что руководители высшего звена в Nvidia будут выкраивать время в своем расписании, чтобы обокрасть сообщество DeFi на несколько миллионов баксов. 
 
-To be clear on this point, there are tons of people who could have taken the face you saw in that video from a video of a real person. Maybe a teacher giving a zoom class or something.
+Проясним этот момент: есть масса людей, которые могли вырезать лицо, которое вы видели на том видео из видео реального человека. Это мог быть учитель, ведущий урок в Zoom, или что-то в этом роде.
 
-But **the idea it's an AI generated face is nearly impossible.**
+Но **теория, что это лицо было создано ИИ, практически невозможна.**
 
 **rekt:**
 
-_AI and deepfakes seem to be the perfect tool to increase paranoia, and many will think they do more harm than good, how would you respond to that?_
+_ИИ и дипфейк кажутся идеальными инструментами для нагнетания паранойи, многие люди подумают, что от них больше вреда, чем пользы. Как бы вы ответили на это?_
 
 **IE:**
 
-> **I think frankly speaking, it's appropriate to be paranoid.**
+> **Честно говоря, я думаю, что  для паранойи есть основания.**
 
-**I think everyone needs to get used to the idea that just because you see a photo, or video, or audio of a person, it does not mean that person was really the one in the video or that the person even really exists.**
+**Я считаю, что всем нужно свыкнуться с мыслью, что если вы видите фото, видео или слышите аудио человека, это еще не значит, что на видео действительно этот человек или что этот человек существует.**
 
-Lots of people understand this intellectually, but then at the same time are looking for things like "non-anon teams" as if seeing a guy give a livestream or show a picture of himself with an ID provides them some extra layer of protection in their investment. This is not really the case.
+Многие люди умом понимают это, но в то же время стремятся выбирать «не-анонимные команды», как если бы это дало им дополнительный уровень защиты в ходе инвестирования, если они увидят человека в прямом эфире или его фотографию с идентификацией. На самом деле это не так.
 
-Right now there are very few places where someone can spin a new person out of whole cloth and create a video of them. I'm proud to count our company as one of those places. But over time, these technologies always get easier and easier for amateur hobbyists or even organized scammers to replicate, and we are rapidly approaching that point.
+Прямо сейчас есть очень мало мест, где кто-то мог бы выкроить нового человека из куска ткани и создать видео с ним. Я горжусь, что наша компания входит в число этих мест. Но со временем увлекающимся любителям и даже мошенникам всегда становится все легче и легче воспроизводить эти технологии, и мы быстро приближаемся к такому моменту.
 
-It's as simple as taking into account the fact that **without meeting someone face to face, you are never going to be able to know if they are real, or if the video you saw of them doing something was actually them or just a fake.** In my opinion we are already at that point, and the proliferation of this technology makes it a guarantee that holding to this kind of philosophy will be more and more important as time goes on.
+Все очень просто: нужно всегда брать в расчет, что, **пока вы не встретитесь с человеком лицом к лицу, вы никогда не сможете узнать, реальный ли он, и был ли это он на том видео, которое вы видели с ним, или же это была подделка.** Я считаю, что мы уже к этому пришли, и распространение этой технологии гарантирует, что со временем будет все важнее придерживаться такой философии. 
 
-> **If you didn't shake their hand, you can't be certain someone exists. And if you didn't hold their ID card, you can't be sure their ID does either.**
+> **Если вы не пожали руку человеку, вы не можете быть уверенными в том, что он существует. А если вы не держали в руках его паспорт, вы не можете быть уверенными в том, что его личность тоже.**
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/image-3.png)
-**In the information age, when we rely so much on the accuracy of the media, we can no longer trust what we see or hear.**
 
-Innovation has always had its [enemies](https://en.wikipedia.org/wiki/Neo-Luddism); will our opinions of this technology change over time?
+**В эпоху информации, когда от точности средств информации зависит так много, мы больше не можем доверять тому, что мы видим или слышим.**
 
-Perhaps in twenty years, we will realise our aversion to deepfakes was simply a case of [technophobia](https://www.wired.com/story/weve-never-feared-tech-as-much-as-we-think-we-have/), and that the societal good outweighs the bad. With the current press that the technology receives, this future is hard to imagine.
+У инноваций всегда были [враги](https://en.wikipedia.org/wiki/Neo-Luddism); изменится ли наше мнение об этой технологии со временем?
 
-Salvador Dali once said: “Si muero, no muero por todo,” or “If I die, I won’t completely die.”
+Может быть, через двадцать лет мы поймем, что наше отвращение к дипфейкам было просто [технофобией](https://www.wired.com/story/weve-never-feared-tech-as-much-as-we-think-we-have/), а польза для общества перевешивает зло. Пресса сейчас делает этой технологии такую славу, что это будущее сложно представить.
 
-Thirty years after his death, his words take on a new meaning at The Dali Museum.
+Сальвадор Дали как-то сказал: «Si muero, no muero por todo», или «Если я умру, я не совсем умру.» 
+
+Спустя тридцать лет после смерти его слова получают новый смысл в The Dali Museum. 
