@@ -1,148 +1,148 @@
 ---
-title: yCredit the Ape
-date: 03 Jan 2021
+title: Обезьяний yCredit
+date: 03 января 2021
 tags:
   - ycredit
-  - Cronje
-  - interview
-excerpt: Cronje doesn’t build for speculators, yet his new code seems to be used for speculation and nothing else. The Cronje audit process sees him throw unfinished products to the apes, who gladly feast on whatever token is thrown their way.
+  - Кронье
+  - интервью
+excerpt: Кронье пишет код не для спекулянтов, однако его новый код пригоден только для спекуляции и ничего больше. Когда Кронье проводит аудит, он выбрасывает недоделанные проекты обезьянам. А те с радостью подбирают любые токены, которые попадаются под руку.
 banner: https://lh6.googleusercontent.com/sv-PN0hSY1Cgjid_grLz74bTXRSJHL7aLHjDvD4Kgbk_r-_d6QH_EIohZEqQ1bcXwtfsm4mNktsgh-FMrcQaSq-oTIlZ2evVgheMT2gnu6rdOGJAYkYd1lizbnz9d8AdqBZWp3im
 ---
 
 ![](https://lh6.googleusercontent.com/sv-PN0hSY1Cgjid_grLz74bTXRSJHL7aLHjDvD4Kgbk_r-_d6QH_EIohZEqQ1bcXwtfsm4mNktsgh-FMrcQaSq-oTIlZ2evVgheMT2gnu6rdOGJAYkYd1lizbnz9d8AdqBZWp3im)
-**Why credit the ape?**
+**Зачем доверять обезьяне?**
 
-If contracts are known to be vulnerable, why release them to the public?
+Зачем давать доступ к контрактам, если мы знаем, что они уязвимы?
 
-**Does the deployer care about their users?**
+**Думает ли о пользователях тот, кто разворачивает контракты?**
 
-If they do, why deploy the contracts?
+Если да, то зачем он их разворачивает?
 
-If they don’t, why try to get people to withdraw?
+Если нет, тогда зачем вынуждать людей выводить деньги?
 
-**In his own [words](https://andrecronje.medium.com/unpacking-my-involvement-in-defi-cdb6479e337d), Cronje doesn’t build for speculators, yet new Cronje code seems to be used for speculation and nothing else.**
+**По [словам](https://andrecronje.medium.com/unpacking-my-involvement-in-defi-cdb6479e337d), самого Кронье, он пишет код не для спекулянтов. Однако его новый код пригоден только для спекуляции и ничего больше.**
 
-**The Cronje audit process sees him throw unfinished products to the apes, who gladly feast on whatever token is thrown their way.**
+**Когда Кронье проводит аудит, он выбрасывает недоделанные проекты обезьянам. А те с радостью подбирают любые токены, которые попадаются под руку.**
 
-Perhaps he doesn’t build for speculators, but he certainly relies on them to test his work.
+Может быть он и не пишет для спекулянтов, но он точно полагается на то, что они протестируют его работу. 
 
-**Both black and white hats look down on their behaviour, but if apes didn’t ape, there would be no clout to chase, and there’s no better way to crowdsource your audits…**
+**Белые и черные шляпы смотрят на них свысока. Но если бы обезьяны не обезьянничали, не было бы погони за властью. Не говоря уже о том, что лучшего способа проводить аудиты за счет краудсорсинга не найти...**
 
-On the 1st January, Cronje [announced](https://andrecronje.medium.com/tokenized-yield-credit-via-ycredit-48330f312d2) the launch of tokenised yield credit via [yCredit](https://ycredit.finance/). As he no longer uses Twitter, this announcement was made with little fuss via a Medium post.
+Первого января Кронье [объявил](https://andrecronje.medium.com/tokenized-yield-credit-via-ycredit-48330f312d2) о запуске токенизированного кредита на доходность с помощью [yCredit](https://ycredit.finance/). Так как он больше не пользуется Твиттером, то эта новость была просто опубликована в статье на Medium.
 
-**However, this didn’t stop the usual Andre Ape Army Activity, and ~$45k quickly flowed into the contracts. **
+**Однако, это не помешало Армии Обезьян Андре начать действовать, и $45тысяч быстро натекли в контракты.**
 
-When Nour Haridy made a public announcement on Twitter, warning people to withdraw from the contracts, he was [accused](https://twitter.com/0xdeadf4ce/status/1345388627694661632?s=20) of clout chasing, and abandoning [responsible disclosure](https://en.m.wikipedia.org/wiki/Responsible_disclosure#:~:text=In%20computer%20security%20or%20elsewhere,the%20model%20from%20full%20disclosure%E2%80%A6.) in exchange for self-promotion.
+Когда Nour Haridy сделал официальное заявление в Твиттере, в котором предупреждал об опасности и призывал людей покинуть контракт, его [обвинили](https://twitter.com/0xdeadf4ce/status/1345388627694661632?s=20) в  разведении паники и в предательстве [ответственного разглашения](https://en.m.wikipedia.org/wiki/Responsible_disclosure#:~:text=In%20computer%20security%20or%20elsewhere,the%20model%20from%20full%20disclosure%E2%80%A6.) в обмен на самопродвижение.
 
-**Everybody wants to be seen in a white hat, but how many wear them when no one is looking?**
+**Все хотят быть белыми шляпами. Но кто их действительно носит, когда никто не видит?**
 
-We spoke to Nour to find out.
+Мы поговорили с Nour, чтобы выяснить это.
 
 ---
 
 **rekt:**
 
-_Hi Nour, sorry for the delay, are you free to talk?_
+_Привет, Nour. Прости что так долго с тобой не связывались, у тебя есть время, чтобы поговорить?_
 
 **Nour:**
 
-I can talk today.
+Сегодня да.
 
 **rekt:**
 
-_Did you contact the yearn team before your public announcement?_
+_Ты связывался с командой yearn, прежде чем опубликовать твое заявление?_
 
 **Nour:**
 
-I contacted Andre, Yearn has nothing to do with yCredit according to Andre.
+Я связался с Андре, Yearn не имеет никакого отношения к yCredit по его словам.
 
-They also didn’t know anything about it.
+Они тоже ничего об этом не знали.
 
 **rekt:**
 
-_Why did you feel a public announcement was necessary?_
+_Почему ты решил, что нужно было сделать официальное заявление?_
 
 **Nour:**
 
-Because otherwise there was going to be no response, because the contract was not publicly announced.
+Потому что иначе никто бы не отреагировал, контракт не был обнародован.
 
 **rekt:**
 
-_Do you consider your announcement to be responsible disclosure?_
+_Ты считаешь, что твое заявление является ответственным разглашением?_
 
 **Nour:**
 
-I consider it the most responsible disclosure available, since the only other option was doing nothing.
+Я считаю, что это самое ответственное разглашение на данный момент, потому что второй вариант был ничего не делать. 
 
 **rekt:**
 
-_Andre was not going to do anything?_
+_Андре ничего не собирался предпринимать?_
 
 **Nour:**
 
-You should ask him that question not me.
+Задайте этот вопрос ему, а не мне.
 
-All I know is that the contract was only meant to be used by him.
+Я только знаю, что этот контракт предназначался для его личного пользования.
 
-Therefore he had no reason to tell anyone there’s a bug.
+Поэтому у него не было необходимости говорить кому-либо, что в нем был баг.
 
 **rekt:**
 
-_If he was going to do something, why would you make the announcement?_
+_Если он собирался что-то предпринять, зачем тебе нужно было делать заявление?_
 
 **Nour:**
 
-You’re right. I wouldn’t.
+Вы правы. Я бы ничего не стал говорить.
 
 **rekt:**
 
-_Did you tell Andre you were going to announce the vulnerability?_
+_Ты предупредил Андре, что собираешься рассказать об уязвимости?_
 
 **Nour:**
 
-Yup.
+Ага.
 
-He said I’m free to do so if I want to.
+Он сказал, говори, если хочешь.
 
 **rekt:**
 
-_Could you prove that?_
+_Ты можешь это доказать?_
 
 **Nour:**
 
-Nope.
+Нет.
 
-Not without screenshotting our chats. Which I can’t do without his permission.
+Без скриншотов нашего чата не могу. А я не могу этого сделать без его разрешения.
 
 **rekt:**
 
-_After your announcement, the attack vector you pointed out was exploited, as well as a different vector which you did not announce._
+_После твоего заявления вектор атаки, на который ты указал, подвергся эксплоиту. Так же, как и другой вектор, о котором ты ничего не говорил._
 
-_If you could repeat the events, would you do anything differently?_
+_Если бы ты мог вернуться назад, ты бы поступил иначе?_
 
 **Nour:**
 
-It's also worth mentioning that hundreds of thousands were in fact withdrawn after. However, I would alert the Yearn guys in addition to Andre. Which btw I did suggest but I was told they had no affiliation with yCredit.
+Стоит еще отметить, что сотни тысяч долларов были на самом деле выведены потом. Я бы наверное предупредил еще и ребят из Yearn вместе с Андре. Что я, кстати, предлагал сделать, но мне сказали, что они никак не связаны с yCredit.
 
-The fact is I did responsibly disclose.
+По факту я сделал ответственное разглашение.
 
-Yearn team never knew anything about yCredit before or after it was released.
+Команда Yearn вообще ничего не слышала о yCredit ни до ни после их запуска.
 
 **rekt:**
 
-_Do you think Andre should have done anything differently?_
+_Как ты считаешь, Андре стоило бы поступить как-то иначе?_
 
 **Nour:**
 
-I think a deposit cap would be helpful to cap potential risk.
+Я думаю, депозитный предел помог бы уменьшить потенциальный риск.
 
-But other than that he did say it can be economically exploited.
+Помимо этого нужно подчеркнуть, что он предупреждал, что контракт мог подвергнуться экономическому эксплоиту.
 
-He did not share the contract address or invite anyone to use it.
+Он не делился адресом контракта и никого не просил использовать его.
 
-He didn’t launch a UI.
+Он не запустил пользовательский интерфейс.
 
-I personally would share the source code with other devs to review first. But these are different styles. Maybe he did also
+Я бы поделился исходным кодом с другими разработчиками, чтобы сначала проверить его. Но у каждого свои методы работы. Может, он так и сделал.
 
 **rekt:**
 
@@ -150,67 +150,67 @@ _[https://ycredit.finance](https://t.co/RbXhxhJNDW?amp=1)?_
 
 **Nour:**
 
-That’s connected to the older contract
+Это относится к старому контракту.
 
 scUSD
 
 **rekt:**
 
-_Your tweet got a lot of attention, and you were accused by some of "clout chasing"._
+_Твой твит привлек к себе много внимания, тебя обвинили в «раздувании паники»._
 
-_Did you view this as an opportunity for self-promotion?_
+_Ты рассматривал это как возможность саморекламы?_
 
 **Nour:**
 
-Sure
+Конечно.
 
-I chose self-promotion over using the exploit myself.
+Я предпочел саморекламу эксплоиту.
 
-I think that’s a pretty good deal for those who were able to withdraw.
+Думаю, это очень помогло тем, кто смог вывести свои деньги.
 
-I'm pretty sure if I used the exploit everyone would just blame the apes who put their money in instead of me.
+Я уверен, что если бы я выбрал эксплоит, все бы просто обвинили обезьян, которые вложили туда свои деньги, а не меня.
 
-But yeah I wouldn’t have done that anyway.
+Но я бы точно этого не сделал.
 
-Maybe I would’ve done it if only Andre’s funds were there so I could just send them back to his address for fun.
+Может быть я бы провел атаку, если бы там были деньги Андре. Я бы потом смог послать их назад на его адрес, чисто поржать.  
 
 **rekt:**
 
-_Do you think Andre uses this "test in prod" approach as a cheaper / decentralised audit technique?_
+_Считаешь ли ты, что Андре использует тактику «test in prod» как технику снижения стоимости / децентрализации аудита?_
 
 **Nour:**
 
-Yep both of us do.
+Да, мы оба так делаем.
 
-I did it with Inverse, only difference was deposit cap.
+Я так делал с Inverse, единственное различие было в депозитном пределе.
 
 **rekt:**
 
-_Thanks for your time Nour, do you have anything you'd like to say to our readers?_
+_Спасибо, что уделил нам время, Nour. Хочешь что-нибудь сказать нашим читателям?_
 
 **Nour:**
 
-I just wanna say that their money isn’t any more safe on any other audited contract than it could be on yCredit.
+Я только хочу сказать, что что их деньги не будут в большей безопасности на каком-либо другом контракте на стадии аудита, чем на yCredit.
 
-Aave barely dodged burning a billion $ last month in a faulty (audited) upgrade.
+Aave чуть было не спалил миллиард $ в прошлом месяце из-за битого обновления (прошедшего аудит).
 
-Audits really are a meme.
+Аудиты это просто мемы.
 
-The only viable proof of security is on-chain battle testing measured by potential attacker profit over time. So don’t yell audits and unit tests etc at Andre, his way really is the only way, especially when it comes to economic vulnerabilities.
+Единственным годным доказательством безопасности может быть тестирование в реальных условиях атаки, и оно измеряется потенциальной прибылью хакера во времени.  Нет смысла предъявлять Андре претензии по поводу аудитов и тестам юнитов. Его методика самая действенная, особенно касаемо экономических уязвимостей.
 
-The guy never invited anyone to test in prod for him anyway. He was testing using his own money. So you’re not entitled to anything if you participate, including a vulnerability response or disclosures.
+Парень никогда никого не просил test in prod за него, кстати.  Он проводил тесты, используя свои собственные деньги. Поэтому, если вы участвуете, вам ничего не причитается, ни за ответ на уязвимость, на за раскрытие. 
 
-Thanks for the interview.
-
----
-
-**\*editor's note\*\*\***- Despite having already made a public announcement, Nour initially refused to share the exploit details with rekt OPSEC, stating that he wanted to wait until there were zero funds in the contract.\*\*
-
-**This slowed our investigation and meant we were unable to take action before the inevitable hacks.**
+Спасибо за интервью.
 
 ---
 
-**ySwap Contracts**
+**\*примечание редактора\*\*\***- Несмотря на то, что Nour уже сделал официальное заявление, он изначально отказался поделиться деталями эксплоита с отделом безопаснсти rekt. Он сказал, что хочет дождаться, когда все деньги будут выведены из контракта.\*\*
+
+**Наше расследование из-за этого затянулось, и мы не смогли предупредить неизбежные атаки.**
+
+---
+
+**Контракты ySwap**
 
 **Stable AMM:** 0x5cB5e2d7Ab9Fd32021dF8F1D3E5269bD437Ec3Bf
 
@@ -220,33 +220,33 @@ Thanks for the interview.
 
 **Redeployed:** 0x71b6296174c5f07d37cafd6e9b72ab5bb3f14fac
 
-[**Banteg analysis**](https://github.com/banteg/exploit-ycredit)
+[**Анализ от Banteg**](https://github.com/banteg/exploit-ycredit)
 
 ---
 
 ![](https://lh3.googleusercontent.com/Excpd2s-dUx0Kh2tpgzAYN8I6l3gEPSDyLfaYAl4EdwDPQGjZDY8HJtJIwDpYlYkgbn-q15GGEl7g3UZ5sDBBp_thwP1anSdO283bELkfAkju-BpOTS26V2_IHCcnFpmkguZNHjA)
-**\*Who the fuck is Nour** to decide a single "nah, shouldn't be used anyway" is a reason to basically do a public invitation to rekt people and also essentially discredit Andre for the sake of pumping his own clout.\*
+**\*Кто, черт возьми, Nour такой,** чтобы одно его «не, он вообще не должен был его использовать» может дать ему право по сути взять и пригласить во всеуслышание rekt людей и, в особенности, дискредитировать Андре ради собственной рекламы?\*
 
-**\*This is not the way responsible disclosure is done.** Did you get in touch with the team? If you didn't, why not? If you did, why the PSA? You're literally calling for the attention of every black hat not sleeping this way.\*
+**\**Ответственное разглашение делается не так.** Ты связался с командой? Если нет, то почему? Если да, то зачем это публичное заявление? Когда так делаешь, то ты реально привлекаешь внимание всех черных шляп, которые пропустили эту возможность.\*
 
-_I legit tried to go for some more info as to why or how this is not handled in a responsible manner and he was basically just like "lol, whadda ya want". At that point I didn't see much sense in communicating with this guy and just hoped DeFi police would show up._
+_Я действительно пытался узнать, что и почему было сделано безответственно, но он только говорил что-то типа «лол, ну вот так». В тот момент я подумал, что нет смысла разговаривать с ним и просто надеялся, что появится полиция DeFi._
 
-_It is not that you wouldn't know who to ask privately if you're paying at least a minimum of attention. Yet he decided to pull some sort of publicity stunt. _
+_Не нужно делать  вид, что не знаешь, к кому обращаться, если хочешь остаться незаметным. А он решил подгрести себе рекламы._
 
-**\*Apart from that... warnings were given, no blame for Andre. Yet he's hiding again and I honestly feel sorry for him. **Sure it is debatable whether this test in prod stuff shouldn't be a little more fenced against apes. I think he's s very sensible person and stupid clout chasing like this might very well be the reason we lose one of the most ingenious builders at some point.\*
+**\*Касаемо всего остального... Предупреждения были сделаны, Андре не в чем винить.   Но он снова прячется, и мне его жаль. ***Можно поспорить насчет того test in prod, конечно. Может, стоило бы чуть лучше огородить его от обезьян. Я думаю, что он очень чувствительный человек. И вся эта тупая погоня за хайпом станет причиной того, что мы потеряем одного из самых гениальных разработчиков, в каком-то роде.\**
 
-_If people only interacted via Etherscan then fuck them.. _
+_Если люди общаются только через Etherscan, тогда пошли они к черту..._
 
-_Take ownership of your actions and take ownership of your losses._
+_Берите на себя ответственность за ваши поступки и за ваши потери._
 
 ---
 
-**It seems this contract has served its purpose.**
+**Похоже что этот контракт сделал свое дело.**
 
-Another lesson to the apes, who live but don’t learn.
+Еще один урок для обезьян, которых жизнь ничему не учит.
 
-**At least apes have their purpose; the ignorance of others is a tool for some.**
+**По крайней мере у обезьян есть своя цель; глупостью остальных пользуется кто-то другой.**
 
-The contract has been redeployed, clout and cash has been redistributed, and we move on.
+Контракт заново развернули, хайп и деньги распределили, и мы идем дальше.
 
-**Our inbox is always open...**
+**Наш почтовый ящик всегда открыт...**
