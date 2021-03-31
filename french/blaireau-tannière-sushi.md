@@ -1,5 +1,5 @@
 ---
-title: Badgers digg sushi
+title: Un blaireau dans la tannière de Sushi
 date: 26 Jan 2021
 tags:
   - sushi
