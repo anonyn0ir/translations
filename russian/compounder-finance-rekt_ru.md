@@ -1,101 +1,123 @@
 ---
 title: Compounder Finance - REKT
-date: 02 Dec 2020
+date: 02 декабря 2020
 rekt: 
-  amount: 12000000
-  audit: Solidity Finance
-  date: 02 Dec 2020
+  количество: 12000000
+  аудит: Solidity Finance
+  дата: 02 декабря 2020
 tags:
   - c3pr
-  - audit
+  - аудит
   - rugpull
-excerpt: The rekt reaper has a way of making people talk. In the final moments, when all TVL has gone, and the drawdown seems unbearable, a faceless figure enters the chat... Follow our anonymous author as he tracks down and interrogates the perpetrator of the $12M Compounder Finance rug pull.
+excerpt: Rekt-косилка знает, как заставить людей говорить. В самом конце, когда общая заблокированная стоимость приближается к нулю, а просадка становится невыносимой, в чат заходит безликая фигура... Наш анонимный автор выследил и допросил злоумышленника, устроившего рагпул протокола Compounder Finance стоимостью $12M.
 banner: https://lh6.googleusercontent.com/TLkLMvzALcncoyVu5MGEumqmlOqk7KWADtRJ8Uj62TXUWi_SZg_gw9iiF9hVi_vgMp55Jvpy5Bl0d_ZxOcmJfZnEALbmRDkcrfbNPaO3F4b-qsIEjOfU3Tp4bKk54JN2wzTCVDhE
 ---
 
 ![](https://lh6.googleusercontent.com/TLkLMvzALcncoyVu5MGEumqmlOqk7KWADtRJ8Uj62TXUWi_SZg_gw9iiF9hVi_vgMp55Jvpy5Bl0d_ZxOcmJfZnEALbmRDkcrfbNPaO3F4b-qsIEjOfU3Tp4bKk54JN2wzTCVDhE)
-**The rekt reaper has a way of making people talk.**
+**Rekt-косилка знает, как заставить людей говорить.**
 
-In the final moments, as TVL approaches zero, and the drawdown becomes unbearable, a faceless figure enters the chat.
+В самом конце, когда TLV приближается к нулю, а просадка становится невыносимой, в чат заходит безликая фигура.
 
-When a protocol is wounded beyond repair, and it’s time has come to shuffle off this mortal coil, the fourth and final horseman arrives to guide them to the afterlife, presenting himself in .gif format.
+Когда протокол смертельно ранен, и пришло время сваливать из этого бренного мира, появляется четвертый всадник Апокалипсиса в формате .gif, чтобы провести его в загробную жизнь. 
 
-**[Compounder.finance](http://compounder.finance/) was rug pulled for over $12,000,000.**
+**[Compounder.finance](http://compounder.finance/) подвергся рагпулу, который стоил ему $12,000,000.**
 
-In our volatile community, greed and desperation are punished and rewarded in equal yet unpredictable ways.
+В нашем непостоянном сообществе жадность и отчаяние наказываются и награждаются в равной, но непредсказуемой степени.
 
-Here there is hope for the sinner, whose transgressions are forgotten as they escape down-chain in their cloak of anonymity.
+Здесь у грешника есть надежда, что его проступки забудутся, когда он под покровом анонимности сбежит из чейна.
 
-Rekt is here to shine a light on the sinful - to expose their methods so that we _all_ can learn.
+Тут на сцену выходит Rekt, чтобы дать грешникам возможность исповедаться - рассказать о своих методах, чтобы мы все могли поучиться. 
 
-**The compounder.finance site and Twitter account were deleted instantly.**
+**Compounder.finance мгновенно удалил свой сайт и Твиттер.**
 
-**A completed security audit offered our detectives the only lead.**
+**Нашим детективам больше ничего не оставалось, как проанализировать полный аудит безопасности.**
 
-These are busy times at [RektHQ](https://twitter.com/RektHQ), a few hours had already passed when we started to investigate… When we contacted the auditors for a quote, they were less than pleased to see us.
+В штаб-квартире [RektHQ](https://twitter.com/RektHQ), сейчас много работы, и прежде чем мы начали расследование, прошло несколько часов... Когда мы связались с аудиторами и попросили их прокомментировать это дело, они были нам совсем не рады.
+
 ![](https://lh4.googleusercontent.com/j_yn7CTMvy6RhjtNHFw7jRwsT0Eossl9zY3lzlm5Uq-hxz2AE-V1Zf97vT11BfwAU-HH1YVRhIEfA6YqwHpDAaSA_dVNpY_VoSvGcUgGXyRdHVVqVOX03YWiJ1AWkK48OKTX6Nsf)
 
-> **_Please don’t send death shit like that, you for real had me scared for my safety for a minute over here and weaker hands might report that or some shit._**
+> **_Пожалуйста, не посылайте мне такую фигню про смерть, на минуту я действительно испугался за свою безопасность. У кого нервы послабее может и пожаловаться на такое или еще что в этом роде._**
 
-After our detective offered some reassurance, Solidity.finance provided us with the full [chat logs](https://solidity.finance/audits/CP3R/ChatLogs.pdf) of their conversation with compounder.finance.
+После того, как наш детектив немного успокоил их, Solidify.finance предоставили нам полный [лог чата](https://solidity.finance/audits/CP3R/ChatLogs.pdf) их переписки с compounder.finance.
+
 ![](https://lh6.googleusercontent.com/jmSOsLERtND5cPjpj5zRKXEsyPg-vqXNGixs02ru1ZYLSMTjxSN4S8ZtDflMFHiI4ImG7ou-B6XA6P201hR94CjS09-Pk7rVkQ2WR4mu0u8SIpjnXx2FPXr99UBJMc8phplKmMlk)
-Other victims also reached out to us, showing early conversations with compounder admins where they voiced their concerns.
-![](https://lh5.googleusercontent.com/-wS-a_Bpwg90_-BScXqJTSVhYm1nsNF2WyFBwrTUUslw-wy4eYm_t2cb0LUCwny5jLWGmfJZNN6uDQxSkcbJVOakKBpJJMjXaWr9mLxrhxxFkm_SY_gWUfFq15bg3TUft-UlUBsl)
-Solidity.finance told us that they had only briefly spoken with the admins, and although they had indeed audited the contract, they had stated in the document that although the pools were treasury controlled by a timelock, that the timelock offered no protection.
 
-The following message is from their chat logs.
+К нам обратились и другие пострадавшие, и показали ранние переписки с админами compounder, в которых высказывали свои опасения.
+
+![](https://lh5.googleusercontent.com/-wS-a_Bpwg90_-BScXqJTSVhYm1nsNF2WyFBwrTUUslw-wy4eYm_t2cb0LUCwny5jLWGmfJZNN6uDQxSkcbJVOakKBpJJMjXaWr9mLxrhxxFkm_SY_gWUfFq15bg3TUft-UlUBsl)
+
+Solidify.finance нам сказали, что они уже кратко переговорили с админами. Они действительно проводили аудит контракта. Но они написали в отчете, что несмотря на контроль пулов таймером, но тот не обеспечивал никакой защиты. 
+
+Следующее сообщение взято из логов их чата. 
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/image.png)
-At this stage in our investigation, solidity.finance was still a suspect. We wanted to know why they had thought that the compounder.finance team seemed ”very trustworthy”
+
+На этом этапе нашего расследования solidify.finance все еще были подозреваемыми.  Мы хотели узнать, почему они посчитали, что  команде compounder.finance «можно доверять».
+
 ![](https://lh3.googleusercontent.com/zAnDE5lhy4th23b04O90LfyMOzuZNKVQpGJSbvm1l9nyik3ALWHNN9w2ESpA9vVgbhUr4mG8RKoWHJs9vA-xxlg5tSHWy0cdYedy26u46htRO2F6DM6ueioCBHkqYyA336fkbeNY)![](https://lh4.googleusercontent.com/3cTLMXUqzGK79tC0tquzA-fJHOgDMyfrNrJywsKGRyCvSNUPI6C097QgqvUeOBASoWAnvVnx4GGcYpkJgD2rHxcrc9uBkkoToqtqzn1DNBOlmBmk6gP-ueO1kwfyQtYjfYerCmsK)
-When reading the chat logs, we noticed that although the accounts had been deleted, one username remained - “keccak”.
+
+Просматривая логи чата, мы заметили, что там осталось одно имя пользователя - «keccak». Все остальные учетные записи были удалены. 
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/image-1.png)
 ![](https://lh6.googleusercontent.com/2Rer5ONASpGduNUGsKPIG7WjVnvSk0qldLQC3qKVl1GaC8H9eTkAEuwRxApHZV1-eRNs4z18n2lRWjM9_aKDwDjunZPqkUIn2cUh1APe3MTSUnpjhd1YkInL0NMzc9L391CWpNtN)
-Although solidity.finance said keccak had deleted their account, we had already found their account and were trying to make contact.
-![](https://lh4.googleusercontent.com/n843mEGRcOHYLt5WsOuC5CpMrwAyICOJ9Mj92qHGWjSUko2CSgUhwsRMQhTKUNj0mQnFebVnlX3GXJ9J6aEErSbqYIf0nAAjR7SargO3_dm1xuUIRiLP3mHlF23pxpMjVqZ-Bk6B)
-Unfortunately, Vlad didn’t want to talk on the phone, so we sent them a message, not expecting him to respond.
 
-Until…
+Solidify.finance сказали нам, что keccak удалил свой аккаунт. Но мы уже нашли его и пытались войти с ним в контакт.
+
+![](https://lh4.googleusercontent.com/n843mEGRcOHYLt5WsOuC5CpMrwAyICOJ9Mj92qHGWjSUko2CSgUhwsRMQhTKUNj0mQnFebVnlX3GXJ9J6aEErSbqYIf0nAAjR7SargO3_dm1xuUIRiLP3mHlF23pxpMjVqZ-Bk6B)
+
+К сожалению, Vlad не захотел говорить по телефону, поэтому мы послали ему сообщение, не надеясь на ответ.
+
+До тех пор, пока...
+
 ![](https://lh6.googleusercontent.com/iCjWb4HeUCo8uB3eZLfksQFxFJdMEruvDsRzzFmwqYZcDzlXOePo-OmTAsbF1HMT89YxccN-Xs1pGl39sI8B4V4HkKx5EDMqSMxLLqiahIAcE9urNAvJUfcMbqAYSGuzEEOpnt2U)
 
-Vlad was ready to talk. Unfortunately, he wasn’t very cooperative.
+Vlad был готов к разговору. К сожалению, он не очень нам помог.
+
 ![](https://lh6.googleusercontent.com/HE93DRIaDmYVHG4436QTGIPxZKsXJ0Ly4UXIojAKIPrpapwfQUyEJofxc4X2hZqyTwRkVnRALWfghAwR_BzCD6r0rPK1JQ-nQ5N2zpKhaLJuKVe8WYRj81PdojtL9oV9X9g4a75t)![](https://lh5.googleusercontent.com/KnQgeeZ8ui5i0loOefPMXBmxwqOOWX0cJB9TZCWAmE9Mt1COguIZB9C8v6D3niEhzCNJuCbj68G0L5eslhSSa83M3XKpLAxSRJ-PUftnrtbN1sLy3fUCmM6JfCUYiySLc9d5wejK)
-Vlad / keccak can still be reached on Telegram via @keccak, however he no longer responds, and has since deleted the images on his account.
-We attach his old avatars here for your consideration and investigation.
 
-We have been informed that - _The wolf one is from a famous Ukrainian cartoon in Russian, which says “come by if something comes up”_
+С Vlad / keccak все еще можно связаться в Telegram, по имени пользователя @keccak, но он больше не отвечает и уже удалил изображения из аккаунта.
+Мы прилагаем его старые аватары, чтобы у вас была полная информация и для вашего собственного расследования.
 
-_The left one is a anti-nuclear-weapon poster._
+Нам сообщили, что - _Это волк из знаменитого украинского мультика на русском языке, который говорит: «ты заходи, если что»_
 
-Not much help for the affected users unfortunately.
+_Слева плакат с анти-пропагандой ядерного оружия._
+
+К сожалению, пострадавшим пользователям это мало чем поможет.
+
 ![](https://lh6.googleusercontent.com/-C_fEe5K7VtTZBgWbN1x0T08gdPgA644Vf_UlKT7ZpIwM8Yvg0-VF_NbIlm3B6aPfgFVcicuLn60v12XKHvN0IMPukME0JQS1wO15OBo0mG00qKujj9N8rM3dFCpkOZ5HTZVvR2q)
 
-**Once it became clear Vlad wouldn’t talk, we visited the official Compounder telegram group, where it became apparent that our reputation precedes us.**
+**Как только стало ясно, что Vlad не будет с нами говорить, мы наведались в официальную группу Compounder в Телеграм. Там нам стало понятно, что наша репутация бежит впереди нас.**
+
 ![](https://lh6.googleusercontent.com/Bgibey9mMbZwxbZvLI3RpEsUKgqENRRGjySROwVuypAQaVeNqCnW4ZjPLOyXkLuzFDdAFs0UOXCVjeRdgZhrC3Fwaemg-0Jjfb0QSDBzvcDI_xggCXfFiRg52tqg3GwHIRQ9Qz6d)
-As we scrolled through the content of the chat, we saw all the typical behaviours that are caused by a freshly pulled rug.
+
+Промотав чат, мы увидели все типичные признаки поведения людей после только что выдернутого из-под ног ковра.
+
 ![](https://lh6.googleusercontent.com/3NDRvDXQyKMx7QH_4iiJs6BwoganIn8R0YE0fqk1z0MH8cRljLJwu8hUBaj_HYldnAuLBU1cP9yw6mEOuWfesjjBnhzs4UVDbZ3QjI9EWV7RdifLXikt3fy5jsB2IOoNy2dZNd9D)
 
-**Even large players are humbled by the power of a rug pull. This [group leader](https://twitter.com/defiyield_info) lost $1,000,000 and has opened his own investigation [group ](https://t.me/compounderopsec)(686 members) in an attempt to have some revenge.**
+**Даже крупные игроки робеют перед мощью рагпулов. Вот этот 5лидер группы](https://twitter.com/defiyield_info) потерял $1,000,000 и создал свою собственную [группу](https://t.me/compounderopsec) для расследования (686 участников) в попытке возмездия.**
+
 ![](https://lh4.googleusercontent.com/NymcDlq36Hf0ZJWBbN4BDjIlBI4rHhOTYmDMYGgvSNYjFLYG_Y6VWgubCqj9FTl7_AjBfx3uji0gstUdJkec4jTgzNPZT6lqT88cEj11ZchK9X8yPaNP7YTNmmif0D2ps8pkyR8T)
-The thread can be found [here](https://twitter.com/defiyield_info/status/1333731633393004545?s=20).
 
-**The Statistics**
+Ветка обсуждения находится [здесь](https://twitter.com/defiyield_info/status/1333731633393004545?s=20).
 
-As part of our investigation, **we introduced Solidity.finance to [@vasa_develop](https://twitter.com/vasa_develop) from Stake Capital** and asked them to work together to create a full post-mortem of the incident.
+**Статистика**
 
-The following data is taken from their [report](http://simpleaswater.com/cp3r).
+В ходе нашего расследования **мы представили Solidify.finance нашему сотруднику [@vasa_develop](https://twitter.com/vasa_develop) из Stake Capital** и попросили их вместе поработать над созданием полного постмортема этого инцидента.
 
-**Assets Rugged (8):**
+Следующие данные взяты из их [отчета](http://simpleaswater.com/cp3r).
 
-- 8,077.540667 Wrapped Ether ($4,820,030.07)
-- 1,300,610.936154161964594323 yearn: yCRV Vault ($1,521,714.80)
-- 0.016390153857154838 Compound (COMP) ($1.79)
-- 105,102,172.66293264 Compound USDT ($2,169,782.85)
+**Украденные активы (8):**
+
+- 8,077.540667 завернутых Ether ($4,820,030.07)
+- 1,300,610.936154161964594323 монет yearn из yCRV Vault ($1,521,714.80)
+- 0.016390153857154838 монет Compound (COMP) ($1.79)
+- 105,102,172.66293264 монет Compound USDT ($2,169,782.85)
 - 97,944,481.39815207 Compound USD Coin ($2,096,403.68)
 - 1,934.23347357 Compound Wrapped BTC ($744,396.89)
-- 23.368131489683158482 Aave Interest bearing YFI ($628,650.174379401)
+- 23.368131489683158482 проценты Aave от YFI ($628,650.174379401)
 - 6,230,432.06773805 Compound Uniswap ($466,378.99)
 
-**Wallets with the funds after rug-pull**
+**Кошельки с фондами после рагпула**
 
 - [https://etherscan.io/address/0x944f214a343025593d8d9fd2b2a6d43886fb2474](https://etherscan.io/address/0x944f214a343025593d8d9fd2b2a6d43886fb2474)
 - 1,800,000 DAI
@@ -105,77 +127,88 @@ The following data is taken from their [report](http://simpleaswater.com/cp3r).
 - 4.38347845834390477 CP3R
 - 0.004842656997849285 COMP
 - 0.000007146621650034 UNI-V2
-- From the time the Deployer was first[ funded via Tornado.cash](https://etherscan.io/tx/0x2fc406e07328e04022b555b5cab69bc932d29d1115eca3d121cbd49da90fb817) to the time of the rug pull, the Deployer sent ETH to 7 different addresses. Most of these were one-off payments.[ One of these addresses](https://etherscan.io/address/0x8f332c9ffb2be270d5c1c0de3fdac3d993517593), however, received 4 separate payments on Nov 19th, 20th, 22nd, and 23rd. Much of the funds from that address ended up an[ another address](https://etherscan.io/address/0xd6c35c1828a7062e21468768c546a64dd1be1602) holding over 1 million KORE (Only 10k KORE existed before they rug pulled).
+- Начиная с того момента, как в Deployer были впервые [переведены средства через Tornado.cash](https://etherscan.io/tx/0x2fc406e07328e04022b555b5cab69bc932d29d1115eca3d121cbd49da90fb817) и до рагпула Deployer послал ETH на 7 разных адресов. Большинство из этих платежей были одноразовыми. [На один из этих адресов](https://etherscan.io/address/0x8f332c9ffb2be270d5c1c0de3fdac3d993517593) пришло 4 разных платежа в ноябре: 19-го, 20-го, 22-го и 23-го. Большая часть средств с этого кошелька в итоге оказалась на  [другом адресе,](https://etherscan.io/address/0xd6c35c1828a7062e21468768c546a64dd1be1602) содержащем больше 1 миллиона KORE (до того, как он совершил рагпул, существовало всего 10k KORE).
 
-The main culprit(s) of this hack were the 7 malicious Strategy contracts that were added to the codebase after the audit.
+Главным(и) виновникам(и) этой атаки были 7 вредоносных контрактов Strategy, которые были добавлены в кодовую базу после аудита. 
 
-A non-malicious withdraw() function from a Strategy contract looks something like this.
+Не-вредоносная функция withdraw(), получаемая от контракта Strategy выглядит примерно так.
+
 ![](https://lh5.googleusercontent.com/t_BQNl6cnQmq98OvUsKf63yo8N93mJWbEOimWOmpkk8RyQHiOCXnBd7Q5iNRRzXZuemKX9vQ66bysjBdZFxaSClpp_jPERv2b6rH7XDgewnUUI6GWJrMEORb7S1339TOjV7nc8uL)
 
-Notice that we have some checks like:
+Обратите внимание, что там есть несколько проверок: 
+
 ![](https://lh5.googleusercontent.com/ZKGym0FbW_OC44MliLLqmvMJjbr2RanORW_G8pcdXTnWby52DXxayqpkIXFeJOEtpxbRZdncWo7yzSXyyAIsRmtF1kDXh1MAPS6-LmHqyOgt3Cuh_3s0dA1nJAbzEzmmQpYip2LV)
-These checks were missing in the 7 malicious Strategy contracts. This allows the Controller contract (which was controlled by the rug[-puller strategist](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758)) to withdraw the assets from the Strategy.
 
-(Note the missing checks below in the malicious withdraw function)
+В 7 вредоносных контрактах Strategy эти проверки отсутствовали. Это дало контракту Controller (который был под контролем [«strategist» рагпулера)](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758)) возможность вывести активы из стратегии.
+
+(Обратите внимание на отсутствующие проверки во вредоносной функции вывода на изображении ниже) 
+
 ![](https://lh4.googleusercontent.com/LX2pt7hp6dieDg5bU-6hMQkIFeAh9ZCABSIADVQZ62Y6OXcF6lRk6eAWuYog5Hlz2GP2_o5tNmDhbKHF0bEYr1vjHRoOPCXn03Gdq-uyiSgushapH-slIkt87Dl7BSQC5QRHw0ou)
-The complete rug-pull can be explained in 4 steps.
 
-**Step 1**
+Всю операцию рагпуллинга можно разделить на 4 шага.
 
-[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) deployed 7 Malicious Strategies with manipulated withdraw() functions.
+**Шаг 1**
 
-**Step 2**
+[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) развернул 7 вредоносных стратегий с управляемыми функциями withdraw().
 
-[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) Set and Approve 7 Malicious Strategies in StrategyController via Timelock (24h) transactions.
+**Шаг 2**
 
-**Step 3**
+[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) Установил и Подтвердил 7 вредоносных стратегий в StrategyController с помощью транзакций Timelock (24 ч.). 
 
-[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) called inCaseStrategyTokenGetStuck() on StrategyController which abuse the manipulated withdraw() function of the Malicious Strategies to transfer the tokens in the Strategies to the StrategyController. Do this for all 7 Malicious Strategies.
+**Шаг 3**
 
-**Step 4**
+[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) задал параметр inCaseStrategyTokenGetStuck() для StrategyController, что вынудило управляемую им функцию withdraw() во вредоносных стратегиях перевести токены из стратегий в StrategyController. Сделал то же самое во всех 7 вредоносных стратегиях.
 
-[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) called inCaseTokensGetStuck() on the StrategyController which transfers the tokens from the StrategyController to the[ Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) address. Now the[ Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) has full control over 8 assets valued at $12,464,316.329.
+**Шаг 4**
 
-From here the assets have been transferred to multiple addresses listed[ here](https://www.notion.so/Compounder-Finance-Post-Mortem-Report-9bf6b17dc1304606bb975968039a6dc8).
+[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist)  задал параметр inCaseTokensGetStuck() для StrategyController, что перевело токены из StrategyController на адрес [Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist). Теперь [Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) полностью контролирует 8 активов стоимостью $12,464,316.329.
 
-**Excellent work from **[**@vasa_develop**](https://twitter.com/vasa_develop)\*\*.
+После этого активы были переведены на разные адреса, перечисленные [здесь](https://www.notion.so/Compounder-Finance-Post-Mortem-Report-9bf6b17dc1304606bb975968039a6dc8).
 
-**If you are a whistleblower, cyber sleuth or Etherscan detective and you have something to contribute, contact us.**
+**Отличная работа от** [**@vasa_develop](https://twitter.com/vasa_develop)**.
+
+**Если вы разоблачитель, кибер-сыщик или детектив, специализирующийся в Etherscan и вам есть, чем поделиться, свяжитесь с нами.**
 
 ---
 
 ![](https://lh3.googleusercontent.com/4Ov6KyZOXXKLhn3ia1GsHXTlqJrJufMyscsMjjs8Ndd7OF6aVv6ULbfwodnZRZN_00m-iF4Bd3IZgCy4_z29XT8544n1sPjSd3COIRottpQgTgZ-1eF9jcJ75U6bBoveI6cSlg5g)
-**Judgement Day:**
 
-Who is to blame?
+**Судный день:**
 
-After our analysis, **we know it’s not the auditors,** who dutifully completed [their ](https://solidity.finance/audits/CP3R/)task, making sure that Compounder Finance stayed safe from external attacks, while also voicing their concerns in their[ audit report](https://solidity.finance/audits/CP3R/) and the[ TG chat](https://solidity.finance/audits/CP3R/ChatLogs.pdf).
+Кто виноват?
 
-Perhaps they could have voiced these concerns slightly louder, but in the end, the ultimate responsibility will always lie with the depositor.
+После проведенного анализа **мы знаем, что это не аудиторы.** Они добросовестно выполнили [свою](https://solidity.finance/audits/CP3R/) работу, убедившись, что Compounder.finance защищен от внешних атак, и к тому же озвучив свои опасения в  аудиторском [отчете](https://solidity.finance/audits/CP3R/) и в [чате TG](https://solidity.finance/audits/CP3R/ChatLogs.pdf).
 
-Compounder.finance used a timelock as an indicator that they wouldn’t pull the rug. We know now that this method can’t be trusted. If it is used, an automated alert system or dashboard should be put in place to monitor transactions at that address.
+Может быть, им стоило бы озвучить эти опасения чуть погромче, но в итоге вся ответственность всегда лежит на вкладчике.
 
-24 hours appears to be insufficient to provide enough warning for users to remove funds.
+Compounder.finance использовал timelock как индикатор того, что они не станут делать рагпул. Теперь мы знаем, что этому методу нельзя доверять. Если он используется, то нужно установить автоматическую систему предупреждения или панель управления, чтобы следить за транзакциями на этом адресе.
 
-**Not all projects with anonymous founders are scams. This entire industry was founded by an anon.**
+24-х часов, по-видимому, недостаточно, чтобы предупредить пользователей о необходимости вывести средства.
 
-However, nearly all scams are projects with anonymous founders. As a community, we need to be wary of these projects; especially those who use untraceable sources of funds like Tornado.cash.
+**Не все проекты, где основатели анонимны, являются аферами. Вся эта индустрия была основана анонимом.**
 
-**The mere existence of an audit report is not sufficient to assure a projects' safety or legitimacy.** Audits often focus on risks from external attackers more than internal - perhaps this is an area where auditors need to improve.
+Однако, почти все мошеннические проекты были основаны анонимами. Нам как сообществу нужно опасаться таких проектов; особенно тех, которые используют источники фондов, которые нельзя отследить. Как например Tornado.cash.
 
-Even with audits, timelocks and burnt keys, depositors are always at the mercy of other users, who may dump huge amounts of tokens onto the market at any time.
+**Само по себе наличие аудиторского отчета недостаточно, чтобы обеспечить безопасность проекта и законность.** Аудиты часто фокусируются больше на рисках от внешних атак, чем от внутренних. Возможно, в этой области аудиторам стоит усовершенствоваться. 
+
+Даже при наличии аудитов, таймеров и сжигания ключей вкладчики всегда находятся во власти других пользователей, которые могут в любой момент слить огромное количество монет на рынок. 
+
 ![](https://lh5.googleusercontent.com/m44dt8mlCqX_pt-Pm7xDUEJJFvZ78tpUndfyCPqpOfsz40B0i8siXxY_TnFHZIati3P8IPlKtrsn4urG_lCY66X5hRagresLo5uRqwIbuDpkHW4-2C0ar1TOG7lqrpLvBCFK6MlF)
-**Solidity.Finance: The Official Statement**
 
-_The Compounder team swapped the safe/audited Strategy contracts and replaced them with malicious 'Evil Strategy' contracts that allowed them to steal users funds. They did this through a public, though clearly unmonitored,  24-hour timelock. _
+**Solidify.Finance: Официальное заявление**
 
-_This issue of centralized control by the C3PR team was raised in our audit report and our discussions with their team. The team had the power to update strategy pools and they did so maliciously here to steal users’ funds. In an effort to be transparent, anyone can view our chat logs with the C3PR team [here: ](https://solidity.finance/audits/CP3R/ChatLogs.pdf)_
+_Команда протокола The Compounder заменила безопасные/прошедшие аудит контракты Strategy на вредоносные контракты «Evil Strategy», что позволило им украсть пользовательские фонды. Они сделали это с помощью публичного, но полностью не управляемого 24-х часового таймера._
 
-_Historically, our audits have focused on the risks to projects from external attackers, with some discussion on risks posed by project teams as we did here. We will take this unfortunate event as a learning opportunity, and moving forward will provide more robust details in easy to understand language on risks stemming from developers’ control._
+_В нашем аудиторском отчете и в переписке с командой C3PR мы затронули проблему централизованного контроля в их руках.  Во власти команды было обновить стратегию пулов, и в данном случае они провели его с намерением украсть фонды пользователей. В целях прозрачности мы открываем доступ ко всем логам наших переписок с командой C3PR [здесь:](https://solidity.finance/audits/CP3R/ChatLogs.pdf)_
+
+_Исторически так сложилось, что наши аудиты всегда фокусировались на рисках для проектов от внешних атак, включая дискуссии о рисках с командами проектов, как в этом случае. Мы воспользуемся этим печальным событием как возможностью научиться на наших ошибках. В дальнейшем мы будем предоставлять больше солидных деталей на легкодоступном языке касательно рисков, вытекающих из контроля разработчиков._
+
 ![](https://lh4.googleusercontent.com/9YXkVrtF4HWEpH_Wyf9N7T6ttzQGR7m-Dfg5At40sFJV4Rz0FbF_7FLEn_E5SM2D6HSeG7iymcg7T9DSLJkBP8SSCL0EuTWdiia6nnGhXD1vy-4ChPhbQh_seYfFHXRb94Wh1ILc)
-We all know we should read smart contracts before we invest, but the knowledge barrier is high. Not everyone knows what to look for, and those who do are not incentivised to share their findings.
 
-In the case of C3PR, users who listened were made aware of the danger very early on, and the code that made the rugpull possible was always present.
+Мы все знаем, что нужно читать смарт-контракты, прежде чем инвестировать, но языковой барьер очень высок. Не все знают, на что нужно обратить внимание, а те, кто знают, не заинтересованы делиться своими находками.
 
-Despite this, over $12,000,000 accumulated in the contract, which can now be labelled as one of the largest rug pulls of all time.
+В случае с C3PR те пользователи, что прислушивались, с самого начала знали об опасности.  И код, сделавший рагпул возможным, всегда там был. 
+
+Несмотря на это, в контракте накопилось больше $12,000,000, и теперь это один из самых больших рагпулов в истории.
+
 ![](https://lh5.googleusercontent.com/5GlWMNDDXxJnsVsr0MxTgGKLmHwwlEjF7ufbN7LefUMdNaGsPDSCExLRHjavO4Vg4lQkR_wzRNF4jFxOqH6v4BsMmFUS7UXF_wMyR8S1xdjGVloDBVwR-bS6EZ1bBnPDFtXDvdMt)
