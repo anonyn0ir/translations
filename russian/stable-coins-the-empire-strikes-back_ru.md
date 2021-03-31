@@ -6,6 +6,7 @@ tags:
   - регулирование
 excerpt: Для мятежного ума стейблкоины символизируют собой новую надежду; путь к финансовой демократии и конец банковскому изгойству. Для существующей элиты опасность стейблкоинов и децентрализованных финансов фантомная - это эфирная угроза их имперской мощи.
 banner: https://lh6.googleusercontent.com/a3S29_dNS5MAJya0YEChpytpsX-9eaKDPEy7FatLNBfxbk2_Co9PWxCwOy7wqYIppekrF_N-CMM9FL1Ipvz0meoEha5oqQmw-Hq0mnbcPZ4617v_S9jjXapBiytb9TK7lBBMG6el
+
 ---
 
 ![](https://lh6.googleusercontent.com/a3S29_dNS5MAJya0YEChpytpsX-9eaKDPEy7FatLNBfxbk2_Co9PWxCwOy7wqYIppekrF_N-CMM9FL1Ipvz0meoEha5oqQmw-Hq0mnbcPZ4617v_S9jjXapBiytb9TK7lBBMG6el)
