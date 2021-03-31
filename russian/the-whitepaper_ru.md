@@ -4,92 +4,92 @@ date: 13 января 2021
 tags:
   - белая книга
   - Кронье
-excerpt: Few survive the harsh conditions of this dry and technical document. The ICO boom of 2017 destroyed the atmosphere of the whitepaper. Nostalgia tells a tale - we reminisce with Cronje
+excerpt: Не многие выдерживают опасное испытание этим точным и техническим документом. Бум ICO в 2017 году разрушил атмосферу Белых книг. Ностальгия говорит сама за себя - мы попросили Андре Кронье поделиться своими воспоминаниями о Белых книгах.
 ---
 
 ![](https://lh6.googleusercontent.com/DLtZJ2vOQG6ha8OoVdHUQicqvkTuds7hfOvMjwAW-eI1CJz9aGdmWR-s0bYXYUC-EofJHMwqWJdFVzWWLHBKVhuU4OjygG_VXKcdjhxLy_amDC4qJD745z4tz2aXrKfI8wMxGUEx)
-**Welcome to the realm of The Whitepaper.**
+**Добро пожаловать в королевство Белой Книги.**
 
-Few survive the harsh conditions of this dry and technical document.
+Не многие выдерживают опасное испытание этим точным и техническим документом. 
 
-**The ICO boom of 2017 destroyed the atmosphere of the whitepaper.**
+**Бум ICO в 2017 году разрушил атмосферу белых книг.**
 
-Once a bustling economic hub of bold claims and rampant speculation, these texts no longer support new ideas. The lands of white paper are now historical artifacts - a discarded concept of times gone by.
+Эти тексты, когда-то бывшие оживленным экономическим центром смелых заявлений и безудержных спекуляций, больше не поддерживают новые идеи. Земли белой книги превратились в исторические артефакты - заброшенная концепция давно минувших времен.
 
-> At their peak, these documents were perceived to be rich in potential wealth, scrolls of wisdom where treasure could be found in between the lines.
+> На пике своего развития эти документы считались источником потенциального богатства, свитками мудрости, где сокровища можно было найти между строк.
 
-Early explorers of the whitepaper could not only find technical details of that particular project, but also fantastical visions of future worlds.
+Первопроходцы белых книг находили в них не только технические детали конкретных проектов, но и фантастические видения будущих миров.
 
-**We spoke to Andre Cronje about his memories of whitepapers:**
+**Мы попросили Andre Cronje поделиться его воспоминаниями о белых книгах:**
 
-> _They were fun reading material but ultimately just marketing fluff._
+> _Это был интересный материал для чтения, но в итоге просто маркетинговый пух._
 
-> [_Yellow papers_](https://ethereum.github.io/yellowpaper/paper.pdf)_ were the real magick._
+> _Настоящими самородками были [_Желтые книги_](https://ethereum.github.io/yellowpaper/paper.pdf)._
 
-> _Whitepapers were basically business plans put into latex to look scientific to fool people into believing they were academic._
+> _Белые книги на самом деле были бизнес планами, представленными в LaTeX, чтобы одурачить обывателей и выглядеть  более научно в их глазах._
 
-> _How many whitepapers have you seen being peer reviewed?_
+> _Вы помните много белых книг, прошедших серьезный аудит и подтверждение?_
 
-Readers would spend hours trawling through pages of pseudo-science and complex diagrams, hoping that they had struck gold. Yet even the most hard-working investors soon grew tired of wading through endless [historical accounts](https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf) about Bitcoin’s ledger size or the double spending problem.
+Читатели проводили часы за чтением бесконечных страниц и псевдо-научных сложных диаграмм в надежде, что они нашли золотую жилу. Но даже самым прилежным инвесторам вскоре надоело перечитывать [бесконечные отчеты](https://s3.amazonaws.com/hathor-public-files/hathor-white-paper.pdf) о размерах блоков Биткоина и решении проблемы двойного расходования.
 
-As the frenzy grew, the quality dropped, yet the document length remained the same.
+По мере роста помешательства качество падало, а документ оставался таким же длинным.
 
-**[Thirty pages](https://dentacoin.com/assets/uploads/whitepaper.pdf) were needed to explain how the dental industry could be revolutionised by crypto currency.**
+**Чтобы объяснить, как стоматологическая промышленность могла быть революционирована с помощью криптовалют, нужно было [тридцать страниц текста](https://dentacoin.com/assets/uploads/whitepaper.pdf).**
 
-Technical content turned into pure marketing, and celebrity advisors were shipped in to add authenticity.
+Техническое описание превратилось в чистый маркетинг, а для пущей аутентичности привлекались известные советники.
 
-**[Thirty six pages](https://web.archive.org/web/20180518182304/http://pinktaxi.io/pdf/whitepaper.pdf) (and an endorsement by John McAfee) was enough to convince some investors that blockchain was the solution for women’s economic empowerment when using a taxi. **
+**[Тридцать шесть страниц](https://web.archive.org/web/20180518182304/http://pinktaxi.io/pdf/whitepaper.pdf) (и поддержки Джона МакАфи) оказалось достаточно, чтобы убедить некоторых инвесторов, что блокчейн была возможным решением для эмансипации экономических прав и возможностей женщин, пользующихся такси.**
 
-The [HEX](https://docs.google.com/document/d/1P0ZDaBQx4ghkdX5IUwZb1n8ThvYf7i22MSt9Gm00JRU/edit) whitepaper even provided readers with an ETH address for sending tips.
+Белая книга [HEX](https://docs.google.com/document/d/1P0ZDaBQx4ghkdX5IUwZb1n8ThvYf7i22MSt9Gm00JRU/edit) даже предоставила читателям эфириум-адрес для пожертвований.
 
-Vapourware and empty promises only last so long, and eventually the market imploded, marking the start of what would be a long and brutal crypto winter in which only bears could survive.
+[Vaporware](https://ru.wikipedia.org/wiki/Vaporware) и пустые обещания больше не производили должного впечатления. Поэтому рынок обвалился, обозначив начало долгой и суровой зимы, из которой только готовые к спячке инвесторы могли выйти невредимыми.
 
-**As portfolios crashed, perceived value melted away, and readers would come to realise that even the strongest whitepaper holds no value.**
+**По мере того, как портфолио обваливались одно за другим, а ценность проектов таяла, как снег на солнце, читатели начали понимать, что даже самая сильная белая книга не несла в себе никакой ценности.**       
 
-When we finally emerged, the once fertile lands were empty.
+Когда мы наконец вынырнули, некогда плодородные земли оказались пустыней.  
 ![](https://lh3.googleusercontent.com/GchrfZQqZFBMI6NtQekAV9xAgnn8iLP-XS7X_ZMzxL_XELG9Nhd7VkEdvEzRdeKvMbYu47YW6c6GhIzXJTTXzNECfu-hLlK2vbu7Drcho22IAuFkRJLKJq0oRZJSobdbFRzbZX81)
-**A new season**
+**Новый сезон**
 
-The whitepaper is gone, but little is lost. Working products have taken its place.
+Белая книга канула в лету, но потеря не велика. На ее место пришли работающие продукты.
 
-In 2017 our attention was divided, different chains had different claims but few had many users.
+В 2017 году наше внимание разделилось. Было много цепей, у которых было много проектов, но мало у кого было много пользователей.
 
-**It’s not just developers who “test in prod”.**
+**Не только разработчики “тестируют продукты”.**
 
-Even the most minimally viable product can find a home in today's market, where protocols are launched without delay. Community governance feeds the on-chain evolution, as projects continue to grow and define themselves post-launch.
+Даже самый нежизнеспособный проект может найти свое место на сегодняшнем рынке, где протоколы запускаются без промедления. Общественное управление способствует развитию в режиме он-чейн, поскольку проекты продолжают расти и развиваться и после запуска.
 
-Governance suggests that the users of a product decide the direction of its evolution, yet token distribution normally means that the founders hold most of the supply.
+Управление предполагает, что именно пользователи продукта определяют, в каком направлении будет развиваться продукт. Но распределение токенов означает, что большая их часть  обычно находится в руках основателей.
 
-**Although the community has some say, the developer's voice still speaks loudest; **an aspect not entirely true to decentralised ideals, however it does not mean they can do as they please.
+****Даже если у сообщества есть право голоса, обычно громче всех говорит разработчик; **этот аспект не вполне соответствует идеалам децентрализации, но это еще не значит, что они могут делать все, что им захочется.**
 
-Owners know if they make unpopular decisions, then their protocol will be forked and the other route taken.
+Правообладатели знают, что если они будут принимать непопулярные решения, их протокол подвергнется форку и остальные пойдут другим путем.
 
-**Anonymous teams develop without downtime, transforming untrustworthy forks into “blue chip” products.**
+**Анонимные команды работают без простоев, превращая ненадежные форки в «голубые фишки».**
 
-The ERC-20 ushered in an era of quick launch and rapid iteration. Trends come and go within days. Forks upon forks of unaudited code build houses of cards that hold excessive rewards.
+ERC-20 открыл эру быстрого запуска и быстрой разработки. Тренды появляются и исчезают за считанные дни. Форк на форке из непроверенного кода создают карточные домики, раздающие невообразимые вознаграждения.
 
-Roadmaps remain, but the fantastical projections of old white papers are nowhere to be seen; replaced by straight talking Medium [post](https://medium.com/iearn/yfi-df84573db81)s that achieve equal status.
+Дорожные карты все еще здесь, но прежние фантастические прогнозы белых книг уже нигде не встретишь. Им на смену пришли [статьи](https://medium.com/iearn/yfi-df84573db81) на Медиуме с равнозначным статусом. 
 ![](https://lh3.googleusercontent.com/248sbOOCAmIH8wNLQXzuEXuNr_E3I9IkvLaHrp9iIKWir_TLu3j5aG04HKPqPR0YLFJ1TYLSG3rA0GHXa9it_Dvs42FqzHnQYXilGcPqz9qVEcEwT7TXXfCv53OpWWHaSLOXeCrC)
-**Immediate utility required.**
+**Требуется немедленная практичность.**
 
-The clock ticks quickly in a bull market, green candles encourage fast work. Code shipped quick contains more holes, but flaws are soon forgiven when _everything_ goes up.
+При растущем рынке время летит незаметно. Зеленые свечки призывают погрузиться в работу. В коде, написанном на скорую руку, много дыр, но о недостатках быстро забывают, когда все идет вверх.
 
-DeFi profit comes and goes quicker than the rest. This is partly due to realisation of the “new paradigm”, but mainly due to greed.
+Прибыль в DeFi-проектах приходит и уходит быстрее, чем где бы то ни было. Частично из-за реализации “новой парадигмы”, но в основном из-за жадности.
 
-[Desire is never-ending, but satisfaction is finite.](https://insights.deribit.com/market-research/on-reflexivity-and-imitation-part-2/)
+[Желания бесконечны, а удовлетворение имеет предел.](https://insights.deribit.com/market-research/on-reflexivity-and-imitation-part-2/)
 
-**Greed is an infinitely powerful force which drives the progress of these new financial primitives.**
+**Жадность - это бесконечно мощная сила, которая движет развитием этих новых финансовых примитивов.**
 
-Instant access now provided by Etherscan and Uniswap; there’s no place for white paper without an order book.
+Эфириум и Uniswap обеспечили мгновенный доступ, без книги заказов для белых книг больше нет места.
 
-> **Thirty white pages and a promise have been replaced by fifty lines of code and a Medium post.**
+> **Тридцать белых страниц с обещаниями заменили полусотней линий кода и статьей на Медиуме.**
 
-Little explanation is needed when we know the apes are watching.
+Долгие объяснения не нужны, когда знаешь, что за тобой следят обезьяны. 
 
-In 2020, there was [1 DeFi hack every 14.6 days](https://blockthreat.substack.com/p/blockthreat-2020-a-year-in-review), yet still we see success.
+В 2020 году в экосистеме DeFi происходила [одна хакерская атака в 14.6 дней](https://blockthreat.substack.com/p/blockthreat-2020-a-year-in-review), а мы все еще не плаву.
 
-Why?
+Почему?
 
-Perhaps we seek freedom from more than just the law…
+Возможно, мы ищем свободу не только от законов... 
 
-**Anonymity brings power, is DeFi the great equaliser?**
+**Анонимность дает силу. DeFi - великий уравнитель?**
