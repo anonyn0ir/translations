@@ -6,7 +6,6 @@ tags:
   - регулирование
 excerpt: Для мятежного ума стейблкоины символизируют собой новую надежду; путь к финансовой демократии и конец банковскому изгойству. Для существующей элиты опасность стейблкоинов и децентрализованных финансов фантомная - это эфирная угроза их имперской мощи.
 banner: https://lh6.googleusercontent.com/a3S29_dNS5MAJya0YEChpytpsX-9eaKDPEy7FatLNBfxbk2_Co9PWxCwOy7wqYIppekrF_N-CMM9FL1Ipvz0meoEha5oqQmw-Hq0mnbcPZ4617v_S9jjXapBiytb9TK7lBBMG6el
-
 ---
 
 ![](https://lh6.googleusercontent.com/a3S29_dNS5MAJya0YEChpytpsX-9eaKDPEy7FatLNBfxbk2_Co9PWxCwOy7wqYIppekrF_N-CMM9FL1Ipvz0meoEha5oqQmw-Hq0mnbcPZ4617v_S9jjXapBiytb9TK7lBBMG6el)
@@ -87,6 +86,6 @@ _"Особенно в условиях пандемии #COVID19 злоумыш�
 Правительства, которые не приспособятся, проиграют, и призрачные сущности из Web 3.0 будут процветать вне их досягаемости. 
 
 **Железный кулак не имеет веса в киберпространстве, где кроткие и сильные встречаются на равных!**
-![](https://lh6.googleusercontent.com/TNdV_E0LPaJlFACWqifrrPjVHtADTPAtQP8Bt_LQ6Ldcb1iuCFDQxGXE-jyJMoQWU7lg31mNPwJ6AhHGiBRyPQjEUHGaZF3Q-L2k7bQqQqVWTjty87fUX0Tb1kPaIrIllH9rq0Sk)!
+![](https://lh6.googleusercontent.com/TNdV_E0LPaJlFACWqifrrPjVHtADTPAtQP8Bt_LQ6Ldcb1iuCFDQxGXE-jyJMoQWU7lg31mNPwJ6AhHGiBRyPQjEUHGaZF3Q-L2k7bQqQqVWTjty87fUX0Tb1kPaIrIllH9rq0Sk)
 
 Если вам нравится то, что мы делаем, вы можете сделать пожертвование в наш [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis)
