@@ -41,7 +41,7 @@ banner: https://lh6.googleusercontent.com/cu47l8eTpNnHgVR_A2gq2boptXZBIIFHI0yO9p
 
 Хранилище провайдеров ликвидности wBTC-wETH [0x3c37f97F7d8f705cc230f97a0668f77a0e05D0aA](https://etherscan.io/address/0x3c37f97F7d8f705cc230f97a0668f77a0e05D0aA)
 
-**Хранилище провайдеров ликвидности WETH-DAI** [**0x13db1CB418573f4c3A2ea36486F0E421bC0D2427 **](https://etherscan.io/address/0x13db1CB418573f4c3A2ea36486F0E421bC0D2427) **(Пострадавшее хранилище**
+**Хранилище провайдеров ликвидности WETH-DAI** [**0x13db1CB418573f4c3A2ea36486F0E421bC0D2427 **](https://etherscan.io/address/0x13db1CB418573f4c3A2ea36486F0E421bC0D2427) **(Пострадавшее хранилище)**
 
 Хранилище  USDT-WETH LP [0xCDb97F4C32F065b8e93cF16BB1E5d198bcF8cA0d](https://etherscan.io/address/0xCDb97F4C32F065b8e93cF16BB1E5d198bcF8cA0d)
 
@@ -53,7 +53,7 @@ banner: https://lh6.googleusercontent.com/cu47l8eTpNnHgVR_A2gq2boptXZBIIFHI0yO9p
 
 Хранилище USDC [0xae465FD39B519602eE28F062037F7B9c41FDc8cF](https://etherscan.io/address/0xae465FD39B519602eE28F062037F7B9c41FDc8cF)
 
-**Отдел Безопасности rekt подготовил для нас следующее резюме**
+**Отдел Безопасности rekt подготовил для нас следующее резюме:**
 
 - WarpFinance подвергся эксплоиту, из его хранилища (WarpVaultSC) выкачали ~$7.8 миллионов DAI/USDC. 
 - Атака началась в 22:24:41 +UTC 17 декабря 2020 года ([Транзакция](https://ethtx.info/mainnet/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090)),
@@ -80,6 +80,7 @@ banner: https://lh6.googleusercontent.com/cu47l8eTpNnHgVR_A2gq2boptXZBIIFHI0yO9p
 - Несмотря на то, что этот инцидент привел к потере ~$7.8 миллионов, атакующий не получает прибыль сразу. Конкретно, сейчас у хакера есть невыгодная займовая позиция на WarpFinance, в которой до сих пор заблокировано 94.349K токенов LP. Мы активно наблюдаем за кошельком атакующего на предмет любых движений.
 
 ![](https://lh3.googleusercontent.com/TL9LpgYGa--08j2t5KRVvWfLi_PtVpV68f_qFni86PIM4WHuKEhl33Tz56_XiwevCYzfHcd2s7Ih0xdYoXSut2_m6_nGY1KnELgiONcDVQ5Kd_3z-Cnn8w3pg7odfJgKkfuNFMEN)
+
 Источник графика - [@n2ckchong](https://twitter.com/n2ckchong/status/1339727569436901378?s=20)
 
 ![](https://lh4.googleusercontent.com/OvaHZqCaAJMaoW7BBHoXtkmw8zPc4ZuYeeMcGpk5OeFJoZc5IDqi7HWIsclDhvs_281kepFEmKQjsbt2ZVkB7O6LwVtRfqrKNNswRznJAZmj9YOkRGNmVFwgn17UlOtUwVZ_mIZQ)
