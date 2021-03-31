@@ -1,75 +1,82 @@
 ---
-title: Decentralised Monopoly
-date: 30 Nov 2020
+title: Децентрализованная монополия
+date: 30 ноября 2020
 tags:
   - yearn
   - merger
   - yfi
-excerpt: We can’t change the cards we are dealt, but we can change how we play the game. Players who are skilled enough to roll the dice in their favour can rewrite the rulebook, while others take a chance card and hope they don’t get rekt.
+excerpt: Нельзя поменять карты после раздачи, но можно изменить стиль игры. Умелые игроки, знающие, как выбросить нужное число на костях, могут себе позволить переписывать кодекс правил. А в это время остальные вытягивают счастливую карту в надежде, что их не rekt.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/header-1.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/header-1.jpg)
-**We can’t change the cards we are dealt, but we can change how we play the game.**
+**Нельзя поменять карты после раздачи, но можно изменить стиль игры.**
 
-Players who are skilled enough to roll the dice in their favour can rewrite the rulebook, while others take a chance card and hope they don’t get rekt.
+Умелые игроки, знающие, как выбросить нужное число на костях, могут себе позволить переписывать кодекс правил. А в это время остальные вытягивают счастливую карту в надежде, что их не rekt.
 
-**Aggressive acquisition of market share is a controversial move in an industry which strives for decentralisation.**
+**Агрессивная покупка долей рынка в индустрии, стремящейся к децентрализации - это противоречивый шаг.**
 
-The industry is still small, it makes sense for teams with shared goals to merge rather than duplicate their workload.
+Индустрия еще достаточно небольшая, командам с общими целями целесообразнее объединяться, а не удваивать объем работы. 
 
-However, at what point does conglomeration become excessive?
+Тем не менее, в какой момент конгломерация становится чрезмерной?
+
 ![](https://lh6.googleusercontent.com/ZUOulNiXEuI-pKGsUCBU0FVFzDXPcEvYSRUzgQ_51cQZO8AfyqqyKjECwSqGtQyeUBBQHqna07mqaBOprODmtP6EneCODrcqecFzgounlUpBI2apdk2OmXUedsLBOK88NsH0_QcG)
-Pickle, CREAM, COVER, and now Akropolis. (and now Sushi)
 
-Yearn is building an empire.
+Pickle, CREAM, COVER, и вот теперь Akropolis. (А теперь и Sushi)
 
-**If your protocol gets rekt, first come to us for an interview, then go to Andre for your partnership deal.**
+Yearn строит империю.
+
+**Если ваш протокол подвергнется rekt, то сначала приходите к нам на интервью, а потом идите к Андре за партнерским соглашением.**
 
 ---
 
-When [YFI ](https://medium.com/iearn/yfi-df84573db81)was introduced, it was labelled as a token that would manage the* “control mechanisms, configurable fees, maintenance controls, and modifiable rules”* of Yearn.
+Когда был введен [YFI ](https://medium.com/iearn/yfi-df84573db81), его представили как токен, который будет управлять *«механизмами контроля, настраиваемыми комиссиями, контролем техподдержки и изменяемыми правилами»* протокола Yearn.
 
-In Cronje’s post _“_[_Merger, Acquisition, Partnership, & Collaboration - Nomenclature in the decentralized space_](https://andrecronje.medium.com/merger-acquisition-partnership-collaboration-nomenclature-in-the-decentralized-space-ca24370d6f27)_”_ he proposes that the role of Governance token holders can be compared to that of an Ethereum Miner - they decide if the protocol upgrades.
+В своей статье [_«Слияние, покупка, партнерство и сотрудничество - номенклатура в децентрализованном пространстве»_](https://andrecronje.medium.com/merger-acquisition-partnership-collaboration-nomenclature-in-the-decentralized-space-ca24370d6f27) Кронье предлагает уравнять роль держателей токенов Управления и майнеров Эфириума - они должны решать, будет ли протокол апгрейдиться.
 
-As the recent mergers make no underlying changes to the YFI protocol, this implies governance token holders should have no say on any merger or acquisition.
+Поскольку недавние слияния не вносят никаких основополагающих изменений в протокол YFI, это значит, что держатели токенов управления не должны иметь право голоса в операциях по слиянию или приобретению.
 
-This has left some YFI holders wondering about their job description.
+Это оставило некоторых держателей YFI в недоумении относительно роли, которая отводится их работе.
 
 ![](https://lh5.googleusercontent.com/vSoh2WFFkPYvryg7g_GEfLg8W5bYSpXdIpCqRPzbzWcicbpW_szsw-_CUFwK8cxhtrxVm-8hG3fRICK3ZNTJnP-2hoHim9pfl6sMqGjGqA6kMCGJ1PdFA911iqUncVjtN1Znbi0Q)
-**Yearn Finance governance votes aren’t binding, which makes them more symbolic than intrinsic to the operation of the protocol.**
 
-Although unannounced partnerships and deals done behind closed doors don’t fit with the usual values of governance control or decentralisation, it’s likely that the majority of YFI holders care less about their seemingly diminished responsibilities than they care about “number go up”.
+**Управленческие голосования в Yearn Finance не носят ограничительный характер, поэтому для работы протокола они скорее символичны, чем непосредственно имеющие значение.**
+
+Необъявленные партнерства или сделки за закрытыми дверями не соответствуют обычным ценностям контроля над управлением или децентрализации. Несмотря на это, похоже, что большинство держателей YFI не так обеспокоены уменьшением своих обязанностей как скорее «ростом цифр».
+
 ![](https://lh6.googleusercontent.com/9l8edyDa4dWPzASRV8bQrhQdYBtYLMZ9em7URBPzWqGnMrCwq8cyz60aYa_gnPqlh5R45TKNMAUFZL8xLxsbePUTA9wO9JupFXV0qdNAUqCjOz5-5pMsx68gz-GNq0U6QIpqIZsw)
-The Yearn developers are clearly smart enough to make their own decisions, and anyone who has spent so much time and effort building a product will have it’s best interests at heart.
 
-However, do these interests conflict with those of the industry as a whole?
+Понятно, что разработчики Yearn достаточно умны, чтобы самостоятельно принимать решения. Любой, кто вложил столько времени и сил в создание продукта, в глубине души будет иметь свои собственные интересы.   
+
+Есть ли конфликт между этими интересами и интересами индустрии в целом?
+
 ![](https://lh4.googleusercontent.com/nWBmS7tnCZp5Gf1wnHBpMPs3L74BsZdWvv8VqQkBHUbmMe0PGTFirdfCdPKCa5TMwtL1SrkMlXMgywkCzaCmPBi3IX-SLDSP-rDLtg8RrLC2WgCNDBqCpyXsTVvEzuQbT1mvXTxr)
-Other than unlikely altruistic deference, there’s little reason why Yearn won’t continue to buy up market share and provide more services to their users.
 
-This could result in a powerful financial monopoly that is even more centralised than our current system, so it’s understandable that this acquisition spree could make others feel uneasy.
+Кроме маловероятного альтруизма, у Yearn мало причин, чтобы не продолжать скупать доли рынка и предлагать больше услуг своим пользователям.
 
-**We always strive for decentralisation, yet this looks like the opposite, and we seem to be encouraging it.**
+Это может вылиться в мощную финансовую монополию, даже еще более централизованную, чем действующая система. Поэтому понятно, почему эта череда приобретений могла не понравиться остальным.
 
-However, we all know that a great deal of the current “decentralisation” and governance “control” is simply to avoid legal issues.
+**Мы всегда стремимся к децентрализации, но это скорее похоже на полную ее противоположность, и мы вроде как поддерживаем это.**
 
-For now, if it works, then fine.
+Однако, мы все знаем, что по большей части современная «децентрализация» и «контроль» над управлением нацелена на то, чтобы избежать проблем с законом. 
 
-Yearn is empowering a new era of DeFi lego, creating something which could be more than just a protocol, Yearn could become an excellent resource that all DeFi projects can use and reuse, building upon solid foundations and keeping security at the highest level.
+Пока это работает, все прекрасно.
 
-**We are starting to learn that this new method of protocol control is best used with a dial and not a switch.**
+Yearn запускает новую эру DeFi-лего, создавая нечто большее, чем просто протокол. Yearn мог бы стать замечательным ресурсом, который все проекты DeFi могли бы использовать снова и снова, строя проекты на прочном фундаменте и поддерживая безопасность на высочайшем уровне.
 
-In reality, these are more “partnerships” than “mergers” and there’s probably little to be concerned about, but it does make it clear how much power Yearn possesses in such a small industry.
+**Таким образом оказывается, что этот метод управления протоколом не бинарный, он скорее осуществляется путем регулировки интенсивности с помощью целого ряда возможных действий.**
 
-Most of the recent hacks came from Yearn v1 because people copied it. If Yearn aims to become a security standard, will v2 be more resilient?
+В действительности, «слияния» больше похожи на «партнерства», и скорее всего особо беспокоиться не о чем. Но зато возникает представление о том, какое сильное влияние Yearn имеет в такой маленькой индустрии. 
 
-**Yearn gets forked > people make mistakes > forks get rekt, forks get acquired by Yearn > Yearn grows.**
+Большинство хакерских атак пришло со стороны Yearn v1, потому что люди его скопировали. Если Yearn хочет стать стандартом безопасности, то сделают ли они v2 более устойчивой?
 
-DeFi builders already worked together behind the scenes, we’ve seen proof of that with the recent whitehat rescue missions. It seems the only difference here is that the teamwork is publicised and rekt protocols are brought back to life through the reputation of Yearn.
+**Yearn подвергается форку > люди делают ошибки > форки подвергаются rekt, Yearn покупает форки > Yearn растет.**
 
-Anyone who wishes to decentralise the production process of DeFi can do so without needing permission.
+DeFi-разработчики уже работали вместе за кулисами, мы видели доказательство этому в недавних спасательных операциях белых шляп. Основное отличие здесь в том, что о командной работе говорят открыто и протоколы после rekt возвращаются к жизни благодаря репутации Yearn. 
 
-> [“_I often get asked, "are you hiring <role>", or "how can I help the project?", the honest answer is, I don't know. You know your talents and skills, just do what you think adds value.”_](https://twitter.com/AndreCronjeTech/status/1333416313734225922?s=20)
+Любой, кто хочет децентрализовать процесс производства DeFi может делать это, не спрашивая разрешения. 
+
+> [_“Меня часто спрашивают: «вы принимаете на работу <вакансия>», или «как я могу помочь проекту?», самый честный ответ - я не знаю. Это вы знаете, в чем вы талантливы, и что вы умеете делать. Просто делайте то, что приносит пользу.»_](https://twitter.com/AndreCronjeTech/status/1333416313734225922?s=20)
 
 ![](https://lh4.googleusercontent.com/i8jfGCFWuBT_yvP7GxMSK-azmFu709i6qfUQEZsSc-tilv79BUcLlMhzar6swKV3B0ovVdPiqxBA1G5Ezd1ONojo4of3qVNjMBMzcFNqLlSp0uO72EEo2JPXBq8o0fJyQdvWEX4D)
-**Images: [@HatashiYamamoto](https://twitter.com/HatashiYamatomo)**
+**Изображения: [@HatashiYamamoto](https://twitter.com/HatashiYamatomo)**
