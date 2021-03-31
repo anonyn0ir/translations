@@ -1,78 +1,79 @@
 ---
-title: Blood in the streets
-date: 11 Jan 2021
+title: Кровь на улицах
+date: 11 января 2021
 tags:
-  - liquidation
-  - markets
+  - ликвидация
+  - рынки
   - Rekt
-excerpt: Rothschild’s words are as loud as ever. $2.9 billion liquidated in the last 24 hours.  Euphoria is dead. Gamblers are out. Who dares buy now? As always, many will say they saw this coming. Others will even say they know the reason.
+excerpt: Слова Ротшильда сегодня звучат как никогда громко. $2.9 миллиарда было ликвидировано за последние 24 часа.  Эйфория прошла. Игроки выбыли. Кто теперь решится покупать? Как обычно, все начнут говорить, что они это предвидели. Кто-то даже скажет, что знает, в чем причина.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/header-2.png
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/header-2.png)
-**Rothschild’s words are as loud as ever.**
+**Слова Ротшильда сегодня звучат как никогда громко.**
 
-> $2.9 billion liquidated in the last 24 hours.
+> $2.9 миллиарда было ликвидировано за последние 24 часа.
 
-**Euphoria is dead. Gamblers are out. Who dares buy now?**
+**Эйфория прошла. Игроки выбыли. Кто теперь решится покупать?**
 
-As always, many will say they saw this coming. Others will even say they know the reason.
+Как обычно, все начнут говорить, что они это предвидели. Кто-то даже скажет, что знает, в чем причина.
 
-Confident analysts will point a finger at the [resolving US election](https://in.investing.com/news/dollar-rebounds-as-treasury-yields-rise-2561739) and say it increased consumer confidence in the US currency, and that this was the cause for our euphoria to end.
+Уверенные аналитики покажут пальцем на [результаты американских выборов](https://in.investing.com/news/dollar-rebounds-as-treasury-yields-rise-2561739) и скажут, что они повысили уверенность потребителей в американской валюте, и что это стало причиной конца нашей эйфории.
 
-Some will blame the crash on the bounce of the [DXY](https://en.wikipedia.org/wiki/U.S._Dollar_Index), saying that this proves Bitcoin is used as a macro asset like gold.
+Некоторые обвинят в падении скачок индекса доллара [DXY](https://en.wikipedia.org/wiki/U.S._Dollar_Index). Они скажут, что это доказывает, что Биткоин используется как макроактив по типу золота.
 
-Others will say with total confidence that it was the fault of the UK’s Financial Conduct Authority, who [warned](https://www.fca.org.uk/news/news-stories/fca-warns-consumers-risks-investments-advertising-high-returns-based-cryptoassets) their consumers of the volatility of “investing in crypto assets”, just before the market retraced by around ~30%.
+Другие с полной уверенностью скажут, что это была вина Управления по финансовому регулированию и надзору Великобритании, которое [предупредило](https://www.fca.org.uk/news/news-stories/fca-warns-consumers-risks-investments-advertising-high-returns-based-cryptoassets) своих потребителей о нестабильности «инвестирования в криптоактивы» незадолго до того, как рынок откатился примерно на 30%.
 
-> _By the way… If you were the one tasked with publishing this warning, would you not short the market before its release? After all, there’s no regulation..._
+> _Кстати говоря... Если вы тот, кому поручили опубликовать это предупреждение, сделайте одолжение, не обрушивайте рынок до того, как оно выйдет? В конце концов, ведь нет никакого регулирования..._
 
-**None of them are to be trusted entirely. The more confident they are, the more doubt they deserve.**
+**Никому из них нельзя полностью доверять. Чем больше они уверены в себе, тем больше в них стоит сомневаться.**
 
-We reached out to several prominent traders to enquire about their performance - all declined to comment.
+Мы связались с несколькими выдающимися трейдерами, чтобы порасспрашивать их об их успехах - все отказались комментировать.
 
-**The market pumped ~100% in a month then retraced ~30%, what do people expect?!**
+**Рынок вырос на ~100% в течение месяца, а затем откатился на ~30%. На что люди надеются, в конце концов?!**
 
-The fundamentals remain the same.
+Фундаментальные основы не меняются.
 
-DEX volume continues to increase, code is still shipped and the ecosystem still grows.
+Объем децентрализованных обменников продолжает расти, код продолжают писать и экосистема по-прежнему растет.
 
-The builders haven’t stopped. Roadmaps are unaffected.
+Конструкторы системы продолжают работу.  Дорожные карты не тронуты.
 
-> **Fast money hunters are the ones hurt hardest by pullbacks like this.**
+> **Охотники за быстрой прибылью больше всех страдают от таких обвалов.**
 >
-> **Those who add the least value feel the most pain.**
+> **Больнее всех тем, кто меньше всех приносит пользы.**
 
-There’s more to this game than being long or short. A good investor will diversify their risk. Earning yield on your coins, providing liquidity and profiting from trading volume, or by seeking access to liquidation bots; many tools are available to manage one's risk.
+Эта игра представляет собой нечто большее, чем игра на повышение или на понижение. Хороший инвестор диверсифицирует риски. Получать проценты с монет, поставлять ликвидность и получать прибыль от объема трейдинга или искать доступ к ликвидационным ботам; для управления риском есть много инструментов. 
 
-**Coinbase, however, is never available in times like these.**
+**Coinbase, правда, никогда не доступна в такие моменты.**
 
-_We’re investigating an issue impacting transactions on_[_ http://Coinbase.com_](https://t.co/ohqDivCZYw?amp=1)_ and the mobile apps. The record of a recently initiated transaction may be delayed in showing up in your Coinbase account. There may also be some issues with some buys completing on the platform._
+_Мы занимается расследованием проблемы с транзакциями на_[_ http://Coinbase.com_](https://t.co/ohqDivCZYw?amp=1)_ и в мобильных приложениях. Сведения о только что запущенной транзакции могут отображаться с опозданием в вашем аккаунте Coinbase. Также могут возникнуть проблемы с некоторыми покупками на платформе._
 
-[4:14 PM · Jan 11, 2021](https://twitter.com/CoinbaseSupport/status/1348664714587369472)
+[11 января 2021 · 16 :14](https://twitter.com/CoinbaseSupport/status/1348664714587369472)
 
-**This is a company expecting to IPO at around **[**$67 billion**](https://ftx.com/trade/CBSE/USD)**.**
+**Это компания, которая готовится к первичному размещению акций на [$67 миллиардов](https://ftx.com/trade/CBSE/USD).**
 
-**Are we seeing market manipulation, or just total incompetence?**
+**Это что, попытка манипулирования рынком, или просто полная некомпетентность?**
 
-**Whatever it is, it’s an all too familiar sight to their [~30 million](https://www.coinbase.com/about) users.**
+**Что бы это ни было, этот цирк уже слишком хорошо знаком их [~30 миллионам](https://www.coinbase.com/about) пользователей.**
 
-Kraken also experienced problems.
+У Kraken тоже возникли проблемы.
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/image.png)
 
 *https://status.kraken.com/*
 
 ![](https://lh3.googleusercontent.com/Q0sHu15CJq8Ep2xTJUSbfC6B2vnT_0wOeDd7ObxT9cP0h6T9B6MDTwy7p4sBqCVXfxeMk_RXKLj6MN27oxry3go9cSwclM-B3eClQYa-nUmc_1nElwBKi_GkdoE-v5le8hOQpG-t)
-**We approached a liquidation bot to request an interview.**
+**Мы попросили ликвидационного бота дать нам интервью.**
 
-Unfortunately the bot declined, but their owner did give us the following quote on condition that they remained anonymous.
+К сожалению, бот оказался, а вот его владелец согласился сказать нам следующее при условии, что мы сохраним его имя в тайне. 
 
-_People were overleveraged, using excessive loans, increasing their liquidation ratio - they didn’t want to listen, they thought the numbers would always go up, they paid no attention to the fundamentals. Right now the flash loan business is the main business from Aave - $1.7B, imagine you could take 3bps, that's $5M, cash!!! They take a nice bit of that…_
-_Anyway, you tell people to be careful and they just don’t listen - it’s like 2017 never even happened, in crypto it takes weeks not years for them to completely forget._
+_У людей было слишком много долгов, они слишком просто могли брать в кредит, постоянно увеличивая тем самым свой коэффициент ликвидации. Они не хотели ничего слышать. Они думали, что показатели всегда будут расти и не обращали внимания на фундаментальные основы. На данный момент флэш-займы - это основной вид деятельности на Aave - $1.7 миллиарда. Представьте, что вам удастся получить 3bps, это $5М, сразу же!!! Они, кстати, забирают себе неплохую долю..._
+_В любом случае, вы говорите людям, что им нужно быть осторожными, а они  просто не слушают. Как будто бы 2017 года не было. В криптосфере люди все забывают за недели, а не за годы._ 
+_
 
-_They never learn..._
+_Они ничему не учатся..._
 
 ---
 
-**“Buy when there’s blood in the streets, even if it’s your own.”**
+**«Покупайте, когда на улицах проливается кровь, даже если она ваша.»**
 
-NOT INVESTMENT ADVICE
+НЕ ЯВЛЯЕТСЯ СОВЕТОМ ДЛЯ ИНВЕСТИЦИЙ
