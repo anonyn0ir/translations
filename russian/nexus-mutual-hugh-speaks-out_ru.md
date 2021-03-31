@@ -1,152 +1,152 @@
 ---
-title: Nexus Mutual - Hugh Speaks Out
+title: Nexus Mutual - Хью дает показания
 slug: nxm-hugh-speaks-out
-date: 23 Dec 2020
+date: 23 декабря 2020
 tags:
   - nexus mutual
   - hugh
   - Rekt
-excerpt: You are not as safe as you think. Hardware wallets and private keys are useless if your machine is compromised.  Apes pay tax and traders lose funds, but careful users don’t deserve to lose their money. Hugh Karp of Nexus Mutual was hacked for $8M.
+excerpt: Вы не так хорошо защищены, как считаете. Аппаратные кошельки и приватные ключи бесполезны, если компьютер взломан. Все привыкли, что обезьяны должны платить налог, а трейдеры проигрывают фонды. Но то, что осторожные пользователи теряют деньги - несправедливо. Hugh Karp из Nexus Mutual взломали и украли у него $8 миллионов.
 banner: https://lh4.googleusercontent.com/3C5IIyaZoBqvwyMaGyDvVS4m-l21_r_ijVf_xeQBSF-jYKoEPtHzIpKZzDZ9ibV1sO2PUrL41u3YrNaRfGsBm_ACHC-jBwhhPsTx7TuSNOYs7ZCOVqsh_3uW8QowqTryN6R9XZyi
 ---
 
 ![](https://lh4.googleusercontent.com/3C5IIyaZoBqvwyMaGyDvVS4m-l21_r_ijVf_xeQBSF-jYKoEPtHzIpKZzDZ9ibV1sO2PUrL41u3YrNaRfGsBm_ACHC-jBwhhPsTx7TuSNOYs7ZCOVqsh_3uW8QowqTryN6R9XZyi)
-**You are not as safe as you think.**
+**Вы не так хорошо защищены, как считаете.**
 
-Hardware wallets and private keys are useless if your machine is compromised.
+Аппаратные кошельки и приватные ключи бесполезны, если компьютер взломан. 
 
-[Apes pay tax](/ape-tax/) and traders lose funds, but careful users don’t deserve to lose their money.
+Все привыкли, что [обезьяны должны платить налог](/ape-tax/) а трейдеры проигрывают фонды. Но то, что осторожные пользователи теряют деньги - несправедливо.
 
-**Hugh Karp of Nexus Mutual was hacked for $8M.**
+**Hugh Karp из Nexus Mutual взломали и украли у него $8 миллионов.**
 
-This story is different to those which we normally cover, and we wanted to report it appropriately. Greed and impatience don’t earn our respect, but when an individual is targeted through no fault of their own, they deserve to be shown some compassion.
+Эта история не похожа на те, что мы обычно публикуем, поэтому мы хотели уделить ей особое внимание. Мы не уважаем жадность и нетерпеливость, но когда человек становится мишенью и в этом нет его вины, он заслуживает сострадания.
 
-**This attack could have happened to any one of us.**
+**Этой атаке мог подвергнуться любой из нас.**
 
-We spoke to Hugh one week after the attack took place. The following summary is from his official [statement](https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48).
+Мы поговорили с Hugh через неделю после атаки. Далее следует выдержка из его официального [заявления](https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48).
 
-_On Monday 14th of December at 9:40am UTC, I was tricked into approving a single _[_transaction_](https://etherscan.io/tx/0x4ddcc21c6de13b3cf472c8d4cdafd80593e0fc286c67ea144a76dbeddb7f3629)_ that sent 370,000 NXM to a hacker instead of what I thought was claiming some mining rewards. The hacker has subsequently liquidated the majority of the NXM into ETH/BTC and has been dispersing it to many different addresses and exchanges._
+_В понедельник 14-го декабря в 9:40 утра UTC, мне подсунули на подтверждение [транзакцию](https://etherscan.io/tx/0x4ddcc21c6de13b3cf472c8d4cdafd80593e0fc286c67ea144a76dbeddb7f3629), которая перевела 370,000 NXM хакеру вместо того, чтобы вывести вознаграждение за майнинг, как я думал. Позже хакер обменял большую часть NXM на ETH/BTC и распределил их по нескольким разным адресам и обменникам._
 
 **rekt:**
 
-Hi Hugh,
+Привет, Hugh,
 
-Thanks for talking to us, we want to say first of all; we're sorry that this happened to you.
+Спасибо, что согласился с нами поговорить; прежде всего, мы хотим сказать, что нам жаль, что это случилось с тобой.
 
-We didn't want to cover this story without talking to you first, as obviously there is much more of a personal element to this attack than those which we normally cover.
+Мы не хотели освещать эту историю, не поговорив с тобой сначала, потому что в этой атаке гораздо больше личного, чем в тех, которые мы обычно описываем.
 
-It’s been just over one week since the hack - financial loss aside, how has the incident affected you?
+Прошла всего неделя после атаки. Не говоря о финансовой потере, как инцидент повлиял на тебя?
 
 **Hugh:**
 
-it's been pretty rough to be honest, an emotional roller coaster and not much sleep, especially the first few days but things are settling now.
+Честно говоря, было довольно жестко. Эмоциональные американские горки и бессонница, особенно в первые дни. Но сейчас все приходит в норму. 
 
-The first 3 hours or so were definitely the worst, as I'm sure many others in crypto have experienced. You get that gut-wrenching sick feeling and my whole body was shaking and quite weak.
+Первые 3 часа были самыми ужасными. Уверен, что многие причастные к криптовалютам прошли через это. Все внутри переворачивается, все тело трясет и силы покидают.
 
-The Nexus team and others in the community really helped out here, Rox (our CTO) and Anatol (our security expert) took control of the situation and guided me on next steps. then the wider community started getting involved with tracing funds and other things.
+Команда Nexus и другие ребята из сообщества в этот момент очень помогли мне. Rox (наш технический директор) и Anatol (эксперт по безопасности) взяли ситуацию под контроль и сказали, что делать дальше. Потом подключилось сообщество и начало отслеживать деньги и помогать в остальном.
 
 **rekt:**
 
-I'm not surprised that a $8m loss causes some physical side effects - that must have been awful.
+Не удивительно, что потеря 8 миллионов долларов вызвала физическую реакцию. Должно быть, это было ужасно.
 
-How are you handling it psychologically?  Has it changed how you think about the industry?
+Как ты справляешься с этим психологически?  Это изменило твое мнение об индустрии?
 
 **Hugh:**
 
-I think I'm doing alright on that front, I tend to take a long term view of things, and before DeFi summer really kicked off NXM was only around $3. So while I've most certainly lost a lot of money, I didn't have that money 4-5 months ago. A start-up is a rollercoaster anyway, so this is just another down section, I'm confident things will turn around.
+Думаю, в этом плане у меня все в порядке. Я стараюсь смотреть на вещи в долгосрочной перспективе и не забывать, что до лета DeFi NXM стоили всего 3 доллара. Даже если я потерял очень много денег, у меня их не было еще 4-5 месяцев назад. Стартап это всегда американские горки, сейчас я внизу, но я уверен, что все наладится.
 
 **rekt:**
 
-Your written summary of the incident is fascinating.
+Твой отчет об инциденте впечатляет.
 
-In one section you write;
+В одной из частей ты написал:
 
-_"There are connections with other victims of what we believe are similar attacks."_
+_«Между жертвами похожих атак есть связь.»_
 
-Can you explain these connections?
-
-**Hugh: **
-
-I can't give too much detail right now, as there are still investigations ongoing but we know of at least 2 other Nexus Mutual members that appear to have been impacted by a similar incident. And anecdotally, through other contacts there are several other victims that have been impacted. We found the two accounts as we were tracing movement of funds.
-
-I guess there are views going around that this was a highly targeted attack that regular Defi users don't have to concern themselves with. I guess that is correct on some level, but I would point out you don't have to be high profile to be targeted. In general, I'd caution against the view that "it's not going to happen to me".
-
-**rekt:**
-
-You were using a hardware wallet, your private keys weren't compromised - what can users do to prevent this happening to them?
+Можешь пояснить, в чем заключается эта связь?
 
 **Hugh:**
 
-I've been thinking about this since the attack, and I'm honestly not sure on the best solution. The hardware wallet will show enough information so you can verify exactly what you're approving but you have to be quite technical to understand it. Simple transfers for well known tokens are fine, but any smart contract interaction is likely next to impossible for regular users to understand. Personally, I'm going to check the full tx info against external sources from now on, but I don't think that's a viable solution for everybody.
+Прямо сейчас я не могу вам дать много деталей, потому что еще ведется расследование. Но мы знаем, что есть еще как минимум 2 других члена Nexus Mutual, которые пострадали от похожего инцидента. И, как ни странно, через другие контакты затронуты несколько других жертв. Мы нашли оба аккаунта, когда отслеживали передвижения средств.
+
+Я догадываюсь, что есть мнение, что это была специально нацеленная атака и обычным пользователям DeFi не такого не стоит опасаться.  Думаю, это в какой-то степени правда. Но я бы отметил, что не нужно быть большой рыбой, чтобы стать мишенью. Я обычно советую не злоупотреблять мнением «со мной такого не случится».
 
 **rekt:**
 
-In the summary, you write "My computer was compromised and Metamask was altered from disk"
-
-Do you have any ideas how your computer was compromised?
+Ты использовал аппаратный кошелек, твои приватные ключи были в безопасности. Что могут сделать пользователи, чтобы с ними такого не случилось?
 
 **Hugh:**
 
-We don't have a full idea as yet, we're still running full diagnostics on my PC. We believe malware was served from coinbene dot team but it is possible it came from somewhere else.
+Я думал об этом все время после атаки, и честно говоря, я не уверен, что нашел самое лучшее решение. Аппаратный кошелек показывает достаточно информации, чтобы ты мог точно быть уверенным в том, что именно ты подтверждаешь. Но нужно иметь достаточно технических знаний, чтобы понимать это. Обычные трансферы хорошо известных токенов не проблема, но любое взаимодействие со смарт-контрактом обычному пользователю практически невозможно понять.  Лично я теперь проверяю всю информацию по транзакции на внешних источниках, но я не думаю, что это решение подойдет всем.
 
 **rekt:**
 
-There were some messages on Twitter that suggested you had identified the attacker, can you tell us about your communication with them?
+В отчете ты пишешь: «Мой компьютер был взломан и метамаска изменена с диска»
+
+У тебя есть версии, как твой компьютер могли взломать?
 
 **Hugh:**
 
-Our CTO, Roxana, had a brief telegram conversation with one of the hackers, but we also connected them to other hack victims by tracing transactions and talking with police. I can't really disclose anymore on this front for the time being, apart from saying we believe they are a highly sophisticated hacking group.
+Полного представления еще нет, мы все еще проводим полную диагностику моего ноутбука. Мы думаем, что вирусная программа была подослана coinbene dot team, но она могла прийти и из другого источника.
 
 **rekt:**
 
-Have you spoken to law enforcement about the hack?
+На Твиттере были сообщения, в которых предполагалось, что ты вычислил хакера. Можешь нам рассказать, как ты с ними взаимодействуешь?
 
 **Hugh:**
 
-Yes, we've spoken to UK police who are also coordinating with other jurisdictions. Other cases have been linked up so they are being treated as a larger investigation.
+Наш технический директор Roxana коротко переговорила с одним из хакеров в телеграме. Но мы также установили связь между ними и их жертвами, отслеживая транзакции и из разговоров с полицией. Я больше ничего не могу рассказать по этому делу пока что, кроме того, что мы считаем, что это очень серьезная группа хакеров.
 
 **rekt:**
 
-Did you feel that the police were well experienced in dealing with this sort of case?
-
-We cover a lot of hacks and exploits involving huge sums of money, but it seems that they are rarely brought to the attention of law enforcement - why do you think that is?
+Вы обращались в полицию по поводу этой атаки?
 
 **Hugh:**
 
-Not really, they seem mainly set up for things like credit card fraud and other smaller items. The other big challenge is the international aspect, that slows down response times and coordination efforts.
+Да, мы обращались в Британскую полицию. Они работают вместе с другими юрисдикциями. Наше дело связали с другими похожими атаками, оно стало частью одного большого расследования. 
 
 **rekt:**
 
-Insurance protocols offer hackers the opportunity to multiply their profits by taking insurance before hacking a protocol - have you ever seen evidence of this happening - should this be allowed to happen?
+Показалось ли тебе, что у полиции достаточно опыта в расследовании таких дел?
+
+Мы изучаем много атак и эксплоитов, в которых задействованы большие суммы денег, но силы правопорядка редко обращают на них внимание. Как ты думаешь, почему?
 
 **Hugh:**
 
-We haven't seen it happen ourselves yet, though I'm sure it will. At Nexus Mutual we introduced proof of loss so you need to prove you control an account that suffered a loss. This will prevent the worst impacts.
-
-Insurance products can work without this criteria, but they will be much more expensive in the long run, as extra claims will be paid. For long term sustainable products it's better to align interests as much as possible.
+Не думаю, их скорее обучали заниматься мошенничествами по кредиткам и подобными небольшими делами. Другая большая проблема - это интернациональный масштаб, это замедляет обмен информацией и требует больше усилий для координирования действий.
 
 **rekt:**
 
-The community set up a [Gitcoin grant](https://gitcoin.co/grants/1848/donations-to-hugh-karp-for-the-recent-hack-of-pers) to refund some of your losses - you stated the funds would be used to develop wallet security tools - can you give us some details?
+Протоколы страхования дают хакерам возможность умножить прибыль, если они оформляют страховку перед тем, как хакнуть протокол. Тебе приходилось сталкиваться с доказательствами таких тактик? Такая возможность в принципе имеет право на существование?
 
 **Hugh:**
 
-That's right. I haven't established the exact details yet, but the goal is to encourage solutions, or progress on technical items, for highly secure personal wallets that are also great from a UX perspective. I know lots of teams are working on this, but we still have some way to go and I think it's critical that wider crypto space has great options for self-custody. My particular situation is relatively high profile but the issue isn't isolated to me, so hopefully this is an opportunity to spur further progress.
+Мы пока с таким не сталкивались, но думаю, еще придется. В Nexus Mutual мы запрограммировали доказательство потери, поэтому вам нужно доказать, что вы контролируете пострадавший аккаунт.  Это поможет избежать большого ущерба.
+
+Страховые продукты могут работать и без этого условия, но тогда они будут обходиться дороже, потому что дополнительные выводы средств будут платными.  Для устойчивых продуктов в долгосрочной перспективе выгоднее максимально выровнять проценты. 
 
 **rekt:**
 
-If our readers want to help or learn more about this project, where should they go?
+Сообщество создало [грант Gitcoin](https://gitcoin.co/grants/1848/donations-to-hugh-karp-for-the-recent-hack-of-pers), чтобы возместить часть твоих потерянных денег. Ты сказал, что эти деньги пойдут на разработку инструментов безопасности - можешь рассказать нам поподробнее? 
 
 **Hugh:**
 
-If you'd like to donate to the grant, [here is the link:](https://gitcoin.co/grants/1848/donations-to-hugh-karp-for-the-recent-hack-of-pers)
-
-If you'd like to learn more about Nexus Mutual you can find us [@NexusMutual](https://twitter.com/nexusmutual) on Twitter or join our [Discord here](https://discord.com/invite/xxFaAEn).
+Это правда. Я еще не разобрался со всеми деталями, но цель в том, чтобы помогать проектам или продвигаться в работе над техническими моментами, чтобы иметь персональные кошельки с высоким уровнем защищенности и классным пользовательским интерфейсом. Я знаю, что многие команды работают над этим, но нам предстоит еще долгий путь, а нам критически важно, чтобы у большего количества людей в крипто-сфере были классные кастодиальные решения. В моей ситуации у меня достаточно крупный портфель, но это не изолированный случай. Надеюсь, что это станет отличной возможностью, чтобы ускорить процесс.
 
 **rekt:**
 
-Thanks for talking to us.
+Если нашим читателям захочется помочь или узнать больше об этом проекте, где искать информацию?
 
 **Hugh:**
 
-No problem at all, I appreciate the opportunity and thanks for being a bit more delicate!
+Если вы захотите сделать пожертвование в фонд, то вот [ссылка.](https://gitcoin.co/grants/1848/donations-to-hugh-karp-for-the-recent-hack-of-pers)
+
+Если вам интересно узнать больше о Nexus Mutual, вы можете найти нас на [@NexusMutual](https://twitter.com/nexusmutual) в Twitter или связаться с нами в [Discord here](https://discord.com/invite/xxFaAEn).
+
+**rekt:**
+
+Спасибо, что пообщался с нами.
+
+**Hugh:**
+
+Без проблем, спасибо за такую возможность и спасибо, что были со мной добрее, чем обычно!
