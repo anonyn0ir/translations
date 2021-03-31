@@ -1,5 +1,5 @@
 ---
-title: dСпасение SushiSwap - 0xMaki даёт показания
+title: Спасение SushiSwap - 0xMaki даёт показания
 date: 29 ноября 2020
 tags:
   - sushiswap
