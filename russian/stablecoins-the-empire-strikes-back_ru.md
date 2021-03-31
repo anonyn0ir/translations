@@ -1,87 +1,91 @@
 ---
-title: Stablecoins - The Empire Strikes Back
-date: 08 Dec 2020
+title: Стейблкоины: империя наносит ответный удар
+date: 08 декабря 2020
 tags:
-  - stablecoin
-  - regulation
-excerpt: To the rebellious mind, stablecoins represent a new hope; a route toward financial democracy and banking the unbanked. To the existing elite, stablecoins and decentralised finance are a phantom menace - an ethereal threat to their imperial power.
+  - стейблкоин
+  - регулирование
+excerpt: Для мятежного ума стейблкоины символизируют собой новую надежду; путь к финансовой демократии и конец банковскому изгойству. Для существующей элиты опасность стейблкоинов и децентрализованных финансов фантомная - это эфирная угроза их имперской мощи.
 banner: https://lh6.googleusercontent.com/a3S29_dNS5MAJya0YEChpytpsX-9eaKDPEy7FatLNBfxbk2_Co9PWxCwOy7wqYIppekrF_N-CMM9FL1Ipvz0meoEha5oqQmw-Hq0mnbcPZ4617v_S9jjXapBiytb9TK7lBBMG6el
 ---
 
 ![](https://lh6.googleusercontent.com/a3S29_dNS5MAJya0YEChpytpsX-9eaKDPEy7FatLNBfxbk2_Co9PWxCwOy7wqYIppekrF_N-CMM9FL1Ipvz0meoEha5oqQmw-Hq0mnbcPZ4617v_S9jjXapBiytb9TK7lBBMG6el)
-**“Fear leads to anger. Anger leads to hate. Hate leads to suffering."**
+**«Страх вызывает гнев. Гнев вызывает ненависть. Ненависть ведет к страданиям.»**
 
-The closed mind chooses fear or dismissal when it encounters a concept it does not understand.
+Ограниченный разум выбирает бояться или отрицать, когда он сталкивается с понятием, с которым не способен совладать.
 
-For over ten years, we have been dismissed and disfavoured by the financial empire, but now a new force awakens.
+Больше десяти лет финансовая империя отрицала нас и отвергала, но теперь пробуждается новая сила. 
 
-To the rebellious mind, stablecoins represent a new hope; a route toward financial democracy and banking the unbanked. To the existing elite, stablecoins and decentralised finance are a phantom menace - an ethereal threat to their imperial power.
+Для мятежного ума стейблкоины символизируют собой новую надежду; путь к финансовой демократии и конец банковскому изгойству.  Для существующей элиты опасность стейблкоинов и децентрализованных финансов фантомная - это эфирная угроза для их имперской мощи.   
 
-**The [G7](https://www.reuters.com/article/g7-digital/g7-finance-officials-back-need-to-regulate-digital-currencies-treasury-idUSKBN28H1Y6) grows fearful. **At their recent meeting the German finance minister Olaf Scholz again voiced his concerns about authorising the European launch of Facebook’s rebranded currency “Diem”.
+**Страх охватывает [G7](https://www.reuters.com/article/g7-digital/g7-finance-officials-back-need-to-regulate-digital-currencies-treasury-idUSKBN28H1Y6). **На недавнем собрании министр финансов Германии Olaf Scholz снова озвучил свои опасения по поводу разрешения европейского запуска переименованной валюты Фейсбука - «Diem».**
 
-“A wolf in sheep’s clothing is still a wolf,” he said. “It is clear to me that Germany and Europe cannot and will not accept its entry into the market while the regulatory risks are not adequately addressed.”
+«Волк в овечьей шкуре все равно остается волком», сказал он. «Для меня ясно, что ни Германия, ни Европа не могут и не допустят ее выход на рынок до тех пор, пока риски по регулированию не получат должного решения.»
 
-Those who share the true vision of DeFi have little interest in Facebook Coin, so this challenge was of no concern to our community.
+Те, кто разделяет истинное видение DeFi, не особо интересуются монетой Фейсбука, поэтому эта проблема не касается нашего сообщества.
 
-However Scholz’s next statement is a direct attack on everything we fight for.
+Однако, следующее заявление Scholz  - это прямое нападение на все, за что мы боремся.
 
-> **"We must do everything possible to make sure the currency monopoly remains in the hands of states”**
+> **«Мы должны сделать все возможное, чтобы валютная монополия осталась в руках государств»**
 
 ![](https://lh5.googleusercontent.com/Z8-ZbAT1RMkjJf8RmHXSwMj2VUA1_yJUEu9itmAv36yrW9MxHhh2FHLKAUllgWUdFi8UEqOpToCMDokwCUUxwU8FRpY5oAaHraW_4gtVtfMQ9L0hMZMBvv2-5yyOftGKGBX-2A1_)
-**This is the beginning of the battle for financial sovereignty.**
 
-Until now, we have been free to build. Our alternate economy has established itself with little interference from outside forces. However, stablecoins pose too much of a threat to be ignored.
+**Это начало битвы за финансовый суверенитет.**
 
-Finance ministers and central bankers are racing to regulate these digital currencies, while politicians spread lies intended to slow their growth.
+До этого момента мы могли свободно строить. Наша альтернативная экономика утверждалась без особого вмешательства внешних сил.  Но угроза, которую представляют собой стейблкоины слишком большая, чтобы игнорировать ее.
 
-They know that mass adoption will loosen their grip on the global economy, but **their attempts to regulate and prevent it have come too late.**
+Министры финансов и центральные банкиры соревнуются, чтобы урегулировать эти цифровые валюты, а политики тем временем намеренно распространяют лживые слухи, чтобы замедлить их рост. 
 
-The recently proposed [STABLE ](https://tlaib.house.gov/media/press-releases/tlaib-garcia-and-lynch-stableact)act by US politicians Rashida Tlaib, Jesús García and Stephen Lynch would require issuers to obtain bank charters and regulatory approval before releasing any stablecoins.
+Они знают, что массовое распространение стейблкоинов ослабит их контроль над мировой экономикой, но они опоздали **со своими попытками загнать в их рамки и предотвратить это.**     
 
-This would affect a number of stablecoin issuers that currently operate in the US, including Circle, Gemini, and Paxos.
+В законопроекте под названием [STABLE ](https://tlaib.house.gov/media/press-releases/tlaib-garcia-and-lynch-stableact), недавно предложенном американскими политиками Rashida Tlaib, Jesús García и Stephen Lynch предлагается обязать эмитентов получать банковские уставы и разрешение регулирующих органов, прежде чем выпускать стейблкоин.
 
-An economic advisor to Congresswoman Rashida Tlaib [stated ](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters)that;
 
-_“Any stablecoin that meets the statutory definition is eligible, because the focus is on what the coin promises (i.e., the obligation), not how it claims to be able to enforce the obligation (i.e., the collateral backing)._
+Это затронет многих эмитентов стейблкоинов, работающих в США на сегодняшний день, включая Circle, Gemini и Paxos.
 
-In a shocking display of disingenuity, Congresswoman Rashida Tlaib attempted to claim on [Twitter ](https://twitter.com/RepRashida/status/1334247450731819008?s=20)that the STABLE bill was intended to prevent cryptocurrency providers from repeating big banks crimes against low- and moderate-income residents of colour.
+Экономический советник конгрессвумен Рашиды Тлаиб [заявила](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters), что:
 
-She went on to write;
+_«Это касается любого стейблкоина, попадающего под определение, потому что имеет значение то, что монета обещает (т.е. обязательство), а не то, что монета обещает сделать, чтобы гарантировать соблюдение гарантии (т.е. гарантия).»_
 
-_“Especially amid the #COVID19 pandemic, their [residents of colour] vulnerabilities could be exploited and obscured by bad actors looking to issue stablecoins, like other shadow money issuers in the past. The_[_ #STABLEAct_](https://twitter.com/hashtag/STABLEAct?src=hashtag_click) _combats that threat.”_
+Конгрессвумен Рашида Тлаиб продемонстрировала шокирующий спектакль неискренности, когда попыталась заявить в [Twitter ](https://twitter.com/RepRashida/status/1334247450731819008?s=20), что законопроект STABLE преследовал цель уберечь провайдеров криптовалют от повторения крупных банковских преступлений против цветных граждан со средними и низкими доходами.
 
-**Congresswoman Tlaib is exploiting the public's fear of the pandemic and desire for racial equality** in order to further her own cause. This is just one of many underhand techniques that will be used to try and prevent the public from taking control of their own money.
+Дальше она написала:
 
-Attempts to smear our industry and slow our progress via legislation are nothing new, but the STABLE act represents a change in political strategy. **These are direct shots intended to limit our progress; ** the opening salvo of a new set of arguments that will define the next face of regulatory battles for the entire crypto industry [[nlw]](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters).
+_"Особенно в условиях пандемии #COVID19 злоумышленники, желающие выпускать стейблкоины могут воспользоваться их [цветных граждан] уязвимостью и сбить с их толку, как и другие теневые эмитенты денег в прошлом.  Законопроект [#STABLEAct](https://twitter.com/hashtag/STABLEAct?src=hashtag_click) _борется с этой угрозой."_
+
+**Конгрессвумен Тлаиб использует людской страх эпидемии и жажду расового равенства** для того, чтобы продвигать свое дело.  Это всего лишь одна из многих секретных техник, которые будут использованы, чтобы попытаться помешать народу взять под контроль свои собственные деньги.
+
+В попытках раздавить нашу индустрию и задержать прогресс с помощью законов нет ничего нового, но законопроект STABLE представляет собой изменение в политической стратегии. **Они открыли огонь на поражение, чтобы ограничить наш прогресс; это вводный залп нового набора аргументов, которые определят, как будут выглядеть регуляционные битвы за всю криптоиндустрию [[nlw]](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters).**
 
 ![](https://lh6.googleusercontent.com/EP358A2VzVlgWHqbb8fPR6vla4kRi65eGoueBkSnpAxQPM3VfMTUntNHF_lyOaHGRKDwuVBZU_pfUapRoYNnbrQR9BzxSjZ-nXPxhV7kDeQ1t1uLXtjTvIRRCGm0iFeFomLIz0Hn)
-**Violence in the digital age.**
 
-Old and powerful forces are preparing to fight.
+**Насилие в цифровую эпоху.**
 
-**The creation of Bitcoin was a direct attack on the existing system. Now the empire is striking back.**
+Древние мощные войска готовятся к битве.
 
-The STABLE act is the first of many; only one of the potential attack vectors that the US government may take. We will soon see more aggressive strategies deployed to try and change the course of progress.
+**Создание Биткойна было прямым нападением на существующую систему. Теперь империя наносит ответный удар.**
 
-It has long been expected that Tether will fall victim to US regulation, and many fear the impact that this will have on the markets. However, price action is temporary, and if Tether falls, other coins will take its place.
+Законопроект STABLE  - первый из многих; лишь один из возможных векторов атаки правительства США. Скоро мы увидим, как они применят много других агрессивных стратегий в попытке изменить ход прогресса. 
 
-The on and off ramps to cryptocurrency will be closely monitored by the more jealous governments, who will seek any excuse to limit sales of their devalued currency.
+Все уже давно ждали, что Tether станет жертвой законодательства США, и многие опасаются последствий для рынка, которые это повлечет за собой.  Однако, курс цен - это временное явление, и если Tether упадет, его место займут другие монеты.
 
-**Details do not change the trend.** Despite their impact in the short term, when we zoom out to a longer timeframe, we see these actions to be just the final throes of a dying system.
+Другие завистливые правительства будут пристально наблюдать за входами и выходами криптовалют, чтобы найти оправдание ограничению распродажи своей девальвированной валюты.
 
-It’s not just tokenised USD that will change the world. For those who wish to increase international exposure to their currency, tokenising their fiat presents an excellent way to gain an international advantage. As the inevitability of stablecoin adoption dawns, we enter a [race ](https://blogs.imf.org/2019/09/26/from-stablecoins-to-central-bank-digital-currencies/)between nations and corporations to release the first widely adopted and fully regulated stablecoin.
+**Детали не меняют тенденцию.** Несмотря на урон, который они приносят в краткосрочной перспективе, когда мы оглядываемся назад, чтобы проецироваться на более длительный срок, мы видим, что эти действия - всего лишь агония умирающей системы.    
 
-**The STABLE act, although clumsy in it's presentation, is likely to have more strategy to it than is immediately apparent. The United States will be carefully planning how to position themselves when the EU and China issue their digital currency.**
+Сами по себе токенизированные USD не изменят мир. Для тех, кто хочет увеличить присутствие своей валюты в мире, токенизация фиатных денег представляет собой отличный способ получить международное преимущество.  По мере того, как неизбежность распространения стейблкоина становится очевидной, мы вступаем в [гонку](https://blogs.imf.org/2019/09/26/from-stablecoins-to-central-bank-digital-currencies/) между странами и корпорациями за выпуск первого широко принятого и полностью регулируемого стейблкойна.
 
-Globalisation of culture, currency, and commerce will provide opportunities for citizens of all nations; the most successful governments over the next 20 years will be those who are comfortable enough to promote these opportunities and successfully adapt to the changing paradigm.
 
-Brain drain will be accelerated with the flick of a switch, as the brightest minds move to countries with the most favourable financial regulation. Governments will play an equilibristgame, as they try to win re-election by pleasing both the masses and the new financial elite in order to earn their taxes.
+**У законопроекта STABLE, несмотря на то, как неуклюже его представили, похоже больше потенциала, чем кажется на первый взгляд. США будут тщательно планировать, как себя позиционировать, когда Европа и Китай выпустят свою цифровую валюту.** 
 
-**Money 3.0 has little baggage**, and can find itself equally at home in New York, London, Singapore, or the Bermudas depending on how well they are treated.
+Глобализация культуры, валюты и коммерции даст новые возможности гражданам всех стран; наибольшего успеха в течение следующих 20 лет добьются те правительства, которые смогут помогать развитию этих возможностей и успешно адаптируются к меняющейся парадигме.
 
-Governments who don’t adapt will fall, and the wraithlike entities of Web 3.0 will flourish beyond their grasp.
+Утечка мозгов ускорится одним щелчком переключателя, поскольку самые блестящие умы переедут в страны с наиболее благоприятным финансовым регулированием. Правительствам придется научиться балансировать, потому что им нужно будет снова выиграть на выборах, угодив и массам, и новой финансовой элите, чтобы получать налоги. 
 
-**An iron fist holds no weight in cyberspace, where the meek and the mighty meet on equal terms.**
+**У денег по версии 3.0 мало багажа**, и они могут чувствовать себя как дома и в Нью-Йорке, и в Лондоне, и в Сингапуре, и даже на Бермудах. Смотря как с ними обращаются.
+
+Правительства, которые не приспособятся, проиграют, и призрачные сущности из Web 3.0 будут процветать вне их досягаемости. 
+
+**Железный кулак не имеет веса в киберпространстве, где кроткие и сильные встречаются на равных!**
 ![](https://lh6.googleusercontent.com/TNdV_E0LPaJlFACWqifrrPjVHtADTPAtQP8Bt_LQ6Ldcb1iuCFDQxGXE-jyJMoQWU7lg31mNPwJ6AhHGiBRyPQjEUHGaZF3Q-L2k7bQqQqVWTjty87fUX0Tb1kPaIrIllH9rq0Sk)!
 
-If you enjoy our work, please consider donating to our [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis)
+Если вам нравится то, что мы делаем, вы можете сделать пожертвование в наш [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis)
