@@ -46,7 +46,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/bwpa
 
 Нам часто кажется, что мы ведем себя одинаково в рискованных ситуациях. Но исследователи поведения выяснили, что это не так - обезьяна может избегать риска в одних ситуациях, но стремиться к нему в других. Как например те обезьяны, которые используют свой аппаратный кошелек, чтобы перевести деньги в непроаудированный смарт-контракт, обещающий +100,000% годовой доходности.
 
-Срабатывает ли принцип выживания сильнейшего, или им скоро присудят [Премию Дарвина?](https://darwinawards.com/)?\*\*
+Срабатывает ли принцип выживания сильнейшего, или им скоро присудят [Премию Дарвина?](https://darwinawards.com/)\*\*
 
 ---
 
@@ -63,6 +63,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/bwpa
 ---
 
 ![](https://lh5.googleusercontent.com/OF64_mUYLjjiTqso5ykrEg8vql6FfBvjsAC0HEGBtOXR-nRIvivn_VDeEREinscPMZcBpv6pSgQ9G_YG9LbyHy74eCkrhcpPyPm7_sOqIFQ8vlDxaGp_3Srk6BWzNOc1DEPPTvbl)
+
 **В жизни две вещи неизменны: [смерть](/deathbed-confessions-c3pr/) и налоги.**
 
 Первой обезьяне удается поймать APY. Но все остальные становятся кормом для альфа-самцов, сливающих их токены.
