@@ -1,5 +1,5 @@
 ---
-title: The Whitepaper
+title: Le Whitepaper
 date: 13 Jan 2021
 tags:
   - whitepaper
