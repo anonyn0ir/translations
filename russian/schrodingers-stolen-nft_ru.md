@@ -5,7 +5,7 @@ tags:
   - $meme
   - NFT
   - интервью
-excerpt: Есть много способов содрать шкуру с кота Шрёдингера. Эксперимент под метким названием "Rug Pull" в исполнении @DontBuyMeme неожиданно прервался. Так что же это было? Удачный эксперимент или замаскированная цифровая кража? Концовка открыта для интерпретаций. Мы взали интерью у @DirSchmidt.
+excerpt: Есть много способов содрать шкуру с кота Шрёдингера. Эксперимент под метким названием "Rug Pull" в исполнении @DontBuyMeme неожиданно прервался. Так что же это было? Удачный эксперимент или замаскированная цифровая кража? Концовка открыта для интерпретаций. Мы взяли интерью у @DirSchmidt.
 banner: https://lh6.googleusercontent.com/L_TQB_QKt7Y-ZlozG9ibvtgNv0omI_4YW57BMcZZVe9j2rMfP_Ks8jQ6Jk1F5usKJVRpOTBFR1INqxBLk2FlwL2lt6GZA1ttA8B7bZP0feJHhPd4sdPvoG9cQwNDOzOXFACaVklP
 ---
 
