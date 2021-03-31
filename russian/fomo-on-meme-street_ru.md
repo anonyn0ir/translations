@@ -1,75 +1,75 @@
 ---
-title: FOMO on meme street
-date: 30 Jan 2021
+title: Страх упустить возможность на территории мемов
+date: 30 января 2021
 tags:
   - fomo
   - doge
-excerpt: The city hadn’t seen greed like this since Doge was just a pup with a thin moustache and a thinner wallet. It was a strange week in a strange month, maybe even a strange year.
+excerpt: Город не видел подобной жадности с тех времен, когда Doge был молодым щенком с редкими усами и тощей капитализацией. Это была странная неделя странного месяца, а может быть и странного года…
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/header-6.png
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/header-6.png)
 
-**Doge had been working these meme streets since 2013.** Sure he’d seen pumps before, but this time was different...
+**Doge держал эти улицы мемов с 2013 года.** Ему уже случалось видеть накачку и раньше, но на этот раз все было по-другому…
 
-The city hadn’t seen greed like this since Doge was just a pup with a thin moustache and a thinner wallet.
+Город не видел подобной жадности с тех времен, когда Doge был молодым щенком с редкими усами и тощей капитализацией.
 
-**Out of towners always made him feel nervous.** Their mood switched faster than the weather, and their careless gambling made even the most degenerate jaw drop.
+**Пришельцы в городе всегда заставляют его нервничать.** Настроение у них меняется чаще, чем погода, а их безрассудный риск заставляет бледнеть даже самых отчаянных трейдеров.
 
-It was a strange week in a strange month, maybe even a strange year..
+Это была странная неделя странного месяца, а может быть и странного года…
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/breaker.jpg)
 
-**The internet used to reflect what happened offline, but now the turns have tabled. There’s no space for nuance in the online world, where it’s not time, but memes that make money.**
+**Интернет всегда был зеркалом реальной жизни, но теперь роли поменялись. В онлайн-мире нет места нюансам, там не время значит деньги, а мемы.**
 
-Unexpected interest by irrelevant outsiders makes speculators call for short sales, but it’s been months since the first [celebrity](https://twitter.com/Maisie_Williams/status/1328428879334297600?s=20) involvement of this market cycle, and the hype continues to grow.
+Неожиданный интерес со стороны незначимых аутсайдеров заставляет спекулянтов играть на понижение. Но прошло уже несколько месяцев с момента появления на этом рынке первой [селебрити](https://twitter.com/Maisie_Williams/status/1328428879334297600?s=20), а хайп продолжает расти.
 
-WSB is spilling over, and speculation has become a sport played by all ages.
+С распространением WSB в спекуляцию начали играть все от мала до велика.
 
-Carole Baskin is pumping bags, Mia Khalifa is buying dog stocks, and Soulja Boy is cranking NFTs.
+Carole Baskin советует всем покупать, Mia Khalifa скупает собачьи акции, а Soulja Boy без ума от NFT.
 
-**Is this the awkward adolescence of mass adoption, or the greedy behaviour of a market top?**
+**Это что, неуклюжий подростковый период массового распространения, или алчность в предвкушении, что пузырь вот-вот лопнет?**
 
-The desperation of crypto Twitter presents an easy opportunity for fading celebrities to boost their engagement.
+Для угасающих звезд отчаяние в крипто-Твиттере это возможность легко поднять свою вовлеченность.
 
-After mentioning a passing interest in NFTs, Twitter’s thirsty thought leaders swarmed to Soulja Boy to present themselves as experts in their field.
+Хватило одного мимолетного упоминания об интересе к NFT, чтобы изголодавшиеся мыслители Твиттера устремились к Soulja Boy представляться экспертами в своей области. 
 
-**Fundamentals suggest that we’re nowhere near done, but it’s hard not to feel uneasy when celebrities get involved.**
+**Фундаментальные основы нам подсказывают, что нам еще далеко до самой высокой точки, но сложно не напрягаться, когда в игру вступают знаменитости.**
 
-[Soulja Boy](https://twitter.com/Dogetoshi/status/1355271765820387331) has been promoting tokens for weeks now, but even amongst his selection of shitcoins, some of his tokens appeared conspicuously bad.
+[Soulja Boy](https://twitter.com/Dogetoshi/status/1355271765820387331) продвигает монеты уже несколько недель. Но даже в его выборке говномонет некоторые токены оказались явно некачественными.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/sjtwt.jpg)
 
-As [Dogetoshi](https://twitter.com/Dogetoshi/status/1355271765820387331?s=20) pointed out, Soulja Boy's [Rarible account](https://etherscan.io/address/0x6a9853d80533a70b7b85659949757246e5b52c6b) has an address that is labeled Firdaos: Deployer.
+[Dogetoshi](https://twitter.com/Dogetoshi/status/1355271765820387331?s=20) обратил внимание на то, что аккаунт [Rarible](https://etherscan.io/address/0x6a9853d80533a70b7b85659949757246e5b52c6b), принадлежащий Soulja Boy, контактировал с Firdaos : Deployer.
 
-Firdaos has two tokens associated with the project [$ZPAE](https://twitter.com/search?q=%24ZAPE&src=cashtag_click) and [$FDO](https://twitter.com/search?q=%24FDO&src=cashtag_click).
+У Firdaos есть два токена, связанные с проектом: [$ZPAE](https://twitter.com/search?q=%24ZAPE&src=cashtag_click) и [$FDO](https://twitter.com/search?q=%24FDO&src=cashtag_click).
 
-A classic paid promotion.
+Классическое проплаченное продвижение.
 
-Just bull market things…
+Классическая фишка бычьего рынка…
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/breaker2.jpg)
 
-**The mystery of the markets will never be solved.**
+**Загадка рынков никогда не будет разгадана.**
 
-Countless lives have been spent in endless speculation, and now the eternal riddle of “up or down” has attracted a new generation.
+В бесконечной спекуляции прошло несчетное количество жизней, а теперь вечная загадка “вверх или вниз” привлекла новое поколение игроков.
 
-Perhaps it was the increased intensity of life in the Coronavirus that accelerated the interest of amateur speculators. We will never know for certain, but the benefit of hindsight will help us to understand 2020.
+Возможно, что забурлившая жизнь в эпоху коронавируса сыграла свою роль в усилении интереса любителей к спекуляции. Точно мы никогда не сможем сказать, но оглядываясь назад, мы сможем понять 2020 год.
 
-**We all expected a tipping point, but nobody expected this.**
+**Мы все ждали переломного момента, но такого не ожидал никто.**
 
-GME and WSB mocked efficient market hypothesis with their IQ deficient incompetence and hedge funds are left in shock.
+GME и WSB наплевали на гипотезу эффективного рынка ввиду своей умственно-отсталой некомпетенции, отчего хедж-фонды до сих пор не оправились.
 
-In 2020, hedge fund strategies “[soared](https://www.hedgeweek.com/2021/01/11/294234/hedge-fund-strategies-soar-industry-enjoys-biggest-annual-return-global-financial#:~:text=Fixed%20income%20corporate%20funds%20gained,more%20than%206%20per%20cent.&text=Overall%2C%20relative%20value%20hedge%20funds,7.42%20per%20cent%20annual%20return.)” with an annual return of 11.6%. All those resources and all that experience, and they didn’t even beat the average Curve vault.
+В 2020 году стратегии инвестиционных фондов [“взлетели”](https://www.hedgeweek.com/2021/01/11/294234/hedge-fund-strategies-soar-industry-enjoys-biggest-annual-return-global-financial#:~:text=Fixed%20income%20corporate%20funds%20gained,more%20than%206%20per%20cent.&text=Overall%2C%20relative%20value%20hedge%20funds,7.42%20per%20cent%20annual%20return.), выдав годовой оборот в 11.6%. Со всеми их ресурсами и опытом они даже не побили средненькое хранилище протокола Curve.
 
-**We all supported the GME buyer as the underdoge in their story, the common man who rose up to fight against the hedge fund**, but we know where this behaviour takes us - we’ve all seen the crypto pump and dump groups, and we don’t encourage the same activity there.
+**Мы поддерживаем всех покупателей GME, потому что они в этой истории  - побитые собаки. Это обычные люди, поднявшиеся на борьбу с хедж-фондом.** Но мы знаем, к чему ведет такое поведение, все мы видели группы “накачки и сброса”, и мы не поддерживаем такое дело.
 
-**The GME pump had a purpose and a moral to the tale**, but those values don’t transfer to a Dogecoin P&D, where the overly enthusiastic investor will fall victim to the more advanced frontrunners and the whales.
+**У пампа GME была своя цель и мораль в истории,** но эти ценности не касаются накачки и сброса Dogecoin. Там слишком увлеченный инвестор станет жертвой более продвинутых фронтранеров и китов.
 
-Usually, a coin relies on technical fundamentals to produce its valuation, yet even before the pump, Dogecoin managed to maintain an average market cap of between [2-3 hundred million dollars](https://www.coingecko.com/en/coins/dogecoin) based just upon a meme.
+Обычно монета опирается на технические основы, определяющие её капитализацию. А Dogecoin еще до накачки и сброса умудрился удерживать среднюю рыночную капитализацию в пределах [2-3 сотен миллионов долларов](https://www.coingecko.com/en/coins/dogecoin), просто основываясь на меме.
 
-**Communities can be built on the power of shared emotion, but not even the spiciest meme can support +~600% on the weekly.**
+**Можно создать сообщество силой общих эмоций, но даже самый обожаемый мем не может выдержать +~600% в неделю.**
 
-_“Guess I should have retired when I had the chance” Doge muttered under his breath._
+_“Наверное, надо было уходить на пенсию, когда все шло так хорошо”, пробормотал Doge себе под нос._
 
-_He dusted off his jacket and headed back to the office. Maybe the boys had dug up a new bone..._
+_Он стряхнул пыль с пиджака и побрел назад в контору. Может, мальчишки раскопали новую кость..._
