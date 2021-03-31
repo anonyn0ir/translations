@@ -8,7 +8,7 @@ rekt:
 tags:
   - warp finance
   - Rekt
-excerpt: Tous les êtres humains que nous connaissons sont entremêlés de bien et de mal : deux personnalités et deux faces d’une même pièce qui partagent un ensemble d'objectifs cachés. Le hacker éthique est l’autre personnalité du hacker malveillant comme Jekyll était celle de Hyde. Les développeurs en qui nous avons confiance durant le jour peuvent être radicalement différents la nuit. Une potion de connaissances aux résultats incroyables - qui parmi nous pourrait résister à de telles récompenses lorsqu'elles ne présentent aucune contrepartie ?
+excerpt: Tous les êtres humains que nous connaissons sont entremêlés de bien et de mal ; deux personnalités et deux faces d’une même pièce qui partagent un ensemble d'objectifs cachés. Le hacker éthique est l’autre personnalité du hacker malveillant comme Jekyll était celle de Hyde. Les développeurs en qui nous avons confiance durant le jour peuvent être radicalement différents la nuit. Une potion de connaissances aux résultats incroyables - qui parmi nous pourrait résister à de telles récompenses lorsqu'elles ne présentent aucune contrepartie ?
 banner: https://lh6.googleusercontent.com/cu47l8eTpNnHgVR_A2gq2boptXZBIIFHI0yO9ptnxWEDwjkAjVTH4vKPdrbsAe2nQZQNtz2YLiEfEb-UpPVg2-Mqk1kh3U-mxquiJZTn8TD1DsjtBVAdSPDvu0rB08TjRGmdycBP
 ---
 
