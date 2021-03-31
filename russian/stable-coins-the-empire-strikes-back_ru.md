@@ -88,4 +88,4 @@ _"Особенно в условиях пандемии #COVID19 злоумыш�
 **Железный кулак не имеет веса в киберпространстве, где кроткие и сильные встречаются на равных!**
 ![](https://lh6.googleusercontent.com/TNdV_E0LPaJlFACWqifrrPjVHtADTPAtQP8Bt_LQ6Ldcb1iuCFDQxGXE-jyJMoQWU7lg31mNPwJ6AhHGiBRyPQjEUHGaZF3Q-L2k7bQqQqVWTjty87fUX0Tb1kPaIrIllH9rq0Sk)
 
-Если вам нравится то, что мы делаем, вы можете сделать пожертвование в наш [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis)
+Если вам нравится то, что мы делаем, вы можете сделать пожертвование в наш [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalis).
