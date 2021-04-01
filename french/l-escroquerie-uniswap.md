@@ -128,7 +128,7 @@ j’arretais pas de changer d’avis
 
 je ne m’attendais pas à ce que ça monte si haut
 
-**how high?**
+**c'est monté jusqu'à combien?**
 
 Environ 75k
 
