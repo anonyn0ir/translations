@@ -1,14 +1,14 @@
 ---
 title: Value DeFi - REKT
-date: 14 Nov 2020
+date: 14 ноября 2020
 rekt: 
-  amount: 7000000
-  audit: Peckshield
-  date: 14 Nov 2020
+  количество: 7000000
+  аудит: Peckshield
+  дата: 14 ноября 2020
 tags:
   - value defi
   - rekt
-  - flash loan
+  - флэш-кредит
 excerpt: Did they really know flashloan? The value of a reputation is volatile. Humility brings stability - boast too much and you will get rekt. Value DeFi was exploited today for $7,000,000. Another harsh lesson from the flash loan family.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/jumpoutwindow-7.jpg
 ---
