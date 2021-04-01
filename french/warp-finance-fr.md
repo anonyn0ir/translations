@@ -67,7 +67,7 @@ USDC Vault [0xae465FD39B519602eE28F062037F7B9c41FDc8cF](https://etherscan.io/add
 
 - 4 différents flash loans effectués de 2.9 millions DAI + 344.8K WETH depuis dYdX et UniswapV2 ; WETH-WBTC 90k WETH WETH-USDC 82k WETH WETH-USDT 96k WETH dYdX 76k WETH dYdX 2.9m DAI
 - Le flash loan dYdX (de 2.9M DAI + 76K WETH) est déposé sur la paire UniSwapV2 (WETH-DAI) et mint pour un retour de 94.349k tokens LP.
-- 
+
 ![](https://lh6.googleusercontent.com/D0Q0LzrWP7qJncRlvHLcnvIa-K8Kb1EY4Y92q92DYz9AIGLah2JcK4z6Qi04otZ4jxFxoPonvXi_WEIaa0jb8L6rUa4iojgNmgYZJd78KkM0b_K2WAPiR0WdnwJls47UjFZeRbGF)
 
 - Les tokens mintés sont ensuite transférés sur le WarpVaultLP comme collatéral au crédit de l’attaquant (le prix actuel sur UniswapV2 de la paire de LP WETH-DAI est de 58,815,427)
