@@ -12,7 +12,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/bann
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-6.png)
 
-Quatre semaines sont passées depuis le lancement de Rekt, et les choses avancent rapidement.
+**Quatre semaines sont passées depuis le lancement de Rekt, et les choses avancent rapidement.**
 
 +2600 followers, 12 articles de journalisme d'investigation et une communauté croissante de contributeurs dans les coulisses.
 
@@ -47,7 +47,7 @@ Pour le premier épisode de rektTV, Julien Bouteloup et SBF s'affrontent pendant
 
 [07:15](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=435s) SBF - Je pense qu'il y a de bonnes raisons de modifier le facteur collatéral de FFT
 
-[07:36](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=456s) SBF - e pense qu'une grande partie des prises de position (sur le FTT comme collatéral) ont été assez partiales et n’ont pas été très bien étayées
+[07:36](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=456s) SBF - Je pense qu'une grande partie des prises de position (sur le FTT comme collatéral) ont été assez partiales et n’ont pas été très bien étayées
 
 [09:39](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=579s) **JB** - **Pourrais-je avoir un résumé de ton point de vue sur SushiSwap ?**
 
