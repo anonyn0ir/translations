@@ -1,106 +1,118 @@
 ---
-title: Whale Hunt - SBF & Blue Kirby
-date: 09 Oct 2020
+title: Охота на китов - SBF и Blue Kirby
+date: 09 октября 2020
 tags:
   - sbf
   - blue kirby
-  - whale hunt
-excerpt: Red candles burn the hottest. When the bulls stop running, fingers start pointing, and euphoria and greed turn to suspicion and accusation. In the translucent waters of the crypto markets, hunters watch the whales with an eagle eye.
+  - охота на китов
+excerpt: Красные свечки горят ярче всех остальных. Когда быки прекращают свой бег, обвиняющий шепот перерастает в ропот, а эйфория и жадность превращаются в подозрения и обвинения. В кристальных водах крипто-рынков охотники следят за китами своими зоркими орлиными глазами.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/Sperm-Whale-capture-3400gty-58b96f8b5f9b58af5c479aa4.png
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/Sperm-Whale-capture-3400gty-58b96f8b5f9b58af5c479aa4.png)
-**Red candles burn the hottest**. When the bulls stop running, fingers start pointing, and euphoria and greed turn to suspicion and accusation.
 
-In the translucent waters of the crypto markets, hunters watch the whales with an eagle eye.
+**Красные свечки горят ярче всех остальных.** Когда быки прекращают свой бег, обвиняющий шепот перерастает в ропот, а эйфория и жадность превращаются в подозрения и обвинения.  
 
-When the waters get choppy and profits are harder to come by, many smaller fish look to the whales for direction. Closer inspection combined with the slimmer pickings of a fickle market often reveals some questionable behaviour.
+В кристальных водах крипто-рынков охотники следят за китами своими зоркими орлиными глазами.  
 
-**Even Blue Kirby** looks different in red candlelight. The once universally loved hyperactive YFI fan boy has faced his first public critiques over the past few weeks, first when he naively promoted the unaudited code of EMN before the [hack](/eminence-rekt-in-prod/), then after he dumped his YFI when the markets turned red.
+Когда воды стали неспокойными, а к прибыли стало сложнее подобраться, многие маленькие рыбы начали выбирать траекторию движения, ориентируясь на китов. Более тщательный анализ в комбинации с небольшими выборками переменчивого рынка часто выявляет сомнительные поступки. 
 
-It’s always interesting to analyse a change in public opinion.
+**Даже Blue Kirby** выглядит иначе при свете красных свечей. Когда-то любимый всеми гиперактивный фанат YFI столкнулся со своей первой критикой со стороны публики в течение последних нескольких недель. Сначала, когда он наивно прорекламировал не прошедший аудит код EMN, который потом подвергся [атаке](/eminence-rekt-in-prod/). А затем, слив свои токены YFI, когда рынки окрасились в красный цвет.
 
-Blue Kirby’s enthusiasm to shill EMN cost him dearly, forcing him to step down from his official position as Yearn comms / shillmaster.
+Всегда интересно анализировать, как меняется общественное мнение.
 
-Where the community had previously been happy to pay Kirby [$7000 a month](https://gov.yearn.finance/t/nomination-for-roles-multisig-to-approve-execute/4549), they were now protesting at his wallet with pitchforks, and when he sold the YFI on which he had built his brand, the replies to his tweets turned from disappointment to outrage.
+Энтузиазм, с которым Blue Kirby зазывал в проект EMN, дорого ему обошелся. Ему пришлось покинуть свою официальную позицию ответственного за коммуникацию в Yearn. 
 
-Kirby claims his YFI sales were an attempt to gain some privacy, and that he planned to rebuy using a different address, but many were left wondering why he didn’t simply use a CEX to deposit his coins and withdraw elsewhere.
+Если раньше сообщество с удовольствием платило Kirby [$7000 в месяц](https://gov.yearn.finance/t/nomination-for-roles-multisig-to-approve-execute/4549), то теперь они выражают свой протест, тыкая в его кошелек вилами. А когда он продал свои YFI, на которых он и построил свой бренд, в ответах на его твиты вместо разочарования стала слышаться ярость. 
 
-Selling personal assets which equal 0.08% of the total supply likely had 0 impact on the markets. What he did isn’t a criminal offence anywhere, but in the land of crypto Twitter, society’s laws seem to change with the markets, and Kirby was widely criticised for his actions.
+Kirby заявляет, что распродажа его YFI была попыткой получить некоторую конфиденциальность, и что он планировал купить их снова, используя другой адрес. Но многие не поняли, почему он просто не воспользовался централизованной биржей, чтобы положить свои монеты и вывести их где-нибудь в другом месте.
 
-In the typical Blue Kirby marketing approach, he turned the condemnation into promotion, and created the #blamekirby hashtag.
+Продажа своих личных активов, которые составляют 0.08% от общего количества, оказало 0 воздействия на рынок.  То, что он сделал, нигде не считается преступлением, но на территории крипто-Твиттера законы сообщества меняются вместе с движением рынков, и Kirby сильно раскритиковали за его поступок.
 
-Blue Kirby has played crypto Twitter like a fiddle. He piggybacked on the success of YFI to quickly build his own brand, and despite his tarnished reputation and exit from the yearn team, he is now attempting to launch his own token.
+Не изменяя своему характерному маркетинговому стилю, Blue Kirby превратил обвинения в возможность продвижение и создал хэштег #blamekirby.
 
-Seemingly unphased by this blip in his relentless PR campaign, Kirby is conducting an ICO for his mysterious NFT sales platform [Off Blue](https://off---blue.com/), which [raised over $800k](https://twitter.com/MarketStupid/status/1314558440392454145?s=20) in a matter of minutes, despite giving no details on what users were buying, or providing any public roadmap for the project.
+Blue Kirby обвел Твиттер вокруг пальца. Он воспользовался успехом YFI, чтобы быстро сколотить свой собственный бренд. И, несмотря на свою запятнанную репутацию и выход из команды yearn, сейчас он пытается запустить свой собственный токен.
 
-Let's take a quick look at what their manifesto offers.
+Похоже, что этот всплеск в его неустанной PR-кампании его не пошатнул, и теперь Kirby ведет ICO своей загадочной платформы по продаже NFT [Off Blue](https://off---blue.com/), которая [собрала свыше $800 тысяч](https://twitter.com/MarketStupid/status/1314558440392454145?s=20) за несколько минут, несмотря на то, что он не давал никакой подробной информации о том, что пользователи покупали и не предоставлял никакой дорожной карты проекта.
+
+Пробежимся по их манифесту. 
+
 ![](https://lh3.googleusercontent.com/es0MCiRS7CbJUWUJ6CWOoRgRh-J9Ll-4CFfr3G2dA_xL9ee1O-H29kKUKuDwq5c3sJmgWAvlm6wwQM1reY5APaTh2o6xXiL6eYnccXeoS6YJYeE8Rubw1xPQnHUM9Ea4CJAjOC7W)
-No tokens for the team - how noble. However the NFTs that users must purchase from Off Blue to exchange for the “valueless” tokens cost 1 ETH each...
+
+Команда не получит токенов - как благородно.  Однако, те NFT, которые пользователи должны купить на платформе Off Blue, чтобы обменять токены «которые ничего не стоят», стоят 1 ETH за штуку... 
+
 ![](https://lh3.googleusercontent.com/11MwBLNhIZcAI1wU7tqC-5I2asCPuiCu6G0V7ACLnYE-9H89-RMUpqSEf7oyPvEpYROXAjM1r2SRcpHjj269p5IxaJxRAids3_pIu-4w5ro40cOjhgx42ZbfxKfNjVBIZwldSA9j)
-Who controls this?!
+
+Кто это контролирует?! 
+
 ![](https://lh3.googleusercontent.com/2xIs667NQ69KNP3yGIOqlnbW9GUx3P_L2WnTse9A9NTdzyGSDET-2sWbbX-2nL88cpAoohWrBC7YwpcPfSOjETJhiQ6fK1GliEPfcy1MKJbAIBTM9pMYZnnD89RCCNsFwFvSbTJX)
-And who controls this?!
 
-[Here ](https://etherscan.io/address/0xA11f2dec4bab2E07de7708Dd640004Ef80cCaBCe#code)is the contract address, for those who are interested, we encourage you to do some research and let us know what you find!
+А это кто контролирует?!
 
-Unless you are such a fan of Blue Kirby that you want to simply give him your money, perhaps you should stay away from this cheap ICO.
+[Здесь](https://etherscan.io/address/0xA11f2dec4bab2E07de7708Dd640004Ef80cCaBCe#code) находится адрес контракта, для тех, кому это интересно. Советуем вам провести небольшое исследование и рассказать нам о том, что вы там найдете!
 
-In what is playing out like a cartoon styled parody of a descent into fascism, Blue Kirby has started to [ban replies](https://twitter.com/meeseeking/status/1314581750153121793?s=21) to his tweets, muting any criticism of his actions while he transforms from irritating fanboy to desperate 2017 ICO scam artist.
+Если только вы не настолько фанат Blue Kirby, что просто хотите отдать ему ваши деньги, то возможно, вам стоит держаться подальше от этого дешевого ICO. 
 
-Where there is no regulation, reputation is key. It is so often the case in crypto Twitter, that you either die a hero, or live long enough to become the villain.
+Словно в мультяшной пародии отката к фашизму, Blue Kirby начал [отправлять в бан ответы](https://twitter.com/meeseeking/status/1314581750153121793?s=21) на его твиты, заглушая любую критику его действий, в то время как сам он превращается из раздражающего фаната в отчаянного афериста времен ICO 2017.
 
-In an unexpected move which has provided your author with the perfect segue; Blue Kirby’s ICO has just been [retweeted ](https://twitter.com/off___blue/status/1314310177609318400?s=20)by no other than...
+Там, где нет законов, репутация превыше всего. В крипто-Твиттере часто так получается, что либо ты умираешь героем, либо живешь достаточно долго, чтобы стать злодеем. 
 
-**Sam Bankman Fried**; another well known character in the industry; one who seems to have avoided such a binary label. Commonly known by his initials; SBF is the CEO of the crypto derivatives exchange FTX and the trading desk / investment firm Alameda Research.
+Неожиданным жестом, давшим вашему автору прекрасный переход, ICO Blue Kirby только что  [ретвитнул](https://twitter.com/off___blue/status/1314310177609318400?s=20) никто иной как...
 
-SBF’s actions have come under some scrutiny over recent weeks, starting with his unexpected [takeover ](https://twitter.com/SBF_Alameda/status/1302510335803363331?s=20)of the SushiSwap protocol in early September.
+**Sam Bankman Fried;** еще один хорошо известный персонаж в индустрии; кто-то, кто, кажется, смог избежать такого двусмысленного ярлыка. Обычно узнаваемый по своим инициалам, SBF является генеральным директором обменника крипто-деривативов FTX и трейдингового терминала / инвестиционной компании Alameda Research.
 
-More recently, people have been voicing their concerns about the large amount of FTT - (FTX’s native token) that has been posted on C.R.E.A.M Finance for use as collateral.
+Действия SBF привлекли на себя внимание за последние несколько недель, все началось с того, что он неожиданно взял под [контроль](https://twitter.com/SBF_Alameda/status/1302510335803363331?s=20) протокол SushiSwap в начале сентября.
 
-There is currently $80M of FTT being used as collateral on C.R.E.A.M.
+Еще совсем недавно люди высказывали свое опасение относительно большого объема FTT (собственный токен FTX), отправленных в C.R.E.A.M Finace в качестве залога.
 
-If we analyse the wallet [0x477573f212A7bdD5F7C12889bd1ad0aA44fb82aa](https://debank.com/portfolio/0x477573f212A7bdD5F7C12889bd1ad0aA44fb82aa) we can see that $76M in FTT and $11.7M in Sushi were used as collateral to borrow $4.8M in UNI and $2.5M in YFI before sending them to Binance.
+На данный момент в C.R.E.A.M используется 80 миллионов FTT в качестве залога.
 
-It appears there were too many eyes on that wallet so they repaid the YFI debt to cream, and[ borrowed 800 YFI from Aave](https://twitter.com/JulienThevenard/status/1314151926586634241?s=20) using another address. They have since received 468 YFI to that address from Huobi and Binance, so it appears the short was successful.
+Если мы проанализируем кошелек [0x477573f212A7bdD5F7C12889bd1ad0aA44fb82aa](https://debank.com/portfolio/0x477573f212A7bdD5F7C12889bd1ad0aA44fb82aa), то мы увидим, что $76 миллионов FTT и $11.7 миллиона Sushi использовались как залог, чтобы взять в долг $4.8 миллиона UNI и $2.5 миллиона YFI, и отправить их на Binance.
+
+Похоже, что за этим кошельком следило слишком много глаз, поэтому они выплатили долг в YFI протоколу cream, и [взяли в долг 800 YFI у Aave](https://twitter.com/JulienThevenard/status/1314151926586634241?s=20) используя другой адрес. После этого они получили 468 YFI на этот адрес от Huobi и Binance, значит, игра на понижение прошла успешно.
+
 ![](https://lh4.googleusercontent.com/G-Go16pH155x6ckdT12bHxYa7W-M8Xix6MZ6lxgsV3J311xz7lXZL1KGHnLrTxBAPEhZZXB6LTxPPo8qRMZhQbGnB8ekxsB00fyRVE5jqwKMhRQnSMp0kbcXC9F39Ao4YVIs6jFY)
-There has been lots of public debate and questioning about the use of FTT as collateral for short selling other assets. Many users have taken to Twitter to express their concerns and on October 9th, a governance [snapshot vote](https://snapshot.page/#/cream/proposal/QmapHjJJGMwvSVygCMKaTaGbWiPdtaqu5fxXM5LQhWSqgT) was called to decide if FTT should be delisted from C.R.E.A.M.
 
-The following information is presented along with the snapshot vote.
+Использование FTT в качестве залога для продажи без покрытия других активов вызвало бурные общественные дебаты и много вопросов. Многие пользователи отправились в Твиттере, чтобы высказать свое опасение, и 9 октября было созвано [снэпшот-голосование](https://snapshot.page/#/cream/proposal/QmapHjJJGMwvSVygCMKaTaGbWiPdtaqu5fxXM5LQhWSqgT), чтобы решить, нужно ли исключать FTT из списка C.R.E.A.M.
 
-_1 - The FTT token was added to C.R.E.A.M. without it being a popular token_
+Вместе со снэпшотом была представлена следующая информация:
 
-_2 - Alameda is the only user of the FTT token with 96% crFTT. This is easily shown on _[_Etherscan_](https://etherscan.io/token/0x10fdbd1e48ee2fd9336a482d746138ae19e649db#balances)_._
+_1 - Токен FTT был добавлен в  C.R.E.A.M., не являясь популярным токеном_
 
-_3 - If FTT were delisted, no other users would likely be impacted; there is very little supply volume, and very little borrowing demand for FTT._
+_2 - Alameda является единственным пользователем токена FTT, им принадлежит 96% crFTT. Это легко проверить по _[_Etherscan_](https://etherscan.io/token/0x10fdbd1e48ee2fd9336a482d746138ae19e649db#balances)._
 
-_4 - FTT is not a normal asset. Many assets can decline in price, but because FTT is a fully centralized token, if there is an issue, it can instantly go to $0, which is a safety risk for all C.R.E.A.M. users._
+_3 - Если FTT исключат из списка, другие пользователи скорее всего не пострадают; объем предложения очень маленький, и спрос на займ FTT тоже очень маленький._
 
-_5 - SBF borrowed YFI which destroyed its price, he sold it on Binance and other exchanges - only once he was caught, did YFI go back up_
+_4 - FTT не является нормальным активом. Цена многих активов может упасть, но, так как FTT является полностью централизованным токеном, если что-то случится, он может мгновенно обесцениться до $0, это риск для безопасности всех пользователей C.R.E.A.M._
 
-The vote will be open until the 14th of October, so it’s too early to say how it will end, however, at the time of writing, the vote was 100% in favour of delisting FTT.
+_5 - SBF взял в долг YFI, что убило его цену, затем он продал их на Binance и других обменниках - цена YFI снова пошла вверх только после того, как его поймали_
 
-Although SBF clearly has the ability to purchase enough CREAM to swing the vote in his favour, forcing the vote in this way would not only have a negative impact on his reputation, it would reduce the credibility of the entire C.R.E.A.M protocol.
+Голосование будет открыто до 14 октября, поэтому еще рано говорить, как все закончится. Тем не менее, в момент написания статьи 100% голосов были за исключение FTT из списка. 
 
-The founder of C.R.E.A.M, [Jeffrey Huang](https://twitter.com/machibigbrother), doesn’t seem to see anything wrong with how SBF is using his protocol, and has praised his actions; claiming they demonstrate a good [product market fit.](https://twitter.com/machibigbrother/status/1313887798923935750?s=20)
+Несмотря на то, что у SBF очевидно есть возможность купить достаточно монет CREAM, чтобы перетянуть голосование на свою сторону, однако форсировать голосование таким образом только негативно отразится на его репутации и снизит убедительность протокола C.R.E.A.M в целом.
+
+Основатель of C.R.E.A.M, [Jeffrey Huang](https://twitter.com/machibigbrother), похоже не видит ничего плохого в том, как SBF использует его протокол, и он даже похвалил его действия, заявив, что они показывают хорошее [соответствие продукта рынку](https://twitter.com/machibigbrother/status/1313887798923935750?s=20).
+
 ![](https://lh5.googleusercontent.com/P4a0ECkn4OO3nQNwL-a8Fup1ambVFKV7PYltURmLISRwxB6NfsL6JceznpIEaxTkwpIa2AU-5Xtw0sFEcjFChgaPlTfAgpGEZT7-bsJbVtz0LQl-T8_5INBjZLhTynK1PA5ufzuC)
-It should be noted that the community is not just upset that SBF is shorting their assets, but that he is taking over a decentralised protocol by depositing his own centralised tokens, and using them as collateral to short other decentralised tokens.
 
-SBF has spoken out on the matter to defend his actions. The fact that he had to do this is somewhat surprising, as one of the core values of decentralised finance is that the protocols are open to be used by anyone in any way that the parameters allow.
+Нужно отметить, что сообщество расстроено не только тем, что  SBF  играет на понижение их активов. Оно недовольно еще и тем, что он захватывает децентрализованный протокол, вкладывая в него свои собственные централизованные токены, и использует их как залог, чтобы снизить ставки по другим децентрализованным токенам.
 
-However, it can be argued that having access to such a large amount of centralised tokens gives him an unfair advantage, especially when the real market value is not likely to be the same as the value they have been given for collateral.
+SBF высказался по этому поводу, чтобы защитить свои действия. Тот факт, что ему пришлось это сделать, удивляет, потому что одна из ключевых ценностей децентрализованных финансов состоит в том, что протоколы могут свободно использоваться всеми и любым из способов, разрешенных параметрами.
 
-[Coingecko ](https://www.coingecko.com/en/coins/ftx-token)lists a 24 hour trading volume of just over $2M for FTT. The most popular FTT [pairing ](https://info.uniswap.org/pair/0x36d6a86226d2fc54361241b8b030dd86bc55ed04)on Uniswap has only $155.62 in liquidity. If these tokens ever had to be used to collateralise a position, they simply would not hold their value.
+Но можно поспорить, что доступ к такому большому количеству централизованных токенов дает ему несправедливое преимущество. Особенно, если их рыночная стоимость не соответствует той, что была им дана в залоговой позиции.
+
+[Coingecko ](https://www.coingecko.com/en/coins/ftx-token)показывает, что объем торгов FTT за 24 часа составил всего $2M. На долю самой популярной  FTT-[пары](https://info.uniswap.org/pair/0x36d6a86226d2fc54361241b8b030dd86bc55ed04) на Uniswap приходится всего $155.62 ликвидности. Если бы нужно было использовать эти токены для обеспечения позиции, они бы просто не смогли сохранить свою ценность.
+
 ![](https://lh3.googleusercontent.com/YQc1p1Cjir7zQNE3u_5zdfzv7yfKv3Pxc2XXnrEwaszZX_df0FkC58WROMfYgI1xilMtygLTm3R8u_COSk-2ZBBjy-QRNaey-OaoUIYl2wX1YjDUdl588sHUGaxh8sC5GRzPTlhp)
-When economically rational market participants such as SBF are able to take advantage these tools in a way that the community doesn’t approve of, the immaturity of both the market and its users are revealed.
 
-When less influential actors such as Blue Kirby take actions that the community doesn’t approve of, they are putting their career at stake. If you are an “influencer”, marketing and PR are your only tools.
-As YFIs biggest mascot, it was understandable that Blue Kirby’s followers would be disappointed to see him dump his tokens.
+Когда экономически рациональные участники рынка, такие как SBF, могут использовать эти инструменты способом, который сообщество не одобряет, незрелость рынка и его пользователей становятся очевидными. 
 
-However, SBF and Alameda Research are in a different position. Alameda is a for profit company, and when DeFi presents them with an opportunity, they’ll game it and take it.
+Когда менее влиятельные игроки, такие как Blue Kirby, делают что-то , что сообщество не одобряет, они рискуют своей карьерой. Если вы «влиятельная знаменитость», то ваши единственные инструменты - это маркетинг и PR. Blue Kirby был самым большим талисманом YFI, поэтому можно понять, что его последователи были разочарованы, когда он слил свои токены. 
 
-As institutional money flows into cryptocurrency and turns the heads of lawmakers and regulators across the globe, one wonders how long this anarchistic meritocracy can last.
+Но положение SBF и Alameda Research отличается. Alameda  - это коммерческая компания, и если DeFi предоставляет им возможность, они ею воспользуются и обыграют ее.
 
-Until our governments tighten their grip on our world, code is law, and we should accept and embrace that fact.
+Пока институциональные деньги перетекают в криптовалюты, и это кружит головы законодателям и регуляторам во всем мире, некоторые задаются вопросом, сколько еще будет продолжаться эта анархичная меритократия.
+Пока наши правительства не усилили свою власть над нашим миром, код остается законом, и мы должны принять и признать этот факт.
 
-SBF is supposedly a [fan of effective altruism](https://80000hours.org/career-guide/member-stories/sam-bankman-fried/) - using his wealth to improve the lives of others. If you lost money due to him shorting your assets, hopefully you can take some solace from the fact he might have donated your bag to charity.
+SBF вроде как [поддерживает эффективный альтруизм](https://80000hours.org/career-guide/member-stories/sam-bankman-fried/) - использует свое богатство, чтобы улучшить жизнь других. Если вы потеряли деньги из-за того, что он сыграл на понижение ваших активов, надеемся, вы сможете утешиться тем, что он мог пожертвовать ваши деньги на благотворительность. 
+
