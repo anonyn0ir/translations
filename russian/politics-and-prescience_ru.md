@@ -92,4 +92,4 @@ _«Возможный выбор в президенты Байдена долж
 
 С ростом объема и достижением массового освоения эти рынки будут давать нам намного больше, чем развлечения, потому что убеждение игроков и трейдеров с политическим складом ума производит еще больше данных, которые мы будем скармливать нашему искусственному интеллекту, и цикл продолжится...
 
-Картины из [https://www.artpad.org](https://www.artpad.org/) & [Things to Come - 1936](https://en.wikipedia.org/wiki/Things_to_Come#:~:text=Things%20to%20Come%20(also%20known,and%20written%20by%20H.%20G.%20Wells.) 
+Картины из [https://www.artpad.org](https://www.artpad.org/) & [Things to Come - 1936](https://en.wikipedia.org/wiki/Things_to_Come#:~:text=Things%20to%20Come%20(also%20known,and%20written%20by%20H.%20G.%20Wells.). 
