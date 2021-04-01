@@ -1,403 +1,403 @@
 ---
-title: Uniswap Swindle - Scammer Speaks Out
-date: 12 Oct 2020
+title: Разводка Uniswap - мошенник даёт показания
+date: 12 октября 2020
 tags:
-  - scam
-  - interview
-excerpt: The following interview was conducted late last night by Inspector Rekt and an anonymous source.
+  - афера
+  - интервью
+excerpt: Это интервью Инспектор Rekt взял у анонимного источника поздно прошлой ночью.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-7.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-7.jpg)
 
-Transactions clog the chain like a blocked up sink. Must be some new yield farm opened up downtown. I clear my cache and light another cigarette. Even 1000 gwei can’t calm my nerves. Another sleepless night, another rug pulled in Uniswap city.
+Транзакции забивают цепь как обычный засор в раковине. Должно быть, в городе появился новый фарминг доходности. Я очищаю кэш и закуриваю новую сигарету. Даже 1000 gwei не могут успокоить мне нервы. Еще одна бессонная ночь, еще один рагпул в городе Uniswap.
 
-The following interview was conducted late last night by Inspector Rekt and an anonymous source.
+Это интервью Инспектор Rekt взял у анонимного источника поздно прошлой ночью.
 
-**Take me back to the beginning, when did all this start?**
+**Вернемся в прошлое, когда все это началось?**
 
-So several months ago, this is before Yam, Sushi, hell this was before CRV, I came across a few channels that broadcasted new Uniswap listings, tokens etc and kind of just researched a few of them each day, most were bogus/scams it seemed like, stealing maybe a few hundred bucks etc
+Ну, несколько месяцев назад, еще до Yam, Sushi, черт возьми, это было до CVR. Я наткнулся на несколько каналов, которые транслировали новые листинги Uniswap, токены и т.д. Я просто изучал их по несколько штук в день, почти все они были подделками / мошенничествами, ворующими по паре сотен баксов и т.д.   
 
-stupid shit like jam.finance or similar
+всякая хрень типа jam.finance и тому подобное
 
-back then people were foaming at the mouth about the latest and greatest next project, and fomoing into everything
+в то время люди пускали слюни по поводу каждого нового супер-проекта и боялись упустить любую возможность.  
 
-so, i wanted to see if i could do better, and how much better
+мне захотелось посмотреть, смогу ли я сделать что-то получше, и насколько лучше
 
-I went to coinmechanic.io and made an erc token, not just any token, but something I thought people would see and instantly fomo into. I created a website to match fake white papers, fake audits, fake staking pools, everything. I had the coin logo done for me using fiverr etc.
+я зашел на coinmechanic.io и сделал erc-токен, причем не просто токен. Я думал, что сделал что-то такое, на что люди сразу же бросятся из-за страха упустить возможность. Я создал веб-сайт, чтобы собрать там фальшивые белые книги, фальшивые аудиты, фальшивые пулы стакинга, вообще все. Я заказал фальшивый логотип для монеты на fiverr и т.д.
 
-**You made fake whitepapers?**
+**Ты написал фальшивые белые книги?**
 
-I just grabbed a posted white paper off another site and literally just half assed changed it to my token. Took about 5 mins or less
+Я просто скопировал опубликованную на другом сайте белую книгу и буквально заменил везде название токена на свое, на это ушло минут 5 или даже меньше.
 
-**and the audits?**
+**и аудиты тоже?**
 
-Literally just said it was in process and out a completion date
+Я просто сказал, что они в процессе и выдавал дату окончания
 
-Honestly have no idea if people even went to my site but was trying to make it seem as legit as possible
+Честно говоря я понятия не имею, заходили ли люди на мой сайт, но я пытался сделать так, чтобы он выглядел настолько легально, насколько это было возможно
 
-**OK, and the discord, telegram groups you made, did many people join?**
+**Хорошо, а дискорд и телеграм, которые ты создал, люди вступали туда?**
 
-Yes, not many, though I did answer questions. I didn’t inflate numbers with bots or anything.
+Да, не много, несмотря на то, что я старался действительно отвечать на вопросы. Я не раздувал количество подписчиков в помощью ботов и т.п.
 
-The links were all legit but the more information people could obtain the easier they could tell this thing was bogus so it was more to make people think they were early and give the project legitimacy
+Все ссылки были легальными, но чем больше информации люди могли получить, тем легче было бы понять, что это подделка. Поэтому я больше старался заставить их поверить, что они были первыми клиентами и придать проекту легитимность
 
-anyway, i launched that shit with 100000 coins/40 eth on uni
+короче, я запустил это дерьмо с 100000 монет / 40 eth на  uni
 
-long story short, 3 days later, there was 70k in there
+опустим все детали, через 3 дня там было 70 тысяч 
 
-so not only had it worked, it worked too well and i instantly felt like a piece of shit
+это не просто сработало, это сработало настолько хорошо, что я тут же почувствовал себя большим засранцем
 
-i couldn't simply return peoples money so i have left it open
+я не мог просто вернуть людям деньги, поэтому я оставил проект открытым 
 
-there is under 10k in there now, but still not everyone has pulled out their money which is insane to me
+сейчас в нем меньше 10 тысяч, но до сих пор еще не все вывели свои деньги, для меня это просто сумасшествие
 
-yes i could have pulled the entire thing, but it ended up being funded just way too much by people that did 0 research, but literally just couldn't miss an opportunity
+да, я мог мы воспользоваться этим всем, но в конечном итоге туда вложилось слишком много людей, которые провели 0 исследований, но реально не могли пройти мимо такой возможности 
 
-i did 0 marketing, 0 listings nothing, it literally just launched on the uni and discord channels automatically with their bots, and that was it
+я сделал 0 маркетинга, 0 листинга, вообще ничего. Проект в прямом смысле слова был автоматически запущен на каналах uni и discord их ботами, вот и все
 
-anyway i'll give you the token name when everyone is finally out, which 4 months later, is going fucking slowly
+я выдам вам название токена, когда все выйдут, но спустя 4 месяца могу сказать, что все это продвигается чертовски медленно 
 
-so yeah lesson learned there
+поэтому да, я извлек из этого урок 
 
-nothing like this would work now as people are like skeptical of everything which is good
+теперь уже ничего подобного не сработало бы, потому что люди скептически относятся ко всем хорошим проектам
 
-but man you know how it was several months ago
+но чувак, ты же знаешь, как все было несколько месяцев назад  
 
-we were going into shit blind every day lol
+мы шли вслепую прямо в дерьмо каждый день, лол
 
-so this was early, and like i said, not mind blowing or anything, but just went the extra mile to make it look legit
+все было на ранней стадии и, как я уже говорил, ничего сверхъестественного, я просто постарался, чтобы придать ему законный вид 
 
-and use a name that people would relate to a premium product
+и использовал название, которое вызовет у людей ассоциацию с премиальным продуктом
 
-and be frothing at the mouth so much they couldn't afford to dyor
+и заставит пускать слюни настолько, что они не решатся тратить время на проведение своего собственного исследования
 
-which is what happened apparently
+так все и получилось, судя по всему
 
-i actually created 3 tokens
+вообще-то я создал 3 токена
 
-only launched one
+но запустил только один
 
-one was FED
+один из них был FED
 
-united states federal digital asset token and another was iTOKEN
+токен федерального цифрового актива Соединенных Штатов, а другой был iTOKEN
 
-apple's "token"
+«токен» apple
 
-the third is the one i launched
+третий был тот, что я запустил
 
-but anyway
+но как бы там ни было
 
-felt horrible doing that
+сделав это, я почувствовал себя ужасно
 
-i got into trouble early on in my late teens
+проблемы у меня появились очень рано, в конце подросткового возраста
 
-which involved taking money from people illegally so
+я тогда незаконно забирал деньги у других
 
-i said i wouldn't do it again, but damn, i fought some demons man
+поэтому я сказал, что никогда так больше не поступлю, но черт возьми, чувак, я боролся со своими демонами
 
-seeing a new suv sitting there for the taking
+я представлял себе новый внедорожник, он ждал, мне нужно было только протянуть руку, чтобы взять его
 
-so in a way, it was the ultimate test for me
+поэтому для меня это был самый сложный экзамен
 
-but scary to think this has probably happened to people
+страшно представить, что такое уже наверное случалось с людьми
 
-well, def happened to people
+вообще-то уже точно с кем-то случилось
 
-yeah, the guilt is the issue i would have had, and i just lay awake at night thinking about shit already, this would have been on my mind every night so thankfully, i didn't execute and take advantage of people though i still cost them gas and missed opportunity i suppose
+да уж, я бы мучился чувством вины, ночами я уже думал о грядущих проблемах. Все это меня бы преследовало каждую ночь, поэтому слава богу, что я не сделал этого и не воспользовался доверием людей. Даже если они тратят из-за этого газ и упускают другие возможности   
 
-so yeah, i'm still a piece of shit
+ну да, я по-прежнему засранец
 
-**Did you have an exit planned out before money entered the contract**
+**Ты задумывался о том, как закончить проект до того, как в контракт начали поступать деньги?**
 
-believe it or not, i wanted to see if it would work if executed on a more professional level, i thought if it got up to a few eth i'd consider it successful, but wasn't planning on taking money
+верьте или нет, я хотел посмотреть, сработает ли он, если я все сделаю на более профессиональном уровне. Я думал, если он дойдет до нескольких eth, то я буду считать его удачным, но я не планировал забирать деньги 
 
-when it went up that high
+когда он поднялся так высоко
 
-i'll be honest, i did cash out some, but conscious got the better of me
+честно говоря, я вывел несколько eth, но совесть меня одолела
 
-and i sold it back
+поэтому я их продал
 
-then i thought about it again, taking everything
+потом я снова об этом подумал: все забрать
 
-so it was fucking miserable a few nights
+поэтому в течение нескольких ночей мне было погано
 
-as i just thought about this, tried to justify taking it
+я думал об этом снова и снова, пытаясь найти оправдание
 
-then i'd go back and forth
+мое мнение постоянно менялось
 
-well it ended up being a morality litmus test
+оказалось что это была лакмусовая бумажка морали
 
-when it got up that high, just didn't expect that
+я не ожидал, что денег окажется так много
 
-**how high?**
+**насколько?**
 
-Around 75k
+Около 75 тысяч
 
-**that wouldn't have even made the news at the time, there were so many scams going on**
+**В то время это даже не стало бы новостью, вокруг происходило столько афер**
 
-Def not but it would have changed some people's lives for the worse
+Однозначно нет, но жизнь многих людей изменилась бы к худшему
 
-including mine eventually
+моя в том числе, кстати
 
-**what % of your portfolio would that 75k have represented?**
+**какой % от твоего портфолио составили бы эти 75 тысяч?**
 
-at the time, like 1/2
+в то время примерно 1/2
 
-**a considerable amount for you then.**
+**значит, для тебя это была значимая цифра**
 
-well like i said, i would have bought the wife a new car with it, she deserves it so made it even harder
+ну как я уже говорил, я бы купил жене новую машину на эти деньги, она этого заслуживает, оттого было еще тяжелее
 
-and honestly, if i hadn't gotten in trouble earlier on in life
+и если честно, если бы в моей жизни раньше у меня не было проблем,  
 
-i probably would have done it
+я бы, наверное, сделал это
 
-but i just knew the guilt would be impossible to deal with
+но я знал, что с чувством вины будет невозможно справиться
 
-**what was it about your past experience that deterred you from taking the money this time**
+**что в твоем прошлом удержало тебя от кражи на этот раз?**
 
-that was something a bit different
+там все было немного иначе
 
-I don’t know if you remember WAREZ? basically ftc fraud and computer crimes 3rd degree,
+не знаю, помните ли вы о WAREZ? По сути это было мошенничество с картами (ftc) и компьютерные преступления третьей степени,
 
-ftc fraud is financial transaction card fraud
+ftc - это мошенничество с финансовыми транзакциями по картам 
 
-credit card fraud
+мошенничество с кредитными картами
 
-i was basically buying stolen numbers
+по сути я покупал ворованные номера
 
-and using them to make purchases at best buy back in the day
+и использовал их для покупок на Best Buy в то время
 
-computers
+компьютеры
 
-sending them to vacant houses
+заказывал их доставку в пустующие дома
 
-and selling them
+и продавал их
 
-**how long did that go on for?**
+**как долго это продолжалось?**
 
-About a year, before I got extremely greedy, eventually, got caught b/c i missed a delivery, and signed for the package at fed ex
+около года, пока я не стал очень жадным. Меня поймали, потому что я пропустил доставку и расписался за посылку через fed ex
 
-greed man
+это жадность, чувак
 
-Greed led to a 3rd degree charge for computer crimes
+жадность привела к обвинению в компьютерном преступлении 3 степени
 
-**do you think it was more of a moral dilemma this time rather than a fear of the law?**
+**считаешь ли ты, что на этот раз речь скорее шла о моральной дилемме, чем о страхе перед законом?**
 
-back then, legal
+тогда я боялся закона
 
-now, moral
+теперь - морали
 
-since we're tech in a "safe space"
+потому, что мы, технари, находимся в «безопасном пространстве»
 
-well, safer in that it's extremely anonymous
+безопасном потому, что оно крайне анонимное
 
-**what gave you the idea?**
+**что привело тебя к этой идее?**
 
-**how did you create the tokens?**
+**как ты создал токены?**
 
-i tracked down this channels that released new token launches
+я отследил каналы, выпускавшие новые токены
 
-people monitored them including me
+я был одним из тех, кто проводил мониторинг
 
-for everyone that was in there
+для всех, кто был там
 
-**creating 3 different tokens, that doesn't sound like just an innocent experiment**
+**создать 3 разных токена, не похоже на невинный эксперимент**
 
-well the only reason there were 3 is b/c i fucked up a couple
+единственная причина, почему их 3 в том, что я запорол парочку
 
-in regards to tokens minted etc
+касаемо количества отчеканенных токенов и т.д.
 
-for example, i only minted like 10k tokens the first time
+например, первый раз я начеканил всего 10 тысяч токенов 
 
-which wasn't enough
+этого было недостаточно
 
-the second one i somehow put on a diff network
+второй раз я как-то умудрился выложить их в другую сеть
 
-so didn't set out to make 3
+поэтому я не собирался их делать 3
 
-just kind of fucked 2 up lol
+просто запорол 2 лол
 
-i used coinmechanic though
+я использовал coinmechanic, тем не менее
 
-you can do all kinds of stuff there from simple to more sophisticated but this just needed to be a good name with decent liquidity
+там  можно делать все, что угодно, от самого простого и до более сложного. Мне было нужно только хорошее название и достойная ликвидность 
 
-that is why i dumped so many eth in there initially
+вот почему я сначала слил там столько эфира
 
-which i was nervous about for sure
+что меня очень раздражало, это точно
 
-but yeah i think part of me knew that if this worked, i'd be tempted
+и да, в глубине души я знал, что, если это сработает, меня это будет искушать
 
-hell i've been tempted about other things since those charges 20 years ago
+черт, меня искушали и другие вещи за те 20 лет, что прошли с момента обвинений
 
-but that has always been at the back of my mind
+но это всегда было где-то очень глубоко в памяти
 
-just the wife
+все дело в жене
 
-who yelled at me pretty much
+она много кричала на меня
 
-**you told her?**
+**ты рассказал ей?**
 
-she reads me pretty well anyway, knew something was bothering me
+она меня читает как открытую книгу, она знала, что что-то меня мучило
 
-she knows about a lot of this stuff but doesn't understand most of it
+она много знает обо всех этих делах, но мало что понимает
 
-she'll ask me how yfi is doing shit like that
+она может спросить, как такой придурок как я может заниматься таким дерьмом
 
-**don't ask 😅**
+**не стоит задавать такие вопросы 😅**
 
-ha not lately yeah
+ха, не сейчас, это точно
 
-i mean i told her what i told you basically in a lot less detail
+в общем, я рассказал ей то же, что и вам, но не так подробно
 
-not that i was hiding it, just didn't matter
+не то что бы я скрывал что-то, просто это было неважно
 
-but yeah, wasn't happy
+ну да, ей это не понравилось
 
-just kind of gave m the disappointed glance and asked why
+посмотрела на меня разочарованно и спросила зачем
 
-which cut deep
+меня это очень сильно задело
 
-**I can imagine.**
+**могу себе представить**
 
-**so the money was sitting there and you said you could take it if you wanted**
+**значит, деньги лежали себе там, и ты сказал, что мог взять их, если бы захотел**
 
-so yeah i minted a shitload of tokens and basically set the price
+ну да, я начеканил кучу токенов и просто установил цену
 
-so when the money went in, i would have just dumped the tokens i was holding
+как только деньги начали бы поступать, я бы просто слил токены, которые держал
 
-but also what was interesting is
+но что еще было интересно
 
-i was watching it
+я наблюдал за процессом
 
-you would see people, the same person
+можно было увидеть, как некоторые люди, один и тот же человек
 
-put money in
+вкладывает деньги
 
-and then either realize something wasn't right, or change their mind or whatever
+а потом понимает, что либо что-то не так, или передумал, или еще что-то
 
-and pull it out like 3 mins, 10 mins, however much longer later
+и выводит их через минуты 3, или 10 или позже
 
-same address, same amount
+на тот же адрес, ту же сумму
 
-the largest transaction was about 10k
+самая большая транзакция была примерно на 10 тысяч
 
-**what was the average deposit?**
+**сколько в среднем вкладывали?**
 
-if i had to guess, a few hundred bucks
+если давать цифровое значение, то несколько сотен баксов
 
-**that must have added to the guilt**
+**должно быть, твое чувство вины от этого только усилилось**
 
-which is crazy when you think about it
+если подумать об этом, то это бред 
 
-b/c that many people fomo'd into this thing
+потому что многие бросились туда из-за страха упустить возможность
 
-and you know 200 bucks was a lot to some of these people at the very least so
+и ты знаешь, что 200 баксов представляли собой большую сумму для некоторых из этих людей
 
-**what did you do to make the coin seem legitimate?**
+**что ты сделал для того, чтобы монета выглядела правдоподобной?**
 
-**are the websites still up?**
+**веб-сайты еще работают?**
 
-honestly, i don't know that these people even visited the website
+честно говоря, я даже не знаю, заходили ли эти люди на сайт
 
-but, did the telegram discord links, fake twitter posts
+но я сделал ссылки на телеграм и дискорд, фальшивые посты в твиттере
 
-fake staking pools that were "coming soon"
+фальшивые стакинговые пулы, которые должны были «скоро быть в доступе»
 
-fake white paper with names changed
+фальшивые белые книги с измененными именами
 
-and fake audits
+и фальшивые аудиты
 
-**anonymous devs?**
+**анонимные разработчики?**
 
-ha def
+ха, однозначно
 
-anyone that knew anything would immediately have known it was a scam i'm sure
+если бы кто-то что-то узнал, они бы сразу поняли, что это была подделка, я уверен
 
-but imagine 4 or 5 months ago
+но представь себе 4 или 5 месяцев назад
 
-thinking for example the US had their own token that was coming out soon
+ты думаешь, например, что у США скоро выйдет свой собственный токен
 
-**can you send a link to one of them?**
+**можешь прислать ссылку на одного из них?**
 
-let me see if i can find FED
+сейчас посмотрю, смогу ли я найти FED
 
-shit my timeline is off, says this was 60 days ago
+черт, моя история удалена, говорит, что это было 60 дней назад
 
-**defi time**
+**время defi**
 
-so this token was still tech created
+значит, этот токен технически был создан
 
-so people went into it lol
+значит, люди туда заходили лол
 
-but i left it, never pulled anything out etc
+но я забросил его, никогда ничего не выводил и т.д.
 
 [https://etherscan.io/token/0xF53c22eEC1297F0af9d4793F9985ad1B8ac2F317](https://etherscan.io/token/0xF53c22eEC1297F0af9d4793F9985ad1B8ac2F317)
 
-looks like one other person bought it, and sold it back
+похоже, что кто-то другой купил его, а потом снова продал
 
-**and did you make a website for this?**
+**ты создавал сайт для этого?**
 
-na, not for this one
+не, не для этого 
 
-or the other, just the one i "launched"
+и не для второго, только для того, который я запустил
 
-**can I see that site?**
+**можно посмотреть на этот сайт?**
 
-oh the site, Telegram, Discord, everything all taken down
+а, сайт, Телеграм, Дискорд, все закрыто
 
-b/c people were still buying the shit for some reason
+потому что люди продолжали покупать это дерьмо по какой-то причине
 
-I haven't told or shared this with anyone
+я никому об этом не говорил и ни с кем не  делился
 
-I think i'm the only one technically since I have the bulk of the tokens, they can trade back their tokens for what they put in technically
+я думаю, технически я один, потому что у меня большинство токенов, технически они могут обменять свои токены за то, сколько они вложили
 
-**did you use the same wallet for each?**
+**ты использовал один и тот же кошелек для каждого из них?**
 
-no, i was super sketched about it and didn't want to risk anything
+нет, я очень сильно нервничал и не хотел идти ни на какой-либо риск
 
-**how did you fund the wallets**
+**как ты наполнил кошельки?**
 
-just sent the tokens and eth to another address on meta
+просто послал токены и эфир на другой адрес через мета 
 
-this is the other
+это другой
 
 [https://etherscan.io/token/0x02fEb15a3B9d2b97010fD98D96bD4dc657C176a8](https://etherscan.io/token/0x02fEb15a3B9d2b97010fD98D96bD4dc657C176a8)
 
-**didn't you use tornado cash?**
+**ты не использовал tornado cash?**
 
-No it wasn't that sophisticated lol
+нет, я не настолько замороченный лол
 
-**so there's a link**
+**значил, есть ссылка**
 
-yeah on those two
+да, для этих двух
 
-i believe it has my wallet address
+я думаю, там есть адрес моего кошелька
 
-**so can't publish them?**
+**то есть мы не можем их опубликовать**
 
-but the token i used and launched
+тот токен, что я использовал и запустил
 
-is a diff address
+находится на другом адресе
 
-these two were just fuck ups
+эти два были запороты
 
-**and that other address still has money in it?**
+**и на том другом адресе все еще есть деньги?**
 
-yeah for now, hoping it will be empty or close soon
+да, пока что. Надеюсь, что скоро он опустеет или закроется
 
-it just sucks b/c it's not like you can issue refunds you know
+это просто отстой, потому что это не тот случай, когда ты можешь отправить деньги 
 
-they have to do that themselves
+они сами должны это сделать
 
-**well you didn't take the money did you?**
+**итак, ты не брал денег, не правда ли?**
 
-No
+Нет
 
-**so I guess nobody will be angry?**
+**значит, никто не будет злиться?**
 
-Right
+Правильно
 
 ---
 
-Be careful out there you filthy degens...  Don’t get rekt...
+вы там повнимательнее, мерзкие дегены...  не дайте себя rekt...
