@@ -1,5 +1,5 @@
 ---
-title: LE FESTIN DE LA DEFI EST ACHEVÉ.
+title: LE FESTIN DE LA DEFI EST ACHEVÉ
 date: 08 Oct 2020
 tags:
   - defi
@@ -10,6 +10,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/bann
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-5.jpg)
+
 **Le festin de l'été de la DeFi est achevé.** Les tokens foods ont refroidi, et la plupart de ce qui sort de la cuisine semble être périmé et peu appétissant.
 
 Il est désormais temps de se pencher sur ce qu’il reste dans notre assiette, de réajuster nos ceintures, et peut-être même de songer à revoir notre régime alimentaire pour les prochains mois.
@@ -34,7 +35,7 @@ Dans le passé, d'autres méthodes ont été proposées, comme le ratio NVT (Net
 
 **Le cas des AMM**
 
-_1- Uniswap _
+_1- Uniswap_
 
 Les [tokenomics](https://uniswap.org/blog/uni/) UNI d'Uniswap doivent faire l'objet d'une attention particulière ; une fois que la gouvernance d'Uniswap aura la mainmise sur la trésorerie, le 17 octobre 2020, nous pourrions observer des niveaux d'interaction jamais atteints au sein de la communauté, puisque les détenteurs d'UNI pourront voter sur l'allocation des subventions, le financement des biens publics et plus encore, ce qui devrait permettre de stimuler la croissance de l'industrie.
 
@@ -101,9 +102,10 @@ Les forums de gouvernance de [YFI](https://gov.yearn.finance/), [CRV](https://go
 
 Il y a quelques valeurs à prendre en compte pour évaluer la pérennité d'un modèle tokenomique :
 
-- Il faut savoir quelle est la capitalisation de marché entièrement diluée, et quand cette dernière doit être complète (c'est-à-dire le taux d'inflation). Les calendriers d'inflation sur 4 ans des jetons UNI et CRV font l'objet de nombreuses critiques et ont été qualifiés de "mort par émission" par certains. Cependant, lorsqu'on les compare à la base monétaire du BTC, on constate qu'ils ne sont pas très différents.
+- Il faut savoir quelle est la capitalisation de marché entièrement diluée, et quand cette dernière doit être complète (c'est-à-dire le taux d'inflation). Les calendriers d'inflation sur 4 ans des tokens UNI et CRV font l'objet de nombreuses critiques et ont été qualifiés de "mort par émission" par certains. Cependant, lorsqu'on les compare à la base monétaire du BTC, on constate qu'ils ne sont pas très différents.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/inflation3.png)
+
 BTC - CRV - UNI
 
 - Il faut surveiller de près les tokenomics - faut-il s'attendre à des rentrées d'argent ?
