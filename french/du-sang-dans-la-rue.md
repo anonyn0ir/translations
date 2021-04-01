@@ -1,5 +1,5 @@
 ---
-title: Blood in the streets
+title: Du sand dans la rue
 date: 11 Jan 2021
 tags:
   - liquidation
