@@ -1,89 +1,93 @@
 ---
-title: The Great Flash Loan
-date: 20 Nov 2020
+title: Великий флэш-кредит
+date: 20 ноября 2020
 tags:
-  - flash loan
+  - флэш-кредит
   - defi
-excerpt: Flash loans, for better or worse, have incentivized a melting pot of talented coders of all manner of ethical fluidness to seek out untold fortunes. The concept of Flash Loan Arbing is not a sin and should never be held in such regard.
+excerpt: Флэш-кредиты, хорошо это или плохо, вызвали в плавильном котле талантливых программистов всех видов нравственной гибкости желание отправиться на поиски неописуемых богатств. Принцип арбитража с помощью флэш-кредитов не является греховным и никогда не должен так восприниматься.
 banner: https://lh6.googleusercontent.com/b9jz2FCw5hOUIX91DmjK1Tp2JyIxvNNJlLLZJZy9JI0pbaBboRtdh2ZHuCOeQPgbi8u08S16ChAcqBajF7G2AgbYiCcjTHWBqt_VIrNjakdr7aw34yLonJAWTq3iY9_2_K8tChYO
 ---
 
 ![](https://lh6.googleusercontent.com/b9jz2FCw5hOUIX91DmjK1Tp2JyIxvNNJlLLZJZy9JI0pbaBboRtdh2ZHuCOeQPgbi8u08S16ChAcqBajF7G2AgbYiCcjTHWBqt_VIrNjakdr7aw34yLonJAWTq3iY9_2_K8tChYO)
-If you fell off a bike and scraped your knee, would you get rid of the bike to avoid future injuries despite the benefits of convenience and fitness?
 
-If your partner cheated on you, would you avoid dating for the rest of your life despite the benefits of physical and mental companionship?
+Если вы упали с велосипеда и поцарапали колено, вы бы избавились от велосипеда, чтобы в будущем избежать травм, несмотря на пользу физических нагрузок и удобство? 
 
-When an airplane crashes, do you ban the aviation industry despite the benefits of mass transit?
+Если ваш партнер вам изменил, вы бы перестали ходить на свидания на всю оставшуюся жизнь, несмотря на преимущества физического и психологического взаимодействия?
 
-You wouldn't. You take it as a learning experience in order to mitigate the same mistakes from occurring while continuing to leverage the vast opportunities they offer.
+Когда случается авиакатастрофа, вы запрещаете авиаиндустрию, несмотря на преимущества массовых перевозок?
 
-**Which is where I disagree with a lot of the "flash loans are bad" narratives.**
+Нет, вы этого не делаете. Вы извлекаете из этого опыт, чтобы стараться больше не допускать таких же ошибок, и в то же время используете те огромные возможности, которые из них вытекают. 
 
-**The Stigma**
+**Вот почему я не согласен со всеми этими разговорами о том, что «флэш-кредиты - это зло».**
 
-I'll admit, when people hear flash loans they inevitably think whale-sized arbitrages and exploits. The latter is ever so prominent because it’s such a common occurrence, and in most cases the two are inexplicably intertwined.
+**Стигматизация**
 
-Generally speaking, when you execute a successful arbitrage you're helping to optimize the DeFi ecosystem by bringing pricing equilibrium across different markets for a particular asset. When you execute a flash loan powered arbitrage via automated bots you're essentially optimizing the ecosystem at scale.
+Должен признать, когда люди слышат о флэш-кредитах, они неизбежно представляют себе арбитражные атаки китового масштаба и эксплоиты. Особенно выделяются последние, потому что они так часто происходят, и в большинстве случаев и те и другие необъяснимо связаны.
 
-**The concept of Flash Loan Arbing is not a sin and should never be held in such regard.**
+Как правило, когда вы выполняете успешный арбитраж, вы помогаете оптимизировать экосистему DeFi, потому что приводите в равновесие цены определенного актива на различных рынках. Когда вы выполняете арбитраж с помощью флэш-кредитов и посредством автоматизированных ботов, вы главным образом оптимизируете экосистему в широком масштабе.  
 
-For example, while the Victorian Age is often celebrated for sweeping progress and industrial ingenuity in 19th Century Britain (think railways, civic architecture...etc), it was also responsible for extreme social unrest by inadvertently incentivizing all manner of working class people to converge upon the key manufacturing hubs. So it was no surprise organized crime flourished under a melting pot of poverty and overcrowding in those areas. The dwindling of opportunities forced pickpockets to become muggers and muggers to become worse.
+**Принцип арбитража с помощью флэш-кредитов не является греховным и никогда не должен так восприниматься.**
 
-**In traditional finance, big VC hedge funds behave in the same way as coders do with flash loans.**
+Например, с одной стороны викторианская эпоха часто отмечается за быстрый прогресс и промышленную изобретательность в Великобритании 19-го века (вспомните о железной дороге, гражданской архитектуре и т.д.). Но она также была ответственна за крайние социальные волнения, когда непреднамеренно сталкивала людей всех типов из рабочего класса  в ключевых производственных центрах. Поэтому неудивительно, что такие места становились плавильным котлом бедности и перенаселенности, в котором процветала организованная преступность.  Возможностей становилось меньше, карманники были вынуждены становится грабителями, а грабители становились еще кем похуже.
 
-Flash loans simply give short term access to large amounts of capital, all attacks done with flash loans could already be done without.
+**В традиционных финансах крупные хедж-фонды венчурного капитала ведут себя так же, как и программисты с флэш-кредитами.**
 
-**Flash loans, for better or worse, have incentivized a melting pot of talented coders of all manner of ethical fluidness to seek out untold fortunes.**
+Флэш-кредиты просто дают кратковременный доступ к большим объемам капитала. Все атаки, которые были сделаны с помощью флэш-кредитов, могли бы уже быть проведены и без них.
 
-In a DeFi space where opportunities have been limited by bots, front runners, back runners, insider telegram groups and MEVs, it is no surprise some (miners included) have used their talent for nefarious purposes in order to earn a crust.
+**Флэш-кредиты, хорошо это или плохо, вызвали в плавильном котле талантливых программистов всех видов нравственной гибкости желание отправиться на поиски неописуемых богатств.**  
 
-The limited opportunities turned some white hats into grey hats, and grey hats into black hats. The raft of flash loan powered exploits since the beginning of this year are well documented, so I won't bore you in revisiting them. But what I will do is unequivocally (albeit controversially) emphasize that **this is a good thing.**
+В DeFi-пространстве, где возможности ограничиваются ботами, фронтранерами, бэкранерами, инсайдерскими группами в телеграм и MEV, неудивительно, что некоторые (включая майнеров) использовали свой талант в гнусных целях, чтобы заработать на корку хлеба. 
 
-**The Crucible of Fire**
+Ограниченные возможности превратили некоторые белые шляпы в серые, а серые в черные. С начала этого года было хорошо задокументировано огромное количество эксплойтов, в основе которых лежали флэш-кредиты, поэтому не буду вас утомлять их пересмотром. Но я однозначно (хоть это и спорно) буду выделять, что **это хорошо.**
 
-Even while the Value* (Akropolis + Origin + Cheesebank) *exploit is unfolding as I write this, I firmly believe this is the evolutionary journey the DeFi space needs to traverse in order to mature into a sustainable ecosystem.
+**Огненное горнило**
 
-The process of weeding out weak projects make DeFi more secure in the long run because you're left with battle hardened systems that stood the test of time.Think back to how many questionable ERC20 projects that were launching ICOs at the height of the 2017 hysteria - their growth and architectural validity were unchecked and inevitably unsustainable. Fast forward to 2020 and the DeFi boom brought about a similar level of growth in \*.finance projects, except this time within the permissionless composability of the DeFI landscape, they are constantly tested by actors of all various coloured hats.
+Даже если оценка* эксплоита* (Acropolis + Origin + Cheesebank) _еще не завершена на тот момент, когда я пишу эту статью, я твердо верю, что это путь эволюции, который пространству DeFi необходимо пройти, чтобы вырасти в стабильную экосистему._
 
-**Flash Loans enable attack vectors to be exposed earlier,** which forces projects to constantly adapt and keep security at the forefront of their minds.
+Процесс прополки от слабых проектов в конце концов сделает DeFi безопаснее, потому что останутся только закаленные в битве системы, проверенные временем. Вспомните, как много было сомнительных ERC20-проектов, запускающих ICO на пике истерии 2017-го. Их рост и архитектурная обоснованность не проверялись, и потому неизбежно они были нестабильными.  А теперь быстро перемотайте вперед в 2020-й, когда взрыв DeFi принес похожий уровень роста в *.finance-проекты. За тем исключением, что на этот раз все происходит в permissionless-компонуемости ландшафта DeFi, где они постоянно тестируются игроками в шляпах всевозможных цветов. 
 
-**Those who don't learn from history, perish.** Those who do, become all the better for it. Of course, not all exploited projects can heal as easily as a scraped knee from a bicycle fall, but you certainly can't make an omelette without breaking a few eggs.
+**Флэш-кредиты позволяют быстрее обнаруживать векторы атак,** что заставляет проекты постоянно приспосабливаться и держать в голове, что нужно всегда думать о безопасности. 
 
-A recent Twitter interaction by users Fiona Kobayashi and Alex Svanevik sums up this sentiment well:
+**Тот, кто не извлекает уроки из истории, погибает.** А тем, кто извлекает, от этого становится только лучше. Конечно, не все проекты могут оправиться после эксплоита так же легко, как заживает колено после падения с велосипеда. Но, не разбив пары яиц, омлет точно не сделаешь.
+
+Недавний обмен твитами между Fiona Kobayashi и Alex Svanevik очень хорошо подытоживает это мнение: 
+
 ![](https://lh3.googleusercontent.com/HhbiRxCTYHawz55Axzs9IE7QZ36ydcWk6ws-p7uyjJ0wy09qz3Bpdn7tG-jsXQoY6VjdJWpBcs-tSA--2PfIvmjbBx-Mi5CXF9ZCPgJe3ofrGbV_GLPXIxmHB69RxJL362U4Qtzu)
-**Not just Arbs and Unicorns**
 
-Then there are the other benefits of Flash Loans that are well documented but are often overlooked in debates about the validity of flash loans. If you genuinely looked into the broad ranging benefits of Flash Loans, and not just reading up on the latest flash arb attacks via a blog, you'll realise it is significantly a net positive for the DeFi landscape as a whole.
+**Не только арбитражи и Единороги**
 
-In cases where a user's underlying collateral is nose diving in value, a Flash Loan powered Self Liquidation can help users fend off the threat of liquidation by flash repaying the debt, swapping the collateral into the debt token and then using it to repay the flash loan, all at the cost of 9bps + gas rather than the ~13% liquidation penalty. In a similar context, Flash Loan Collateral Swaps allow you to swap out an underperforming collateral with one that is appreciating in value, all without the hassle of manually closing your CDP or sourcing additional capital. You can even flash refinance by migrating your loan from one protocol to another.
+Есть и другие преимущества флэш-кредитов, они хорошо задокументированы, но в дебатах об обоснованности флэш-кредитов их часто пропускают. Если вы действительно изучили широкий спектр преимуществ флэш-кредитов, а не просто прочитали в блоге о последних арбитражных флэш-атаках, то вы поймете, что в целом для ландшафта DeFi они имеют значительный чистый положительный результат.  
+
+В случае, когда ценность лежащего в основе залога пользователя пикирует, на помощь может прийти самоликвидация с использованием флэш-кредита. Он сможет отразить опасность ликвидации, быстро выплатив долг. Затем обменяет залог на токен, который должен, и использует его, чтобы возместить флэш-кредит. И все это по цене 9bps + газ, и это лучше, чем ~13% неустойки за ликвидацию. В похожем контексте, используя комбинацию Flash Loan Collateral Swaps, вы можете обменять неэффективный залог на тот, который дорожает, и все это без возни с закрытием вручную вашей обеспеченной долговой позиции (CDP) или поставки дополнительного капитала. Вы даже можете организовать себе флэш-рефинансирование, перенеся кредит из одного протокола в другой.
 
 ![](https://lh6.googleusercontent.com/5vTzP6hrXR2eUIo1H-USagqXAnGO7MPf5YZtwTDxizfrehAjJElAoOHHmjFpmlZXfTI6xj82o2bSIt43kVPAFJhLMX1Af7hL9uk8SlmVgQjgg527sYCGba-hBfA4KLsegprPx2F3)
-Flash Loans are also an ubiquitous DeFi trait that captures interest from TradFi and CeFi alike. When combined with user friendly tools like Furucombo and DefiSaver which abstracts away the architectural complexities for the user and levels the financial playing field for everyone.
 
-Flash Loans is easily one of the key differentiators in supporting mainstream adoption.
+Флэш-кредиты также представляют собой характерную черту DeFi, которая привлекает внимание традиционных и централизованных финансов.  Особенно в комбинации с такими удобными инструментами, как Furucombo и DefiSaver, которые избавляют пользователя от архитектурной сложности и уравнивают правила игры на финансовом поле для всех. 
 
-Therefore we need to take a balanced approach to evaluating whether something is good or bad for the DeFi space.
+Флэш-кредиты являются одним из ключевых отличий в поддержании массового освоения.
 
-The coexistence and balancing of the two perspectives in historical society is, incidentally, known as the "Victorian Compromise".
+Поэтому нам нужно выбрать взвешенный подход к оценке того, что хорошо и что плохо для DeFi-пространства.
+
+Сосуществование и равновесие двух точек зрения в историческом обществе известно, кстати, как «викторианский компромисс».
 
 ---
 
-**Editor's Note**
+**Примечание редактора**
 
-Since their creation, cryptocurrencies have fundamentally challenged the global financial framework. Stablecoins turn this challenge into a direct threat, as their familiarity to the user alongside their obvious benefits creates a seemingly unstoppable competitor to the existing system.
+С момента своего создания криптовалюты поставили под вопрос фундаментальное устройство мировой финансовой системы. Стейблкоины превратили этот вызов в прямую угрозу, поскольку их близость к пользователю наряду с очевидными преимуществами делает из них непреодолимого, казалось бы, конкурента для существующей системы.
 
-As the effects of the pandemic shrink bank interest rates to zero or below, the steady 10%+ rates available on the digital dollar are starting to catch the eye of traditional finance.
+По мере того, как эффект от пандемии снижает банковские процентные ставки до нуля и переводит их в минус, стабильные 10%+, доступные у цифрового доллара, начинают привлекать внимание традиционных финансов. 
 
-Yet the dollar is only the starting point. As more governments accept the inevitable digitisation of money, more stablecoins will be released, pegged to different global currencies.
+К тому же доллар - это только начало. Чем больше правительств примут неизбежность оцифровки денег, тем больше будут выпускать стейблкоинов, привязанных к различным мировым валютам. 
 
-The Euro, the Yuan, and the Ruble will all be represented on-chain, reducing the current FX risk that comes with our current reliance on the digital dollar.
+Евро, юань и рубль будут представлены он-чейн, что снизит нынешний валютный риск, связанный с нашей зависимостью от цифрового доллара. 
 
-As nations release their own official blockchain based currencies, anonymous entities will do the same, and users will be able to choose between the official digital euro, or a mirrored version with more financial sovereignty.
+Если государства выпустят свои собственные официальные валюты на блокчейне, то анонимные учреждения сделают то же самое, и пользователи смогут выбирать между официальным цифровым евро и его зеркальной версией, которая будет обладать большим финансовым суверенитетом. 
 
-The inevitable conflicts with law and tax requirements will be dismissed by a decentralised system, leaving governments struggling to regulate an abstract digital concept.
+Неизбежные конфликты с законом и налоговыми обязательствами будут оттеснены децентрализованной системой. Теперь уже правительствам придется бороться за регулирование абстрактной цифровой концепцией. 
 
-Official government currencies will flow in the same stream as their anonymous decentralised counterpart, and people will switch between the two as they please.
+Официальные правительственные валюты будут находиться в одном потоке со своими анонимными децентрализованными аналогами, и люди будут переключаться с одного на другое по своему усмотрению.  
 
-Flash loans are one of the most unique concepts of DeFi, and stablecoins are the perfect tool to maximise their impact.
+Флэш-кредиты - это одно из уникальных понятий DeFi, а стейблкоины представляют собой прекрасный способ достижения максимальной отдачи от них.  
 
-**The biggest financial applications of the future are emerging now, and they’re built for stablecoins.**
+**Самые важные финансовые приложения будущего появляются сейчас, и они создаются для стейблкоинов.**
