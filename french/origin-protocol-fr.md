@@ -56,7 +56,7 @@ Chaque acteur impliqué dans ces événements malheureux fait preuve de cupidit�
 
 - Le singe : il espère faire un profit et mise sur un code non testé. Sa cupidité se perçoit à travers son impatience, mais le lève-tôt a été bien récompensé dans le passé, si bien que le résultat escompté n'est pas sans précédent. 
 
-- Le Dev : il s'attend à ce que son tout dernier code lui fournisse de gros profits. Le développeur cupide est aveuglé par ses attentes et ignore le pourtant essentiel audit de sécurité en rushant son code pour plaire au marché.
+- Le dev : il s'attend à ce que son tout dernier code lui fournisse de gros profits. Le développeur cupide est aveuglé par ses attentes et ignore le pourtant essentiel audit de sécurité en rushant son code pour plaire au marché.
 
 
 - Le hacker : le superprédateur n’est jamais totalement à l’abri,  mais il est capable d'utiliser des connaissances supérieures pour faire de sa cupidité une arme, tandis que d'autres sont handicapés par elle. Si vous aviez travaillé pour acquérir des connaissances qui vous permettaient de gagner de l'argent de cette manière, laisseriez-vous de côté des millions de dollars ?
