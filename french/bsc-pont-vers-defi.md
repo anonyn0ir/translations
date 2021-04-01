@@ -109,11 +109,11 @@ Nous voyons donc que les avantages de la BSC sont évidents, mais la centralisat
 
 ---
 
-**Nous avons parlé à un passant anonyme en colère, qui nous a dit :**
+**Nous avons parlé à un passant anonyme en colère, qui nous a déclaré :**
 
-> Je pense que la congestion de Binance était fausse car elle n’avait aucun sens, le gas était en dessous de 200 à ce moment-là. Je pense juste que CZ avait prévu de chercher à avoir encore plus d’utilisateurs sur la BSC.
+> _Je pense que la congestion de Binance était fausse car elle n’avait aucun sens, le gas était en dessous de 200 à ce moment-là. Je pense juste que CZ avait prévu de chercher à avoir encore plus d’utilisateurs sur la BSC._
 >
-> A propos de la hype autour de BSC. Je pense que les volumes sont complètement faux mais je ne suis pas sûr pas que les gens le remarquent vraiment ? Je veux dire, ils voient sur CoinGecko que Pancake Swap a un plus gros volume et se disent simplement que Pancake Swap est mieux qu’Uniswap. Je pense par contre que les frais de gas peu coûteux sont un point positif, mes amis normaux qui arrivent se fichent de la décentralisation, ils veulent juste maximiser leur profit.
+> _A propos de la hype autour de BSC. Je pense que les volumes sont complètement faux mais je ne suis pas sûr pas que les gens le remarquent vraiment ? Je veux dire, ils voient sur CoinGecko que Pancake Swap a un plus gros volume et se disent simplement que Pancake Swap est mieux qu’Uniswap. Je pense par contre que les frais de gas peu coûteux sont un point positif, mes amis normaux qui arrivent se fichent de la décentralisation, ils veulent juste maximiser leur profit._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/02/bsc-bridge.png)
 
