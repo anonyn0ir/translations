@@ -1,89 +1,95 @@
 ---
-title: Politics and Prescience
+title: Политика и предсказания
 slug: politics-and-prescience
-date: 03 Nov 2020
+date: 03 ноября 2020
 tags:
-  - prediction markets
+  - рынки предсказаний
   - defi
-  - politics
-excerpt: If prediction is the foundation of intelligence, then memories are the blocks with which it’s built.Will DeFi do best under Biden or Trump?
+  - политика
+excerpt: Если предсказание  - это фундамент интеллекта, тогда воспоминания - это кирпичи, из которых он строится. При ком DeFi получит больше развития, Байдене или Трампе?
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/things-to-come.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/things-to-come.jpg)
-**Humans have long been fascinated by uncertain outcomes.**
 
-Since before history was written, we have looked for insight and entertainment in predicting that which we cannot know.
+**Людей всегда манили события с неясным исходом.**
 
-Technological advancements have improved the art of prediction, however, when looking into the future, some level of uncertainty will always remain.
+Еще до того, как история была написана, мы искали ответы на вопросы и развлечение в предсказаниях того, чего не могли знать. 
 
-Locked down by COVID, we become painfully aware of the power of statistics. We live our lives according to the judgement of algorithms created by unelected developers.
+Технологические прорывы усовершенствовали искусство предсказания. Но мы всегда будем заглядывать в будущее с долей неуверенности. 
 
-The modern statistics industry thrives on a constant demand for knowledge of what comes next. Gamblers, politicians, and professionals from all fields benefit from an informed analysis of future events, and a variety of methods have been developed in an attempt to provide such insight.
+Оказавшись взаперти из-за COVID, мы с оболью осознали силу статистики.  Мы проживаем нашу жизнь под гнетом алгоритмов, созданных разработчиками, которых мы не выбирали.
+
+Современная индустрия статистики процветает благодаря постоянному спросу на информацию о том, что будет дальше. Профессиональные игроки, политики и специалисты из всех сфер пользуются преимуществами тщательного анализа грядущих событий. Разработано множество методов в попытке предоставить эту информацию. 
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/gambling-scene-3-BW.jpg)
-**Prediction Markets** use money as an incentive to measure the conviction of the public.
 
-Despite providing the perfect environment for the use and creation of prediction markets, no decentralised prediction market platform has achieved true mainstream adoption, and all new platforms struggle to acquire a good depth of liquidity.
+**Рынки предсказаний** используют деньги в качестве мерила вовлеченности людей.   
 
-The first decentralised prediction market platform; [_Augur_](https://augur.net/), took three years to launch after it’s fundraising round in 2014, and although they gained some traction during the 2018 US midterm elections, they have yet to match the volume or liquidity of their centralised counterparts.
+Несмотря на наличие отличной среды для использования и создания рынков предсказания, ни одна децентрализованная платформа не получила массового распространения, а все новые платформы изо всех сил пытаются получить нужную глубину ликвидности. 
 
-In 2020, most political speculation trading takes place on centralised marketplaces such as FTX or PredictIt. [This ](https://predictions.global/dashboard)is an interesting real-time dashboard showing the status of PredictIt markets.
+Первая децентрализованная платформа рынков предсказаний [_Augur_](https://augur.net/) потратила четыре года на запуск после сбора фондов в 2014. Несмотря на то, что она получила известность на промежуточных выборах 2018 в США, она еще не соответствует своим централизованным аналогам по объему ликвидности.
 
-[Coingecko ](https://www.coingecko.com/en?category_id=us-election-2020&view=market)provides a dashboard showing the top US election 2020 coins by market capitalisation.
+В 2020 году торговля политическими спекуляциями происходит на централизованных рыночных площадках, таких как FTX и Predictlt. [Вот](https://predictions.global/dashboard) интересная панель управления в реальном времени, отражающая положение рынков PredictIt.
+
+На [Coingecko](https://www.coingecko.com/en?category_id=us-election-2020&view=market) есть панель управления, которая показывает основные монеты, связанные с выборами в США в 2020 году, по прядку их рыночной капитализации.
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/coingecko.png)
-As we await the outcome of one of the most polemic elections in living memory, on [polymarket.com](https://polymarket.com/market/will-trump-win-the-2020-us-presidential-election), over $3 million has been wagered on the answer to the question “*Will Trump win the 2020 U.S. presidential election?”.  *To which the answer has been “No” since trading began on October 10th.
 
-[FTX ](https://ftx.com/en/trade/TRUMP)(centralised) and [Polymarket ](https://polymarket.com/market/will-trump-win-the-2020-us-presidential-election)(decentralised) are two crypto-based prediction markets offering odds on the results of the presidential election, which both currently put his chances of victory at around 37.8%.
+Пока мы все ждем результатов самых полемических выборов в памяти современников,  на [polymarket.com](https://polymarket.com/market/will-trump-win-the-2020-us-presidential-election) на ответ на вопрос _«Выиграет ли Трамп президентские выборы 2020 года?»_ было поставлено свыше $3 миллионов. *Ответом на который было «Нет» с момента начала торгов 10 октября.
 
-Strangely, this is higher than the chances given to a Trump victory by traditional markets and statisticians, where Trump’s chances are between 4 - 14%.
+[FTX ](https://ftx.com/en/trade/TRUMP)(централизованный) и [Polymarket ](https://polymarket.com/market/will-trump-win-the-2020-us-presidential-election)(децентрализованный) - это два крипто-рынка предсказаний, которые предлагают делать ставки на результаты президентских выборов. Согласно обоим на данный момент его шансы на победу оцениваются примерно в 37.8%.
 
-There are several possible reasons for this differing prediction; Vitalik Buterin took to Twitter to express his opinions of how such a disparity could emerge.
+Странно, но это больше, чем процент шансов на победу, который дают Трампу традиционные рынки и статистики: от 4 до 14%. 
 
-In his "pro-prediction market" view, Buterin suggests that these novel markets
+Есть несколько возможных объяснений такой разници в предсказаниях; Виталик Бутерин высказал в Твиттере свое мнение о том, как могло возникнуть такое расхождение.
 
-> "Correctly incorporate _the possibility of heightened election meddling, voter suppression, etc. affecting the outcome._” whereas traditional statistical models _“just assume the voting process is fair.”_
+Со своей  «про-рыночной» точки зрения, Бутерин предполагает, что эти новые рынки:
+
+> «Правильно учитывают _возможность усиленного вмешательства в выборы, подавления избирателей и т.д., которые могут повлиять на результат»,_ в то время как традиционные статистические модели _«просто предполагают, что выборы будут честными.»_
 >
-> In contrast, Buterin’s “pro-statistics model” makes the following point;
+> С другой стороны, «про-статистическая модель» Бутерина делает следующий вывод:
 
-> "Prediction markets are difficult to access for statistical / politics experts, _they're too small for hedge funds to hire those experts, and the people (esp wealthy people) with the most access to PMs are more optimistic about Trump.”_
+> «Политическим / экспертам по статистике трудно получить доступ к рынкам предсказания, _они слишком маленькие, чтобы хедж-фонды нанимали таких специалистов, и люди (особенно обеспеченные), у которых больше всего доступа к РП, оптимистично настроены относительно Трампа.»_
 
-He goes on to dismiss an _“unlikely”_ third possibility, that* “the experts" are incorrigibly dumb and just haven't learned their lessons around detecting surprise pro-Trump voters”*
+Дальше он отклоняет _«маловероятно»_ третью возможность, что _«эксперты» неисправимо глупы и просто не извлекли урок из прошлого по выявлению неожиданных избирателей Трампа»_
 
-After years of development, statistician Nate Silver has today ended his election forecast with the following[ prediction: ](https://fivethirtyeight.com/features/final-2020-presidential-election-forecast/)
+После нескольких лет разработок статистик Nate Silver сегодня закончил свой прогноз выборов следующим [предсказанием:](https://fivethirtyeight.com/features/final-2020-presidential-election-forecast/)
 
-> _Joe Biden is favored to beat President Trump (though Trump still has a 1-in-10 chance); Democrats have a 3-in-4 shot at taking back the Senate; and the House will most likely remain under Democratic control (Democrats might even expand their majority by a few seats)._
+> _Позиция Джо Байдена позволяет ему обойти Трампа (хотя у Трампа все еще есть 1 шанс из 10); У Демократов есть 3 шанса из 4 занять Сенат; Палата Представителей скорее всего останется под контролем Демократов (Демократы возможно даже увеличат свое большинство на несколько кресел)._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/casino-interior-nouveauBW.jpg)
-**Political vs Prediction**
 
-Are political polls less efficient than prediction markets? Markets are certainly useful for unearthing material non-public information.
+**Политика против предсказаний**
 
-Imagine an event where some people know the winner but the public does not. Once the prize gets big enough, eventually someone would bet with their inside knowledge and the market would move. [(@jdh)](https://twitter.com/jdh/status/1323481792305721344?s=20).
+Политические опросы менее эффективны, чем рынки предсказаний? Рынки несомненно полезны для откапывания материалов и не обнародованной информации.
 
-However, nobody knows how this election will end. There is very little inside information that can be extracted by the incentives of the market.
+Представьте себе такую версию событий, в которой некоторые люди знают, кто выиграет, а народ - нет.  Как только приз станет достаточно большим, кто-нибудь сделает ставку, используя свои знания посвященного, и весь рынок изменит свой облик. [(@jdh)](https://twitter.com/jdh/status/1323481792305721344?s=20).
 
-For now**,** it seems statisticians have the edge over the prediction market. However, they were proven wrong in 2016, and it could happen again. In the future, as prediction markets grow and blockchain technology is more widely used, the wallet of the hivemind might offer wiser insight than even our best statistician.
+Но никто не знает, как закончатся эти выборы. Существует очень мало внутренней информации, которую можно извлечь с помощью рыночных стимулов.
 
-**DeFi under Biden vs Trump**
+Пока что, кажется, у статистиков преимущество над рынком предсказаний. В 2016 году они все же ошиблись, и это может произойти снова. В будущем, с ростом рынков предсказания и расширением использования технологий блокчейн, кошелек коллективного разума мог бы предложить анализ получше, чем самый лучший статистик.   
 
-Some are of the opinion that a Biden victory would bring about greater mainstream adoption of Bitcoin, including potential approval of an ETF.
+**DeFi при Байдене против DeFi при Трампе**
 
-_“A potential Joe Biden presidency should shine favor on further appreciation in the price of Bitcoin, in our view. New leadership may change the hands-off policy of the Trump administration — to the detriment of the broader crypto market — and nudge the firstborn benchmark toward the mainstream, improving chances for an ETF.”_
+Некоторые придерживаются мнения, что победа Байдена приведет к более массовому освоению Биткоина, включая возможное одобрение Биржевого фонда. 
 
-However, a recent Bloomberg crypto newsletter referred to the Trump administration’s crypto policies as being “hands-off”.
+_«Возможный выбор в президенты Байдена должен, по нашему мнению, способствовать еще большему повышению цены Биткоина. Новое руководство может изменить политику невмешательства администрации Трампа - в ущерб более широкому крипто-рынку - и подтолкнуть первенца к массификации, увеличивая шансы для появления Биржевого фонда.»_
 
-Is a “hands-off” approach preferable for the industry right now?
+Однако, недавно в крипто-рассылке Bloomberg упомянула политику администрации Трампа относительно криптовалют как «политику невмешательства». 
 
-Isolation from regulatory invaders could be beneficial for the space as our new species of financial flora and fauna grows and evolves without interference.
+Предпочтителен ли подход «невмешательства» для индустрии прямо сейчас?
 
-If an administration is good for Bitcoin, is it good for DeFi? The two sectors seem to be drifting apart, and although major players are accumulating BTC like never before, DeFi is still seen as dangerous and unexplored territory.
+Изоляция от регуляционных захватчиков могла бы пойти на пользу экосистеме, чтобы наши новые виды флоры и фауны росли и развивались без помех. 
 
-**If prediction is the foundation of intelligence**, then memories are the blocks with which it’s built. Large datasets are food for the artificial intelligentsia, who form detailed images of a future invisible to the human eye.
+Если данная администрация положительно влияет на Биткоин, то хорошо ли это для DeFi?  Похоже, что два сектора отдаляются друг от друга. И хотя большие игроки накапливают BTC как никогда раньше, DeFi все еще воспринимается как опасная и неисследованная территория. 
 
-We are living in the information age, where data is power. Whatever the outcome of this election, during the next four years, the president elect will be forced to confront the growing demand for alternative currencies.
+**Если предсказание  - это фундамент интеллекта,** тогда воспоминания - это кирпичи, из которых он строится.  Большие наборы данных - это еда для искусственной интеллигенции, которая собирает подробные картины будущего, невидимого для человеческих глаз.   
 
-In a year of scarcity for the sports gambler, cryptocurrency based prediction markets have provided an accessible and entertaining event for speculation.
+Мы живем в эпоху информации, где данные - это сила.  Каким бы ни был результат этих выборов, в течение следующих четырех лет избранный президент будет вынужден иметь дело с растущим спросом на альтернативные валюты. 
 
-As volume grows, and mass adoption is achieved, these markets will provide much more than entertainment, as the conviction of gamblers and politically minded traders produces yet more data which we feed to our AI, and so the cycle continues...
+Этот год был дефицитным для игроков, делающих ставки на спорт. Но криптовалютные рынки предсказаний предоставили доступный и интересный сектор для спекуляций. 
 
-Art from [https://www.artpad.org](https://www.artpad.org/) & [Things to Come - 1936](https://en.wikipedia.org/wiki/Things_to_Come#:~:text=Things%20to%20Come%20(also%20known,and%20written%20by%20H.%20G.%20Wells.)
+С ростом объема и достижением массового освоения эти рынки будут давать нам намного больше, чем развлечения, потому что убеждение игроков и трейдеров с политическим складом ума производит еще больше данных, которые мы будем скармливать нашему искусственному интеллекту, и цикл продолжится...
+
+Картины из [https://www.artpad.org](https://www.artpad.org/) & [Things to Come - 1936](https://en.wikipedia.org/wiki/Things_to_Come#:~:text=Things%20to%20Come%20(also%20known,and%20written%20by%20H.%20G.%20Wells.)
