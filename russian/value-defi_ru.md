@@ -68,6 +68,7 @@ Value DeFi использовали спотовую цену Curve в каче�
 ![](https://lh6.googleusercontent.com/dBkWmYCfLAx2j6xhO4SeB9FEuMNPOgrFQRzSoYUvwv5rbydivcMqj70HauqhJM0mTx8VIp_nK1jJ4ubvNgZ4H8d4EpoUBAXFwdVrbvsWKvaMKP27fgnPMmS7SEfFyaCAVnS-lFiz)
 
 Тем временем в сессии: 
+
 ![](https://lh6.googleusercontent.com/e3_MrE8GywtpCPum9fpVI4dItHOA3J4Jcqqv04eGDuI4crIPMv0YfZyLCpVpVMdOsOrvv_0CWIvb38LNMxDd21RRgmvtgyc7HW5PMuw5_HrhorudSvWRBYAwoRsCk9fl1nqJpqVY)
 
 Команда The Value признала, что произошел взлом, в своем [Discord ](https://discordapp.com/channels/738345978750435408/744758563376857210/777202671068381195)в 16:05, но вопросы по несвязанным темам продолжали поступать еще 40 минут, до тех пор, пока…
