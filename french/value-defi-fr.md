@@ -9,7 +9,7 @@ tags:
   - value defi
   - rekt
   - flash loan
-excerpt: S’y connaissaient-ils réellement en flash loans ? La valeur d'une réputation est volatile. L'humilité confère de la stabilité : si vous vous mettez trop en avant, vous êtes sur de vous faire rekt à un moment ou à un autre. Value DeFi a été exploité hier pour un montant avoisinant les 7,000,000 de dollars. Une nouvelle rude leçon de la famille des flash loans.
+excerpt: S’y connaissaient-ils réellement en flash loans ? La valeur d'une réputation est volatile. L'humilité confère de la stabilité. Si vous vous mettez trop en avant, vous êtes sur de vous faire rekt à un moment ou à un autre. Value DeFi a été exploité hier pour un montant avoisinant les 7,000,000 de dollars. Une nouvelle rude leçon de la famille des flash loans.
 
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/jumpoutwindow-7.jpg
 ---
