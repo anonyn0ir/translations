@@ -18,7 +18,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/mf-h
 
 Un début impressionnant pour le premier grand exploit de la BSC, alors que Meerkat Finance s’installe directement à la troisième place de notre [classement](https://rekt.eth.link/leaderboard/).
 
-Après une seule journée de fonctionnement, Meerkat Finance s’est fait rugpull pour 13 millions de BUSD et environ 73.000 BNB, soit un montant à l’heure actuelle d’environ 31 millions de dollars.
+Après une seule journée de fonctionnement, Meerkat Finance s’est fait rug pull pour 13 millions de BUSD et environ 73.000 BNB, soit un montant à l’heure actuelle d’environ 31 millions de dollars.
 
 Nous avons observé la Binance Smart Chain durant leur speed run similaire à celui de l’été de la DeFi sur Ethereum. Maintenant que leur codes copiés d’Ethereum ont accumulé suffisamment de capital, ils semblent entrer dans la phase des _rug pull_.
 
@@ -110,7 +110,7 @@ La réponse n’est pas si évidente : si les 21 mystérieux [validateurs](https
 
 Binance aura sûrement déjà planifié à l'avance la manière dont ils géreraient un tel scénario. La manière dont ils gèrent cette affaire créera un précédent.
 
-Bien que que cela ne soit pas le [premier rugpull à hauteur de plusieurs millions](https://twitter.com/news_of_bsc/status/1354880400984739842?s=20), c’est le premier depuis la montée en puissance de PancakeSwap et l'augmentation du nombre d'utilisateurs qui l'a accompagnée.
+Bien que que cela ne soit pas le [premier rug pull à hauteur de plusieurs millions](https://twitter.com/news_of_bsc/status/1354880400984739842?s=20), c’est le premier depuis la montée en puissance de PancakeSwap et l'augmentation du nombre d'utilisateurs qui l'a accompagnée.
 
 Ignorez le cas improbable où quelqu'un de Binance interviendrait pour trouver un distributeur de merkle et retourner les fonds : l'argent a disparu.
 
