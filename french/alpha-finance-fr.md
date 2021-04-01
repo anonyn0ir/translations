@@ -31,7 +31,7 @@ Le contrat des attaquants a fait “croire” au code Homora que leur contrat ma
 
 Pourquoi le contrat a-t-il été laissé sur le mainnet s'il n'était pas encore prêt ? Nous avons demandé à Alpha, qui nous a répondu ce qui suit :
 
-> "Nous avons lancé plusieurs pools, par exemple sUSD, à l’étape contrat et non à celle de l'interface utilisateur, car nous nous préparions à lancer de nouveaux pools, dont sUSD la semaine prochaine".
+> Nous avons lancé plusieurs pools, par exemple sUSD, à l’étape contrat et non à celle de l'interface utilisateur, car nous nous préparions à lancer de nouveaux pools, dont sUSD la semaine prochaine.
 
 **Les gros parieurs sont vite sortis afin de protéger leurs fonds durant l’embrouillamini.** SBF a retiré [400 millions de dollars](https://twitter.com/_wilbur4ce_/status/1360636958595305474?s=20) de FTT depuis Cream Finance et [Three Arrows Capital](https://etherscan.io/address/0x5cfd0cddf989959a6a6c3ad985ce324460d46dfd) a envoyé [3 millions de dollars](https://twitter.com/Raez_x/status/1360542616849375233?s=20) d'ALPHA vers Binance, où le seul but pouvait être de les vendre.
 
