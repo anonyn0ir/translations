@@ -5,8 +5,7 @@ tags:
   - few
   - Rekt
   - defi
-excerpt: La plupart des utilisateurs assidus de la sphère crypto de Twitter ont probablement vu passer le cashtag $FEW ces derniers jours. Petit résumé pour ceux qui n'ont pas suivi l'histoire : il s'agissait d'un plan à court terme visant à shill et à pumper le prix d'un token obtenu via airdrop appelé $FEW, token qui tire son origine du meme anglophone "few understand", soit “peu de gens comprendront”.
-
+excerpt: La plupart des utilisateurs assidus de la sphère crypto de Twitter ont probablement vu passer le cashtag $FEW ces derniers jours. Il s'agissait d'un plan à court terme visant à shill et à pumper le prix d'un token obtenu via airdrop appelé $FEW, token qui tire son origine du meme anglophone "few understand", soit “peu de gens comprendront”.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/REKT-blood-3.jpg
 ---
 
@@ -46,10 +45,10 @@ Cependant, les captures d'écran du chat ont été rendues publiques avant que l
 
 Bien qu'ils n'aient jamais listé leur token sur Uniswap, ils ont créé de nouvelles opportunités pour les escrocs de profiter du désespoir des autres.
 
-Taylor Monahan, qui semble être passé de la promotion à la dénonciation de $FEW, a publié un fil
- [Twitter ](https://twitter.com/tayvano_/status/1308513470006980608?s=20) présentant un intéressant live feed sur la manière dont ces tokens ont été développés.
+Taylor Monahan, qui semble être passé de la promotion à la dénonciation de $FEW, a publié un fil [Twitter](https://twitter.com/tayvano_/status/1308513470006980608?s=20) présentant un intéressant live feed sur la manière dont ces tokens ont été développés.
  
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/TM.jpeg)
+
 https://twitter.com/tayvano (23k followers)
 
 L'attitude des membres du groupe Telegram était très différente avant que leurs captures d'écran ne soient rendues publiques.
