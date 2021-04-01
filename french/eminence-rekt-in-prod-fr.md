@@ -114,7 +114,7 @@ Malgré ce revers majeur, Andre continue de construire, et a publié ce tweet pl
 
 Les développeurs de Yearn, [Banteg](https://twitter.com/bantg) et [Klim K](https://twitter.com/milkyklim) ont également travaillé dur pour aider les personnes touchées, et ont créé un snapshot de EMN et des eTokens afin d'essayer de dédommager ceux qui ont perdu de l'argent.
 
-Les utilisateurs peuvent vérifier leur éligibilité [ici](https://gist.github.com/banteg/2ec7b0aec54267adf7d98136eee07cd9) (diviser par 1e18)
+Les utilisateurs peuvent vérifier leur éligibilité [ici](https://gist.github.com/banteg/2ec7b0aec54267adf7d98136eee07cd9) (diviser par 1e18).
 
 [rektHQ](https://twitter.com/RektHQ) n'a pas été impliqué dans la création de cette liste, et aucun détail n'est définitif.
 
