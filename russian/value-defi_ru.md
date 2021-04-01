@@ -10,7 +10,7 @@ tags:
   - rekt
   - флэш-кредит
 excerpt: Они точно знали, что такое флэш-кредит? Ценность репутации непостоянна. Скромность приносит стабильность, но если вы слишком много хвастаетесь, то вы точно в конце концов окажетесь rekt.
-Value DeFi сегодня подвергся эксплоиту на $7,000,000. Еще один жесткий урок от семьи флэш-кредитов.
+Value DeFi сегодня подвергся эксплоиту на 7,000,000 долларов. Еще один жесткий урок от семьи флэш-кредитов.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/jumpoutwindow-7.jpg
 ---
 
@@ -32,51 +32,64 @@ Value DeFi сегодня подвергся эксплоиту на $7,000,000.
 
 _(Твит уже удалили, но наш скриншот никуда не денется.)_
 
-Despite their bold claims of security, it appears the Value DeFi team didn’t know that withdrawals could be made not only through the main Bank contract, but also from the Vault contract through Proxy.
+Несмотря на их смелые претензии на безопасность оказалось, что команда Value DeFi не знала, что выводы могут совершаться не только из главного контракта Банка, но и из контракта Хранилища через Прокси. 
 
-Value DeFi used Curve spot price as an oracle.
+Value DeFi использовали спотовую цену Curve в качестве оракула. 
 ![](https://lh5.googleusercontent.com/8LivNANeDVuLd7utYUylaCzk-gG0oe_bUBZh3_XIOeilHQ-xPIpSjQ3yjQwOwhDEQUDgHT7H4C_2-0W6fT6H39XJTw2rrCv1jMqp_aj6QhTZC4DrrIGQPKeIfEH4SvPgoBLdODU1)
-The manipulation occurred at steps 5 and 6.
 
-Withdrawal at step 7 is using the wrong Curve function to do the maths.
+Манипуляция произошла в пункте 5 и 6.
 
-Credit [@emilianobonassi](https://twitter.com/emilianobonassi)
+Вывод в пункте 7 использует неправильную функцию Curve, чтобы сделать расчеты. 
+
+Источник: [@emilianobonassi](https://twitter.com/emilianobonassi)
 ![](https://lh6.googleusercontent.com/sCMxoK0s_EMlbZfZUYx-BVe9Wuq5iXDAXptoHOAsp2SXYhOgA1ZFJ7VXf83WXrRhyY38Xlf1-qXTUqMU5RMQy0u1Lw0TBNs9zV7IfwT6LJCnRrwJ4EqNvnKv3s7TcUIkWhKGQLrH)
-Credit [@FrankResearcher](https://twitter.com/FrankResearcher/status/1327649421492957184?s=20)
 
-15:24 - The exploit came at a particularly bad time for Value DeFi, just 20 minutes before they were due to start an AMA.
+Источник: [@FrankResearcher](https://twitter.com/FrankResearcher/status/1327649421492957184?s=20)
+
+15:24 - Эксплоит случился в очень неподходящий момент для Value DeFi, всего за 20 минут до того, как они должны были начать сессию ответов на вопросы (AMA). 
 ![](https://lh6.googleusercontent.com/AOmdisLDuND1OnUWiBCw9dNc_SsCuSRGqZcbhapOyv05JX8Nk3zwMaVB9mIQROSOvXywGoc18QOGkie-y8Sq8WMeNzt0DRDJ3N3iWK0I8U8b4yV8VShPpSe-P63Xi4PdeqL4tVCH)
-At 15:41 a user asked about the drop in TVL, which had been [over $11M ](https://discordapp.com/channels/738345978750435408/745301208532516875/777212546746286120)earlier in the day
+
+В 15:41 пользователь задал вопрос о падении общей заблокированной стоимости, которое составило [больше $11M](https://discordapp.com/channels/738345978750435408/745301208532516875/777212546746286120) и случилось несколькими часами ранее в тот день.
+
 ![](https://lh6.googleusercontent.com/CHKktTxXvzd1xPwEX3K1twFBsL1v6KSNjCncFX6wpdunbOAPU2mi4votbubCgKmvrCguM-PLWW7PBHe1Ms_Cf7bEjHMIq-V84zGFUqGnp-h3LwZs4lIwQ-AXH-_l6-36ocfAtIPG)
-At 15:42, concern was growing, and group members hoped for a UI bug.
+
+В 15:42, беспокойство нарастало, члены команды надеялись, что это баг пользовательского интерфейса. 
 ![](https://lh4.googleusercontent.com/piTSCrkU79lUUJidljebpv2PdMwmVC7JFeBN87kakfy-6gY_QFvDsoF_ZJq3EJRSTl4Ah_NuDZXOlsRrrxDeKV4_tKQ2diz6d94wCFzrpGI08h4Uxk7TjopdPK4j-9RgwoPSeTKY)
-Then at 15:49 the [etherscan link](https://etherscan.io/tx/0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a) dropped into the chat
+
+Затем в 15:49 в чат попала [ссылка с etherscan](https://etherscan.io/tx/0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a).
+
 ![](https://lh5.googleusercontent.com/UkZdx33K3bt2fyUrVmBO1IT4YM0d8xbrHCK0YYavvlmcwXf9oxFmBg0-aWyorFb3e1q0nsrGaYVIPGc_0rtyY0cAsbxczJ96iUGQaKYxgTRPDqI5KcOoqt3Tj-gV70cqHQ5ziARN)
-$7,000,000 had been removed from the Value DeFi vault, with $2,000,000 and the following note returned.
+
+Из Хранилища Value DeFi были выведены $7,000,000, потом были возвращены $2,000,000, сопровождавшиеся следующей припиской. 
+
 ![](https://lh5.googleusercontent.com/_b3-umHgK4n0lvMJcrgMjVZkHTIpbdzd_OHLV73C0C4A4PBIqr_lfvDrahBPwdgmJOfDDmgBEiQ6R7-f8-H1ZBh9E3Y-5WgGbGwwk28XSfD4JcURbK9NcP3RAqWVaD7wYEzjtalp)
-At 16:00, just as the AMA was due to start, Stani Kulechov put out the following tweet.
+
+В 16:00, как раз когда должна была начаться сессия ответов на вопросы, Stani Kulechov опубликовал следующий твит. 
 ![](https://lh6.googleusercontent.com/dBkWmYCfLAx2j6xhO4SeB9FEuMNPOgrFQRzSoYUvwv5rbydivcMqj70HauqhJM0mTx8VIp_nK1jJ4ubvNgZ4H8d4EpoUBAXFwdVrbvsWKvaMKP27fgnPMmS7SEfFyaCAVnS-lFiz)
-Meanwhile, in the AMA:
+
+Тем временем в сессии: 
 ![](https://lh6.googleusercontent.com/e3_MrE8GywtpCPum9fpVI4dItHOA3J4Jcqqv04eGDuI4crIPMv0YfZyLCpVpVMdOsOrvv_0CWIvb38LNMxDd21RRgmvtgyc7HW5PMuw5_HrhorudSvWRBYAwoRsCk9fl1nqJpqVY)
-The Value team acknowledged the hack in their [Discord ](https://discordapp.com/channels/738345978750435408/744758563376857210/777202671068381195)at 16:05, yet the AMA questions continued for 40 minutes on unrelated topics, until…
+
+Команда The Value признала, что произошел взлом, в своем [Discord ](https://discordapp.com/channels/738345978750435408/744758563376857210/777202671068381195)в 16:05, но вопросы по несвязанным темам продолжали поступать еще 40 минут, до тех пор, пока…
 
 ![](https://lh6.googleusercontent.com/vrOHsSMhnYTH7ezrLuhy1twz47KQEtpq4rxcNs4OOChEARyJBaIVVYVvmojSyuoVHpazliLTy0sBCvXDgnyz-9pywr6HNYHlItnFKgz-tbng1Ygu6mGm0IHWdsN-ymAHX2_dJ0wh)
-[$FARM](/harvest-finance-rekt/), [$AKRO](/akropolis-rekt/) and now [$VALUE](https://bloxy.info/tx/0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a) have been victims of the flash loan, as harsh lessons are dealt out to weak protocols, exposing the weaknesses in their platforms before returning some amount as a sign of “good faith”.
 
-Only semi-reputable projects have been targeted; those with high activity and a reasonable TVL.
+[$FARM](/harvest-finance-rekt/), [$AKRO](/akropolis-rekt/) и теперь [$VALUE](https://bloxy.info/tx/0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a) стали жертвами флэш-кредитов. Очень жесткие уроки для слабых протоколов. Хакеры обнажили слабые места их платформ, а потом вернули некоторое количество денег в знак «доброй воли».
 
-**Are these attacks an attempt to teach us something?**
+Мишенью стали только более-менее серьезные проекты; те, у которых поддерживалась высокая активность и серьезная общая заблокированная стоимость.   
 
-Flash loans are a controversial topic in the DeFi space, they’ve been behind many attacks and exploits in recent months, however it could be argued that this is simply accelerating our learning process and aiding in the removal of weak protocols.
+**Являются ли эти атаки попыткой чему-то нас научить?**
 
-**Without flash loans, we would be waiting for a whale to do the same. **It’s best that we pass through this stage now, during the genesis stage of decentralised finance, as people who are prepared to take risks are experimenting, trying, and releasing new products daily.
+Флэш-кредиты представляют собой спорную тему в сфере DeFi, за последние месяцы они стояли за многими атаками и эксплоитами. Но на это можно возразить, что тем самым процесс нашего обучения только убыстряется и убираются слабые протоколы.
 
-Flash loans are here to teach and humble anyone who rushes this process. They are the pinnacle of DeFi - impossible anywhere else, flash loans are a perfect example of the new capabilities that this technology brings.
+**Если бы не было флэш-кредитов, нам бы пришлось ждать, пока то же самое не сделает кит.** Будет намного лучше, если мы пройдем эту фазу сейчас, во время стадии зарождения децентрализованных финансов, когда есть люди, готовые идти на риск и они экспериментируют, пробуют и выпускают новые продукты каждый день. 
 
-**A feature of DeFi, not an exploit of the code.**
+Флэш-кредиты здесь, чтобы преподать урок и осадить каждого, кто пытается перескочить через этот этап. Флэш-кредиты - это апогей DeFi, они не могут существовать где-либо еще и представляют собой отличный пример новых возможностей, которые предлагает эта технология. 
 
-The strongest protocols aren’t affected by these attacks. Some are even benefiting.
+**Опция DeFi, а не эксплоит кода.**
 
-**Flash loans forcibly raise the bar for DeFi developers.**
+Самые сильные протоколы не подвергаются таким атакам. Некоторым они даже идут на пользу.
 
-Until the new standards are met, people and protocols will get rekt. It will be painful, and it will be public, but because of this we will learn. DeFi will get stronger, and we will develop better practices, stronger code, and a safer environment for future users.
+**Флэш-кредиты неизбежно повышают планку для разработчиков DeFi.**
+
+Пока будут устанавливаться новые стандарты, люди и протоколы будут подвергаться rekt. Будет больно и происходить это будет у всех на глазах, но благодаря этому мы учимся. DeFi будут становиться сильнее, мы разработаем лучшие методы, более сильный код и более безопасную среду для будущих пользователей.
