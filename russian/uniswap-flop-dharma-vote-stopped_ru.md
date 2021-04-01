@@ -1,78 +1,90 @@
 ---
-title: Uniswap Flop - Dharma Vote Stopped
-date: 19 Oct 2020
+title: Uniswap дал промашку - голосование Dharma остановлено
+date: 19 октября 2020
 tags:
   - uniswap
-  - governance
+  - управление
   - dharma
-excerpt: A vote created by Dharma  proposing “a threshold of 3m UNI for proposal submission, and 30m UNI as quorum.”  has been rejected today after failing to meet quorum.
+excerpt: Dharma создал голосование, в котором предложил «порог в 3 миллиона UNI для подачи предложения, и 30 миллионов UNI для кворума». Сегодня оно было отвергнуто, потому что не был соблюден кворум.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/1-fenced-unicorn-tapestry-theresa-labrecque-3.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/1-fenced-unicorn-tapestry-theresa-labrecque-3.jpg)
-The first Uniswap [proposal ](https://app.uniswap.org/#/vote/1)has failed.
 
-A vote created by Dharma  proposing “_a threshold of 3m UNI for proposal submission, and 30m UNI as quorum.”_  has been rejected today after failing to meet quorum.
+Первое [предложение](https://app.uniswap.org/#/vote/1) на Uniswap провалилось.
+
+Dharma создал голосование, в котором предложил _«порог в 3 миллиона UNI для подачи предложения, и 30 миллионов UNI для кворума»._ Сегодня оно было отвергнуто, потому что не был соблюден кворум.
+
 ![](https://lh4.googleusercontent.com/pAgagsffIrZb-ZU6U75qvPHXBtiSnsQkOfUboQovSY0Tg_UQ0zAWE7kUndkcK_DvcrEQU5LtMM25o6QCXJ3YvN9Gg3Mrlv1AQ20vPLh85IIXChQen6J4z7OctKNoYnJ5ASRERgNz)
-This was a controversial move by the founders of [Dharma](https://github.com/dharma-eng/dharma-smart-wallet), who claimed that a lower proposal and quorum threshold would increase participation in Uniswap governance.
 
-However if the vote had passed quorum, Dharma, Gauntlet and Univalent would have had total control over the governance of the platform. As the largest [holders ](https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#balances)of UNI, they would have been able to propose and swing votes in their favour.
+Это была спорная инициатива со стороны основателей [Dharma](https://github.com/dharma-eng/dharma-smart-wallet). Они утверждали, что более низкое предложение и порог кворума увеличат вовлеченность в управление Uniswap. 
 
-This [dashboard ](https://gateway.pinata.cloud/ipfs/QmRnJtRXKCx2X89QosbvK4swnQMjkEX9JHCDxcXvBQT1Lm/site.html)shows who voted, and for which decision.
+Однако, если бы голосование прошло кворум, то Dharma, Gauntlet и Univalent получили бы полный контроль над управлением платформой. Так как они самые крупные [холдеры](https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984#balances) UNI, они могли бы предлагать и изменять голосования в свою пользу.
 
-This Dune Analytics [dashboard](https://explore.duneanalytics.com/dashboard/uniswap-governance) shows further details on UNI delegators.
+На этой панели [управления ](https://gateway.pinata.cloud/ipfs/QmRnJtRXKCx2X89QosbvK4swnQMjkEX9JHCDxcXvBQT1Lm/site.html)видно, кто проголосовал, и за какое решение.
 
-_“We propose a threshold of 3m UNI for proposal submission, and 30m UNI as quorum.”_
+Эта [панель управления](https://explore.duneanalytics.com/dashboard/uniswap-governance) от Dune Analytics показывает подробную информацию о делегаторах UNI.
 
-The 30M quorum figure is no coincidence - Dharma has 30m votes, meaning this proposal would allow them to pass whatever they choose.
+_«Мы предлагаем установить порог в 3 миллиона UNI для подачи предложения, и 30 миллионов UNI для кворума».”_
 
-Although unlikely, as the identities of the main UNI holders are public, lowering quorum too much can create the possibility for situations like the DAO hack where malicious proposals lost investors millions.
+Цифра 30 миллионов для кворума не  случайна - у Dharma 30 миллионов голосов. Это значит, что это предложение помогло бы им в дальнейшем выиграть любое голосование, чего бы оно ни касалось. 
 
-Many expressed their concern about the negative impact that this vote could have had on the decentralisation of the platform, and on DeFi as a whole had it been successful.
+Даже если это маловероятно, потому как личности главных держателей UNI известны, но все же сильное снижение кворума может создать возможность для таких ситуаций как взлом ДАО и к потере миллионов вкладчиков в результате злонамеренных предложений.
 
-There is currently around $800M in ETH being used in UNI liquidity mining. If the program ends as planned on November 17th, this $800m will be withdrawn from Uniswap, and [some ](https://twitter.com/RyanBerckmans/status/1317643405040799747?s=20)are concerned that this increases the susceptibility for bad actors to create a flash crash in the price of ETH.
+Многие высказали свое опасение, что это голосование могло бы иметь негативное влияние на децентрализацию платформы и на DeFi в целом, если бы оно оказалось успешным.
 
-Creating governance proposals is a fine art, all details should be considered by the reader and the proposer. If multiple changes are desired, multiple proposals are required. Dharma’s Vote 1 proposed two changes to the platform within a single proposal, which is not good practice.
+В майнинге ликвидности UNI сейчас используется примерно 800 миллионов долларов в ETH. Если программа закончится 17 ноября, как запланировано, эти 800 миллионов долларов будут выведены с Uniswap. [Есть](https://twitter.com/RyanBerckmans/status/1317643405040799747?s=20) опасения, что это увеличит опасность того, что плохие игроки создадут мгновенный обвал цены эфира.
 
-A change to quorum should be one proposal, and a change to proposal submission should be a separate proposal.
+Создание управленческих предложений это целое искусство, и читатель и инициатор должны учитывать все детали. Если есть необходимость в нескольких изменениях, то должно быть сделано несколько предложений. Голосование 1, предложенное Dharma, включало в себя два изменения в платформу в одном, что не является хорошей практикой. 
 
-Although the centralised distribution of UNI tokens causing an imbalance in power is clearly a cause for concern, Stani of Aave makes a good point regarding token delegation.
+Изменение кворума должно быть одним предложением, а изменение в подаче предложения должно идти в отдельном предложении.
+
+Централизованное распределение токенов UNI приводит к дисбалансу сил и это явно проблема. Однако Stani из Aave сделал разумное замечание по этому поводу. 
+
 ![](https://lh5.googleusercontent.com/FsXYoIRYQQkgl3oQ4nUOlc8jotDeRAg2fIjZ10FUPoFddepHWGhLr_qfG3XD9wF8Jakqk97k2fFkPjOKjypibELetMyXGvXnYFqouarAgFhUUNPOJz_YbxoPy4BDo0aNmG4RIPNm)
-This hasn’t prevented many from seeing this vote as a failed attempt to take over the Uniswap platform by one of their main competitors.
 
-The CEO of Dharma has spoken out on this subject…
+Это не помешало многим увидеть в этом голосовании неудавшуюся попытку завладеть платформой Uniswap со стороны одного из их главных соперников.
+
+Генеральный директор Dharma высказался по этому поводу... 
+
 ![](https://lh3.googleusercontent.com/Bzg5e9BdDimyaNx5Dm7r-BWcjFH8sjk2K2zAk08zqjgqX-6yOM0TUCcAzTyKY55cExDmTJ1dkFtRheNmAkp75yuIp08mVZObzxeqmD6hLyu0ecuLFrblSU0GTcw1kdJE3zjlNZ0-)
-The suspicion regarding Dharma’s motives to pass the vote was increased by the knowledge that Dharma was not happy with the distribution of the UNI token.
 
-Dharma have made their [opinions ](https://gov.uniswap.org/t/retroactive-airdrop-excludes-proxy-contract-users-e-g-dharma-matcha-etc/1222)clear about the UNI distribution, stating that their users were unfairly excluded and the retroactive UNI airdrop should be extended to all wallets that used interfaces that interact with Uniswap, such as Dharma, Matcha, Paraswap etc.
+Подозрение относительно мотивов Dharma пройти голосование усилилось тем, что все узнали, что Dharma были не удовлетворены распределением токенов UNI. 
 
-Not only would this extra distribution benefit their users, but Dharma would stand to benefit greatly from such a move.
+Dharma ясно дали [понять](https://gov.uniswap.org/t/retroactive-airdrop-excludes-proxy-contract-users-e-g-dharma-matcha-etc/1222), что они думали по поводу распределения UNI. Они заявили, что их пользователей несправедливо исключили из списка и что ретроактивный аирдроп UNI должен быть распространен на все кошельки, которые используют интерфейс, взаимодействующий с Uniswap: Dharma, Matcha, Paraswap и т.д.
 
-If Uniswap Vote 1 had passed, Dharma would have not only been able to propose a further UNI distribution, but they would have been able to swing the vote in their favour.
+Дополнительное распределение пошло бы на пользу не только их клиентам, но и Dharma тоже, и очень сильно. 
 
-This is a clear example of the potential impact of governance and the power of holding large sums of governance tokens.
+Если бы  Голосование 1 на Uniswap прошло, Dharma не только смогли бы предложить дополнительное распределение UNI, они бы также смогли изменить голосование в свою пользу.
 
-Groups such as the Penguin Party are aiming to protect the decentralisation and sovereignty of Uniswap by implementing [Autonomous proposals](https://medium.com/@hiturunk/autonomous-proposals-campaign-update-9a9bab56fc30) similar to those used in Compound.
+Это очень наглядный пример потенциальной опасности, которую может представлять управление и власть, которую дает владение токенами управления на большие суммы денег. 
 
-Access to autonomous proposals would go some way toward preventing this total control of power occurring in the future, as community members would be able to pool their voting power and easily create formal proposals.
+Такие группы как Penguin Party нацелены на защиту децентрализованности и суверенитета Uniswap. Для этого они внедряют [Автономные  предложения](https://medium.com/@hiturunk/autonomous-proposals-campaign-update-9a9bab56fc30), похожие на те, что используются в Compound.
 
-Currently, even well-known groups or individuals might struggle to raise enough UNI to create a proposal, so it appears autonomous proposals are vital for the continued decentralisation of the platform.
+Доступ к автономным предложениям поможет продвинуться вперед и избежать подобных случаев полного контроля над властью в будущем, так как члены сообщества смогут объединять свои голоса и легко создавать формальные предложения.   
+
+На данный момент даже хорошо известным группам людей может быть тяжело собрать достаточное количество UNI для того, чтобы создать предложение. Поэтому автономные предложения жизненно необходимы для продолжения работы над децентрализацией платформы. 
+
 ![](https://lh5.googleusercontent.com/S5dRWHK15ulaBWdB9VnIMpR1iN9WGfwLarCL-P8QR-k02_hdxMbOO9eCRwsHckSZkO46GrpyBYOFL0Nykr5EI62ahBtgMHgzs84GPxOGCq6B64vDh4CJo1UUzpPm9B-lF21GipDm)
-Another controversial factor of the debut Uniswap Governance proposal is the fact that many users were prevented from voting due to the following restriction.
 
-**Only UNI votes that were self delegated or delegated to another address before block\*\***11042288\***\*are eligible for voting.**
+Еще один спорный фактор в первом предложении Управления Uniswap в том, что многие пользователи не смогли проголосовать из-за следующего ограничения.
 
-This rule required anyone who wished to vote to have delegated their UNI *before *the proposal was made, an unnecessary restriction which seems to only favour the party who created the proposal, while punishing anyone who is not in favour or had not prepared.
+**В голосовании могут участвовать только те голоса UNI, которые были делегированы самостоятельно или делегированы другому адресу до блока **11042288**.
 
-Snapshotting the delegation in this way is clearly an oversight; at the time the proposal was launched, only 48M total UNI were delegated, and as the required quorum to pass a vote is at least 40M UNI, we can see that Uniswap’s Governance still has some teething problems.
+Согласно этому правилу все, кто хотел голосовать, должны были делегировать свои UNI _до того, как поступило предложение._ Ненужное ограничение, польза от которого очевидна только для стороны, которая выдвинула предложение. А всех остальных, кто не поддерживает его и кто не подготовился, оно только пенализирует. 
 
-Many will be relieved with today’s results. Although the vote was not passed, it seems to have been a good learning opportunity, and perhaps served as a good warning of what could happen if a bad actor manages to take control of a platform.
+Делать снэпшот делегирования таким способом явно ошибка; в момент запуска предложения было делегировано всего 48 миллионов UNI. Так как необходимый кворум, чтобы провести голосование, составляет 40 миллионов UNI, становится очевидным, что у Управления Uniswap еще есть проблемы из-за его молодости. 
 
-We may never know if Dharma would have used this opportunity in a dishonest way, perhaps they were just trying to offer some better yield to their users...
+Многим итог сегодняшнего голосования поможет испытать облегчение. Не смотря на то, что голосование не прошло, похоже, что это было хорошей возможностью извлечь урок. Возможно, это послужило хорошим предупреждением о том, что могло бы случиться, если бы плохому игроку удалось захватить контроль над платформой.
+
+Мы никогда не узнаем, хотели ли Dharma нечестно использовать эту возможность, или они просто пытались предложить своим клиентам лучшую прибыль... 
+
 ![](https://lh6.googleusercontent.com/4r4X8BeIyIxsLewnaNoSThqFSjB5-Rn0J6kXcmH02k2QRWpDGraZVyx-ttkmkUDlcn5t2I7sb4rx7jHCde2XSBkzwXeixUv3AGJk6M5BMAlKs5dMilJUbHFWPH9bIGk1YAO08eDF)
-Governance is power, and the actions of those able to manipulate popular platforms can affect us all.
+
+Управление это власть, и действия тех, кто способен манипулировать популярными платформами, могут отразиться на всех нас.
+
 ![](https://lh4.googleusercontent.com/2nsZ1myiquSMV516VhJQTjCKsc8oWYta9EbBC3XqKhcm5Q8BuiIPLkxCj3V-LIX4F43NbgjmvuGnzE5JtVmB4XSjbTQTy1oO7hu_pfZVm1GYIV5w7leqZrsK2Se3hn6B1GdE8rVT)
 
-Whatever your opinion on Dharma or the UNI token, it’s fair to point out that all of this is the result of a flawed distribution and initial governance rules laid out by Uniswap.
+Каким бы ни было ваше мнение о Dharma или токене UNI, справедливо отметить, что это результат некорректного распределения и изначальных правил управления на Uniswap. 
 
-We should all keep a close eye on any new proposals, and consider the motives of those who are responsible for their creation, lest we all get rekt.
+Нам всем нужно четко следить за новыми предложениями и изучать мотивы тех, кто их выдвигает, иначе всем нам rekt.
