@@ -12,7 +12,7 @@ banner: https://lh4.googleusercontent.com/HGp9pvppkTAdtd74IjHaNbUkRvOrfwMR_aWZvI
 
 ![](https://lh4.googleusercontent.com/HGp9pvppkTAdtd74IjHaNbUkRvOrfwMR_aWZvIFnJpteLPn42WLE8s2JRFXrBkv3LacCpC5UB9ls_x-K9Ngsu66ZgBRkPWhGhqpXFQBbBbQY-hEgi8DxASfiTrhXcT6MA9JC0F6N)
 
-Les utilisateurs de Swerve ont été plongés dans la consternation après que les fondateurs du projet ont pumpé puis dumpé leurs tokens, et ce probablement pour la dernière fois...
+**Les utilisateurs de Swerve ont été plongés dans la consternation après que les fondateurs du projet ont pumpé puis dumpé leurs tokens, et ce probablement pour la dernière fois...**
 
 ![](https://lh4.googleusercontent.com/ScJsa63refX4D5op_71aFzPlcj6VZZ1OGFsp1oq29LuBmPKW6iVlqLr23PSKhLcD_YfIktykD_xTjQBFWy4xjrhTC0g9ibXIsqRAccMIEisKQlWWZJNnDbHYh3vboM7fGCS-4wAv)
 
@@ -72,7 +72,6 @@ Bien que les membres du chat aient calculé que la perte avoisinait 0,8 %, ce qu
 "not too bad" = perte potentielle de 8 000 000 $ de fonds.
 
 Swerve a décidé d'ignorer les avertissements, de ne pas avertir ses utilisateurs et de diminuer le facteur A.
-
 
 ![](https://lh6.googleusercontent.com/iFUA8QSW5lLwh8cQfB6cwVrL3AbummPatQXVqjNKHRZFKEvwYDS8n3Dq3l7B7f6AAcvyLXk_hhWmmZioZK4X75oAmajxQiVwMsQZhwdlBB-yijh2PwsCJdAoTAOEJdepeZoFNjNM)
 ![](https://lh5.googleusercontent.com/GsxhmMuyCCqKTdNew8rUxylUCFIC7J0jtgMfAKtYIIcNsvoL-76nPHjIFXlxI_RxDbNXflY66GCaSuldCC9hES9tO3tTHtpn031WE8-MGkeDXkNcuBvkAukuH7wO4B2gMeC5fmej)
