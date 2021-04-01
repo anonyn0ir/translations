@@ -4,7 +4,7 @@ date: 30 Jan 2021
 tags:
   - fomo
   - doge
-excerpt:L'écosystème n’avait pas observé autant de cupidité depuis bien longtemps : notre shiba favori n’était alors qu’un jeune chiot, avec une fine moustache et une capitalisation bien faiblarde. Nous avons traversé une semaine bien étrange, un mois particulier, peut-être même une année singulière...
+excerpt: L'écosystème n’avait pas observé autant de cupidité depuis bien longtemps. Notre shiba favori n’était alors qu’un jeune chiot, avec une fine moustache et une capitalisation bien faiblarde. Nous avons traversé une semaine bien étrange, un mois particulier, peut-être même une année singulière...
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/header-6.png
 ---
 
@@ -64,7 +64,7 @@ Nous soutenons tous les acheteurs de GME, car ce sont les “Underdoge” de l�
 
 **Le pump de GME avait une morale à son histoire**, mais ces valeurs ne s’appliquent pas à un pump & dump sur le Dogecoin, où les enthousiastes trop naïfs deviennent les victimes des investisseurs avisés et des baleines du marché. 
 
-Traditionnellement, un jeton repose sur des fondamentaux techniques pour définir sa capitalisation. Mais même avant cette fameuse montée, le Dogecoin réussissait à maintenir une capitalisation moyenne de [200-300 millions de dollars](https://www.coingecko.com/en/coins/dogecoin) simplement avec un meme. 
+Traditionnellement, un token repose sur des fondamentaux techniques pour définir sa capitalisation. Mais même avant cette fameuse montée, le Dogecoin réussissait à maintenir une capitalisation moyenne de [200-300 millions de dollars](https://www.coingecko.com/en/coins/dogecoin) simplement avec un meme. 
 
 Des communautés peuvent se construire avec des émotions partagées, mais même le meme le plus apprécié ne peut gérer +/- 600% de hausse en une semaine. 
 
