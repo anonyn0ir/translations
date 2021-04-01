@@ -46,7 +46,7 @@ _Salut Mariano !_
 
 **Mariano :**
 
-_Hey ! Comment ça va la grenouille de rekt ?_
+Hey ! Comment ça va la grenouille de rekt ?
 
 **rekt :** 
 
