@@ -11,7 +11,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/1-fe
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/1-fenced-unicorn-tapestry-theresa-labrecque-3.jpg)
 
-La première [proposition](https://app.uniswap.org/#/vote/1) sur Uniswap n’a pas abouti.
+**La première [proposition](https://app.uniswap.org/#/vote/1) sur Uniswap n’a pas abouti.**
 
 Un vote initié par Dharma proposant "un seuil de 3 millions d’UNI pour la soumission de propositions, et de 30 millions d’UNI comme quorum" a été rejeté aujourd'hui après avoir échoué à atteindre le quorum.
 
@@ -79,7 +79,7 @@ Nous ne saurons probablement jamais si Dharma aurait utilisé cette opportunité
 
 ![](https://lh6.googleusercontent.com/4r4X8BeIyIxsLewnaNoSThqFSjB5-Rn0J6kXcmH02k2QRWpDGraZVyx-ttkmkUDlcn5t2I7sb4rx7jHCde2XSBkzwXeixUv3AGJk6M5BMAlKs5dMilJUbHFWPH9bIGk1YAO08eDF)
 
-La gouvernance est le pouvoir, et les actions de ceux qui sont capables de manipuler les plateformes populaires peuvent tous nous affecter.
+**La gouvernance est le pouvoir, et les actions de ceux qui sont capables de manipuler les plateformes populaires peuvent tous nous affecter.**
 
 ![](https://lh4.googleusercontent.com/2nsZ1myiquSMV516VhJQTjCKsc8oWYta9EbBC3XqKhcm5Q8BuiIPLkxCj3V-LIX4F43NbgjmvuGnzE5JtVmB4XSjbTQTy1oO7hu_pfZVm1GYIV5w7leqZrsK2Se3hn6B1GdE8rVT)
 
