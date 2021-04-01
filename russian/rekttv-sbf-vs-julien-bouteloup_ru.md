@@ -1,146 +1,150 @@
 ---
-title: 'rekt:TV - SBF vs Julien Bouteloup'
+title: 'rekt-TV: SBF против Julien Bouteloup'
 date: 21 Oct 2020
 tags:
   - sbf
   - blue kirby
-  - interview
-  - video
-excerpt: For the debut episode of rektTV, Julien Bouteloup and SBF go head to head for over an hour on a range of topics including Blue Kirby, Cream Finance, SBF on-chain activity, SushiSwap, and more.
+  - интервью
+  - видео
+excerpt: В дебютном этпизоде rektTV, Julien Bouteloup и SBF встретились лицом к лицу и больше часа обсуждали многие темы, включая Blue Kirby, Cream Finance, деятельность SBF он-чейн, SushiSwap и многое другое.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-6.png
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-6.png)
-It’s been four weeks since the inception of [Rekt](/), and things are moving fast.
 
-+2600 followers, 12 pieces of investigative journalism, and a growing community of contributors behind the scenes.
+С момента создания [Rekt](/), прошло четыре недели, все происходит очень быстро.
 
-Following our [Whale Hunt](/whale-hunt-sbf-blue-kirby/) article investigating crowd mentality and on-chain activity, Blue Kirby deleted his account, and SBF came in for an interview to try and clear his name.
++2600 подписчиков, 12 историй журналистских расследований, и растущее сообщество участников за кулисами.
+
+После выхода нашей статьи [Охота на кита](/whale-hunt-sbf-blue-kirby/) о стадном инстинкте и специфике деятельности он-чейн Blue Kirby удалил свой аккаунт, а SBF пришел на интервью, чтобы попытаться отмыть свою честь.
+
 ![](https://lh5.googleusercontent.com/JL0Rydj-558_hm_RG9y2GDn9eE3fKN3mICnOJtORRJCu1n24PL8j0y82SKmCGsTLSBnlTjzjBYMFIMnTaCqPnsTH_VxkSdYRP06rMzijLnc53l9dMS9q7-_hrfVYB6YiaqdCtB6-)
-We will always aim to cover both sides of the story, so it seemed only fair to let SBF present his opinions.
+
+Мы всегда будем стремиться раскрывать ситуацию с обеих сторон, поэтому нам показалось правильным дать SBF возможность представить свою точку зрения. 
+
 ![](https://lh5.googleusercontent.com/mswHcnSFc6fAO2athhZe-r9PTfr57SV6_lvvQMLR05f9enItaFEby0x65ZJ0uqWOc3_SV8VuPjtYdM5Ym_Dvdj7cPmvbQylvK0hxEpTEo0IP9C3x6VqiYvL2GqmY2kaod4TWJvTc)
-SBF is a relatively new character in the crypto ecosystem. During the DeFi summer he became notorious for his ruthless trading activity and involvement with the controversial SushiSwap.
 
-Blue Kirby also rose to fame during the DeFi summer as he rode the coattails of the YFI boom.
+SBF достаточно новая фигура в криптовалютной экосистеме. Он получил известность во время лета DeFi благодаря своей безжалостной трейдинговой тактике и причастности к противоречивому проекту SushiSwap.
 
-The once prolific YFI hype man is now in disgrace after losing his role at Yearn, and then being shamed by the community for attempting to launch a low quality ICO.
+Blue Kirby тоже добрался до славы во время лета DeFi, выехав на волне успеха YFI.  
 
-When SBF retweeted a promotion for this ICO, the unexpected interaction raised eyebrows, and fueled our investigation.
+Некогда успешная и популярная фигура в YFI, теперь он в немилости после того, как потерял свое место в Yearn, а потом был пристыжен сообществом за попытку запустить низкокачественное ICO. 
 
-For the debut episode of rektTV, Julien Bouteloup and SBF go head to head for over an hour on a range of topics including Blue Kirby, Cream Finance, SBF on-chain activity, SushiSwap, and more.
+Когда SBF ретвитнул рекламу его ICO, это неожиданное взаимодействие привлекло наше внимание и подтолкнуло нас к расследованию.
 
-[The following interview was conducted by Julien Bouteloup for rektTV on 15.10.2020.](https://youtu.be/7mxSOWxRMC8)
-[If you are accessing the site via Twitter, click here to watch the video on Youtube](https://youtu.be/7mxSOWxRMC8)
+В дебютном эпизоде rektTV Julien Bouteloup и SBF встретились лицом к лицу и больше часа обсуждали многие темы, включая Blue Kirby, Cream Finance, деятельность SBF он-чейн, SushiSwap и многое другое.
 
-[01:18](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=78s) SBF - I started out my career at Jane Street Capital
+[Следующее интервью было проведено Жульеном Бутелу для rektTV 15 октября 2020 года.](https://youtu.be/7mxSOWxRMC8)
+[Если вы заходите на сайт через Твиттер, нажмите здесь для просмотра видео на Youtube.](https://youtu.be/7mxSOWxRMC8)
 
-[02:39](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=159s)**JB - How do you differentiate your activity between Alameda & FTX?**
+[01:18](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=78s) SBF - Я начал свою карьеру на Jane Street Capital
 
-[06:34](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=394s)**JB **- **Can you explain your point of view - why wasn’t this [(rekt post)](/whale-hunt-sbf-blue-kirby/) accurate information in your opinion?**
+[02:39](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=159s) **JB - В чем отличие твоей работы в Alameda и в FTX?**
 
-[07:15](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=435s) SBF - I think that there’s a pretty decent case for changing the collateral factor of FTT
+[06:34](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=394s) **JB - - Объясни твою точку зрения - почему ты считаешь, что это [(статья rekt)](/whale-hunt-sbf-blue-kirby/) не является достоверным источником информации?**
 
-[07:36](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=456s) SBF - I think a lot of the takes on it (FTT as collateral) have been pretty one-sided and not super well thought out
+[07:15](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=435s) SBF - Я думаю, что есть достаточно причин для того, чтобы изменить фактор залогового обеспечения FTT
 
-[09:39](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=579s)**JB **- ** I would like a quote from you summarising your thoughts on SushiSwap?**
+[07:36](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=456s) SBF - Я считаю, что большая часть занятых позиций (по FTT в качестве залога) была достаточно односторонней и не очень хорошо обоснованной.
 
-[10:53](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=653s) SBF - I was pretty surprised when that (SushiSwap) happened.
+[09:39](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=579s) **JB - Мог бы ты резюмировать твое мнение о SushiSwap?**
 
-[11:50](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=710s) SBF - I think it (Sushi Transfer) was like 11 million
+[10:53](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=653s) SBF - Я очень удивился, когда это (SushiSwap) случилось.
 
-[12:51](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=771s)**JB **- ** So you got the keys of SushiSwap without even knowing about it?**
+[11:50](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=710s) SBF - Я думаю, что он (трансфер Sushi) составил 11 миллионов
 
-[13:18](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=798s) SBF - I was not involved in the development of SushiSwap at all
+[12:51](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=771s) **JB - Ты получил ключи от SushiSwap не зная, что это были они?**
 
-[13:47](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=827s)**JB -  For some people it might look like you are the Sushi master…**
+[13:18](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=798s) SBF - Я не принимал никакого участия в разработке SushiSwap
 
-[14:10](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=850s) SBF - It was a crazy day - it was completely bananas
+[13:47](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=827s) **JB - Некоторые люди думают, что мастер Sushi - это ты…**
 
-[14:22](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=862s) SBF - I was asleep - someone shouted out saying that Nomi was going to give us the keys
+[14:10](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=850s) SBF - Это был просто сумасшедший день
 
-[14:50](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=890s)**JB -  Did you ever receive a message from Hayden (Adams)?**
+[14:22](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=862s) SBF - Я спал - кто-то кричал, что Nomi собирается дать нам ключи
 
-[15:29](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=929s) SBF - He was definitely not happy with SushiSwap and happy to see it get rugged
+[14:50](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=890s) **JB - Ты получал сообщение от Hayden (Adams)?**
 
-[15:45](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=945s) SBF - If SushiSwap never happened then the UNI token would not be live
+[15:29](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=929s) SBF - Ему однозначно не нравился SushiSwap и он был рад, когда проект подвергся рагпулу
 
-[16:55](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1015s)**JB -  So you’re basically saying that people are stupid to buy the UNI token?**
+[15:45](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=945s) SBF - Если бы SushiSwap не создали, то токен UNI тоже никогда бы не появился
 
-[17:26](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1046s)**JB -  Are you guys still building (SushiSwap) or are you leaving it as an AMM?**
+[16:55](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1015s) **JB -  То есть, ты по большому счету утверждаешь, что люди тупые, раз покупают токен UNI?**
 
-[18:37](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1117s)**JB -  What happened on C.R.E.A.M? Walk me through the chronology, people were really pissed off…**
+[17:26](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1046s) **JB - Вы продолжите работу над проектом (SushiSwap) или оставите его в качестве автоматизированного маркет-мейкера?**
 
-[20:00](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1200s)**JB -  You took $80m worth of FTT and put them on C.R.E.A.M…**
+[18:37](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1117s) **JB - Что произошло в C.R.E.A.M? Расскажи мне немного о хронологии, люди очень разозлились...**
 
-[20:53](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1253s)**JB -  FTT token is controlled by FTX - it’s a centralised token and you’re using the decentralised economy…**
+[20:00](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1200s) **JB - Ты набрал на  $80 миллионов FTT и вложил их в C.R.E.A.M…**
 
-[21:42](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1302s) SBF - The point about shorting…
+[20:53](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1253s) **JB - Токен FTT контролируется FTX - это централизованный токен, а ты используешь децентрализованную экономику…**
 
-[24:29](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1469s) SBF - Being public was definitely not the intention!
+[21:42](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1302s) SBF - Фишка игры на понижение в том…
 
-[27:29](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1649s)**JB -  How do you ensure sensitive FTX customer information doesn’t end up with the Alameda team?**
+[24:29](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1469s) SBF - Становиться популярным вообще не входило в мои планы!
 
-[30:08](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1808s)**JB -  So if you had to do it (C.R.E.A.M) again, you would do the exact same thing?**
+[27:29](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1649s) **JB - Как ты избегаешь того, чтобы информация о пользователях FTX не попадала в руки команды Аlameda?**
 
-[30:51](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1851s)**JB -  The CEO (of C.R.E.A.M) was very happy for you to put $80m of FTT into the platform...**
+[30:08](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1808s) **JB - Значит, если бы тебе снова пришлось это сделать (C.R.E.A.M), ты бы сделал то же самое?**
 
-[32:21](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1941s)**JB** -  Whenever there’s a multi-sig you want to be added into it!
+[30:51](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1851s) **JB - Генеральный директор (проекта C.R.E.A.M) был очень рад, что ты вложил $80 миллионов FTT в платформу...**
 
-[35:08](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2108s)**JB -  You also added yourself into the Yearn shit show with Blue Kirby**
+[32:21](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=1941s) **JB** - Как только где-то появляется мультисиг, ты хочешь туда вступить!
 
-[36:14](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2174s)**JB **-  **What happened on the Blue Kirby ICO - did he ask you to retweet it?**
+[35:08](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2108s) **JB - Ты также принял участие в маскараде Yearn вместе с Blue Kirby...**
 
-[40:27](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2427s) SBF - Executives in crypto can’t communicate with the community
+[36:14](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2174s) **JB - Что произошло с ICO Blue Kirby - он попросил тебя ретвитнуть о нем?**
 
-[41:52](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2512s)**JB -  What do you think about what happened to Blue Kirby?**
+[40:27](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2427s) SBF - В криптовалютах руководители  не могут общаться с сообществом
 
-[42:35](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2555s)**JB -  Were you in crypto in 2017?**
+[41:52](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2512s) **JB - Что ты думаешь о том, что случилось с Blue Kirby?**
 
-[43:06](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2586s)**JB -  Why did you get yourself involved in that shit (Blue Kirby ICO)?**
+[42:35](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2555s) **JB - Ты занимался криптовалютами в 2017**
 
-[45:48](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2748s) SBF - Blue Kirby ICO was a ham-fisted launch but not an attempt to rugpull
+[43:06](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2586s) **JB - Зачем ты влез в это дерьмо (Blue Kirby ICO)?**
 
-[50:50](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3050s)**JB -  What about building yourself a multisig and forking Blue Kirby’s ICO?**
+[45:48](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=2748s) SBF - Запуск первичного монетного предложения Blue Kirby  был очень неуклюжим, но он не был попыткой рагпула
 
-[51:23](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3083s)**JB -  What is Serum and what’s the vision with the project?**
+[50:50](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3050s) **JB - Почему ты не создаешь свой собственный мультисиг и не делаешь форк ICO Blue Kirby?**
 
-[52:26](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3146s) SBF - What do I think of Ethereum?
+[51:23](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3083s) **JB - Что такое Serum и в чем суть проекта?**
 
-[56:23](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3383s)**JB -  What is the vision of FTX?**
+[52:26](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3146s) SBF - Что я думаю об Эфириуме?
 
-[58:19](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3499s) SBF - What’s the end game here?
+[56:23](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3383s) **JB - В чем суть FTX?**
 
-[1:00:20](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3620s)**JB -  Could Solana become the high frequency trading aspect of ETH 2.0?**
+[58:19](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3499s) SBF - Какова цель игры?
 
-[1:01:04](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3664s)**JB\*\***-  Plug & play or Drag & Fork any smart contract in Solidity or Vyper into Solana
-\*\*
+[1:00:20](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3620s) **JB - Мог бы Solana стать аспектом высокочастотной торговли ETH 2.0?**
 
-[1:01:22](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3682s) SBF - Sometimes the best layer 2 is something that can also be a layer 1
+[1:01:04](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3664s) **JB - Подключи и работай (Plug & Play) или перетащи и сделай форк (Drag & Fork) с любым смарт-контрактом на языке Solidity или Vyper в Solana**
 
-[1:01:44](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3704s) SBF - Loopring is more relaxed, Serum and Solana is more like a giant financial ecosystem all on the same chain
+[1:01:22](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3682s) SBF - Иногда самое лучшее решение layer 2 это что-то, что может быть и решением layer 1
 
-[1:04:40](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3880s)**JB -  I used to be a Bitcoin maximalist**
+[1:01:44](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3704s) SBF - Loopring более расслабленный, Serum и Solana больше похожи на гигантскую финансовую экосистему в одной и той же цепи
 
-[1:05:34](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3934s) SBF - There are other networks I’m excited about as well
+[1:04:40](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3880s) **JB - Я был биткоин-максималистом**
 
-[1:07:21](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4041s)**JB -  Would you consider yourself a hero or a villain in the crypto community?**
+[1:05:34](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=3934s) SBF - Есть и другие сети, которые мне очень нравятся
 
-[1:07:59](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4079s)**JB -  Are you still into effective altruism?**
+[1:07:21](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4041s) **JB - Ты считаешь себя героем или злодеем в крипто-сообществе?**
 
-[1:08:07](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4087s) SBF - All this money’s going to get donated in the end
+[1:07:59](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4079s) **JB - Ты все еще поддерживаешь эффективный альтруизм?**
 
-[1:09:16](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4156s)**JB -  So the best move is, and don’t say this is alpha leak because…**
+[1:08:07](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4087s) SBF - В конечном итоге все эти деньги будут розданы
 
-[1:12:24](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4344s) SBF - Before yield farming, the total historical volume of DeFi was less than a single busy day on FTX
+[1:09:16](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4156s) **Итак, лучшая тактика - это... и не говори, что это alpha-слив, потому что…**
 
-[1:13:48](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4428s) SBF - TVL is super inflated right now, it’s all wash trading
+[1:12:24](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4344s) SBF - До появления фарминга доходности объем DeFi за всю историю был меньше, чем объем за один загруженный рабочий день на FTX
 
-[1:17:17](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4637s) SBF - The vision for Serum long term is…
+[1:13:48](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4428s) SBF - Общая заблокированная стоимость сейчас переживает очень большой уровень инфляции, это все из-за фальсификации объемов торговли
 
-[1:18:09](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4689s) SBF - Having a centralised exchange run a decentralised exchange is an interesting concept.
+[1:17:17](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4637s) SBF - В долгосрочной перспективе Serum…
 
-[1:19:09](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4749s)**JB -  But you have CZ (Binance) on the board on FTX?**
+[1:18:09](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4689s) SBF - Когда централизованная биржа управляет децентрализованной, получается интересная концепция.
 
-[1:21:10](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4870s)**JB - Do you work with Bitmex?**
+[1:19:09](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4749s) **JB - Но у вас есть CZ (Binance) на борту у FTX?**
 
-[1:22:47](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4967s) SBF - The philosophy of Serum is..
+[1:21:10](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4870s) **JB - Ты работаешь с Bitmex?**
+
+[1:22:47](https://www.youtube.com/watch?v=7mxSOWxRMC8&t=4967s) SBF - Философия Serum состоит в...
