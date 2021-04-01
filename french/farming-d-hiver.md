@@ -1,5 +1,5 @@
 ---
-title: Winter Farming
+title: Farming d'hiver
 date: 05 Oct 2020
 tags:
   - defi
