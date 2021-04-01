@@ -1,34 +1,38 @@
 ---
-title: Infura - Issue of Consensus
-date: 11 Nov 2020
+title: Infura - проблема консенсуса
+date: 11 ноября 2020
 tags:
   - geth
   - infura
-  - ethereum
-  - Fork
-excerpt: Consensus isn’t just about agreement, it’s about changing things around.There were problems across the Ethereum network today as consensus flaws were hit on mainnet.
+  - эфириум
+  - форк
+excerpt: Консенсус это не только про соглашение, его главное назначение в том, чтобы изменить положение вещей. Сегодня во всей сети Эфириума были проблемы, потому как главная сеть попала под удар из-за ошибок консенсуса.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/12-angry-men-1.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/12-angry-men-1.jpg)
-**Consensus isn’t just about agreement, it’s about changing things around.**
 
-There were problems across the Ethereum network today as consensus flaws were hit on mainnet.
+**Консенсус это не только про соглашение, его главное назначение в том, чтобы изменить положение вещей.**
 
-Services running older versions of geth nodes found themselves stuck on a minority chain, creating a knock-on effect for all apps that were reliant on them.
+Сегодня во всей сети Эфириума были проблемы, потому как главная сеть попала под удар из-за ошибок консенсуса. 
 
-Most users learnt of the issue when the Infura API went down. Infura is the largest node provider on the Ethereum network, they provide tools and infrastructure to some of the most commonly used Web 3.0 apps and CEXs, such as Metamask, Uniswap and Binance.
+Сервисы, использующие старые версии geth-нод застряли в малой цепи, что вызвало эффект домино на всех привязанных к ним приложениях.
 
-The service degradation of Infura revealed that Binance either relies on Infura or is running outdated nodes, neither of which are appropriate for such a large exchange.
+Большинство пользователей узнало о проблеме, когда упал API Infura. Infura является самым крупным провайдером нод в сети Эфириума. Они поставляют инструменты и инфраструктуру одним из самых используемых приложений Web 3.0 и централизованным биржам, таким как Metamask, Uniswap и Binance.
 
-Although it may seem odd that Infura was not running the latest [geth](https://geth.ethereum.org/downloads/) versions, it makes sense that such a large scale operator would not be moving straight onto the latest version, as without a hard fork, there’s no urgent reason to switch from a stable working code to an unknown one.
+Деградация качества сервиса Infura выявила, что Binance либо полагается на Infura, либо использует устаревшие ноды. Ни то, ни другое не приемлемо для такого большого обменника.
+
+Может показаться странным, что Infura использовала не самые последние версии [geth](https://geth.ethereum.org/downloads/) но для такого крупномасштабного оператора разумнее не переходить сразу же на самую последнюю версию. Если нет хардфорка, то нет и повода для срочного переключения со стабильного работающего кода на незнакомый.
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/add3dbfcb32773693acdf1699dc73e8f.png)
-The search and analytics engine Blockchair also experienced issues, releasing the following tweet;
 
-> _We're experiencing an issue with our_[_ #Ethereum_](https://twitter.com/hashtag/Ethereum?src=hashtag_click)_ explorer and working on a fix. It seems like there is a chain split, and some nodes (including ours and some miners') are stuck on a minority chain._
+У системы поиска и анализа Blockchair тоже были проблемы, из-за чего они опубликовали следующий твит:  
+
+> _Мы испытываем затруднения с нашим эксплорером_[_ #Ethereum_](https://twitter.com/hashtag/Ethereum?src=hashtag_click) _и работаем над исправлением. Похоже, что произошло разделение цепи, некоторые ноды (включая наши и ноды некоторых майнеров) застряли в малой цепи._
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/Emh9J7sW8AEB_FT.jpg)
-Lead developer at Blockchair, [Nikita Zhavonronkov](https://twitter.com/nikzh/status/1326455533927329792?s=20) reported receiving the following error:
+
+Главный разработчик Blockchair [Никита Жаворонков](https://twitter.com/nikzh/status/1326455533927329792?s=20) сообщил, что получил сообщение об ошибке:
 
 > _########## BAD BLOCK #########_
 
@@ -36,58 +40,58 @@ Lead developer at Blockchair, [Nikita Zhavonronkov](https://twitter.com/nikzh/st
 
 > _Error: invalid merkle root (remote: 57cc91ee8b91b956592a27b14386abc2aba723b5f4f9e5d3181ace6b5d3cd433 local: 1f9ee59bfa683a25c7a15b626995a3ad7c58c571b40df96eea31e5c5eed9732d)_
 
-**There were two serious vulnerabilities found in the geth network**, both of which were found by [John Youngseok Yang](https://github.com/johnyangk) (Software Platform Lab), earning him 20k points on the Ethereum Bounty Program [leaderboard](https://bounty.ethereum.org/).
+**В сети geth было найдено две серьезные уязвимости, обе обнаружил** [John Youngseok Yang](https://github.com/johnyangk) (Software Platform Lab), что принесло ему 20 тысяч очков на [доске почета](https://bounty.ethereum.org/) программы баунти Эфириума (Ethereum Bounty Program).
 
-To avoid exploitation, consensus flaws are not discussed on Github Issues, so the specific details of the vulnerabilities are not yet known. For those who are keen to know more about the technical details, [Mhswende ](https://twitter.com/mhswende/status/1326489526450221056?s=20)states that
+Ошибки консенсуса не обсуждаются на Github, чтобы избежать риск эксплоита, поэтому конкретные детали уязвимостей еще не известны.  Для тех, кому хочется узнать поподробнее о технических деталях, [Mhswende ](https://twitter.com/mhswende/status/1326489526450221056?s=20)пишет, что:
 
-> _“There may well be a write-up or devcon presentation about this in the future”_
+> _«Вполне возможно, что в будущем об этом напишут статью или сделают презентацию на devcon»_
 
-In order to minimise disruption, the Ethereum developers decided to hard fork.
+Разработчики Ethereum приняли решение сделать хардфорк, чтобы минимизировать сбои.
 
-As [Péter Szilágyi wrote](https://twitter.com/peter_szilagyi/status/1326476649278414850?s=20) on Twitter;
+Как написал [Péter Szilágyi](https://twitter.com/peter_szilagyi/status/1326476649278414850?s=20) в Twitter:
 
-> _It was an "unannounced hard fork" (from a bad chain to the good one). That said, silently fixing a bug dormant for 2+ years has a much lower chance of causing a disruption than raising awareness to it. We strive to minimize potential damage._
+> _Это был «хардфорк-сюрприз» (с неправильной цепи на правильную). И все же, тихо исправить баг, дремавший больше двух лет, имело бы меньше шансов вызвать сбой, чем информировать людей об этой проблеме. Мы стремимся к минимизации потенциального ущерба._
 
-For anyone complaining about the outage of Infura, this incident should serve as a timely reminder to keep your node/s up to date, as once you delegate your node to another party, it’s their decision how they conduct their business.
+Для всех тех, кто жалуется из-за перебоя в работе Infura, этот инцидент должен послужить своевременным напоминанием о том, что нужно постоянно обновлять свои ноды, потому что, как только вы делегируете свою ноду кому-то другому, они сами решают, как вести свой бизнес.
 
-Infura have been transparent about the whole affair, and are clearly working hard to fix the problem.
+Infura доказали свою прозрачность на всех этапах этого инцидента, и совершенно точно усердно работают над решением проблемы.
 
-Infura is now back [online](https://forkmon.ethdevops.io/), status updates can be found [here](https://status.infura.io/).
+Infura снова [онлайн](https://forkmon.ethdevops.io/), обновления статуса можно найти [здесь](https://status.infura.io/).
 
-**The outage of Infura has made many of us realise how dependent we are on this single entity.**
+**Сбой в работе Infura дал многим понять, как сильно мы зависим от одного лишь этого игрока.**
 
-**This is a centralised service acting as a gatekeeper to our decentralised system.**
+**Это централизованный сервис, который выполняет роль сторожа нашей децентрализованной системы.**
 
-**Individuals and institutions alike need to consider their approach going forward.**
+**Подобные частные предприниматели и организации должны пересмотреть свою стратегию на будущее.**
 
-The perceived competence of large trusted exchanges such as Binance and Bithumb has fallen, as they were forced to disable ETH and ERC-20 withdrawals during the outage, despite having a responsibility to their users to not be affected by such incidents.
+Впечатление о компетентности больших и надежных обменников, таких как Binance и Bithumb, испарилось, когда они были вынуждены деактивировать выводы ETH и ERC-20 на время сбоя, несмотря на то, что у них было обязательство перед пользователями не подвергать их подобным инцидентам. 
 
-**We cannot rely on Infura to this extent.** Due to MetaMask’s default dependency on the centralised node provider, the entire Ethereum network became temporarily desolate, and gas shrank to only 12 gwei.
+**Мы не можем настолько доверять Infura.**  Из-за того, что MetaMask по умолчанию зависит от централизованного провайдера нод, вся сеть Ethereum временно стала безлюдной, а газ упал до 12 gwei.  
 
-This is proof of an unhealthy dependence, and a clear indicator of the potential harm that could arise from such a dependency.
+Это доказывает нездоровую зависимость и четко указывает на потенциальный ущерб, который такая зависимость может причинить.
 
-Do we want our digital society to reproduce the same mistakes as elsewhere, reliant on centralised single points of failure?
+Разве мы хотим, чтобы наше цифровое общество повторяло те же ошибки, что и все остальные, полагаясь на единственные централизованные точки отказа? 
 
-**We’ve built a free internet but given it to a small group of centralised authorities -** Chrome, Safari, Brave.. We’ve built an alternative internet where the original values of anonymity and decentralisation live on, yet we label it the Dark Net and access is limited to alternative, often blocked software.
+**Мы построили свободный интернет, но отдали его маленькой группе централизованных авторитетов:** Chrome, Safari, Brave... Мы построили альтернативный интернет, в котором изначальные ценности анонимности и децентрализованности живы, но мы назвали его даркнетом, и доступ в имеет только альтернативное, часто блокируемое программное обеспечение.
 
-We can’t let the same thing happen to cryptocurrency.
+Мы не можем допустить, чтобы с криптовалютами случилось то же самое.
 
-[David Mihal](https://twitter.com/dmihal/status/1326520031379853313?s=20) wrote:
+[David Mihal](https://twitter.com/dmihal/status/1326520031379853313?s=20) написал:
 
-> _Today's Infura outage sent users scrambling to find an alternative RPC provider._
+> _Сегодняшнее отключение Infura заставило пользователей со всех ног броситься искать альтернативного провайдера RPC._
 
-> _I just threw together_[**_http://ethereumnodes.com_**](https://ethereumnodes.com/)_ to be a central list of public, free RPC endpoints & their current status._
+> _Я просто накидал_[**_http://ethereumnodes.com_**](https://ethereumnodes.com/), _чтобы создать центральный список общественных, бесплатных конечных точек RPC и их текущих статусов._
 
-[Michael O’Rourke](https://twitter.com/o_rourke/status/1326509249825038336?s=20) pointed out
+[Michael O’Rourke](https://twitter.com/o_rourke/status/1326509249825038336?s=20) подчеркнул, что:
 
-> _If your Metamask is down you can change the RPC provider to Pocket with the following URL_
+> _Если ваша Metamask не работает, вы можете поменять провайдера RPC на Pocket, перейдя по этой ссылке:_
 
 > [_https://eth-mainnet.gateway.pokt.network/v1/5f3453978e354ab992c4da79…_](https://t.co/7a76Xoo8Qu?amp=1)
 
-**Any failure of consensus is a serious issue**. An unannounced hard fork suggests that these vulnerabilities, left unchecked, could have been very harmful to Ethereum.
+**Любое нарушение консенсуса - серьезная проблема.** Хардфорк без предупреждения говорит о том, что если бы эти уязвимости не проверили, они могли бы очень сильно навредить Эфириуму.
 
-Fortunately, thanks to the keen eyes of bug bounty hunters and the diligent work of Ethereum developers, no damage was done, and as Nikita Zhavonronkohov wrote on Twitter, the fix appears to be quite simple...
+К счастью, благодаря зорким глазам охотников на баг баунти и тщательно выполненной работе разработчиков Эфириума, обошлось без ущерба. И как написал Никита Жаворонков в Твиттере, решение оказалось достаточно простым... 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/end2.jpg)
 
-Images from [12 Angry Men](https://www.imdb.com/title/tt0050083/)
+Кадры из фильма [“12 разгневанных мужчин”](https://www.imdb.com/title/tt0050083/)
