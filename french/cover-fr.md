@@ -8,7 +8,7 @@ rekt:
 tags:
   - cover
   - Rekt
-excerpt: La prochaine fois, prenez-soin de vos services bordel. Les pièces s'accumulent, mais celles-ci ne sont pas en chocolat : nous sommes en plein classique Hollywoodien, un film noir d’assurance. Les revenus en noir et blanc des polices d'assurance se prêtent bien aux histoires Hollywoodiennes. 
+excerpt: La prochaine fois, prenez-soin de vos services bordel. Les pièces s'accumulent, mais celles-ci ne sont pas en chocolat. Nous sommes en plein classique Hollywoodien, un film noir d’assurance. Les revenus en noir et blanc des polices d'assurance se prêtent bien aux histoires Hollywoodiennes. 
 banner: https://lh4.googleusercontent.com/IgAdM7JctrErxRd1kLmyJz4CEUbBDH1xZdsE4h7YZ_6NTRmWbF3p7rNREX-4BcKiTRH9FygNeZXSOzLCe2PqmVZ2NrWz5fb6ZKpPREHc4x3zsCoF8RcQvhj9Sx5XlBDiM04p1Xnh
 ---
 
@@ -20,7 +20,7 @@ Les pièces s'accumulent, mais celles-ci ne sont pas en chocolat : nous sommes e
 
 Les revenus en noir et blanc des polices d'assurance se prêtent bien aux histoires Hollywoodiennes.
 
-**Dans [Assurance sur la mort](https://www.youtube.com/watch?v=yKrrAa2o9Eg) (1944), l'assurance est la force motrice du bien et du mal.**
+**Dans [_Assurance sur la mort_](https://www.youtube.com/watch?v=yKrrAa2o9Eg) (1944), l'assurance est la force motrice du bien et du mal.**
 
 Le film tire son nom d'une clause d’une assurance-vie qui est doublée si le décès de l’assuré est accidentel. 
 
