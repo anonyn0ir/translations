@@ -23,7 +23,7 @@ Cependant, à quel moment la conglomération devient-elle excessive?
 
 ![](https://lh6.googleusercontent.com/ZUOulNiXEuI-pKGsUCBU0FVFzDXPcEvYSRUzgQ_51cQZO8AfyqqyKjECwSqGtQyeUBBQHqna07mqaBOprODmtP6EneCODrcqecFzgounlUpBI2apdk2OmXUedsLBOK88NsH0_QcG)
 
-Pickle, CREAM, COVER et maintenant Akropolis. (et maintenant Sushi)
+Pickle, CREAM, COVER et maintenant Akropolis (et encore plus récemment Sushi).
 
 Yearn est en train de construire un empire.
 
