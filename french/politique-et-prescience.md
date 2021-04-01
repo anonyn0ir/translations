@@ -50,7 +50,7 @@ Dans sa vision du “marché pro-prédiction”, Buterin suggère que ces nouvea
 
 > "Incorporent correctement _la possibilité d'une ingérence accrue dans les élections, de la suppression d’électeurs, etc. qui pourraient affecter le résultat_” alors que les modèles statistiques traditionnels _“supposent simplement que le processus de vote est équitable.”_
 
-> En revanche, le “modèle pro-statistique” de Buterin dresse le constat suivant :
+En revanche, le “modèle pro-statistique” de Buterin dresse le constat suivant :
 
 > "Les marchés de prédiction sont difficiles d'accès pour les experts en statistique/politique, _ils sont trop petits pour que les hedge funds embauchent ces experts, et les personnes (en particulier les riches) qui ont le plus accès aux marchés de prédiction sont plus optimistes à propos de Trump.”_
 
@@ -92,4 +92,4 @@ Si cette année fut une année de disette pour les parieurs sportifs, les march�
 
 Avec l'augmentation du volume et l'adoption massive, ces marchés fourniront bien plus que du divertissement, car la conviction des parieurs et des traders à l'esprit politisé produit encore plus de données pour alimenter notre IA. Le cycle se poursuit…
 
-Art from [https://www.artpad.org](https://www.artpad.org/) & [Things to Come - 1936](https://en.wikipedia.org/wiki/Things_to_Come#:~:text=Things%20to%20Come%20(also%20known,and%20written%20by%20H.%20G.%20Wells).
+Source de l'art : [https://www.artpad.org](https://www.artpad.org/) & _Things to Come_ (1936).
