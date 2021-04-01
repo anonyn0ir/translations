@@ -9,27 +9,28 @@ tags:
   - value defi
   - rekt
   - флэш-кредит
-excerpt: Did they really know flashloan? The value of a reputation is volatile. Humility brings stability - boast too much and you will get rekt. Value DeFi was exploited today for $7,000,000. Another harsh lesson from the flash loan family.
+excerpt: Они точно знали, что такое флэш-кредит? Ценность репутации непостоянна. Скромность приносит стабильность, но если вы слишком много хвастаетесь, то вы точно в конце концов окажетесь rekt.
+Value DeFi сегодня подвергся эксплоиту на $7,000,000. Еще один жесткий урок от семьи флэш-кредитов.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/jumpoutwindow-7.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/jumpoutwindow-7.jpg)
-**Did they really know flashloan?**
+**Они точно знали, что такое флэш-кредит?**
 
-The value of a reputation is volatile. Humility brings stability, boast too much and you end up rekt.
+Ценность репутации непостоянна. Скромность приносит стабильность, но если вы слишком много хвастаетесь, то вы точно в конце концов окажетесь rekt.
 
-Value DeFi was exploited today for $7,000,000. Another harsh lesson from the flash loan family.
+Value DeFi сегодня подвергся эксплоиту на $7,000,000. Еще один жесткий урок от семьи флэш-кредитов.
 
-**Price before hack** - $2.73
+**Цена до взлома** - $2.73
 
-**Price after hack** - $1.87
+**Цена после взлома** - $1.87
 
-**Releasing this tweet a day before the hack?**
+**Опубликовать этот твит за день до взлома?**
 ![](https://lh4.googleusercontent.com/odnNjSzV6LwKmdxXPY63HQ4SPBnxjtGstMRf3v4URKQwAqb1y_16m7O4_QRYXQq3dH5wlZiubb2ZzXrmWr0irFKbud0DFgKWAxP0OIKSHPImB_XrOFsE2n3Kwnc-xjcH08CajSd7)
 
-> **_PRICELESS_**
+> **_БЕСЦЕННО_**
 
-_(The tweet has since been deleted, but our screenshot lives on.)_
+_(Твит уже удалили, но наш скриншот никуда не денется.)_
 
 Despite their bold claims of security, it appears the Value DeFi team didn’t know that withdrawals could be made not only through the main Bank contract, but also from the Vault contract through Proxy.
 
