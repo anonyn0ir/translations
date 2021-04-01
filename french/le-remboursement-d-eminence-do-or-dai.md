@@ -133,7 +133,7 @@ Je veux dire qu'il y a tellement de choses auxquelles vous pouvez penser cogniti
 Que l'équipe travaille derrière cela ou non, ce serait toujours le même problème.
 
 Je suppose que le timing a été un peu foiré en ce qui concerne le volet communication. Les gens préfèrent ne pas maintenir autant la communication, surtout vu le nombre de nouveaux développeurs qui ont rejoint la communauté 
-[$](https://twitter.com/search?q=%24yFi&src=cashtag_click)YFI...
+[$YFI](https://twitter.com/search?q=%24yFi&src=cashtag_click)...
 
 Andre a retweeté la photo, puis les gens ont commencé à imaginer un complot pour prendre tout le monde par surprise.
 
@@ -145,8 +145,7 @@ Cela montre également qu'il y a une touche humaine dans toutes ces actions de d
 
 Les gens prennent beaucoup de risques en général, quel que soit le domaine ou la classe d'actifs.
 
-On ne peut pas reprocher aux gens de rendre les fonds d'un exploiteur à ceux qui sont
- [#halfrekt](https://twitter.com/hashtag/halfrekt?src=hashtag_click), tout comme on ne peut pas reprocher à l'exploiteur de rendre la moitié des fonds en premier lieu.
+On ne peut pas reprocher aux gens de rendre les fonds d'un exploiteur à ceux qui sont [#halfrekt](https://twitter.com/hashtag/halfrekt?src=hashtag_click), tout comme on ne peut pas reprocher à l'exploiteur de rendre la moitié des fonds en premier lieu.
 
 Je ne suis techniquement pas au niveau d'Andre, et j'avais l'intuition que cela aurait pu être tiré au clair avant d'aller dormir, mais, en fait, c'était juste une histoire de pur hasard.
 
