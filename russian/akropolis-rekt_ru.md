@@ -49,13 +49,14 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/8460
 5. Вывести 50к DAI
 
 Источник [samczsun](https://twitter.com/samczsun)
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/4d509e7155f551c4d98bb1014b320c61-1.jpg)
 
 Потому как атакующий мог использовать свой контракт как вкладываемый токен, он смог использовать повторный вход с помощью флэш-кредита dYdx, как объясняется внизу. 
 
 ![](https://lh4.googleusercontent.com/LxCZ2ZHvBLGPgk7BaoplX3rNuNtfN2JoZ9VeMBZe42MaWMw7ShK_mdgg70RhZJ1DJO4lLn1D8IkAnZ91VKeamI49aW0pDY-7trH07qX2A_ifqbg5xE_1QVLoOxt7qcUBfIYUm8i0)![](https://lh5.googleusercontent.com/D2wa_EEUSuXUk7r9cRAhX-fwHRv91pmeFeWd1bVR9KFO_IZLXzlzt8I2eJhNfGFP9pOiVokZa58Qn4aFUWlycIIt2gSNNZA5pDSbsy3vqMqsG8eZS1yU8N1qfgQP4_UFbZS0kMfV)
 
-[Это](https://etherscan.io/address/0xe2307837524db8961c4541f943598654240bd62f#tokentxns)iадрес хакера. Видно, что он начал выполнять серии атак по $50k примерно на 8 часов раньше.
+[Это](https://etherscan.io/address/0xe2307837524db8961c4541f943598654240bd62f#tokentxns) адрес хакера. Видно, что он начал выполнять серии атак по $50k примерно на 8 часов раньше.
 
 Затем он [ послал $2 миллиона](https://etherscan.io/tx/0xf15623567231c67df2b8bcc5540236fbda2c3ac11ecbec427048f11b582cb869) из полученных денег на другой адрес, где они находятся в момент написания статьи.
 
