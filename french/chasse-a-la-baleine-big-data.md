@@ -1,5 +1,5 @@
 ---
-title: Whale Hunt - Big Data Protocol
+title: La chasse à la baleine - Big Data Protocol
 date: 12 Mar 2021
 tags:
   - BDP
