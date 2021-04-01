@@ -26,7 +26,7 @@ Ceux qui partagent la pure vision de la DeFi n’ont que peu d'intérêt pour la
 
 Cependant la déclaration suivante de Scholz est une attaque directe contre tout ce pour quoi nous nous battons :
 
-> **"Nous devons tout faire pour que le monopole monétaire reste entre les mains des États”**
+> **Nous devons tout faire pour que le monopole monétaire reste entre les mains des États**
 
 ![](https://lh5.googleusercontent.com/Z8-ZbAT1RMkjJf8RmHXSwMj2VUA1_yJUEu9itmAv36yrW9MxHhh2FHLKAUllgWUdFi8UEqOpToCMDokwCUUxwU8FRpY5oAaHraW_4gtVtfMQ9L0hMZMBvv2-5yyOftGKGBX-2A1_)
 
@@ -42,13 +42,13 @@ Cela affecterait un certain nombre d'émetteurs de stablecoins qui opèrent actu
 
 Un conseiller économique de la parlementaire Rashida Tlaib a [déclaré](https://www.coindesk.com/us-lawmakers-introduce-bill-that-would-require-stablecoin-issuers-to-obtain-bank-charters) que :
 
-_“Tout stablecoin qui répond à la définition statutaire est concerné, car ce qui compte est ce que la coin promet (i.e l’obligation), et non la façon dont elle prétend être en mesure de faire respecter l'obligation (i.e la garantie)"._
+> Tout stablecoin qui répond à la définition statutaire est concerné, car ce qui compte est ce que la coin promet (i.e l’obligation), et non la façon dont elle prétend être en mesure de faire respecter l'obligation (i.e la garantie).
 
 Tout en manifestant un affligeant manque de sincérité, la parlementaire Rashida Tlaib a tenté de faire croire sur [Twitter ](https://twitter.com/RepRashida/status/1334247450731819008?s=20) que le projet de loi STABLE avait pour but d’empêcher les fournisseurs de crypto-monnaie de reproduire les crimes des grandes banques contre les personnes de couleur ayant des revenus faibles ou intermédiaires .
 
 Elle écrit ensuite : 
 
-_“Tout spécialement en pleine pandémie, ces [personnes de couleur] vulnérables pourraient être exploitées et se faire embrouiller l’esprit par des agents malveillants cherchant à émettre des stablecoins, comme d’autres émetteurs de monnaies de l’ombre ont pu le faire dans le passé. Le [#STABLEAct](https://twitter.com/hashtag/STABLEAct?src=hashtag_click) fait face à cette menace.”_
+> Tout spécialement en pleine pandémie, ces [personnes de couleur] vulnérables pourraient être exploitées et se faire embrouiller l’esprit par des agents malveillants cherchant à émettre des stablecoins, comme d’autres émetteurs de monnaies de l’ombre ont pu le faire dans le passé. Le [#STABLEAct](https://twitter.com/hashtag/STABLEAct?src=hashtag_click) fait face à cette menace.
 
 **La parlementaire Tlaib exploite à la fois la peur des gens face à la pandémie et le désir d'égalité raciale** représente un changement dans leur stratégie politique. **Ce sont des projectiles tirés directement pour limiter notre progression**. C’est la mise en place de la prochaine salve d'arguments qui caractériseront les futures batailles menées dans le but de réglementer toute l’industrie de la crypto.
 
