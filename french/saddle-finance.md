@@ -107,7 +107,7 @@ Sunil Srivatsa, fan de Saddle Finance Devops, n'était pas disponible pour donne
 
 Ce qui est sûrement apparu comme une [citation parfaite](https://twitter.com/bneiluj/status/1351582180670111748?s=20) aux yeux des imitateurs au point de l’inclure dans le smartcontract de Saddle Finance prend un tout autre sens lorsque l’on en revient à l'expression originelle de [T.S.Eliot](https://www.uvu.edu/arts/applause/posts/stealing.html).
 
-> _Le poète inexpérimenté imite, le poète d'expérience vole; le mauvais poète massacre ce qu'il emprunte, le bon poète en fait quelque chose de meilleur, du moins quelque chose de différent. Le bon poète reforge ce qu’il a volé en quelque chose donnant l'impression d’être unique en son genre, tout à fait différent de là où il a été arraché._
+> _Le poète inexpérimenté imite, le poète d'expérience vole ; le mauvais poète massacre ce qu'il emprunte, le bon poète en fait quelque chose de meilleur, du moins quelque chose de différent. Le bon poète reforge ce qu’il a volé en quelque chose donnant l'impression d’être unique en son genre, tout à fait différent de là où il a été arraché._
 
 Les fondateurs et les bailleurs de fonds de Saddle Finance sont tous suffisamment [expérimentés](https://twitter.com/rleshner/status/1351631502153560064?s=19) epour faire preuve de discernement. Il existe de nombreuses opportunités de gagner de l'argent dans cet écosystème sans avoir à copier le travail des autres.
 
