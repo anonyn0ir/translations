@@ -24,7 +24,7 @@ Alameda soutient que :
 
 > Il n'est pas vrai qu'Alameda ait immédiatement vendu tous ses REEF.
 
-Cependant, lorsque nous avons contacté Brian Lee et Sam Trabucco pour leur demander combien de REEF il leur restait, Lee n'a fait aucun commentaire, et Trabucco a déclaré ;
+Cependant, lorsque nous avons contacté Brian Lee et Sam Trabucco pour leur demander combien de REEF il leur restait, Lee n'a fait aucun commentaire, et Trabucco a déclaré :
 
 > Ce que j'ai déjà [déclaré](https://alameda-research.medium.com/reef-updates-b3645b65790a) constitue la totalité de mes commentaires à ce sujet.” 
 
@@ -106,6 +106,6 @@ Voilà deux joueurs qui s'affrontent en empruntant des chemins différents pour 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/rekt-text-linebreak.png)
 
-[Si vous appréciez notre contenu, vous pouvez faire un don sur notre  Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalism).
+Si vous appréciez notre contenu, vous pouvez faire un don sur notre  [Gitcoin Grant](https://gitcoin.co/grants/1632/rekt-the-dark-web-of-defi-journalism).
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/gitcoin-typewriter.png)
