@@ -9,11 +9,12 @@ excerpt: Beeple нас бросил, но кто может винить его 
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/beep-header-2.png
 ---
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/03/beep-header-2.png)
+
 **Beeple нас бросил, но кто может винить за это?**
 
 Ну, может быть те, кто заплатил миллионы в эфире за его произведения искусства. Или может быть те, кто продвигал его как подставное лицо индустрии NFT.
 
-Beeple заработал свои деньги благодаря буму NFT, но его искусство существовало задолго до этого. Он начал свою серию «everydays» в мае 2007, и [с тех пор] не пропустил ни одного дня.(https://www.vice.com/en/article/78g539/beeple-cgi-master-10-years-everydays-results) 
+Beeple заработал свои деньги благодаря буму NFT, но его искусство существовало задолго до этого. Он начал свою серию «everydays» в мае 2007, и [с тех пор](https://www.vice.com/en/article/78g539/beeple-cgi-master-10-years-everydays-results)не пропустил ни одного дня. 
 
 Вполне вероятно, что именно Beeple вызвал обвал цены, продав выручку за свою работу «5000 days» ($59 миллионов в ETH в USD). Но был ли его поступок несправедливым? 
 
