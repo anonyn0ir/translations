@@ -1,5 +1,5 @@
 ---
-title: The Big Combo (Growth DeFi - REKT)
+title: Le super combo - Growth DeFi - REKT
 date: 09 Feb 2021
 rekt: 
   amount: 1300000
