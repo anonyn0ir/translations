@@ -256,7 +256,7 @@ Toujours plus haut.
 
 **rekt :**
 
-Get rekt.
+_Get rekt._
 
 ---
 
