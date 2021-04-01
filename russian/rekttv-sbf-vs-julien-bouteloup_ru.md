@@ -6,7 +6,7 @@ tags:
   - blue kirby
   - интервью
   - видео
-excerpt: В дебютном этпизоде rektTV, Julien Bouteloup и SBF встретились лицом к лицу и больше часа обсуждали многие темы, включая Blue Kirby, Cream Finance, деятельность SBF он-чейн, SushiSwap и многое другое.
+excerpt: В дебютном этпизоде rektTV Julien Bouteloup и SBF встретились лицом к лицу и больше часа обсуждали Blue Kirby, Cream Finance, деятельность SBF он-чейн, SushiSwap и многое другое.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-6.png
 ---
 
