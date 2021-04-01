@@ -69,7 +69,7 @@ Ces captures d'écran ont maintenant été largement partagées, et bon nombre d
 
 Les intentions du groupe ont été rendues publiques avant que $FEW ne commence à être réellement négocié, ce qui les a empêchés de faire de réels bénéfices.
 
-11 détenteurs de $FEW ont depuis [burnt](https://etherscan.io/token/0x8d588b66b9c605bd1f6e9b75cb9365aad5b97140?a=0x000000000000000000000000000000000000dead) leurs tokens.
+11 détenteurs de $FEW ont depuis [burn](https://etherscan.io/token/0x8d588b66b9c605bd1f6e9b75cb9365aad5b97140?a=0x000000000000000000000000000000000000dead) leurs tokens.
 
 ![](https://lh4.googleusercontent.com/WoCSlvv_qeKE9jfVOJ8JFMqNI1A6U7ykcOf1B3O5mGH0VgFK7z8K-nfGC0qjvVg4CcoZskKooZLi5yRhqwpkKAphlM3hyMeP-vdPwFz-MHwO2jlHSXPIIN5Z7OLu3xZDLYvTu0vE)![](https://lh3.googleusercontent.com/9zCmkQ33ZI45VSYIYBOqnWP3Ct_dU5F1esKabHP1gdif31CEsjBUlZe0xx41jd39tnfdCfxZjdphkzoQuVV4xnuQ1a9unx1nHMbK8CIhdi59Ba9qQFnoZkULhQYuFfW1xIhWCHUF)
 
