@@ -232,7 +232,7 @@ Ne vous engagez pas à fond dans quelque chose que vous ne comprenez pas. L’an
 
 ---
 
-**Ils ont promis un rugg pull, et il y en a eu un.**
+**Ils ont promis un rug pull, et il y en a eu un.**
 
 Nous encourageons toujours nos lecteurs à penser de façon non conventionnelle, d’envisager toutes les possibilités quand ils s'intéressent à quelque chose.
 
