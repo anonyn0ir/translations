@@ -27,15 +27,20 @@ Au cours des dernières 24 heures, le hacker a tenté de blanchir l'argent volé
 
 Les premiers tokens à être vendus ont été ceux d'OCEAN et de SNX, dont les ventes importantes sur le marché ont fait chuter leur prix de façon spectaculaire.
 
-![](https://lh4.googleusercontent.com/bq0uBVE0LKcPXkhOiswITliRJB11zBqtRF_i2ci_pLZDF6UgIZcSQzinXD9fh-qRyRdrbBHoErrE8mQjD-tDPfptI-zPYEdNg8H_f0IJjnBxaQEi703txSSTM0zSDmI-4a9eQl_p) Les ventes d'OCEAN sur etherscan
+![](https://lh4.googleusercontent.com/bq0uBVE0LKcPXkhOiswITliRJB11zBqtRF_i2ci_pLZDF6UgIZcSQzinXD9fh-qRyRdrbBHoErrE8mQjD-tDPfptI-zPYEdNg8H_f0IJjnBxaQEi703txSSTM0zSDmI-4a9eQl_p)
+
+Les ventes d'OCEAN sur etherscan
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/oceansales.JPG)
+
 Graphique relatif à l'impact des prix du protocole Ocean sur 7 jours (Sep-27-2020 06:54:55 AM +UTC)
 
 ![](https://lh3.googleusercontent.com/ai0TnzWCgqN1R1EcKufgjE-2RoJytN3YYgVlGT_CjRuKi6DUxURPDorDjdndtEEisYqqCmWcXkBc77_xZMMWEKdnsjUFevmMwLC9YH4aEAtd5NSU08QV1UOKbqY0tbSTQvuwLAFW)
+
 Les ventes de SNX sur etherscan
 
 ![](https://lh4.googleusercontent.com/kHeUKoW7vmnDZBOIgenYYVswNMYSyKvG3kFvF_3yEMGNxiF5vjpIjidNn_5JWHMABPZVBAQ9KzVgHu_dg8JNQi0t4nl2z0zLAEdgMUXN6qYh5N4FyeodIR_uqSJj16h4Rfrvmqhp)
+
 Graphique relatif à l'impact du prix de SNX sur 7 jours (Sep-27-2020 12:52:25 PM +UTC)
 
 Le hacker a continué à vendre des COMP, des LINK, et des DIA. Du fait que les tokens détenus dans le portefeuille étaient bien visibles, cela a provoqué une certaine incertitude parmi les détenteurs des ~160 tokens différents qui restaient dans le [portefeuille](https://etherscan.io/tokenholdings?a=0xeb31973e0febf3e3d7058234a5ebbae1ab4b8c23).
@@ -81,6 +86,7 @@ Alors que certains affirment que le hacker aurait mieux fait d'utiliser des inst
 Il n'y a pas que Ethereum qui a été touché par ce hack. 1008 BTC ont également été volés.
 
 ![](https://lh6.googleusercontent.com/-jqWL3Elk3xHOe5qutdui5mPMzS6IrOOP5HUztVA4-0w3EQ_-VPrGM9Y58AK4JCmSOANBqnIm158aqvZy0Iipe5_ctq3nxYE0iOIzgU3FDC53a8uLsXS1ybCk0yrzxAuXCqF71Hu)
+
 https://twitter.com/cryptoquant_com/status/1309668583908061185?s=20
 
 Le hacker en a profité pour envoyer un message à la communauté en utilisant des BTC.
