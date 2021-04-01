@@ -1,5 +1,5 @@
 ---
-title: Охота на китов: протокол Big Data
+title: Охота на китов - протокол Big Data
 date: 12 марта 2021
 tags:
   - BDP
