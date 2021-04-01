@@ -12,7 +12,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/head
 
 **Appuyez sur X pour rekt.**
 
-“Occupy Wall Street” est un jeu qui se joue mieux en ligne, là où l’hypocrisie de la finance centralisée peut être admirée en full HD.
+“_Occupy Wall Street_” est un jeu qui se joue mieux en ligne, là où l’hypocrisie de la finance centralisée peut être admirée en full HD.
 
 La hype GME a été mise en pause forcée par les plateformes grand public [bloquant](https://www.marketwatch.com/story/robinhood-blocks-new-purchases-of-gamestop-stock-11611846335) l’accès aux "actions memes", mais l’impact social de cet événement ne se mesure pas sur des graphiques financiers.
 
@@ -60,11 +60,11 @@ Peut-on imaginer qu'un fonds spéculatif sera démantelé et empêché de négoc
 
 Suivant les consignes de la [SEC](https://twitter.com/RevShark/status/1354838035007987714?s=20) en plus de geler l'activité de trading, Robinhood saisit désormais des capitaux sur des comptes qu'ils soupçonnent de manipulation de marché.
 
-> _[“Laissez les gens trader”](https://www.msn.com/en-us/news/other/robinhoods-let-the-people-trade-tweet-resurfaces-after-platform-halts-gamestop-trading/ar-BB1dbgN4)_
+> _[Laissez les gens trader](https://www.msn.com/en-us/news/other/robinhoods-let-the-people-trade-tweet-resurfaces-after-platform-halts-gamestop-trading/ar-BB1dbgN4)_
 
 **Les propres mots de Robinhood leur reviennent à la figure après leur lâche capitulation devant les ordres de leurs cupides maîtres.**
 
-> _"Nous nous engageons à aider nos clients à surmonter cette période incertaine. Nous croyons profondément que tout le monde devrait avoir accès aux marchés financiers."_
+> _Nous nous engageons à aider nos clients à surmonter cette période incertaine. Nous croyons profondément que tout le monde devrait avoir accès aux marchés financiers._
 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2021/01/maxresdefault--1-.jpg)
