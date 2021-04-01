@@ -22,7 +22,7 @@ La blockchain Ethereum est jonchée de cadavres de transactions n’ayant pu all
 
 ![](https://lh4.googleusercontent.com/Ze_6wdupdomp2nAWyruTbdV_EpwUX1hCrSqQn6hYRQ4ykClx-C3fKOJfDdbXK2PoDAdJN8FKlJzW1LE6q9Lt2rxU0tVrQ0czRPcq5FfK2975SQfLMGdsVWx6SK6tkfsYr0UnV3Nm)
 
-La théorie de la forêt sombre a été exposée pour la première fois par Liu Cixin dans son œuvre au titre du même nom. Il s'agit d'une théorie traitant de comment des civilisations interstellaires interagissent, et une réponse possible à la question du [silence de l’univers.](https://philosophy.stackexchange.com/questions/18127/dark-forest-postulate-used-to-explain-the-fermi-paradox).
+La théorie de la forêt sombre a été exposée pour la première fois par Liu Cixin dans son œuvre au titre du même nom. Il s'agit d'une théorie traitant de comment des civilisations interstellaires interagissent, et une réponse possible à la question du [silence de l’univers](https://philosophy.stackexchange.com/questions/18127/dark-forest-postulate-used-to-explain-the-fermi-paradox).
 
 **Au sein de la forêt sombre, les civilisations sont séparées par de vastes espaces-temps. Les ressources se font rares, mais la vie se perpétue, engendrant de facto l’ultime compétition.**
 
@@ -110,7 +110,7 @@ De tels comportements manifestement illégitimes pourraient paraître peu probab
 
 _**Note de l’éditeur**_
 
-**bloXroute gère un business calqué sur un modèle mafieux. Ils rendent le mempool dangereux, et offrent ensuite un [service de protection.](https://docs.bloxroute.com/apis/frontrunning-protection).**
+**bloXroute gère un business calqué sur un modèle mafieux. Ils rendent le mempool dangereux, et offrent ensuite un [service de protection](https://docs.bloxroute.com/apis/frontrunning-protection).**
 
 En augmentant les dangers visibles et concrets du mempool, bloXroute vole l’indépendance et la liberté des utilisateurs d’Ethereum par une promesse de liberté.
 
