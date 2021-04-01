@@ -4,7 +4,7 @@ date: 29 ноября 2020
 tags:
   - sushiswap
   - 0xmaki
-excerpt: Из вока да в полымя: анонимный разработчик 0xMaki возглавил разработку SushiSwap после того, как основатель Chef Nomi позволил своей жадности жадности взять верх.
+excerpt: Из вока да в полымя. Анонимный разработчик 0xMaki возглавил разработку SushiSwap после того, как основатель Chef Nomi позволил своей жадности жадности взять верх.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/11/header-6.jpg
 ---
 
