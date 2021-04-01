@@ -102,7 +102,7 @@ Alors que nous scrollions à travers le fil du chat, nous avons observé tous le
 
 ![](https://lh4.googleusercontent.com/NymcDlq36Hf0ZJWBbN4BDjIlBI4rHhOTYmDMYGgvSNYjFLYG_Y6VWgubCqj9FTl7_AjBfx3uji0gstUdJkec4jTgzNPZT6lqT88cEj11ZchK9X8yPaNP7YTNmmif0D2ps8pkyR8T)
 
-Le fil peut être consulté [here](https://twitter.com/defiyield_info/status/1333731633393004545?s=20).
+Le fil peut être consulté [ici](https://twitter.com/defiyield_info/status/1333731633393004545?s=20).
 
 **Les statistiques**
 
@@ -163,7 +163,7 @@ Le rug-pull complet peut être expliqué en 4 étapes.
 
 **Etape 3**
 
-[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) called inCaseStrategyTokenGetStuck() sur StrategyController qui abuse la fonction manipulée withdraw() de la Malicious Strategies pour transférer les tokens de Strategies à StrategyController. Il le fait pour les 7 Malicious Strategies.
+[Compounder.Finance: Deployer](https://etherscan.io/address/0x079667f4f7a0b440ad35ebd780efd216751f0758) (strategist) a call inCaseStrategyTokenGetStuck() sur StrategyController qui abuse la fonction manipulée withdraw() de la Malicious Strategies pour transférer les tokens de Strategies à StrategyController. Il le fait pour les 7 Malicious Strategies.
 
 **Etape 4**
 
