@@ -1,77 +1,89 @@
 ---
-title: Winter Farming
-date: 05 Oct 2020
+title: Зимний фирминг
+date: 05 октября 2020
 tags:
   - defi
-  - farming
-  - alpha
-excerpt: Now that DeFi Summer is over, and APY is getting thin on the ground, many have declared the game of yield farming to be over.
+  - фарминг
+  - альфа
+excerpt: Теперь, когда лето DeFi закончилось, а APY редеет, многие признали, что игра в фарминг доходности закончилась.
 ---
 
-Now that DeFi Summer is over, and APY is getting thin on the ground, many have assumed the game of yield farming to be over.
+Теперь, когда лето DeFi закончилось, а APY редеет, многие признали, что игра в фарминг доходности закончилась.
 
-The offers of +1000% APY that were once so common are now a much rarer sight. There are still new farms opening which offer similar returns, but it seems the community has had their fill, and newer protocols are not attracting anywhere near the same TVL as a few months ago.
+Предложения по +1000% годовой процентной доходности, которые раньше были обычным делом, теперь стали намного более редким зрелищем. До сих пор еще открываются новые фермы, которые предлагают похожую прибыль. Но похоже, что сообщество насытилось, и общая заблокированная стоимость, которую привлекают новые протоколы, даже близко не подходит к значениям, которые мы видели несколько месяцев назад. 
 
-However, there are still opportunities for the more persistent farmers, and although it ain’t much, it’s still honest work.
+Однако для самых упорных фермеров еще есть возможности. И хоть их не так много, это по-прежнему честный заработок.
 
-Here’s where the smart and hard working farmers can be found now.
+Вот где сейчас можно найти умных и работящих фермеров.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/uniswap-1.png)
 
 1. [Uniswap](https://uniswap.org/)
 
-Uniswap liquidity mining is still one of the best farming techniques, the high trading volume and wide variety of pools means it looks likely to remain a firm favourite amongst yield farmers.
+Майнинг ликвидности для Uniswap по-прежнему остается одной из самых лучших фарминговых техник. Наличие большого объема фарминга и широкого разнообразия пулов значит, что он еще надолго останется устойчивым фаворитом среди фермеров доходности. 
 
-Providing liquidity on Uniswap can be a good move if you expect a period of lower volatility on your token.
+Стать поставщиком ликвидности на Uniswap может быть хорошим решением, если вы предвидите период меньшей волатильности для вашего токена.
 
-[Uniswaproi.com](https://www.uniswaproi.com/) offers great tools for predicting ROI from Uniswap pools, however nothing is certain, and any investment should be monitored closely.
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/aave-1.jpg) 2. [Aave](https://app.aave.com/)
+[Uniswaproi.com](https://www.uniswaproi.com/) предлагает отличные инструменты для предсказания окупаемости инвестиций в пулы Uniswap. Однако, никогда ничего нельзя предсказать точно, и за любыми инвестициями нужно внимательно следить.
 
-It’s now possible to turn your LEND tokens into AAVE (100:1), which can be staked for around 11% APY.
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/aave-1.jpg) 
 
-Your returns will be paid in AAVE; often considered one of the “blue chip” DeFi tokens. Aave was recently granted a UK banking licence, rather than selling your farmed AAVE, this could be one to hold over the next few years...
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/curve.png) 3. [Curve](https://www.curve.fi/)
+2. [Aave](https://app.aave.com/)
 
-As a stablecoin specialist, Curve represents one of the safest farming opportunities. With the upcoming implementation of CIP18, the uses for your CRV tokens continue to grow.
+Теперь стало возможным перевести ваши токены LEND в AAVE (в соотношении 100:1), последний можно отправлять в стакинг под примерно 11% APY.
 
-CIP18 aims to increase on-chain liquidity for CRV by incentivising Uniswap CRV/ETH liquidity providers.
+Прибыль будет выплачиваться в AAVE, который часто считается «голубой фишкой» среди токенов DeFi. Aave недавно получил банковскую лицензию в Великобритании. Вместо того, чтобы продавать ваши полученные от фарминга AAVE, подумайте лучше о том, чтобы сохранить их на несколько лет...
 
-Once CIP18 is activated, it looks likely that holding CRV/ETH LP tokens will be very desirable; something to think about if you were considering selling any CRV in the next few weeks...
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/cream.png) 4. [Cream ](https://cream.finance/)
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/curve.png) 
 
-The list of tokens that can be used on Cream Finance is growing quickly. Currently Cream provides competitive rates for lending and borrowing 20 different tokens, and the developers seem to be working hard: new features are added regularly.
+3. [Curve](https://www.curve.fi/)
 
-You can currently earn 55% APY for depositing MTA into Cream, 34% for CRV, and 32% for BAL.
+Как специалист по стейблкоинам, Curve представляет собой одну из самых безопасных возможностей для фарминга. В виду предстоящей имплементации CIP18 количество возможностей для использования ваших токенов CRV будет увеличиваться.
 
-It’s also a good idea to closely watch the rates for borrowing, as you can often find profitable opportunities by borrowing from Cream and staking elsewhere.
+CIP18 имеет своей целью увеличить объем ликвидности он-чейн для CRV с помощью привлечения провайдеров ликвидности CRV/ETH на Uniswap.
 
-According to [yieldfarmingtools.com](https://yieldfarmingtools.com/), the CREAM/ETH pair is currently providing an APY of 123%; a good opportunity if you are confident in the future of the platform.
+Как только CIP18 будет активировано, скорее всего владение токенами CRV/ETH LP станет очень востребованным; об этом стоит подумать, если вы собирались продавать CRV в течение следующих нескольких недель…
 
-Although it has been volatile in the past, and is currently on a downward trend, the price of CREAM has stabilised somewhat recently, which might suit those looking to use it as a farming tool.
-![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/pickle.jpg) 5.[Pickle Finance](https://pickle.finance/)
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/cream.png) 
 
-Pickle finance is proving to be much more than just a meme coin - their Pickle Jar vaults provide an automated yield hunting service similar to Yearn, and despite the recent [drama](https://medium.com/@picklefinance/claim-picklejar-funds-a033b5ef91aa) they are still offering an APY of around 36.9%, much higher than anything currently available through Yearn Finance.
+4. [Cream ](https://cream.finance/)
 
-The Pickle Farms also offer good returns for depositing UNI LP tokens, offering a small but high quality selection of USDC/ETH(28%), USDT/ETH (21%) , DAI/ETH (10%) and CRV/ETH(29%).
+Список токенов, которые можно использовать на Cream Finance, быстро расширяется. На данный момент Cream предлагает конкурентоспособные ставки для кредитования и займов 20 различных токенов, а разработчики, похоже, работают не покладая рук: новые функционалы добавляются регулярно. 
 
-Their pool 2, the PICKLE/ETH UNI LP pool has been offering consistently high APY since it launched in early September, and currently offers APY of around 457%. However if we look at the price chart, we can see the risk for impermanent loss is high, as the price is down 78% in the past 22 days.
+На данный момент вы можете заработать 55% APY при вкладе MTA в протокол Cream, 34% за CRV, и 32% за BAL.
+
+Также неплохо внимательно следить за ставками по займам, потому что всегда можно найти выгодные возможности, беря в долг на Cream и делая стакинг где-нибудь еще.
+
+Согласно сайту [yieldfarmingtools.com](https://yieldfarmingtools.com/), пара CREAM/ETH на данный момент дает 123% APY; это хорошая возможность, если вы верите в будущее платформы.
+
+Несмотря на то, что в прошлом цена токена CREAM очень быстро менялась, и сейчас имеет тенденцию к снижению, в последнее время она немного стабилизировалась. Это может подойти тем, кто хочет использовать его в качестве инструмента для фарминга.
+
+![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/pickle.jpg) 
+
+5.[Pickle Finance](https://pickle.finance/)
+
+Pickle Finance доказал, что он не просто обычная мем-монета. Их хранилища Pickle Jar дают возможность автоматического поиска доходности, похожего на то, что предлагает Yearn. Несмотря не случившуюся недавно [драму](https://medium.com/@picklefinance/claim-picklejar-funds-a033b5ef91aa), их годовая процентная доходность по-прежнему остается на отметке примерно 36.9%. Это намного выше, чем в каком-либо другом сервисе, доступном на данный момент в Yearn Finance.
+
+Фермы Pickle Farms также предлагают хороший доход за депозит токенов UNI LP, предлагая небольшую, но очень качественную выборку из USDC/ETH (28%), USDT/ETH (21%) , DAI/ETH (10%) и CRV/ETH (29%).
+
+Их пул № 2, PICKLE/ETH UNI LP, предлагал стабильно высокую APY с момента его запуска в сентябре 2020, и на данный момент предлагает около 457% APY. Но если мы посмотрим на график цены, то мы увидим, что риск потери надежности высок, так как цена упала на 78% за последние 22 дня.
 
 ---
 
-All honest yield farmers will have encountered impermanent loss at some stage in their career, especially those who enjoy the darker fruits of “pool 2”...
+Все честные фермеры доходности сталкивались с потерей надежности на том или ином этапе своей карьеры. Особенно те, кому нравятся плоды потемнее из «пула № 2»...
 
-What should you do if you come across a promising new farm? Should you buy the native token and jump straight into pool 2, or play it safe and guard your crops in the less risky pool 1…
+Что вам нужно делать, если вы наткнетесь на многообещающую ферму? Вы можете купить их токен и прыгнуть сразу же в пул № 2, или действовать осторожно и сохранить свои посевы в менее рискованном пуле № 1...
 
-Here’s three different approaches to farming an (imaginary) new pool, whose native token is…. $TOKEN.
+Есть три разных подхода к фармингу в (воображаемом) новом пуле, чей родной токен называется... $TOKEN.
 
-1. If you think you’ve arrived early to what could be a very popular pool, confirm this by checking the market cap and amount staked. Is the pool offering something new, or do you know something that others don’t? If you think the $TOKEN price will increase by 2-5x, you should buy $TOKEN and simply hold, because if you use $TOKEN to enter Pool 2, your gains will be lost to IL as the $TOKEN price increases.
+1. Если вы думаете, что пришли одним из первых в пул, который мог бы оказаться очень популярным, убедитесь в этом, проверив рыночную капитализацию и количество токенов в стакинге. Предлагает ли пул что-то новое, или вы знаете что-то, чего не знают другие? Если вы думаете, что цена $TOKEN вырастет в 2-5 раз, тогда вам нужно купить $TOKEN и просто хранить его. Если вы используете $TOKEN, чтобы войти в Пул № 2, то вы потеряете свой доход из-за потери надежности, когда цена $TOKEN повысится.
 
-2. If you think $TOKEN will increase in price, but not by more than 100%, then perhaps you will be better off farming and simply not selling your rewards until you see the price increase that you expect.
+2. Если вы думаете, что $TOKEN вырастет в цене, но не больше чем на 100%, тогда, возможно, вам лучше делать фарминг и просто не продавать ваши вознаграждения до тех пор, пока цена не вырастет до той отметки, какой вы ожидали.
+3. Если вы думаете, что цена $TOKEN справедливая, и что он торгуется в 10% интервале, наилучшим способом получить прибыль может быть фарминг $TOKEN. Допустим, что пул использует пару $TOKEN/ETH, тогда вам следует продать половину ваших $TOKEN за ETH и снова вложить их, чтобы получить сложные проценты.
 
-3. If you think $TOKEN is correctly priced, and appears to be trading within a 10% range, the best way to profit could be to farm $TOKEN, and assuming the pool is using a $TOKEN/ETH pairing, sell half of your $TOKEN for ETH and redeposit to compound your interest.
+Вы также можете компоновать эти техники, но не выставляйте себя слишком напоказ, мы не хотим, чтобы вас rekt!
 
-You could also combine these techniques, but don’t over expose yourself, we don’t want you to get REKT!
+_Совет профессионала:_
 
-_Pro tip:_
+_Хранилище Maker DAO дает возможность напечатать DAI с проскальзыванием в 0%, используя USDC. Dai часто торгуется чуть выше коэффициента peg ввиду своей редкости, и Curve позволяет проводить транзакции с низким проскальзыванием и по низкой цене между стеблкоинами..._
 
-_The Maker DAO vault allows for printing DAI at 0% slippage using USDC. Dai often trades slightly above peg due to scarcity, and Curve allows for low slippage, low cost transactions between stablecoins…_
