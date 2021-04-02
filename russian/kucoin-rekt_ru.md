@@ -26,7 +26,6 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/kuco
 Первыми в продажу попали токены OCEAN и SNX, большие объемы их рыночных продаж вызвали драматическое падение цены.
 
 ![](https://lh4.googleusercontent.com/bq0uBVE0LKcPXkhOiswITliRJB11zBqtRF_i2ci_pLZDF6UgIZcSQzinXD9fh-qRyRdrbBHoErrE8mQjD-tDPfptI-zPYEdNg8H_f0IJjnBxaQEi703txSSTM0zSDmI-4a9eQl_p)
-
 Продажи OCEAN на etherscan 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/oceansales.JPG)
