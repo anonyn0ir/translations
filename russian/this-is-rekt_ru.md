@@ -15,20 +15,19 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/logo
 
 Заголовки следующих недель - сегодня
 
-REKT est une équipe anonyme de DeFiers expérimentés, de traders et de développeurs dirigée par [Julien Bouteloup](https://twitter.com/bneiluj).
+REKT - это команда анонимных опытных дифаеров, трейдеров и разработчиков во главе с [Julien Bouteloup](https://twitter.com/bneiluj).
 
-Nous arrivons directement de la ligne de front de la DeFi, les bras chargés de scoops et de stratégies exclusives qui vous aideront à remporter la bataille.
-
-REKT sert de plateforme publique pour des auteurs anonymes. Nous rejetons toute responsabilité à propos des opinions et des contenus hébergés sur notre site.
+Мы приносим вам горячие новости и эксклюзивные стратегии с передовой DeFi, чтобы помочь вам выиграть битву.  
+REKT представляет собой общественную площадку для анонимных авторов. Мы не несём ответственность за точку зрения или контент на этом веб-сайте.
 
 ---
                                  
-REKT vous propose du contenu de premier choix sur tout ce qui concerne la DeFi :
+На REKT вы найдете премиальный контент обо всем, что связано с DeFi:
 
-                       .     Journalisme d’investigation
-                       .     Dernières actualités
-                       .     Articles d’opinion
-                       .     Récits exclusifs en provenance de la première ligne des Guerres de la Gouvernance
-                       .     Stratégies de trading
+                       .     Журналистские расследования
+                       .     Последние новости
+                       .     Мнения
+                       .     Эксклюзивные истории с передовой Войны за Управление
+                       .     Стратегии трейдинга
 
 ---
