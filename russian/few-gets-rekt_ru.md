@@ -71,6 +71,7 @@ https://twitter.com/sassal0x (~25k подписчиков)
 Энтони Сассано (Anthony Sassano) был единственным человеком, кто публично извинился после случившегося. В [этой](https://twitter.com/sassal0x/status/1308747708019011584?s=20), ветке в Твиттере он представляет полные извинения за свои действия.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/sassory2.jpeg)
+
 Источники информации едва затронули эту историю. Некоторые участники группы в Telegram, включая Купера Тёрли (Cooper Turley) и Энтони Сассано связаны с ними. Несмотря на то, что намерения группы ясны и понятны благодаря скриншотам, The Defiant отказался осудить действия причастных и лишь кратко осветил тему.
 
 Bankless и The Block не упомянули её.
@@ -88,5 +89,7 @@ Bankless и The Block не упомянули её.
 Слишком много анонимных аккаунтов упиваются своей причастностью к секретному мальчиковому клубу. От них никакой пользы и только разочарование подписчиков, когда они постят размытый контент с намеком на то, что они обладают некоторыми секретными знаниями, которые лишь “немногие понимают”. 
 
 ![](https://lh5.googleusercontent.com/rNArPac7g3jvDyED1WMTpDueBsesT19gO7vqZt9SJSPlAHRFXMxZzz6M_cF8v72tOjzPFCJlau-eR9IPY9zdX2HQ-WbUmeYQyjWvRs1G7kuiOLEfqqgNYrwvEr4O1McsFvHq94UU)
+
 Давайте постараемся быть более открытыми и честными в своих действиях. Конечно, «альфа» - это то, чего следует остерегаться, но здесь не было альфы, только обман, жадность и пустые обещания.
+
 ![](https://lh5.googleusercontent.com/AsnDgcmiZ87dJSog8uehl6uj4ZWS4wRyXHbOlNL98K3fPgNp0rnXFcF8Uh5ltuoJzSykH-tBLmOo8X7l6rBMpLKhn8P6efx3O5Y-4GBGtc4Jpsd8ugUzxKJvp4PBFQ57oc4QIvOm)
