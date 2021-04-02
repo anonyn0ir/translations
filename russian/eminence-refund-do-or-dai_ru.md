@@ -1,136 +1,149 @@
 ---
-title: Eminence Refund - Do or DAI
-date: 02 Oct 2020
+title: Eminence возмещает ущерб - сделай или DAI
+date: 02 октября 2020
 tags:
   - Eminence
-  - Cronje
+  - Кронье
   - defi
-excerpt: With his hand forced by threats from community members, Andre Cronje and team have quickly taken action to refund the $8M that was mysteriously returned after the EMN contract was exploited for $15M on the 30th September.
+excerpt: Угрозы со стороны членов сообщества заставили Андре Кронье и его команду быстро принять меры, чтобы возместить 8 миллионов долларов. Эти деньги были мистическим образом возвращены после того, как контракт EMN подвергся эксплоиту на 15 миллионов долларов 30 сентября 2020 года.
 ---
 
-With his hand forced by threats from community members, Andre Cronje and team have quickly taken action to refund the $8M that was mysteriously returned after the [EMN contract was exploited](/eminence-rekt-in-prod/) for $15M on the 29th September.
+Угрозы со стороны членов сообщества заставили Андре Кронье и его команду быстро принять меры, чтобы возместить 8 миллионов долларов. Эти деньги были мистическим образом возвращены после того, как [контракт EMN подвергся эксплоиту](/eminence-rekt-in-prod/) на 15 миллионов долларов 30 сентября 2020 года.
 
-Why would anyone return $8M?
+Зачем кому-то возвращать 8 миллионов долларов?
 
-This was a sophisticated hack that probably took days of work, why would they choose to return half the money only a few minutes later?
+Это был изощренный взлом, на разработку которого возможно ушло несколько дней. Почему они выбрали вернуть деньги спустя всего несколько минут? 
 
-Is it possible that Yearn knows the identity of the attacker?
+Возможно ли, что Yearn была известна личность атакующего?
 
-If you were the hacker, would you rather have $15M and be doxxed, or $8M, and enjoy your life in peace?
+Если бы вы были хакером, вы бы предпочли иметь $15 миллионов и подвергнуться доксингу, или иметь $8 миллионов и спокойно наслаждаться жизнью?
 
-These are just some of the questions that the community is asking after the dramatic exploit and refund on September the 29th.
+Вот всего несколько вопросов, которыми задается сообщество после драматического эксплоита и возврата денег 29 сентября.
 
-A full analysis of the three transactions involved in the exploit can be found below.
+Ниже вы можете найти полный анализ трех транзакций, причастных к эксплоиту.
 
-[Transaction 1 Sep-29-2020 01:20:41 AM +UTC](https://ethtx.info/0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8)
+[Транзакция 1 29-сен-2020 01:20:41 +UTC](https://ethtx.info/0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8)
 
-[Transaction 2 Sep-29-2020 01:22:28 AM +UTC](https://ethtx.info/0x045b60411af18114f1986957a41296ba2a97ccff75a9b38af818800ea9da0b2a)
+[Транзакция 2 29-сен-2020 01:22:28 +UTC](https://ethtx.info/0x045b60411af18114f1986957a41296ba2a97ccff75a9b38af818800ea9da0b2a)
 
-[Transaction 3 Sep-29-2020 01:23:28 AM +UTC](https://ethtx.info/0x4f0f495dbcb58b452f268b9149a418524e43b13b55e780673c10b3b755340317)
+[Транзакция 3 29-сен-2020 01:23:28 +UTC](https://ethtx.info/0x4f0f495dbcb58b452f268b9149a418524e43b13b55e780673c10b3b755340317)
 
-The return transaction came 8 minutes later.
+Возвратная транзакция произошла 8 минут спустя.
 
-[Return Transaction Sep-29-2020 01:31:04 AM +UTC](https://ethtx.info/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)
+[Возвратная транзакция от 29-сен-2020 01:31:04 +UTC](https://ethtx.info/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)
 
-There are several theories about who was responsible for the heist, and some are debating whether this was really a hack, or just an exploit of unfinished code.
+Есть несколько теорий относительно того, кто стоит за ограблением, и многие спорят, был ли это действительно взлом или просто эксплоит незаконченного кода.
 
-[@mierzwik](https://twitter.com/mierzwik) wrote [this article](https://medium.com/@mierzwik/hey-bot-give-me-all-your-money-e1f692594f2e) on the bot responsible ([0x762bfbd](https://etherscan.io/address/0x762bfbd8dc93fac514fd89c027e81621e8597441)), which shows how the bot stole 400 UNI one week prior to the EMN attack.
+[@mierzwik](https://twitter.com/mierzwik) написал [вот эту статью](https://medium.com/@mierzwik/hey-bot-give-me-all-your-money-e1f692594f2e) о боте, ответственном за эту атаку ([0x762bfbd](https://etherscan.io/address/0x762bfbd8dc93fac514fd89c027e81621e8597441)), в которой он описывает, как бот украл 400 UNI за неделю до атаки на EMN.
 
-[@frankresearcher](https://twitter.com/FrankResearcher) has since done some great work investigating the same wallet used in the hack / exploit.
+[@frankresearcher](https://twitter.com/FrankResearcher) с тех пор провел замечательную работу по изучению того же кошелька, использованного во взломе / эксплоите.
+
 ![](https://lh6.googleusercontent.com/qov3BuEa6rc6VT97cxBh7jgvRYxeOMDi8PbS3qgjTyIKLVIZwE5d8yA1TtDPCuXM-7WmFhMAma9hdVdskBbEEZWG3XMl3ntRdiGVKhbnk2aDnlzTBOSpf1Iz0R_hTbj4yFdLxKVz)
-Read the rest of Frank’s tweets [here](https://twitter.com/FrankResearcher/status/1310885102407254021?s=20). He goes on to hypothesise the role of various addresses involved in the hack / exploit.
 
-Frank’s hypothesis based on on-chain data:
+Вы можете прочитать остальные твиты Франка [здесь](https://twitter.com/FrankResearcher/status/1310885102407254021?s=20). Он продолжает свой анализ, выдвигая гипотезу о роли различных адресов, замешанных во взломе / эксплоите.
 
-0x223034e =[ $ENM](https://twitter.com/search?q=%24ENM&src=cashtag_click) hacker
+Гипотеза Франка основана на данных он-чейн:
 
-0x762bfbd = the contract from which the hacker withdrawn[ $UNI](https://twitter.com/search?q=%24UNI&src=cashtag_click)
+0x223034e = хакер [ $ENM](https://twitter.com/search?q=%24ENM&src=cashtag_click)
 
-0x2d033fe = address of creator of 0x762bfbd
+0x762bfbd = контракт, из которого хакер вывел[ $UNI](https://twitter.com/search?q=%24UNI&src=cashtag_click)
 
-0x2f14f72 = address which funded creator (very likely one owner)
+0x2d033fe = адрес создателя 0x762bfbd
 
-This is an on-going investigation, subscribe now and we’ll keep you up to date.
+0x2f14f72 = адрес, который финансировал создатель (вполне вероятно, один владелец)
+
+Это расследование продолжается, подписывайтесь сейчас, чтобы следить за обновлениями.
 
 ![](https://lh5.googleusercontent.com/bElo-Tzz3WEbKufKV60H8JybrfXU_jwZ4m5XmRARI3FsQCE9v57iOqnrOb89woPqABSKOBpGd6oMpwr4okPa42bKsiXrzNYkuoUNwXTN7sM6P9pxmXKpxBma5XIxHC5AzE5wMTnq)
 
-In what he described as an “[elegant solution](https://github.com/banteg/your-eminence)” Yearn developer @bantg used the Uniswap LP distribution code and a merkle tree implementation to refund the money.
+В том, что он описал как [«элегантное решение»](https://github.com/banteg/your-eminence), разработчик из Yearn, @bantg, использовал код распределения Uniswap LP и дерево Меркла для того, чтобы вернуть деньги.
+
 ![](https://lh4.googleusercontent.com/N6RtgR2lbxx_noX8jN7NPq5o3kmScgGaOhpQnBgS6-QPU3l7GnWvEvbGBGybHNOKsMmpgR_gOCAxA4BALyDaHXkub1i89MDIyVjRDN-spFd7TgejtVFygH88VbZnjSPgsOytYUYu)![](https://lh6.googleusercontent.com/KBuK7SdgDK_F5xS3SDpMwR3mawVkKuG4YhPOS90HjyjY1JewDai5IXxp7dsA3ROWvabWdhr2AI7YX2GeJhlT92bbIFctdRKwk-SjE_O0IXogKOYFLDALNu5DAZQEzww3gNFGzbmX)
-Milkyklim created a similar yYFI refund [solution ](https://gist.github.com/banteg/b2a3b78cdd59ea346afc56181e7a07cd)for those who claimed from the yYFI contract between blocks 10923319-10954777 and suffered from a 5% fee issue.
+
+Milkyklim создал похожее [решение ](https://gist.github.com/banteg/b2a3b78cdd59ea346afc56181e7a07cd)для возмещения yYFI тем, кто подал заявку на вывод из контракта yYFI между блоками 10923319-10954777 и пострадал из-за проблемы с 5% комиссией.
+
 ![](https://lh4.googleusercontent.com/FiHtOA8Xk-LxkXVD4Cm-eq0ftH7tPFPxNoCmbzX1EXzppq4Hz_Ge9RIgHdD8gzV02dexKQGrljMg46xXl0mJTrocaHofDR2fdgpOYcA2bDxGAxH8fM0NE9rWTajN5duN4i4NG3ro)
 
-Once the refunds were made available on youreminence.finance, refunds were distributed at a rate of $250,000 per minute.
+Как только средства для возвещения стали доступны на youreminence.finance, компенсация рассылалась со скоростью $250,000 в минуту.
+
 ![](https://lh4.googleusercontent.com/Cj0OwsQJkhLnq8Lheqzy6Qa_rLUbG0x4h_xkBLpeLSZPETYI5Tt4TaGlA9_4HACZw-0mSCnW0kYejV0F88Hb6nWlvTTEUTlhx3pMeGczF2nJ9QzwR3pdO5ydhQk_pfT3OG6FheMR)
 
-This resulted in half of the $8 million refund being claimed in just 20 minutes.
+В результате половина от 8-миллионного возмещения была выведена на всего 20 минут. 
+
 ![](https://lh3.googleusercontent.com/jSpxxX0Z1wyYeVZlXFy6ToRnqV0kpyzqiaVS-t_UB8GSuYgPCfLkzfAnIwZJWweng1Ymx2l3lVTa3TGKOjGMbPCamGtfvLtSn_hT8fsE1yjeeAHD5tYfvvAnC5kSUSR3IxsFnM9l)
-In a sharp contrast to the amount of focus and work put into creating this snapshot refund, it appears many users did not pay enough attention when claiming their refund, and simply copied banteg’s screenshot, resulting in donating their full claim straight back to banteg and team.
 
-[100% tip for 340 DAI](https://etherscan.io/tx/0x6a17f1b30b8c5479e6542fb3d6189cf67f34bbc85cba7d669cbf72367bfb724f)
+Несмотря на то, что команда бросила все силы на создание этого снэпшота, многие пользователи были недостаточно внимательны в момент вывода своей компенсации. Они просто скопировали скриншот, которым поделился banteg, в результате чего отдали весь объем запрошенных средств обратно  banteg и его команде.
 
-[100% tip for 66.9 DAI ](https://etherscan.io/tx/0xa7ad9985bc7ba00070f5ef18b766e10ca4c0d155cf4ca6ae2e11df9af41b6fc1)
+[100% чаевых 340 DAI](https://etherscan.io/tx/0x6a17f1b30b8c5479e6542fb3d6189cf67f34bbc85cba7d669cbf72367bfb724f)
 
-[100% tip for 993.3 DAI](https://etherscan.io/tx/0x835b998d086ea0aee96d1e0a3e5b558c62da8d621959f213c10bed6250c9f9c0)
+[100% чаевых за 66.9 DAI ](https://etherscan.io/tx/0xa7ad9985bc7ba00070f5ef18b766e10ca4c0d155cf4ca6ae2e11df9af41b6fc1)
 
-[100% tip for 263.1 DAI](https://etherscan.io/tx/0x7c759f66b058eb2dceb8a67a648dd4d0a0857bbfd38f51e8b058d18673f1c616)
+[100% чевых за 993.3 DAI](https://etherscan.io/tx/0x835b998d086ea0aee96d1e0a3e5b558c62da8d621959f213c10bed6250c9f9c0)
 
-The full list of tip transactions can be found [here](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x7a1057e6e9093da9c1d4c1d049609b6889fc4c67)
+[100% чаевых за 263.1 DAI](https://etherscan.io/tx/0x7c759f66b058eb2dceb8a67a648dd4d0a0857bbfd38f51e8b058d18673f1c616)
 
-Some have questioned why this option of returning the claim as a 100% tip was made available, when it could have been capped at 10 or 20%.
+Полный список «чаевых» транзакций можно найти [здесь](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x7a1057e6e9093da9c1d4c1d049609b6889fc4c67)
 
-Interestingly, those who benefitted the most from the refund left the smallest percentage of tips relative to their claim.
-![](https://lh5.googleusercontent.com/w3CD80RlDF-F-FnDBUlO5UdU0pEm4X5tgy87FpLXyBGXXQInQ4_9A9op0xp8bTaPrNjtLaAkGDe8G1AhR61qyW-YuGJUXCW_JDyCXM6xsNKh47TGPCimBoez_F1dqVcwc7rr-0Xs)Greedy whales...
-Here are some more figures on the DAI claims and donations through youreminence.finance, courtesy of Alphaleakers.
+У многих возник вопрос, почему эта опция возврата запрошенных средств в виде 100% чаевых стала возможной, если она могла быть ограничена до 10 или 20%.
+
+Интересно, что те, кто больше всего выиграл от возврата средств, оставили самый маленький процент чаевых в относительно размера запрошенных средств. 
+
+![](https://lh5.googleusercontent.com/w3CD80RlDF-F-FnDBUlO5UdU0pEm4X5tgy87FpLXyBGXXQInQ4_9A9op0xp8bTaPrNjtLaAkGDe8G1AhR61qyW-YuGJUXCW_JDyCXM6xsNKh47TGPCimBoez_F1dqVcwc7rr-0Xs)
+
+Жадные киты... 
+
+Вот еще несколько цифр относительно запросов на вывод DAI и пожертвований, прошедших через youreminence.finance, благодарим за дружественное содействие Alphaleakers.
+
 ![](https://lh6.googleusercontent.com/goJyvxqXCAg8kCYnCZj5di0wvRE5I4BtroyTdY3GK88wyX67fJ4rAoWSPkTtXVa_CQ5Lo7Oba2kS0K_t8AHtvgoAkLBzKv8wHk_OIk3T4UOr1ux3SSsYBpjcAOzmoE-0ZRYq6kG4)
-rektHQ is by and for the community. We’re very grateful for the community members who have reached out to us in recent days offering their knowledge and support.
-We are here to present your stories and opinions, we will protect your identity and promote your story, placing honesty and accuracy above all else.
 
-The following opinion pieces are from anonymous community members. rektHQ has a lot of respect for those who have contributed their thoughts and information to today’s article. Our inbox remains open and anonymous for anyone who wishes to contact us.
+rektHQ создано сообществом и для сообщества. Мы очень благодарны членам сообщества, которые связались с нами в течение последних нескольких дней и предложили свои знания и поддержку. Мы здесь, чтобы передавать ваши истории и мнения, чтобы защищать вашу личность и распространять вашу информацию, ставя честность и точность превыше всего.
 
-_As always, rektHQ takes no responsibility for the content or opinions presented in this newsletter._
+Следующие мнения принадлежат анонимным членам сообщества. rektHQ выражает свое глубокое уважение тем, кто поделился своими мыслями и информацией в сегодняшней статье. Наш почтовый ящик открыт и анонимен для всех, кто пожелает связаться с нами.
+
+_Как всегда, rektHQ не несет ответственности за содержание или мнения, представленные в этой новостной рассылке._
 
 ---
 
-**ANON 1**
+**АНОН 1**
 
-I'm not a fan of the $8M refund from two perspectives.
+Я не поддерживаю возмещение $8М по двум причинам.
 
-Firstly because of the threats made to Andre in the lead up to him asking the yearn treasury to assist with refunding the $8M. I haven't seen the nature of the threats but going through with the refund sets a very dangerous precedence where it reinforces the notion that threatening project members is a viable course of action to get your desired outcome.
+Во-первых из-за угроз в адрес Андре, чтобы он попросил у казначейства yearn помочь ему в возмещении $8M. Я не знаю, из чего конкретно состояли угрозы, но тот факт, что возмещение было проведено до самого конца создает опасный прецедент. Это укрепляет мнение о том, что угрожать участникам проекта является жизнеспособным планом действий для достижения желаемого результата.
 
-The second perspective is obviously the moral hazard aspect which has been discussed at length already on CT. Austrian economists love to use the term “moral hazard” when describing interventionism, which in DeFi layman's terms refers to degens degen'ing on more and more risky and unaudited projects because they 'expect' to be partially bailed out in situations such as these. This type of risk transfer certainly exists in the real world where major banks have an expectation for the federal government to bail them out if they land on hard times. But do we really want to replicate this in the DeFi space?
+Во-вторых, конечно же из-за аспекта морального риска, который уже давно широко обсуждается в СТ (крипто-твиттере). Австрийские экономисты обожают использовать термин «моральные риски» для описания интервенционизма, который простыми словами DeFi определяется как стремление дегенов влезать во все более и более рискованные проекты, не прошедшие аудит, потому что они «ожидают», что их частично вытащат, если случится ситуация, подобная этой. Такой перенос рисков конечно же существует в реальном мире, когда крупные банки ожидают, что федеральное правительство спасет их, если наступят тяжелые времена. Но действительно ли мы хотим воспроизвести это в DeFi-пространстве? 
 
-Whoever exploited EMN displayed great initiative and ingenuity, but more importantly he/she essentially shared a blueprint on how to carry out a simple yet lucrative attack and divert attention back to the very project that they attacked, letting them take on all the misguided anger and threats. We may even start seeing this become the new norm for exploiters to tip the systems they've just gamed, akin to an unspoken code of conduct among thieves.
+Кто бы ни выполнил эксплоит EMN, он показал большую инициативность и изобретательность. Но что намного важнее, он/она поделился подробным планом проведения простой, но очень прибыльной атаки и переключением внимания на сам атакованный проект, чтобы тот взял на себя всю тяжесть ошибочных угроз и злобы. Возможно даже, что это станет новой нормой для эксплоитеров - давать чаевые системам, которые они только что обыграли, сродни негласному кодексу поведения среди воров. 
 
-Wherever this latest incident takes us in the coming weeks, it's worth considering the message it's sending out to all the bad actors in this space or even the neutral ethically-fluid ones watching these perpetrators get away with it, time after time, with absolute impunity.
+Куда бы ни привел нас этот недавний инцидент в течение следующих нескольких недель, стоит задуматься о том, какой сигнал он посылает всем плохим игрокам в индустрии. Или даже нейтральным, заботящимся о морали людям, которые раз за разом наблюдают, как эти преступники отделываются и остаются безнаказанными.
 
-**ANON 2**
+**АНОН 2**
 
-On the technical side, I think the implementation was a bit unfleshed out as it was deployed on testnet first.
+С технической точки зрения, я думаю, что имплементация была немного неуклюжей, потому что сначала ее развернули в тестовой сети.
 
-Admittedly it's still relatively hard to fork mainnet and run locally to have uniswap, balancer or bonding curve testing so I can understand the “test as much as possible” but real testing happens in prod...
+Допустим, что достаточно сложно сделать форк основной сети и использовать его локально, чтобы протестировать uniswap, balancer или bonding curve, поэтому я понимаю смысл «тестировать столько, сколько это возможно», но реальное тестирование проводится в производстве... 
 
-However that narrative opens the ground for shit developers and scammers, which given the amount of “Uniswap” rug pulls recently is awful.
+Однако, такие рассуждения дают почву для говно-разработчиков и мошенников. А это ужасно, учитывая количество раг пулов «Uniswap» за последнее время.
 
-I mean in hindsight it was *and *wasn't Andre's fault, considering there is so much hype around him that it was even a plausible idea that it could have happened.
+Я хочу сказать, оглядываясь назад, что в этом была _и не была_ вина Андре. Учитывая, что вокруг него столько шумихи, идея, что это могло бы произойти, была очень даже правдоподобной.
 
-I mean there's only so much you can cognitively think about when developing, you're more focused on the project roadmap rather than these extra degen defi risks that admittedly are still emerging.
+Я имею в виду, что в процессе разработки есть столько вещей, о которых вы можете когнитивно думать, что вы больше сфокусированы на дорожной карте проекта, чем на дополнительных деген-рисках defi, которые, нужно признать, до сих пор возникают. 
+Не важно, стоит за этим работа команды или нет, проблема остается той же.
 
-Team or not working behind this, it'd still be the same issue
+Догадываюсь, что тайминг был немного запутан в плане коммуникации. Люди предпочитают поддерживать связь не так часто, особенно в связи с тем, что к сообществу[ $](https://twitter.com/search?q=%24yFi&src=cashtag_click)YFI присоединились так много новых разработчиков...
 
-I guess the timing was a bit messed up re: communications, people like to not keep so many communication lines especially with how many new devs have joined the[ $](https://twitter.com/search?q=%24yFi&src=cashtag_click)YFI community...
+Андре тервитнул фото и потом люди начали выдумывать заговор, чтобы застать всех врасплох. 
 
-Andre retweeted the photo then people started to create a conspiracy about surprising everyone.
+Лично у меня тоже было такое впечатление. Крипто-культура настолько запутанная, люди любят загадки и анонимность в ущерб самим себе, но это мое личное мнение.
 
-Personally I was under that impression too, it's just crypto culture being so twisted, people like puzzles and anonymity, quite to its own detriment but that's my bias.
+Компенсировать деньги было мудрым решением, это показало, что проект и дальше будет вестись добросовестно.
 
-Refund wise, it shows that the project will still be continued in good faith.
+Это также показывает, что во всех этих дегенских выходках с высокой TLV есть доля человечности.
 
-It also shows that there is a human touch to all of these high TVL degen actions.
+Как правило люди рискуют многим, не важно в какой сфере или с каким классом активов.
 
-People risk a lot in general, it doesn't matter what space or asset class.
+Нельзя винить людей в том, что они вернули фонды эксплоитера тем, кто был[ #halfrekt](https://twitter.com/hashtag/halfrekt?src=hashtag_click), как и нельзя винить эксплоитера за то, что он вернул половину фондов в первую очередь.
 
-You can't fault people for returning an exploiter's funds to those[ #halfrekt](https://twitter.com/hashtag/halfrekt?src=hashtag_click), just as much as you can't fault the exploiter for returning half the funds in the first place.
+Технически я не на уровне Андре, и моя интуиция мне подсказала, что все это могло подвергнуться рагпулу прежде, чем все лягут спать. Но в реальности это оказалось просто сказкой про удачу. 
 
-I'm technically not on Andre's level and had a hunch that this could have been rug pulled before going to sleep but really, it was just a whole narrative of chance.
+Всем просто действительно нужно больше спать.
 
-Everyone just really needs to sleep more.
