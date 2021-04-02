@@ -39,6 +39,7 @@ banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/REKT
 Однако, скриншоты чатов были опубликованы до момента открытия пула, и все пулы $FEW на Uniswap оказались поддельными.
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/exitscam.jpeg)![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/unipools.jpeg)
+
 Несмотря на то, что они так и не включили свой токен в листинг Uniswap, они предоставили мошенникам дополнительную возможность воспользоваться людским отчаянием.
 
 Тэйлор Монаган (Taylor Monahan), похоже, перешла от продвижения $FEW к разоблачению и опубликовала цепь [твитов](https://twitter.com/tayvano_/status/1308513470006980608?s=20), по которой видно в реальном времени, как разрабатывались эти токены.
