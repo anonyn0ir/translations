@@ -1,121 +1,130 @@
 ---
-title: Eminence - Rekt in prod
-date: 29 Sep 2020
+title: Eminence - Rekt в производстве
+date: 29 сентября 2020
 tags:
   - yfi
   - defi
-  - hack
+  - взлом
   - Eminence
-  - Cronje
-excerpt: The crypto community went into another frenzy last night, as Andre Cronje's unreleased project became the focus of hundreds of users, who bought $15 million of the $EMN token.
+  - Кронье
+excerpt: Прошлой ночью крипто-сообщество впало в новую волну безумия, когда не выпущенный проект Андре Кронье попал в фокус внимания сотен пользователей, которые быстро скупили загадочные токены $EMN на $15 миллионов.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/tease.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/12/tease.jpg)
-Andre Cronje’s unreleased project Eminence has been hacked for $15 million.
 
-The crypto community went into yet another frenzy last night, as Andre Cronje's unreleased project became the focus of hundreds of users, who quickly bought $15 million of the mysterious $EMN token.
+Eminence, не выпущенный проект Андре Кронье подвергся хакерской атаке на $15 миллионов.
 
-After some unexplained promotional tweets, users were keenly watching Cronje's account for any clues as to what was coming. As soon as the new contracts were [deployed ](https://etherscan.io/address/0x2d407ddb06311396fe14d4b49da5f0471447d45c#tokentxns.)from the yEarn finance address, the game was on.
+Прошлой ночью крипто-сообщество впало в новую волну безумия, когда не выпущенный проект Андре Кронье попал в фокус внимания сотен пользователей, которые быстро скупили загадочные токены $EMN на $15 миллионов.
 
-Hundreds of users joined in the crowd-sourced investigation project to try and understand what was going on, and how to profit.
+После публикации нескольких необъяснимых промо-твитов пользователи пристально следили за аккаунтом Кронье в ожидании малейших подсказок о том, что же готовилось. Как только новые контракты были [развернуты ](https://etherscan.io/address/0x2d407ddb06311396fe14d4b49da5f0471447d45c#tokentxns.)с адресов yEarn finance, игра началась.
 
-Users linked the graphics from the eminence.finance Twitter account to an unfinished MMORG called Eminence, Xander's Tales.
+Сотни пользователей присоединились к краудсорсинговому исследовательскому проекту, пытаясь понять, что происходит, и как там можно получить прибыль.
 
-> [pic.twitter.com/tV9LSzPXlV](https://t.co/tV9LSzPXlV) > &mdash; eminence.finance (@eminencefi) [September 28, 2020](https://twitter.com/eminencefi/status/1310628912339316736?ref_src=twsrc%5Etfw)
+Пользователи установили связь между графикой из профиля eminence.finance в Твиттере и незаконченном MMORG под названием Eminence, Xander's Tales.
+
+> [pic.twitter.com/tV9LSzPXlV](https://t.co/tV9LSzPXlV) > &mdash; eminence.finance (@eminencefi) [28 сенятбря 2020](https://twitter.com/eminencefi/status/1310628912339316736?ref_src=twsrc%5Etfw)
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/xanders.png)
 
-> You&#39;re hearing it here first, certified alpha leak, I smell the rebirth of an old card game with an NFT/DEFI twist... [$ENM](https://twitter.com/search?q=%24ENM&src=ctag&ref_src=twsrc%5Etfw)
+> Вы слышите об этом первыми, alfa leak гарантирует, чую запах возрождения старой карточной игры с изюминкой NFT/DEFI... [$ENM](https://twitter.com/search?q=%24ENM&src=ctag&ref_src=twsrc%5Etfw)
 >
-> Do some digging on "Eminence: Xander&#39;s Tales" and you&#39;ll find that [@AndreCronjeTech](https://twitter.com/AndreCronjeTech?ref_src=twsrc%5Etfw) even follows the lead artist for the project... 👀
+>Наведите немного справок об «Eminence: Xander’s Tales» и вы увидите, что [@AndreCronjeTech](https://twitter.com/AndreCronjeTech?ref_src=twsrc%5Etfw) даже подписан на главного артиста проекта... 👀
 >
-> More soon, follow me
-> &mdash; Kiyo (@IslandKiyo) [September 28, 2020](https://twitter.com/IslandKiyo/status/1310709943062888455?ref_src=twsrc%5Etfw)
+> Больше информации скоро в доступе, подписывайтесь на меня -  
+> &mdash; Kiyo (@IslandKiyo) [28 сентября 2020](https://twitter.com/IslandKiyo/status/1310709943062888455?ref_src=twsrc%5Etfw)
 
-The contracts that had been deployed included the EMN token, which could be exchanged for other tokens such as eYFI, eAAVE, or eSNX. These tokens, plus the surprise launch, matched perfectly one of Andre's previous tweets about the upcoming yEarn finance project.
+Развернутый контракт включал в себя токен EMN, который можно было обменять на такие токены как eYFI, eAAVE или eSNX. Наличие этих токенов в списке плюс неожиданный запуск полностью соответствовали предыдущим твитам Андре о готовящемся проекте yEarn finance.
 
-> The new yearn system is probably the most complex to date. It incorporates [@synthetix_io](https://twitter.com/synthetix_io?ref_src=twsrc%5Etfw)[@AaveAave](https://twitter.com/AaveAave?ref_src=twsrc%5Etfw)[@chainlink](https://twitter.com/chainlink?ref_src=twsrc%5Etfw)[@iearnfinance](https://twitter.com/iearnfinance?ref_src=twsrc%5Etfw) and will be running on L1/L2
+> Новая система yearn является, возможно, самой сложной на сегодняшний день. Она включает в себя [@synthetix_io](https://twitter.com/synthetix_io?ref_src=twsrc%5Etfw)[@AaveAave](https://twitter.com/AaveAave?ref_src=twsrc%5Etfw)[@chainlink](https://twitter.com/chainlink?ref_src=twsrc%5Etfw)[@iearnfinance](https://twitter.com/iearnfinance?ref_src=twsrc%5Etfw) и будет работать на L1/L2
 >
-> Trying to decide if we should do whitepaper-esque writeups to explain before launch, or just launch and surprise everyone?
-> &mdash; Andre Cronje (@AndreCronjeTech) [September 23, 2020](https://twitter.com/AndreCronjeTech/status/1308812154527780865?ref_src=twsrc%5Etfw)
+> Мы пытаемся решить, нужно ли нам заниматься написанием документов по типу белой бумаги, чтобы объяснить суть проекта до запуска, или просто запустить его и всех удивить? - Андре Кронье
+> &mdash; (@AndreCronjeTech) [23 сентября 2020](https://twitter.com/AndreCronjeTech/status/1308812154527780865?ref_src=twsrc%5Etfw)
 
-Cronje's reputation as a leading DeFi builder, combined with his promotion of the Eminence Twitter account, caused a full on frenzy, and $15 million flowed into the unexplained contract to be exchanged for EMN or one of the eTokens.
+Репутация Кронье как ведущего конструктора в DeFi, вместе с его продвижением аккаунта Eminence в Твиттере спровоцировало настоящую истерику. 15 миллионов долларов хлынули в загадочный контракт, чтобы там быть обмененными на EMN или один из e-Токенов. 
 
-> 🚨 yearn system confirmed.
+> 🚨 Система yearn получила подтверждение.
 >
-> LAUNCHED AND SURPRISED EVERYONE.
+> ЗАПУСТИЛИ ВСЕМ НА УДИВЛЕНИЕ.
 >
-> JFC the madman is doing it again.
+> FC-безумец снова сделал это.
 >
-> LONG [$YFI](https://twitter.com/search?q=%24YFI&src=ctag&ref_src=twsrc%5Etfw)[pic.twitter.com/XO5ZkJxDCq](https://t.co/XO5ZkJxDCq) > &mdash; BlueKirby.eth // YFI 🔥 (@bluekirbyfi) [September 28, 2020](https://twitter.com/bluekirbyfi/status/1310708762643181575?ref_src=twsrc%5Etfw)
+> LONG [$YFI](https://twitter.com/search?q=%24YFI&src=ctag&ref_src=twsrc%5Etfw)[pic.twitter.com/XO5ZkJxDCq](https://t.co/XO5ZkJxDCq) > &mdash; BlueKirby.eth // YFI 🔥 (@bluekirbyfi) [28 сентября 2020](https://twitter.com/bluekirbyfi/status/1310708762643181575?ref_src=twsrc%5Etfw)
 
-Despite the EMN token originating from a relatively flat bonding curve, many users were purchasing the tokens "second hand" from Uniswap, which led to a few hours of very profitable arbitrage for those who were comfortable interacting directly with the contract.
+Несмотря на происхождение токена EMN из достаточно плоской кривой связывания, многие пользователи покупали токены «из вторых рук» на Uniswap. Это привело к нескольким часам очень прибыльного арбитража для тех, кто достаточно уверенно взаимодействовал напрямую с контрактом.
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/image.png)
 
-At around 04:00 UTC, the $15 million contained in the contract was suddenly drained.
+Около 04:00 UTC, $15 миллионов, которые содержал контракт, неожиданно были слиты.
 
-[@fifikobayashi](https://twitter.com/fifikobayashi/status/1310929902946852864?s=20) wrote a short summary of how the attack took place.
+[@fifikobayashi](https://twitter.com/fifikobayashi/status/1310929902946852864?s=20) написала короткое резюме о том, как произошла атака.
 
-- Use flash loan to mint EMN
-- Manipulate EMN price downwards by burning EMN for eTokens
-- EMN is based on a bonding curve, so when supply goes down, price goes down.
-- Short EMN by burning the other half of the flashed EMN back into DAI, which was then inflated in comparison due to the curve-induced drop in EMN value.
+- Использование флэш-кредита для чеканки EMN
+- Манипуляция цены EMN на понижение путем сжигания токенов EMN за eTokens.
+- EMN основан на кривой связывания, поэтому, когда его запас уменьшается, цена падает.
+- Шортинг EMN путем сжигания второй половины взятых в флэш-кредит EMN обратно в DAI, который в тот момент попал под инфляцию, вызванную кривой падения цены EMN. 
 
-Although [hacks ](/epic-hack-homie/)are certainly not unusual in crypto, what happened next certainly is.
+Хакерские [взломы ](/epic-hack-homie/)в криптовалютах не являются чем-то необычным, но то, что случилось дальше - точно да.
 
-11 minutes after [removing ](https://etherscan.io/address/0x223034edbe95823c1160c16f26e3000315171ca9#tokentxns)$15 million in DAI, the attacker [returned ](https://etherscan.io/tx/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)$8 million to the Yearn: Deployer contract 01:31:04 AM +UTC.
+Через 11 минут после [выведения ](https://etherscan.io/address/0x223034edbe95823c1160c16f26e3000315171ca9#tokentxns)$15 миллионов в DAI атакующий [вернул](https://etherscan.io/tx/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)$8 миллионов в Yearn: Контракт Deployer 01:31:04 +UTC.
 
 Ethereum Transaction Hash (Txhash) Details | Etherscan
 
-[Ethereum (ETH) detailed transaction info for txhash 0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd. The transaction status, block confirmation, gas fee, Ether (ETH), and token transfer are shown.](https://etherscan.io/tx/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)
+[Подробная информация о транзакции на Ethereum (ETH) для txhash 0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd. Указаны статус транзакции, информация о блоке, стоимость газа, трансферы эфира (ETH) и токена.](https://etherscan.io/tx/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)
 
 ![](https://etherscan.io/images/favicon3.ico)etherscan.ioEthereum (ETH) Blockchain Explorer
 
 ![](https://etherscan.io/images/brandassets/etherscan-logo-circle.png)
-](https://etherscan.io/tx/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)
-Theories are running wild about who was behind the hack, and why they would return any money,  with some pointing the finger at the creators of Yearn Finance, and claiming it was an inside job.
 
-> So.. was it [@bantg](https://twitter.com/bantg?ref_src=twsrc%5Etfw) who ran multiple bots, inflated the SHIT out of [#EMN](https://twitter.com/hashtag/EMN?src=hash&ref_src=twsrc%5Etfw) (and more) to arb DAI and eventually dumped for the growing liquidity?[https://t.co/vKOKs7IlxF](https://t.co/vKOKs7IlxF)[https://t.co/rbb8H6c78H](https://t.co/rbb8H6c78H)[https://t.co/V7ocyAQg0J](https://t.co/V7ocyAQg0J)[@ChainLinkGod](https://twitter.com/ChainLinkGod?ref_src=twsrc%5Etfw)[@AndreCronjeTech](https://twitter.com/AndreCronjeTech?ref_src=twsrc%5Etfw)[pic.twitter.com/9Dle86Yffy](https://t.co/9Dle86Yffy) > &mdash; Spicetoshi (@Spicetoshi) [September 29, 2020](https://twitter.com/Spicetoshi/status/1310884921783787522?ref_src=twsrc%5Etfw)
+(https://etherscan.io/tx/0x7bc97357364222207f1f011b22ad98ba78fcd3c25d3398346caa3928cdf4a4dd)
+
+Разрастаются теории о том, кто стоял за взломом, и почему они вернули деньги, и иногда показывают пальцем в сторону создателей Yearn Finance и заявляют, что это была инсайдерская работа.
+
+> Итак... Был ли это [@bantg](https://twitter.com/bantg?ref_src=twsrc%5Etfw) который использовал множество ботов, чтобы создать СУМАСШЕДШУЮ инфляцию [#EMN](https://twitter.com/hashtag/EMN?src=hash&ref_src=twsrc%5Etfw) (и других токенов), чтобы сделать арбитраж DAI, а затем все слил ради роста ликвидности?[https://t.co/vKOKs7IlxF](https://t.co/vKOKs7IlxF)[https://t.co/rbb8H6c78H](https://t.co/rbb8H6c78H)[https://t.co/V7ocyAQg0J](https://t.co/V7ocyAQg0J)[@ChainLinkGod](https://twitter.com/ChainLinkGod?ref_src=twsrc%5Etfw)[@AndreCronjeTech](https://twitter.com/AndreCronjeTech?ref_src=twsrc%5Etfw)[pic.twitter.com/9Dle86Yffy](https://t.co/9Dle86Yffy) > &mdash; Spicetoshi (@Spicetoshi) [29 сентября 2020](https://twitter.com/Spicetoshi/status/1310884921783787522?ref_src=twsrc%5Etfw)
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/andrechan.jpg)
-Ultimately, those who deposited funds into the unaudited contracts are responsible for the loss of their money, however many have branded Cronje's promotion of the unfinished contract to be irresponsible, as the resulting FOMO could have easily been predicted.
 
-One thing is for certain, a lot of people lost money last night.
+В конечном итоге те, кто вложил фонды в контракт, не прошедший аудит, сами несут ответственность за потерю своих денег. Тем не менее, многие называли продвижение незаконченного контракта Кронье безответственным, потому что последовавшая паника из-за страха упустить возможность была легко предсказуема. 
 
-> Can we pour one out for our 🐋 whale brother here that spent $130,548 for [$EMN](https://twitter.com/search?q=%24EMN&amp;src=ctag&amp;ref_src=twsrc%5Etfw) 1.5 hours ago and just sold it recently for $368.[https://t.co/5iVIHS93Pv](https://t.co/5iVIHS93Pv)[https://t.co/GBUMc62Eqs](https://t.co/GBUMc62Eqs)[pic.twitter.com/jIa7WVwP6s](https://t.co/jIa7WVwP6s) > &mdash; fomosaurus 🦖 (@fomosaurus) [September 29, 2020](https://twitter.com/fomosaurus/status/1310761830353186816?ref_src=twsrc%5Etfw)
+Одно можно сказать точно, прошлой ночью много людей потеряли свои деньги.
 
-> FOLLOW UP POST: MANS SPENDS 100k TO MAKE $348 - MAD RESPECT TO THE GALAXY BRAIN DEGEN KING WHO RISKED IT ALL FOR AN ETH [$EMN](https://twitter.com/search?q=%24EMN&amp;src=ctag&amp;ref_src=twsrc%5Etfw)[pic.twitter.com/IZnBSTMfqs](https://t.co/IZnBSTMfqs)
-> &mdash; end i i i (@end0xiii) [September 29, 2020](https://twitter.com/end0xiii/status/1310777947545051136?ref_src=twsrc%5Etfw)
+> Выпьем за нашего 🐋 брата кита, который потратил $130,548 на [$EMN](https://twitter.com/search?q=%24EMN&amp;src=ctag&amp;ref_src=twsrc%5Etfw) 1.5 часа назад и только что продал все за $368.[https://t.co/5iVIHS93Pv](https://t.co/5iVIHS93Pv) [https://t.co/GBUMc62Eqs](https://t.co/GBUMc62Eqs)  [pic.twitter.com/jIa7WVwP6s](https://t.co/jIa7WVwP6s) > &mdash; fomosaurus 🦖 (@fomosaurus) [29 сентября 2020](https://twitter.com/fomosaurus/status/1310761830353186816?ref_src=twsrc%5Etfw)
+
+> ПРОДОЛЖЕНИЕ ПОСТА: ЧЕЛОВЕК ПОТРАТИЛ 100К ЧТОБЫ ЗАРАБОТАТЬ $348 - ОГРОМНЫЙ РЕСПЕКТ ВСЕЛЕНСКОМУ ИМПЕРАТОРУ ПУСТОГОЛОВЫХ ДЕГЕНОВ, КОТОРЫЙ РИСКНУЛ ВСЕМ РАДИ ОДНОГО ЭФИРА [$EMN](https://twitter.com/search?q=%24EMN&amp;src=ctag&amp;ref_src=twsrc%5Etfw) [pic.twitter.com/IZnBSTMfqs](https://t.co/IZnBSTMfqs)
+
+> &mdash; end i i i (@end0xiii) [29 сентября 2020](https://twitter.com/end0xiii/status/1310777947545051136?ref_src=twsrc%5Etfw)
 
 #rekt
 
-> i bought just over $100,000 [$EMN](https://twitter.com/search?q=%24EMN&amp;src=ctag&amp;ref_src=twsrc%5Etfw) before the hack/exploit. i think my life is over
-> &mdash; zerosum (@zerosum666) [September 29, 2020](https://twitter.com/zerosum666/status/1310757909756891136?ref_src=twsrc%5Etfw)
+> я купил [$EMN](https://twitter.com/search?q=%24EMN&amp;src=ctag&amp;ref_src=twsrc%5Etfw) на $100,000 с лишним как раз перед взломом/эксплоитом. мне кажется, моя жизнь кончена
+> 
+> &mdash; zerosum (@zerosum666) [29 сентября 2020](https://twitter.com/zerosum666/status/1310757909756891136?ref_src=twsrc%5Etfw)
 
-Cronje claims to have received multiple threats regarding the lost funds, and has asked Yearn Treasury to assist with distributing the returned $8 million.
+Кронье подтверждает, что получил много угроз по поводу потерянных фондов, и что он попросил казначейство Yearn Treasury помочь ему распределить возвращенные 8 миллионов.
 
-Despite this major setback, Andre continues to build, and released this tweet earlier today.
+Несмотря на такой серьезный удар, Андре продолжает работать над проектом. Сегодня он опубликовал этот твит.
 
-> I am still building [@eminencefi](https://twitter.com/eminencefi?ref_src=twsrc%5Etfw). I love the metaverse and metaconomy.
+> Я продолжаю работать над [@eminencefi](https://twitter.com/eminencefi?ref_src=twsrc%5Etfw). Я обожаю мета вселенную и метакономию.
 >
-> I am also going to continue deploying test contracts. I have over ~100 deployed contracts, of which probably >half have vulnerabilities.
+> Я буду продолжать разворачивать тестовые контракты. У меня  ~100 контрактов в деплоименте, из которых возможно >половины имеют уязвимости.
 >
-> Please wait for official announcements.
-> &mdash; Andre Cronje (@AndreCronjeTech) [September 29, 2020](https://twitter.com/AndreCronjeTech/status/1310802116391428097?ref_src=twsrc%5Etfw)
+> Пожалуйста, дождитесь официальных объявлений.
+> &mdash; Андре Кронье (@AndreCronjeTech) [29 сентября 2020](https://twitter.com/AndreCronjeTech/status/1310802116391428097?ref_src=twsrc%5Etfw)
 
-Yearn developers [Banteg ](https://twitter.com/bantg)and [Klim K](https://twitter.com/milkyklim) have also been working hard to help those affected, and have created a snapshot of EMN and the eTokens in order to try and refund those who lost money.
+Разработчики из Yearn [Banteg ](https://twitter.com/bantg)и [Klim K](https://twitter.com/milkyklim) K тоже приложили все усилия, чтобы помочь пострадавшим, они создали снэпшот  EMN и eTokens, чтобы попытаться вернуть деньги тем, кто их потерял.
 
-Users can check their eligibility [here ](https://gist.github.com/banteg/2ec7b0aec54267adf7d98136eee07cd9)(divide by 1e18)
+Пользователи могут проверить, имеют ли они на это право [здесь ](https://gist.github.com/banteg/2ec7b0aec54267adf7d98136eee07cd9)(разделить на 1e18)
 
-[rektHQ](https://twitter.com/RektHQ) was not involved in the creation of this list, and no details are final.
+[rektHQ](https://twitter.com/RektHQ) не участвовал в создании этого списка, ни один из пунктов не является окончательным.
 
-> Since we have received 8M DAI, we are working towards distributing them to the people who got rekt. I have finished the first version of the snapshot which uses bonding curve rates of EMN, eCRV, eLINK, eAAVE, eYFI, eSNX at block 10954410. It includes 3656 addresses. [pic.twitter.com/dT3WryyGrD](https://t.co/dT3WryyGrD) > &mdash; banteg (@bantg) [September 29, 2020](https://twitter.com/bantg/status/1310823410289836032?ref_src=twsrc%5Etfw)
+> Так как нам вернули 8М DAI, мы работаем над тем, чтобы распределить их между теми, кто оказался rekt. Я закончил первую версию снэпшота, которая использует коэффициенты кривой связывания EMN, eCRV, eLINK, eAAVE, eYFI, eSNX и блока 10954410. Он включает в себя 3656 адресов. [pic.twitter.com/dT3WryyGrD](https://t.co/dT3WryyGrD) 
+> 
+> &mdash; banteg (@bantg) [29 сентября 2020](https://twitter.com/bantg/status/1310823410289836032?ref_src=twsrc%5Etfw)
 
-Last night's proceedings were the culmination of several different events, attitudes, and concepts that have arisen over recent months.
+Вчерашнее разбирательство стало кульминацией нескольких различных событий, взглядов и концепций, возникших за последние месяцы.
 
-Those who have FOMO'd into unaudited contracts have been rewarded well in the past, and although many on Twitter are keen to promote this style of "Chad" behaviour, perhaps it's time to rethink this style of surprise launch.
+Те, кто бросились в непроаудированный контракт из-за страха упустить возможность, в прошлом хорошо вознаграждались за такое дело. Но даже не смотря на то, что многие в Твиттере выступают за такой Чадовский стиль поведения, возможно, пришло время пересмотреть стиль этих запусков-сюрпризов.
 
-The previously unblemished reputation of the YFI developer has taken a hit, and we are now at what feels like a turning point in DeFi, where hopefully both developers and users can learn from this event.
+Прежде безупречная репутация разработчика YFI получила удар. Сейчас мы находимся в моменте, очень похожем на поворотный для DeFi, когда, к счастью, и разработчики, и пользователи могут извлечь уроки из этого происшествия.
 
-Until then, we look forward to the real release of Eminence: Xander's Tales.
+Ну а пока что мы с нетерпением ждем настоящего выхода Eminence: Xander's Tales.
