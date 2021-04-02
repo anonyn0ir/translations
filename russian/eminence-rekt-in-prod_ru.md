@@ -23,7 +23,9 @@ Eminence, не выпущенный проект Андре Кронье под�
 
 Пользователи установили связь между графикой из профиля eminence.finance в Твиттере и незаконченном MMORG под названием Eminence, Xander's Tales.
 
-> [pic.twitter.com/tV9LSzPXlV](https://t.co/tV9LSzPXlV) > &mdash; eminence.finance (@eminencefi) [28 сенятбря 2020](https://twitter.com/eminencefi/status/1310628912339316736?ref_src=twsrc%5Etfw)
+> [pic.twitter.com/tV9LSzPXlV](https://t.co/tV9LSzPXlV) 
+> &mdash; eminence.finance (@eminencefi) 
+> [28 сенятбря 2020](https://twitter.com/eminencefi/status/1310628912339316736?ref_src=twsrc%5Etfw)
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/09/xanders.png)
 
@@ -32,7 +34,8 @@ Eminence, не выпущенный проект Андре Кронье под�
 >Наведите немного справок об «Eminence: Xander’s Tales» и вы увидите, что [@AndreCronjeTech](https://twitter.com/AndreCronjeTech?ref_src=twsrc%5Etfw) даже подписан на главного артиста проекта... 👀
 >
 > Больше информации скоро в доступе, подписывайтесь на меня -  
-> &mdash; Kiyo (@IslandKiyo) [28 сентября 2020](https://twitter.com/IslandKiyo/status/1310709943062888455?ref_src=twsrc%5Etfw)
+> &mdash; Kiyo (@IslandKiyo) 
+> [28 сентября 2020](https://twitter.com/IslandKiyo/status/1310709943062888455?ref_src=twsrc%5Etfw)
 
 Развернутый контракт включал в себя токен EMN, который можно было обменять на такие токены как eYFI, eAAVE или eSNX. Наличие этих токенов в списке плюс неожиданный запуск полностью соответствовали предыдущим твитам Андре о готовящемся проекте yEarn finance.
 
