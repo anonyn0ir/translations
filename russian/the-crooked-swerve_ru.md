@@ -1,106 +1,106 @@
 ---
-title: The Crooked Swerve
+title: Крутой поворот
 slug: the-crooked-swerve
-date: 24 Sep 2020
+date: 24 сентября 2020
 tags:
   - Swerve
-  - Fork
+  - Форк
   - Rekt
-excerpt: Swerve users have been left in dismay after the founders of the project have pumped and dumped their tokens for what could be the last time.
+excerpt: Пользователи Swerve с ужасом наблюдали, как основатели проекта накачали и сбросили свои токены. Похоже на конец.
 banner: https://lh4.googleusercontent.com/HGp9pvppkTAdtd74IjHaNbUkRvOrfwMR_aWZvIFnJpteLPn42WLE8s2JRFXrBkv3LacCpC5UB9ls_x-K9Ngsu66ZgBRkPWhGhqpXFQBbBbQY-hEgi8DxASfiTrhXcT6MA9JC0F6N
 ---
 
 ![](https://lh4.googleusercontent.com/HGp9pvppkTAdtd74IjHaNbUkRvOrfwMR_aWZvIFnJpteLPn42WLE8s2JRFXrBkv3LacCpC5UB9ls_x-K9Ngsu66ZgBRkPWhGhqpXFQBbBbQY-hEgi8DxASfiTrhXcT6MA9JC0F6N)
 
-Swerve users have been left in dismay after the founders of the project pumped and dumped their tokens for what could be the last time.…
+Пользователи Swerve с ужасом наблюдали, как основатели проекта накачали и сбросили свои токены. Похоже на конец.
 
 ![](https://lh4.googleusercontent.com/ScJsa63refX4D5op_71aFzPlcj6VZZ1OGFsp1oq29LuBmPKW6iVlqLr23PSKhLcD_YfIktykD_xTjQBFWy4xjrhTC0g9ibXIsqRAccMIEisKQlWWZJNnDbHYh3vboM7fGCS-4wAv)
 
-Swerve Finance is not the fair-launch, community-owned fork that they claim to be. They simply used the fair launch narrative as a cash grab scheme. If there was any long-term vision to the plan, the past two weeks of excess distribution would never have been included.
+Swerve Finance не те, за кого себя выдают. Это не fair-launch форк, принадлежащий сообществу. Они просто-напросто использовали принцип fair-launch как схему получения наличных. Если бы планы были долгоиграющими, то безмерное распределение последних двух недель в них бы не входили. 
 
-Now the two week distribution period has ended, whales have dumped their tokens, 80% of their liquidity has left, and Swerve governance votes are struggling to pass quorum.
+Двухнедельный период распределения закончился, киты сбросили свои токены, избавившись от 80% ликвидности, а голосование руководства Swerve пытается пройти через кворум. 
 
-It was clear from the beginning that there was never any intention to create long-term value with this project.
+Изначально было ясно, что этот проект не задумывался для создания какой-либо долгосрочной ценности. 
 
-Swerve was simply a lazy fork with Curve’s founder token allocation stripped out, only to be reallocated amongst whales and VCs through a quick 25 minute “UI fault” premine, and a 2 week token binge.
+Swerve был просто ленивым форком, за исключением распределения токенов основателя Curve. Но их перераспределили среди китов и венчурных капиталистов с помощью 25-минутного премайна в виде “ошибки пользовательского интерфейса” и двухнедельного токенного запоя.
 
-The failings of the Swerve team have become glaringly obvious in the past few days as they publicly struggled to understand how to manage their own protocol.
+Недостатки команды Swerve стали особенно очевидны за последние несколько дней, когда они публично изо всех сил пытались разобраться, как же управлять своим собственным протоколом. 
 
 ![](https://lh3.googleusercontent.com/abImKHh-9IqhE0KCr15r3Iu_Zs9G7LdUlsmhtCkb-he51CUXcAFTm1h36bR-y2LxZ9TPbsJaVhPwRLMHckkKm0IleaV_QoxCaBZhF9cz6OC3V1_6HEkifSQZkcUEyNG4vm8ZM4ct)
 
-If John Deere was really a solo anonymous developer, why would The Defiant be willing to promote their product with a pre-prepared interview on their launch date?
+Будь Джон Дир (John Deere) действительно анонимным разработчиком-одиночкой, зачем тогда The Defiant захотелось бы продвигать их продукт с помощью заранее подготовленного интервью в день запуска?
 
-If the code was unaudited, how did they gain $31,000,000 in deposits in the first 35 minutes, from just 37 different addresses???
+Если код не прошел аудит, то как тогда им удалось собрать депозитов на $ 31,000,000 за первые 35 минут, со всего лишь 37 различных адресов???
 
-That’s 37 whales who deposited an average of ~$837,000 EACH into this “anonymous” developer’s project...
+Вот и 37 китов, КАЖДЫЙ их которых отправил примерно ~$837,000 в этот “анонимный” проект... 
 
-In The Defiant’s advertisement for Swerve, “John Deere” says only a few of his friends, who had no secret wealth, were advised of the project….
+В рекламе проекта Swerve в The Defiant “Джон Дир” говорит, что лишь несколько его друзей, не имеющих секретных богатств, были в курсе проекта…
 
 ![](https://lh4.googleusercontent.com/d6yd_R4MhFtF-E3dOrxcC4pqPnwdla4n0Zln7yTzJ6xi3rDslYFjy8TCHPWFW4k1bOmhTJ0E4BcqYdo69CM-7hWTu62u0v-4jrAW5f8Ezq38E308Uneo91ht_URorY8v6c3AMfO0)
 
-If we believe Swerve's story that the code was unaudited, and that they had no existing major partnerships in the industry, wouldn't it be quite irresponsible for fund managers to invest other peoples money into unknown code?
+Если верить рассказам Swerve о том, что код не прошел аудит, и что у них не было крупных партнеров в индустрии, разве не легкомысленно со стороны фондовых менеджеров вкладывать деньги других людей в неизвестный код?
 
-Framework Ventures had over $6M in Swerve for the majority of the first two weeks. Pantera Capital and Three Arrows were also quick to promote Swerve as a "fair launch" Curve.
+Framework Ventures держал в Swerve свыше $6М почти две первые недели. Pantera Capital и Three Arrow тоже очень быстро заговорили о Swerve как о “fair launch” версии Curve.
 
 ![](https://lh3.googleusercontent.com/UOsgi3iABJ3zX7My5qE_GkfXW7nI-9fX8qIHiGpw8UW3xp7gwT6s1GcsrWA661nSmE4mIDFkvY62hECDuTcvmJN9IOXvlwikDiNQXU07xu-Ra8iYyoXVpWI8MCvl428e-X87Kk4x)
 ![](https://lh3.googleusercontent.com/paIAh-UY51liljRFuxkRbK5Os6ddvervUjlhLyC9afX4UY1-NJ3tfSmpv6ZGE8Va3Bm3Gkmtt780SBDbFT6qXhWHS5Bl1mHlkV9G9NLuqgGdA1uLAH2_0zgN_OFzoRg4cPQnZ0Lp)
 ![](https://lh3.googleusercontent.com/ExHWrZuDFvswgcyQpDICfEXs8bCmXF9LXOeqiCpmaxGSzJc8VZAXB5Omh40uFrrsaXwk_ZhWDxZoVWStjA0fGDrrOn6Vl3mRUxDueD7z65j7L2etHYZgRn8TUKiD6OC0zSj7DWVs)
 
-I wonder if Three Arrow, Pantera Capital, or Framework Ventures investors were advised of this investment?
+Интересно, инвесторы Three Arrow, Pantera Capital или Framework Ventures были в курсе этих инвестиций?
 
-And we're supposed to believe that Swerve was made by one unknown developer, with no rich friends, who just wanted to make a “fair launch” version of Curve...
+И мы должны поверить в то, что Swerve был создан одним неизвестным разработчиком, не имеющим богатых друзей, который просто хотел сделать “fair launch” версию Curve…
 
-Swerve represents simple greed and deception, a money grab which took advantage of the fair launch meme to pump the bags of a few VC whales while they masqueraded as a single anonymous robin hood style developer.
+Swerve всего лишь представляет из себя жадность и разочарование. Схему захвата денег с использованием мема fair launch, чтобы накачать мешки кучки венчурных китов, пока те изображали из себя анонимных робин-гудовских разработчиков.   
 
 ![](https://lh3.googleusercontent.com/4xnaESmOh7ciEQmx6w88pd_DSO8wurxVAIeUShRHUNCf7HITpW1ut0mQXf_Nl9eFrlN6a5jjW_FAWEsiSmwZHfEdvIJyGxZ3kVjbrN1ze8LQ8kGUuYbQoPSL3nmnCU9KLtGDUtRp)
 ![](https://lh4.googleusercontent.com/vwmEc3uHmxfv28-a0kDghiBQzgYwp9UmkdaGuQhXqUImnHWEWe5DtE7liXQv1pWMFzMZ2CaW6IXpV1k4CAMGYeh5Ic6NrdDRuSJl98zBg_BirINl71nbdUrUIhYg1KNddbWz6ZrL)
 ![](https://lh4.googleusercontent.com/mZgMKqpTgXGgabMqCshMsvQZwSPDTgpc48JU2MAdxLfwW6mrupDAjWg3UfMNmeY5peTvksn3OL_6FB1NxYEmct5XB8ztm1pGgNl46qsJVdJnRWFfcZOpOfWR4r0Oi4ezBNangpIH)
 
-When the Swerve team tried to start making changes to the protocol, it was either ignorance or apathy that allowed for the passing of SIP-5, which aimed to reduce the A factor from 1000 to 100, in a misguided attempt to increase pool reserves of DAI.
+Когда команда Swerve начала вносить изменения в протокол, то либо по причине незнания, либо безразличия, но стало возможным прохождение SIP-5. Целью этого было снижение фактора А с 1000 до 100, в ошибочной попытке увеличить резервы DAI в пуле.
 
-Changing the A factor so drastically would change the virtual prices so much that it would allow for a huge arbitrage opportunity, resulting in a permanent loss for the ~$850,000,000 TVL in the pool at that time.
+Такое резкое снижение фактора А настолько сильно изменило бы виртуальные цены, что это дало бы огромную возможность для арбитража. В результате - необратимую потерю ~$850,000,000 TLV в пуле на тот момент. 
 
 ![](https://lh4.googleusercontent.com/PhJM2gGf46Mj26-TT_Rc6464qIlw8GeMSS6ZnLoukOcM20kRWr2hOANeY8XD0vZoyUYruamnijwbsRLmHKa3aL4Ngi9ZLGTH3pPT5mnHTBNFv5LnexSGtmCcIALAuzDY7zKsrFn_)
 
-Even though they were aware of the potential loss, Swerve decided to go ahead with the change, and decided not to warn LP’s of the incoming loss, simply to avoid the bad “PR”.
+Swerve осознавали возможность потенциальной потери, но несмотря на это решили продолжать изменения и не предупреждать LP о ней, просто чтобы избежать плохого “PR”. 
 
 ![](https://lh4.googleusercontent.com/G9UZ5bq7u2EyNDeQYQjlNyVn0HusiBsv-NOSNzAf9zu-x6ArdzbycsbXcCr7ymmrE1OC04GUshHuMA-gXdlvYmGUX98Ku_PvkSJPVDlyXwDAvLc_c6RBj9VcS0OVKyrRpyPROUTv)
 
-Even when members of the chat calculated the loss to be around 0.8%, which at the time would have been over $8M, Swerve took no action to protect their users.
+Даже после того, как участники чата посчитали, что потеря составит примерно 0.8%, что на тот момент перевалило бы за $8M, Swerve не предприняло никаких действий, чтобы защитить своих пользователей.
 
 ![](https://lh6.googleusercontent.com/iFXJasMrPwFq2kOeOFUz20aBniUKYkcxo0TNwqAileIS14iZn7niGTmvn9Mk2OXQNzkoHd5XRbQmJoEa7HX1RB30wIehXHYhN5GM7CWgV5TFTodzC5GyD0RYNZ2u1QjxlLLbDSyA)
 
-“Not too bad” = potential $8,000,000 loss of funds.
+“Не так уж плохо” = потенциально $8,000,000 потери средств.
 
-Swerve decided to ignore the warnings, chose not to warn their users, and decreased the A factor.
+Swerve приняли решение игнорировать предупреждения, не информировать своих пользователей, и уменьшили фактор А.
 
 ![](https://lh6.googleusercontent.com/iFUA8QSW5lLwh8cQfB6cwVrL3AbummPatQXVqjNKHRZFKEvwYDS8n3Dq3l7B7f6AAcvyLXk_hhWmmZioZK4X75oAmajxQiVwMsQZhwdlBB-yijh2PwsCJdAoTAOEJdepeZoFNjNM)
 ![](https://lh5.googleusercontent.com/GsxhmMuyCCqKTdNew8rUxylUCFIC7J0jtgMfAKtYIIcNsvoL-76nPHjIFXlxI_RxDbNXflY66GCaSuldCC9hES9tO3tTHtpn031WE8-MGkeDXkNcuBvkAukuH7wO4B2gMeC5fmej)
 ![](https://lh5.googleusercontent.com/lseNIPLEh3_Ck51cGulX0eD-_D5NWaTnA8S1q_AkEXMR9rmH6TfUIvpLJ3GtXgVVcmR0fkp8XylWBCXvgMdLzar8CyxtMZCLUv7-mZ3qyA9nXt0N_ZL5pXtAqgwJq2_scPOsTALG)
 
-If Swerve was truly for the community, why didn’t they warn their users before this change? Luckily, Swerve TVL and the DAI price was already decreasing, so the heavy handed parameter change wasn’t the disaster it could have been.
+Если Swerve действительно создавался для сообщества, то почему они не предупредили пользователей, прежде чем вносить изменения? К счастью, цена TVL и DAI на Swerve уже падала, поэтому грубое изменение параметра было не таким катастрофическим, каким могло бы быть.
 
 ![](https://lh6.googleusercontent.com/DwodqzAc9hhC9QcIXOPnBJppnX93MyCXK0pUVZ-BWakamRp2jNSIAAtroavfBxRhPiPhKtn1k_5JDhLpAKj4nH9et4P-yAe_FZRsb4_wrpmyIKRtJBP_pgBwxxie3I8p01oMxlbu)
 
-Currently, things are not looking good for Swerve. They inflicted a permanent loss for their users through their own incompetence, and are currently struggling to pass quorum on any governance votes as whales have dumped their tokens and left the platform.
+Сейчас дела у Swerve обстоят плохо. Из-за их некомпетентности пользователи безвозвратно потеряли деньги. А так как киты сбросили свои токены и покинули платформу, то они отчаянно пытаются пройти кворум при любых голосованиях по руководству. 
 
-The remaining Swerve admins have been forced to reach out to VCs (!) and ask for their help to reach quorum.
+Оставшиеся админы были вынуждены обратиться к VC (!) и просить у них помощи, чтобы достигнуть кворума. 
 
 ![](https://lh6.googleusercontent.com/noSUYbYHpMvHW-daDxtmB3yfWKIaMspWJg0TbAjZoUZ4753m0LF2LMMfSdHaaXwoaHZcYQDKhWX_q9DYGhUk4A-ktSOeyXd3O4aaHRvtVTEZaTi9_P-CpIipO44QxqnPKV9d-Xrf)
 ![](https://lh6.googleusercontent.com/_ZQOQMnT_4EHXZtsipcytRJOLKDQcghWjCRjcuk_CjS2XGINOmaw5phdKnl7OveVc17DMNDb6SG2fPDVWOgv9ttOeivL8yQzK1GSw295_Txc6XKJj8yni4V128x43XkgLPjtfFxy)
 
-Remember, the supposed reason for Swerve's existence was to be "community-owned".
+Напомним, что предполагаемая цель существования Swerve состояла в “общественном владении”.
 
-Now we know that isn't true, can you think of how they add any value?
+Теперь, когда мы знаем, что это неправда, можете представить, как им удалось добавить какую-либо ценность?
 
-Meanwhile, Curve TVL has surged to an all time high of £1.6B, with daily volumes of £350M.
+Тем временем, Curve TVL достиг небывалой высоты в £1.6B, с ежедневным оборотом в £350М.
 
-Swerve continues to publicly humiliate themselves, is this pure incompetence or are they purposefully deceiving their users? Both have happened in the past...
+Swerve продолжает публично унижать самих себя. Это полная некомпетентность или они специально разочаровывают своих пользователей? И то, и другое уже было…
 
 ![](https://lh4.googleusercontent.com/xFHO7j0wIMbfTQ_Pb5jSQqiwrOLw7OM5GZBaAEt3LxJUOGzKvtQsjf4iASJxCK7_E41bkHvhsmpEPG8l3iyNMMZL9c_PqaLBSsaBs4Xbd2V3NoWA-pGkcmM0MvxGLL8NrVtQVBS8)
 
-Rather than being a solo anon developer, it looks like John Deere was more likely to be a group of venture capitalists, circlejerking their bloated wallets whilst standing on the shoulders of the hard work put in by Curve Finance.
+Похоже на то, что Джон Дир не был анонимным разработчиком. Скорее это была группа венчурных капиталистов, накручивавших  свои раздутые кошельки, стоя на плечах хард форка, предоставленного Curve Finance.
 
-I think Swerve admin Lex Moskovski says it best:
+Я думаю, лучше всего об этом сказал админ Swerve, Lex Moskovski:
 
 ![](https://lh4.googleusercontent.com/T0jnAoaPNPtlr9XesFgK_Q_7AeY112gIJk6sEzAqb8GldX2Jd0mhbfUilQHHq7XcBcHFw41vkg2Icgd-pUvXGbYY7zIDfImU9pklp2CBP3JfF2-ITPppgvZTITKSvvVzqWDi7w5C)
