@@ -4,111 +4,120 @@ date: 08 октября 2020
 tags:
   - defi
   - alpha
-excerpt: The feast of DeFi summer is over. The food tokens have gone cold, and much of what’s coming out of the kitchen seems stale and unappealing. Now is the time to take a look at what is left on our plate, adjust our belts, and perhaps reconsider our diet for the next few months.
+excerpt: Пиршество в честь лета DeFi закончилось. Фуд-токены остыли, и большая часть того, что выносят из кухни, выглядит несвежим и неаппетитным. Теперь пришло время посмотреть, что осталось у нас на тарелках, ослабить ремни и, может быть, пересмотреть наш режим питания на следующие несколько месяцев.
 banner: https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-5.jpg
 ---
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/banner-5.jpg)
-**The feast of DeFi summer is over.** The food tokens have gone cold, and much of what’s coming out of the kitchen seems stale and unappealing.
 
-Now is the time to take a look at what is left on our plate, adjust our belts, and perhaps reconsider our diet for the next few months.
+**Пиршество в честь лета DeFi закончилось.** Фуд-токены остыли, и большая часть того, что выносят из кухни, выглядит несвежим и неаппетитным.
 
-Some form of market correction was to be expected after the gluttony and irrational exuberance of the summer. There is always a bigger fish in the sea, those who considered themselves whales have turned out to be plankton: nothing but yield for the real alpha hunters.
+Теперь пришло время посмотреть, что осталось у нас на тарелках, ослабить ремни и, может быть, пересмотреть наш режим питания на следующие несколько месяцев.
 
-A new mindset is required to survive now that winter is coming - we must all adapt to a more sustainable way of farming, and hold back our greed for the betterment of DeFi as a whole.
+Некоторой корректировки рынка следовало ожидать после летнего чревоугодия и иррационального изобилия.  В открытом море всегда есть рыба побольше. Те, кто считал себя китами, оказались планктоном: не более чем доходностью для настоящих сверх-хищников.
 
-However, some gems remain amongst the rotten food, and we should now consider how we can assess their worth.
+Теперь, когда зима близко, нужно изменить образ мышления - нам всем нужно приспособиться к более стабильному стилю фарминга, и придержать нашу жадность для пользы DeFi в целом. 
 
-**A new mindset is emerging**
+Однако, среди гнили еще осталось несколько самородков, и нам нужно придумать, как оценить их потенциал.
 
-Although still the preferred model of analysis of many on crypto Twitter, now that so many tokens have some inherent value through yield generation, investing in cryptocurrency tokens is not as simple as “price go up = good, price go down = bad”.
+**Появляется новый образ мышления**
 
-The rise of staking models and application of game theory in governance models has added a nuance to tokenomics that didn’t previously exist.
+Для многих в крипто-Твиттере такая модель анализа по-прежнему остается самой любимой. Но теперь, когда у токенов есть внутренняя ценность благодаря генерированию доходности, инвестирование в криптовалюты уже не резюмируется просто как «цена растет = хорошо, цена падает = плохо». 
 
-To assess the value of tokens in a post-yield farming era, some are using a price to earnings ratio, where the current token price is divided by the annual earnings granted per token.
+Развитие моделей стакинга и использование теории игр в моделях управления добавило токеномике нюанс, которого не было раньше. 
 
-Is this TradFi technique applicable to DeFi? If an asset is purchased with ETH or another cryptocurrency, is calculating P/E in USD the best we can do?
+Для того, чтобы оценить стоимость токенов во время эпохи пост-фарминга доходности, некоторые используют показатель соотношения цены к прибыли (Ц/П), где текущая цена токена делится на годовой доход, предоставляемый данному токену. 
 
-In the past, other methods were proposed, such as the NVT ratio - Network Value to Transactions, which was useful before the rise of yield generating tokens, as we could use the data from money flowing through the network as a proxy to earnings [[1]](https://www.forbes.com/sites/wwoo/2017/09/29/is-bitcoin-in-a-bubble-check-the-nvt-ratio/#43611dfb6a23). However, to use NVT on an asset such as YFI, UNI, veCRV, or SNX would be incorrect, as they operate in an entirely different way.
+Применима ли эта техника традиционных финансов к DeFi? Если актив покупается с помощью ETH или другой криптовалюты, то является ли вычисление соотношения Ц/П в долларах наилучшим доступным нам способом?
 
-**The case for AMM**
+В прошлом предлагались другие методы, такие как например соотношение NVT - Network Value to Transactions (соотношение сетевой ценности к транзакциям). Этот метод был полезным до появления токенов, генерирующих доходность, потому что мы могли использовать данные о деньгах, циркулирующих в сети, как индикатор прибыли [[1]](https://www.forbes.com/sites/wwoo/2017/09/29/is-bitcoin-in-a-bubble-check-the-nvt-ratio/#43611dfb6a23). Однако, использовать NVT на таких активах как YFI, UNI, veCRV, или SNX было бы неправильно, потому что они функционируют совершенно по-другому.
+
+**Пример автоматизированных маркет-мейкеров (АММ)**
 
 _1- Uniswap _
 
-Uniswap’s UNI [tokenomics ](https://uniswap.org/blog/uni/)are one to watch; once the Uniswap governance gets control of the treasury on October 17th, we could see some unprecedented levels of community interaction, as UNI holders will be able to vote on allocating grants, public goods funding, and more, all of which should serve to bolster the growth of the industry.
+[Токеномика ](https://uniswap.org/blog/uni/)UNI протокола Uniswap заслуживает особого внимания; как только управление Uniswap получит контроль над казной 17 октября, мы станем свидетелями беспрецедентного уровня взаимодействия в сообществе, так как владельцы UNI  смогут голосовать за присуждение грантов, финансирование  общественных благ и многое другое, и все это должно поддержать рост индустрии.
 
-As the DeFi industry grows, it is likely that the Uniswap trading volume will increase, and if governance acts as expected and chooses to send trading fees to the users, then UNI holders would be well [rewarded](https://gov.uniswap.org/t/poll-how-would-we-structure-a-fee-reward/5790).
+Если индустрия DeFi будет расти, вполне вероятно, что объем торговли Uniswap  увеличится. Если управление будет работать так, как задумано и выберет отдавать комиссию с трейдинга пользователям, тогда держатели UNI будут получать очень хорошее [вознаграждение](https://gov.uniswap.org/t/poll-how-would-we-structure-a-fee-reward/5790).
 
-Consider the potential of being able to trade any token using a non-custodial solution, once the current disadvantages such as gas price are resolved, which are excluding a good amount of retail traders and slowing down adoption.
+Стоит принять во внимание потенциал возможности торговать любым токеном, используя некастодиальное решение, когда будут устранены текущие недостатки, такие как цена газа, которая исключает большое количество розничных продавцов и замедляет освоение. 
 
 _2- Curve_
 
-Like Uniswap, Curve doesn’t rely on other protocols to generate its yield, so we can use our predictions on the trade volume of Curve to create an estimated yield %.
+Как и Uniswap, Curve не полагается на другие протоколы, чтобы генерировать доходность. Значит, мы можем использовать наши предсказания относительно объема торговли Curve, чтобы создавать предполагаемый процент доходности.
 
-veCRV (vote locked CRV), will soon start distributing a percentage of the protocol’s fees to those who lock their CRV rewards. The admin fee, or “governance incentive” that will be distributed would currently give veCRV a P/E ratio of 1.205. (For context, the P/E ratio of the S&P500 is 22.2, although this is clearly not a direct comparison, as one is locked for 4 years and the other is not.)
+veCRV (заблокированные CRV для голосования) скоро начнут распределять проценты с комиссий, взимаемых протоколом с тех, кто заблокировал свои вознаграждения в CRV. Административные сборы, или «стимул к управлению», которые будут распределяться, на данный момент дали бы veCRV коэффициент соотношения Ц/П в 1.205. (Для сравнения, коэффициент Ц/П S&P500 составляет 22.2, несмотря на то, что речь не идет об идеальном сравнении, потому что один заблокирован на 4 года, а другой нет.)
 
-veCRV yield and thus its P/E ratio is proportional to:
+Доходность veCRV и соответственно его соотношение Ц/З пропорционально:
 
-- Curve trading volume
-- veCRV supply
-- CRV price
+- Объему торговли Curve
+- Запасу veCRV
+- Цене CRV
 
-The market does not seem to currently value the large yield of veCRV, possibly because it is worried that there will be a large increase in veCRV supply (more CRV being locked, which would reduce the yield per veCRV) which would reduce the appeal of having locked CRV for several years.
+Рынок на данный момент не особо ценит большую доходность veCRV. Возможно потому, что он боится, что запас veCRV сильно увеличится (будет заблокировано больше CRV, значит доходность с каждого veCRV будет меньше), и количество желающих держать CRV заблокированными в течение нескольких лет уменьшится. 
 
-However, as long as the trading volume on Curve increases at a similar rate to the CRV->veCRV locking rate, then the veCRV yield shouldn’t drop too much. Even if the veCRV yield stabilises at what could seem like a paltry 20% APY, then the interests accrued over 4 years would leave the staker with their original CRV balance plus approximately the value of their initial CRV generated in yield over 4 years.
+Однако, если объем торговли на Curve будет увеличиваться в той же пропорции, что и пропорция блокирования CRV->veCRV, тогда доходность veCRV не должна слишком сильно упасть.  Даже если доходность veCRV стабилизируется на казалось бы ничтожных 20% APY, тогда накопленные за 4 года проценты составят стакеру его первоначальный баланс CRV плюс примерно стоимость первоначальных CRV, заработанная на доходности на 4 года.
 
-The market therefore seems to be signaling that Curve will be irrelevant within 4 years, that the majority of CRV yield farmers either have not understood this dynamic, or that they simply prefer short term gains over larger long term profits.
+Поэтому рынок, кажется, пытается сигналить о том, что через 4 года Curve потеряет значимость, и что большинство фермеров доходности CRV либо не поняли эту динамику, либо они просто предпочитают краткосрочные заработки долгосрочной прибыли.
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/vecrv.jpg)
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/fisk.jpg)
 
 
-**SNX, much more than just a token**
+**SNX: гораздо больше, чем просто токен**
 
-As another of the “blue chip” DeFi tokens, SNX is set to stay, and those who are buying should remember the varied and complex potential utilities of the token. Buying SNX simply to hold it would be comparable to having a beautiful car that you never use. It may appreciate in value, but you would never have the pleasure of using it.
+SNX входит в число «голубых фишек» среди токенов DeFi, и поэтому ему суждено продержаться долго. Покупающим стоит помнить о всевозможных и достаточно сложных потенциальных примерах использования этого токена. Покупать SNX, чтобы просто хранить его сравнимо с обладанием красивой машиной, которой вы никогда не пользуетесь.  Она может повыситься в цене, но вы никогда не испытаете удовольствия от вождения.
 
-SNX has a great deal to offer, and those who have simply held in the past would benefit from experimenting with its range of features via sBTC, sETH and sDEFI.
+SNX есть что нам предложить, и те, кто просто обладал ими в прошлом, могут поэкспериментировать с целым рядом его возможностей через sBTC, sETH и sDEFI.
 
-The SNX [inflation schedule](https://docs.google.com/spreadsheets/d/1a5r9aFP5bh6wGG4-HIW2MWPf4yMthZvesZOurnG-v_8/edit#gid=0) is one example of [community led](https://blog.synthetix.io/reaching-monetary-policy-consensus/) decisions being perfectly executed.
+[Календарь инфляции](https://docs.google.com/spreadsheets/d/1a5r9aFP5bh6wGG4-HIW2MWPf4yMthZvesZOurnG-v_8/edit#gid=0) SNX это один из примеров совершенного исполнения решений, [принятых сообществом](https://blog.synthetix.io/reaching-monetary-policy-consensus/).
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/snx-inflation.png)
-**YFI, a proxy trade for DeFi yield?**
 
-At the time of writing, 1 YFI provides the holder with an annual return of ~[5%](https://yearn.finance/vaults), which although considerably lower than it once was, is still impressive, as it is an income generated directly from the YFI tokenomics, with the TVL of the vault being used to farm other tokens, and the 5% gas subsidy fee and 0.5% withdrawal fee for vault users is returned to those within the vault.
+**YFI, прокси-биржа для доходности DeFi?**
+
+В момент написания статьи 1 YFI приносит владельцу ~[5%](https://yearn.finance/vaults) годового дохода. Это хоть и значительно меньше, чем в определенный момент времени, но все же достаточно впечатляет, потому как это доход, напрямую сгенерированный токеномикой YFI. Общая заблокированная стоимость хранилища используется для фарминга других токенов, а 5% от сборов за предоставление газа и 0.5% от комиссии за вывод средств с пользователей хранилища возвращаются тем, чьи фонды находятся в хранилище.
+
 ![](https://lh6.googleusercontent.com/jzWIOd1yx1nYkQVKQaPAaGHzb3aqdKphLDUHbbZgr1osO7oMvJCfM2GVQOMCaQwPPIMet71ggn4URplQ70ae8_R7yEabhD4bFtVeG7mN4N8C6TtLbsJU9eruFUOii1RC8KaYr3jw)
-As YFI is so reliant on the price of other tokens to generate yield for its users, serves as a proxy trade tool for the overall health of DeFi, as the YFI price will rise and fall depending on the tokens it feeds from (CRV now, UNI .soon).
 
-Around the ATH of YFI, some were calling for a token price of $500,000. Now that the price is down ~65%, and currently trading around $15,000, the sentiment seems to have changed somewhat.
+Так как YFI настолько зависит от цены других токенов, чтобы генерировать доходность для своих пользователей, то он служит инструментом доверенной торговли для здоровья DeFi в целом, потому что цена YFI поднимается или упадает в зависимости от токена, который его питает (CRV сейчас, UNI в ближайшем будущем).   
+
+В момент исторического максимума YFI некоторые предсказывали токену цену в $500,000. Теперь, когда цена упала на ~65%, и в данный момент торгуется примерно по $15,000, настрой немного поменялся.
+
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/tyler.png)
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/yfi.png)
-As we can currently achieve a higher yield % using stable coins than with an asset like YFI, will our appetite for purchasing more volatile yield generating tokens decrease?
 
-Although YFIs meteoric rise in price captured the attention of many, it is not the only yield generating model out there. Many other tokens, old and new, promise some type of return to the holder.
+Зная, что сейчас мы можем достичь большего % доходности, используя стейблкоины взамен такого актива как YFI, уменьшится ли наш аппетит на покупку более волатильных токенов-генераторов доходности?
 
-As YFI generates yield for its users by farming other tokens; to make % yield estimates, we would need to estimate the price of the tokens being farmed. Because of these tokenomics and the current farming model, it’s fair to say that the YFI price is derived from, or at least closely linked to, the price of the tokens it farms.
+Даже если стремительный взлет цены YFI привлек к себе внимание многих, это не единственная модель, генерирующая доходность. Многие другие токены, старые и новые, гарантируют своему обладателю определенную доходность.
 
-**Some further thoughts on DeFi trading**
+YFI генерирует доходность для своих пользователей, делая фарминг других токенов. Поэтому, чтобы рассчитать оценку доходности в %, нам нужно будет оценить цену токенов в фарминге.  Вследствие такой токеномики и текущей модели фарминга можно сказать, что цена YFI определяется, или по крайней мере тесно связана с ценой токена, который они фармят.
 
-The fact that some of the DeFi protocols are entirely controlled by governance means it is impossible for them to release a roadmap - for better or for worse, the community controls how the protocols operate. This introduces an unprecedented level of unpredictability, and creates a wealth of opportunity for those with large holdings of governance tokens and an understanding of game theory.
+**Еще несколько мыслей о трейдинге в DeFi.**
 
-The [YFI](https://gov.yearn.finance/), [CRV](https://gov.curve.fi/), [SNX](https://research.synthetix.io/), and [UNI ](https://gov.uniswap.org/)governance forums are a hive of activity where keen users who can see the potential in the platform are eagerly discussing ways to maximise the profits and efficiency of each protocol. This is decentralisation in action, and the constant changes and updates are fascinating to watch.
+Тот факт, что некоторые протоколы DeFi полностью контролируются управлением значит, что у них нет возможности выпустить дорожную карту - хорошо это или плохо, сообщество контролирует работу протокола. Это дает беспрецедентный уровень непредсказуемости, и создает огромное поле возможностей для тех, кто владеет большими количествами токенов управления и разбирается в теории игр.   
 
-There are a few values that we should consider in order to assess the sustainability of a tokenomics model:
+Форумы управления [YFI](https://gov.yearn.finance/), [CRV](https://gov.curve.fi/), [SNX](https://research.synthetix.io/) и [UNI ](https://gov.uniswap.org/)представляют собой настоящий улей активности, где увлеченные пользователи, понявшие потенциал платформы, с удовольствием обсуждают способы максимизации прибыли и эффективность каждого из протоколов. Это децентрализация в действии, за постоянными изменениями и обновлениями интересно наблюдать.
 
-- What is the fully diluted market cap, and when is that dilution expected to be complete (i.e. the inflation rate). The 4 year inflation schedules of the UNI and CRV tokens are receiving a great deal of criticism, and have been branded as “death by emission” by some. However when compared to the monetary base of BTC, we can see they are not dissimilar.
+Чтобы оценить устойчивость токеномической модели, нужно учитывать несколько ценностей:
+
+- Нужно знать, какова полностью разводненная рыночная капитализация и когда ожидается полное завершение разводнения (т.е. уровень инфляции). В сторону 4-х летних календарей инфляции токенов UNI и CRV сыпется много критики, некоторые даже назвали их «смертью от эмиссии». Однако, если сравнивать их с денежной базой BTC, то видно, что они не сильно отличаются. 
 
 ![](https://raw.githubusercontent.com/RektHQ/Assets/main/images/2020/10/inflation3.png)BTC - CRV - UNI
 
-- Take a close look at the tokenomics - is there some cashflow to be expected?
-- Consider the implementation of the tokenomics - why have they been executed in this way? How could they be manipulated and how do you think rational people would act within the model?
-- Is the token worth purchasing, or just farming?
-- We should look at the distribution in the early days - how liquid is the token?
-- How many tokens are vested, and to whom?
+- Нужно внимательно изучить токеномику: не ожидается ли поступления денег?
+- Нужно изучить имплементацию токеномики - почему это было выполнено таким образом? Как ею можно манипулировать и как на ваш взгляд повели бы себя рациональные люди в этой модели?
+- Стоит ли покупать этот токен, или только фармить?
+- Нужно изучить распределение в начале - насколько токен ликвидный? 
+- Сколько токенов в вестинге, и у кого?
 
-Vested tokens can be a blessing and a curse, as although vested tokens can create high volatility in the fragile early stages of a token's life cycle, they also tend to accelerate the process of price discovery, an important stage for any asset.
+Токены в вестинге могут быть благословением и проклятием одновременно. Несмотря на то, что токены в вестинге могут создавать высокую волатильность на первых хрупких этапах цикла жизни токена, они также имеют тенденцию ускорять процесс установления цен, очень важный этап для любого актива.
 
-Long-term token distribution will dampen the impact of mercenary yield farmers, while keeping an incentive for future liquidity providers, which is vital for the growth of the industry.
+Распределение токенов в течение длительного промежутка времени ослабит удар от действий фармеров ликвидности, готовых продавать без зазрения совести. И в то же время сохраняет мотивацию будущих провайдеров ликвидности, что жизненно важно для роста индустрии.
 
-Although inevitable, this market correction was likely accelerated by the glut of valueless food tokens that arrived onto the market and caused so many to get rekt due to their greed or lack of experience.
+Эта коррекция рынка была неизбежна. Но, по всей видимости, ее наступление ускорилось из-за перенасыщения фуд-токенами, пришедшими на рынок и послужившими причиной того, что многие оказались rekt по причине своей жадности или недостатка опыта. 
 
-We should not dismiss those who are new to the space, if we are to keep profits flowing, we need more people to enter the industry, so let's save them a seat at the table.
+Мы не должны игнорировать новых людей в DeFi. Если мы хотим, чтобы прибыль продолжала поступать, нам нужно, чтобы новые люди приходили в индустрию. Поэтому давайте постараемся сохранить для них место за столом.
 
-Bring on sustainable farming; community driven tokenomics models which provide profit for the token holder, and also benefit the community as a whole.
+Нам нужно развить устойчивый фарминг, основанный на токеномических моделях, управляемых сообществом, которые приносят прибыль владельцу токенов, и приносят пользу сообществу в целом. 
+
